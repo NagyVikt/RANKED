@@ -103,7 +103,7 @@ def extract_product_data(html_content):
 def main():
     products = []
     page = 1
-    while True:
+      while True:
         print(f"Fetching page {page}...")
         html_content = get_html_content(f'{base_url}#f&cst=null&cud=0&pg={page}&prod=')
         
@@ -116,14 +116,7 @@ def main():
         
         products.extend(page_products)
         page += 1
-
-        if page == 10:
-            break
-        
-    with open(f'alza_{category}.json', 'w', encoding='utf-8') as f:
-        json.dump(products, f, ensure_ascii=False, indent=4)
     
-    print(f"Product data extracted and saved to 'alza_{category}.json'.")
 
 if __name__ == '__main__':
     main()

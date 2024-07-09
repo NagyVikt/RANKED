@@ -116,10 +116,6 @@ def main():
         
         products.extend(page_products)
         page += 1
-
-        if page == 10:
-            break
-        
     with open(f'alza_{category}.json', 'w', encoding='utf-8') as f:
         json.dump(products, f, ensure_ascii=False, indent=4)
     

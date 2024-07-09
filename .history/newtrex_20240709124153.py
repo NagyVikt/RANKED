@@ -119,7 +119,6 @@ def main():
 
         if page == 10:
             break
-        
     with open(f'alza_{category}.json', 'w', encoding='utf-8') as f:
         json.dump(products, f, ensure_ascii=False, indent=4)
     

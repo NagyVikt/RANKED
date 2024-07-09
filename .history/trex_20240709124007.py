@@ -55,6 +55,8 @@ def extract_product_data(html_content):
 def main():
     products = []
     page = 1
+    base_url = 'https://www.example.com'  # Replace with actual base URL
+    category = 'sample_category'  # Replace with actual category
     
     while True:
         print(f"Fetching page {page}...")
