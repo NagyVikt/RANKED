@@ -1,0 +1,3 @@
+
+Windows: .\venv\Scripts\activate
+Linux: pip install openai
