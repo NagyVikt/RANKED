@@ -1,0 +1,4 @@
+node_modules/
+GPT/apikey.txt
+apikey.txt
+venv
