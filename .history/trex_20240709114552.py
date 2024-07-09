@@ -2,7 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from urllib.parse import urljoin
-from config import api_key  # Import the API key from the config file
+
+# ScraperAPI key
+api_key = '927eb0cea2e4e6bae786c62577fd08fb'
 
 # Base URL to scrape
 base_url = 'https://www.alza.sk/notebooky/18842920.htm'
@@ -41,7 +43,7 @@ def extract_product_data(html_content):
         # Extract product rating
         rating_tag = item.select_one('.star-rating-wrapper')
         if rating_tag:
-            product['rating'] = rating_tag.get('data-rating')
+            product['rating'] = rating_tag['data-rating']
         
         # Extract product reviews count
         reviews_count_tag = item.select_one('.star-rating-block__count')

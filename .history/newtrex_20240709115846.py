@@ -33,10 +33,15 @@ def extract_product_data(html_content):
         if link_tag:
             product['link'] = urljoin(base_url, link_tag['href'])
         
-        # Extract product price
-        price_tag = item.select_one('.price-box__price')
-        if price_tag:
-            product['price'] = price_tag.get_text(strip=True)
+        # Extract product image
+        img_tag = item.select_one('.box-image')
+        if img_tag:
+            product['image_url'] = img_tag['srcset'].split(',')[0].split(' ')[0]
+        
+        # Extract product description
+        desc_tag = item.select_one('.Description')
+        if desc_tag:
+            product['description'] = desc_tag.get_text(strip=True)
         
         # Extract product rating
         rating_tag = item.select_one('.star-rating-wrapper')
@@ -48,6 +53,26 @@ def extract_product_data(html_content):
         if reviews_count_tag:
             product['reviews_count'] = reviews_count_tag.get_text(strip=True)
         
+        # Extract product price
+        price_tag = item.select_one('.price-box__price')
+        if price_tag:
+            product['price'] = price_tag.get_text(strip=True)
+        
+        # Extract original price if available
+        original_price_tag = item.select_one('.price-box__price-save-text')
+        if original_price_tag:
+            product['original_price'] = original_price_tag.get_text(strip=True)
+        
+        # Extract stock status
+        stock_status_tag = item.select_one('.avlVal')
+        if stock_status_tag:
+            product['stock_status'] = stock_status_tag.get_text(strip=True)
+        
+        # Extract additional details
+        order_code_tag = item.select_one('.codec .code')
+        if order_code_tag:
+            product['order_code'] = order_code_tag.get_text(strip=True)
+        
         products.append(product)
     
     return products
@@ -55,18 +80,12 @@ def extract_product_data(html_content):
 def main():
     products = []
     page = 1
-    while True:
-        print(f"Fetching page {page}...")
-        html_content = get_html_content(f'{base_url}#f&cst=null&cud=0&pg={page}&prod=')
-        if not html_content:
-            break
-        
+    print(f"Fetching page {page}...")
+    html_content = get_html_content(f'{base_url}#f&cst=null&cud=0&pg={page}&prod=')
+    if html_content:
         page_products = extract_product_data(html_content)
-        if not page_products:
-            break
-        
-        products.extend(page_products)
-        page += 1
+        if page_products:
+            products.extend(page_products)
     
     with open('alza_products.json', 'w', encoding='utf-8') as f:
         json.dump(products, f, ensure_ascii=False, indent=4)
