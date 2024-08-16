@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Categories</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h2 class="mt-5">Product Categories</h2>
+        <ul class="list-group">
+            {% for category, details in categories.items() %}
+            <li class="list-group-item">
+                <a href="{{ url_for('category', category_name=category) }}">
+                    {{ category }} ({{ details['count'] }} products) 
+                </a>
+                <span class="text-muted">- Last Updated: {{ details['last_updated'] }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
