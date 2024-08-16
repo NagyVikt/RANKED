@@ -1,0 +1,3914 @@
+[
+    {
+        "id": 3652,
+        "name": "Tekercses mágnes műanyagban",
+        "slug": "tekercses-magnes-muanyagban",
+        "permalink": "https://kdtech.hu/product/tekercses-magnes-muanyagban/",
+        "date_created": "2024-07-16T06:47:55",
+        "date_created_gmt": "2024-07-16T06:47:55",
+        "date_modified": "2024-07-16T07:47:31",
+        "date_modified_gmt": "2024-07-16T07:47:31",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium tekercses mágnes - műanyag bevonattal Mérete: 22x6 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, akár 100-szorosát is  képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A gumírozott mágnesek három részből állnak:  neodímiumból, acél házból és műanyag felületből. Vízállóak, így kültéren is használhatók. A műanyag bevonatú mágnesek előnyei: Nem karcolja meg  a fémet,  nem teszi tönkre  a lakkot vagy a dekorfestéket. A műanyag tok megvédi a mágneseket a portól és a szennyeződésektől. Meredek,  ferde  és  nedves  felületeken jobban tartanak, mint a hagyományos mágneses tartók. Alkalmazás: Általában kis mágneseket használnak  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához. A  hímzésben , a modellezésben és a kreativitásban a részek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Kulcsok, kések, különféle apróságok, valamint szerszámok rendezésére és  tárolására  a műhelyben. Mint  jegyzettartók  a hűtőn. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  6 mm Átmérő (B):  22 mm Tűréshatár:  + - 1 mm Súly:  12 g Mágneses erő:  4,1 kg (az adatok tájékoztató jellegűek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N42 Felületkezelés:  polipropilén (PP) Anyaga:  NdFeB Szín:  piros</p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "1129",
+        "regular_price": "1129",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 16,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1 129&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3580,
+            3597,
+            3607,
+            3616
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3652"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3616,
+        "name": "Mágnes - kocka",
+        "slug": "magnes-forgo-kampo-2",
+        "permalink": "https://kdtech.hu/product/magnes-forgo-kampo-2/",
+        "date_created": "2024-07-16T06:45:39",
+        "date_created_gmt": "2024-07-16T06:45:39",
+        "date_modified": "2024-07-16T07:36:33",
+        "date_modified_gmt": "2024-07-16T07:36:33",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - kocka Mérete: 7x7x7 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: A kis kocka alakú mágneseket elsősorban a  háztartásban  használják - fotók, jegyzetek rögzítésére... A kis mágneseket általában  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. A  hímzésben , modellezésben és kreativitásban az alkatrészek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Méret (A):  7x7x7 mm Tűréshatár:  + - 1 mm Súly:  2,6 g Mágneses erő:  2,7 kg (az adatok tájékoztató jellegűek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N42 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "267",
+        "regular_price": "267",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 14,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "26",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>267&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3607,
+            3652,
+            3597,
+            3580
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3616"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3607,
+        "name": "Mágnes - blokk",
+        "slug": "magnes-blokk-nyilassal-4",
+        "permalink": "https://kdtech.hu/product/magnes-blokk-nyilassal-4/",
+        "date_created": "2024-07-16T06:45:06",
+        "date_created_gmt": "2024-07-16T06:45:06",
+        "date_modified": "2024-07-16T07:35:57",
+        "date_modified_gmt": "2024-07-16T07:35:57",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - blokk Mérete: 20x20x3 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: A kisméretű blokkmágneseket  például ablakok és ajtók zárószerkezeteként használják. A nagyobb blokkmágneseket  generátorokban, anyagtartókban és szerszámokban használják. A kis mágneseket általában  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. A  hímzésben , modellezésben és kreativitásban az alkatrészek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként  a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  3 mm Hosszúság (B):  20 mm Szélesség (C):  20 mm Tűréshatár:  + - 1 mm Súly:  9,1 g Mágneses erő:  3,9 kg (az adatok tájékoztató jellegűek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N42 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "971",
+        "regular_price": "971",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 12,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "91",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>971&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3580,
+            3616,
+            3597,
+            3652
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3607"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3597,
+        "name": "Mágnes - kocka",
+        "slug": "magnes-blokk-nyilassal-3",
+        "permalink": "https://kdtech.hu/product/magnes-blokk-nyilassal-3/",
+        "date_created": "2024-07-16T06:44:26",
+        "date_created_gmt": "2024-07-16T06:44:26",
+        "date_modified": "2024-07-16T07:27:00",
+        "date_modified_gmt": "2024-07-16T07:27:00",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - kocka Mérete: 2x2x2 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: A kis kocka alakú mágneseket elsősorban a  háztartásban  használják - fotók, jegyzetek rögzítésére... A kis mágneseket általában  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. A  hímzésben , modellezésben és kreativitásban az alkatrészek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Méret (A):  2x2x2 mm Tűréshatár:  + - 1 mm Súly:  0,06 g Mágneses erő:  120 g (az adatok tájékoztató jellegűek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N42 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "23",
+        "regular_price": "23",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 53,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "006",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>23&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3607,
+            3580,
+            3616,
+            3652
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3597"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3580,
+        "name": "Mágnes - kocka",
+        "slug": "magnes-blokk-ontapado-3",
+        "permalink": "https://kdtech.hu/product/magnes-blokk-ontapado-3/",
+        "date_created": "2024-07-16T06:43:23",
+        "date_created_gmt": "2024-07-16T06:43:23",
+        "date_modified": "2024-07-16T07:22:33",
+        "date_modified_gmt": "2024-07-16T07:22:33",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - kocka Mérete: 10x10x10 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: A kis kocka alakú mágneseket elsősorban a  háztartásban  használják - fotók, jegyzetek rögzítésére... A kis mágneseket általában  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. A  hímzésben , modellezésben és kreativitásban az alkatrészek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Méret (A):  10x10x10 mm Tűréshatár:  + - 1 mm Súly:  7,6 g Mágneses erő:  4,6 kg (az adatok tájékoztató jellegűek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N42 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "651",
+        "regular_price": "651",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 35,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "76",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 15,
+                "name": "Uncategorized",
+                "slug": "uncategorized"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>651&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3597,
+            3652,
+            3607,
+            3616
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3580"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3266,
+        "name": "Mágnes - blokk",
+        "slug": "magnes-blokk-nyilassal-2",
+        "permalink": "https://kdtech.hu/product/magnes-blokk-nyilassal-2/",
+        "date_created": "2024-07-15T11:32:26",
+        "date_created_gmt": "2024-07-15T11:32:26",
+        "date_modified": "2024-07-16T07:19:09",
+        "date_modified_gmt": "2024-07-16T07:19:09",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - blokk Mérete: 30x10x2 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: A kisméretű blokkmágneseket  például ablakok és ajtók zárószerkezeteként használják. A nagyobb blokkmágneseket  generátorokban, anyagtartókban és szerszámokban használják. A kis mágneseket általában  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. A  hímzésben , modellezésben és kreativitásban az alkatrészek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként  a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  2 mm Hosszúság (B):  30 mm Szélesség (C):  10 mm Tűréshatár:  + - 1 mm Súly:  4,6 g Mágneses erő:  2,6 kg (az adatok tájékoztató jellegűek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N42 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Szélesség (mm):  20 mm Magasság (mm):  5 mm</p>\n",
+        "sku": "",
+        "price": "483",
+        "regular_price": "483",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 12,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "46",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "5"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>483&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3235,
+            3247,
+            3201,
+            3197,
+            3225
+        ],
+        "meta_data": [
+            {
+                "id": 3956,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3266"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3264,
+        "name": "Mágnes blokk műanyagban",
+        "slug": "magnes-blokk-muanyagban",
+        "permalink": "https://kdtech.hu/product/magnes-blokk-muanyagban/",
+        "date_created": "2024-07-15T11:32:22",
+        "date_created_gmt": "2024-07-15T11:32:22",
+        "date_modified": "2024-07-16T07:48:22",
+        "date_modified_gmt": "2024-07-16T07:48:22",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium blokk mágnes - műanyag bevonattal Mérete: 11,45x11,45x6,45 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek saját tömegük  50-szeresét, akár 100-szorosát is  képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A gumírozott mágnesek három részből állnak:  neodímiumból, acél házból és műanyag felületből . Vízállóak, így kültéren is használhatók. A műanyag bevonatú mágnesek előnyei: Nem karcolja meg  a fémet,  nem teszi tönkre  a lakkot vagy a dekorfestéket. A műanyag tok megvédi a mágneseket a portól és a szennyeződésektől. Meredek,  ferde  és  nedves  felületeken jobban tartanak, mint a hagyományos mágneses tartók. Alkalmazás: Általában kis mágneseket használnak  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához. A  hímzésben , a modellezésben és a kreativitásban a részek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Kulcsok, kések, különféle apróságok, valamint szerszámok rendezésére és  tárolására  a műhelyben. Mint  jegyzettartók  a hűtőn. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  6,45 mm Hosszúság (B):  11,45 mm Tűréshatár:  + - 1 mm Súly:  4 g Mágneses erő:  2 kg (az adatok tájékoztató jellegűek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N42 Felületkezelés:  polipropilén (PP) Anyaga:  NdFeB Szín:  zöld</p>\n",
+        "short_description": "<p>Szélesség (mm):  11,45 mm Magasság (mm):  6,45 mm Hosszúság (mm):  11,45 mm</p>\n",
+        "sku": "",
+        "price": "399",
+        "regular_price": "399",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 20,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "6"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>399&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3203,
+            3225,
+            3235,
+            3233,
+            3197
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3264"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3261,
+        "name": "Mágnesszalag fehér",
+        "slug": "magnesszalag-feher",
+        "permalink": "https://kdtech.hu/product/magnesszalag-feher/",
+        "date_created": "2024-07-15T11:31:36",
+        "date_created_gmt": "2024-07-15T11:31:36",
+        "date_modified": "2024-07-16T07:42:18",
+        "date_modified_gmt": "2024-07-16T07:42:18",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Mágnesszalag fehér Szélesség: 40 mm Az ár 5 m-es csomagolásra vonatkozik A  színes mágnesszalagokat  ferromágneses anyagokhoz, fémekhez, fémszerkezetekhez való rögzítéshez használják. Hasznosak például a raktárakban polcok jelölésére.  Könnyű vágás  ollóval. Paraméterek: Szélesség (A):  40 mm Vastagság:  1 mm Hosszúság:  5 m Súly:  140 g/m Mágneses erő:  80 g/cm² Mágnesezés:  anizotróp Szín:  fehér</p>\n",
+        "short_description": "<p>Szélesség (mm):  40 mm Hosszúság (m):  5 m Vastagság (mm):  1 mm</p>\n",
+        "sku": "",
+        "price": "6422",
+        "regular_price": "6422",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>6 422&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3249,
+            3197,
+            3231,
+            3240,
+            3219
+        ],
+        "meta_data": [],
+        "stock_status": "outofstock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3261"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3259,
+        "name": "Mágnesszalag fekete",
+        "slug": "magnesszalag-fekete",
+        "permalink": "https://kdtech.hu/product/magnesszalag-fekete/",
+        "date_created": "2024-07-15T11:31:28",
+        "date_created_gmt": "2024-07-15T11:31:28",
+        "date_modified": "2024-07-16T07:41:56",
+        "date_modified_gmt": "2024-07-16T07:41:56",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Mágnesszalag fekete Szélesség: 40 mm Az ár 5 m-es csomagolásra vonatkozik A  színes mágnesszalagokat  ferromágneses anyagokhoz, fémekhez, fémszerkezetekhez való rögzítéshez használják. Hasznosak például a raktárakban polcok jelölésére.  Könnyű vágás  ollóval. Paraméterek: Szélesség (A):  40 mm Vastagság:  1 mm Hosszúság:  5 m Súly:  140 g/m Mágneses erő:  80 g/cm² Mágnesezés:  anizotróp Szín:  fekete</p>\n",
+        "short_description": "<p>Szélesség (mm):  40 mm Hosszúság (m):  5 m Vastagság (mm):  1 mm</p>\n",
+        "sku": "",
+        "price": "6454",
+        "regular_price": "6454",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>6 454&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3225,
+            3207,
+            3227,
+            3249,
+            3203
+        ],
+        "meta_data": [],
+        "stock_status": "outofstock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3259"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3257,
+        "name": "Mágnesszalag piros",
+        "slug": "magnesszalag-piros",
+        "permalink": "https://kdtech.hu/product/magnesszalag-piros/",
+        "date_created": "2024-07-15T11:31:19",
+        "date_created_gmt": "2024-07-15T11:31:19",
+        "date_modified": "2024-07-16T07:41:34",
+        "date_modified_gmt": "2024-07-16T07:41:34",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Mágnesszalag piros Szélesség: 40 mm Az ár 5 m-es csomagolásra vonatkozik A  színes mágnesszalagokat  ferromágneses anyagokhoz, fémekhez, fémszerkezetekhez való rögzítéshez használják. Hasznosak például a raktárakban polcok jelölésére.  Könnyű vágás  ollóval. Paraméterek: Szélesség (A):  40 mm Vastagság:  1 mm Hosszúság:  5 m Súly:  140 g/m Mágneses erő:  80 g/cm² Mágnesezés:  anizotróp Szín:  piros</p>\n",
+        "short_description": "<p>Szélesség (mm):  40 mm Hosszúság (m):  5 m Vastagság (mm):  1 mm</p>\n",
+        "sku": "",
+        "price": "6422",
+        "regular_price": "6422",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>6 422&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3203,
+            3215,
+            3219,
+            3227,
+            3242
+        ],
+        "meta_data": [],
+        "stock_status": "outofstock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3257"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3255,
+        "name": "Mágnesszalag kék",
+        "slug": "magnesszalag-kek",
+        "permalink": "https://kdtech.hu/product/magnesszalag-kek/",
+        "date_created": "2024-07-15T11:31:11",
+        "date_created_gmt": "2024-07-15T11:31:11",
+        "date_modified": "2024-07-16T07:41:12",
+        "date_modified_gmt": "2024-07-16T07:41:12",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Mágnesszalag kék Szélesség: 40 mm Az ár 5 m-es csomagolásra vonatkozik A  színes mágnesszalagokat  ferromágneses anyagokhoz, fémekhez, fémszerkezetekhez való rögzítéshez használják. Hasznosak például a raktárakban polcok jelölésére.  Könnyű vágás  ollóval. Paraméterek: Szélesség (A):  40 mm Vastagság:  1 mm Hosszúság:  5 m Súly:  140 g/m Mágneses erő:  80 g/cm² Mágnesezés:  anizotróp Szín:  kék</p>\n",
+        "short_description": "<p>Szélesség (mm):  40 mm Hosszúság (m):  5 m Vastagság (mm):  1 mm</p>\n",
+        "sku": "",
+        "price": "6422",
+        "regular_price": "6422",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>6 422&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3235,
+            3209,
+            3244,
+            3237,
+            3233
+        ],
+        "meta_data": [],
+        "stock_status": "outofstock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3255"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3253,
+        "name": "Mágnesszalag sárga",
+        "slug": "magnesszalag-sarga",
+        "permalink": "https://kdtech.hu/product/magnesszalag-sarga/",
+        "date_created": "2024-07-15T11:31:02",
+        "date_created_gmt": "2024-07-15T11:31:02",
+        "date_modified": "2024-07-16T07:40:51",
+        "date_modified_gmt": "2024-07-16T07:40:51",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Mágnesszalag sárga Szélesség: 40 mm Az ár 5 m-es csomagolásra vonatkozik A  színes mágnesszalagokat  ferromágneses anyagokhoz, fémekhez, fémszerkezetekhez való rögzítéshez használják. Hasznosak például a raktárakban polcok jelölésére.  Könnyű vágás  ollóval. Paraméterek: Szélesség (A):  40 mm Vastagság:  1 mm Hosszúság:  5 m Súly:  140 g/m Mágneses erő:  80 g/cm² Mágnesezés:  anizotróp Szín:  sárga</p>\n",
+        "short_description": "<p>Szélesség (mm):  40 mm Hosszúság (m):  5 m Vastagság (mm):  1 mm</p>\n",
+        "sku": "",
+        "price": "6454",
+        "regular_price": "6454",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>6 454&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3203,
+            3209,
+            3211,
+            3227,
+            3205
+        ],
+        "meta_data": [],
+        "stock_status": "outofstock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3253"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3251,
+        "name": "Mágnesszalag - öntapadós, letéphető",
+        "slug": "magnesszalag-ontapados-letepheto",
+        "permalink": "https://kdtech.hu/product/magnesszalag-ontapados-letepheto/",
+        "date_created": "2024-07-15T11:30:53",
+        "date_created_gmt": "2024-07-15T11:30:53",
+        "date_modified": "2024-07-16T07:40:26",
+        "date_modified_gmt": "2024-07-16T07:40:26",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Mágnesszalag - öntapadós, letéphető Szélesség: 19 mm Az ár 3 m-es csomagra vonatkozik A mágneses ragasztószalagot kényelem és  sokoldalúság  jellemzi. Ideális  kis tárgyak  fémfelületre történő rögzítéséhez. Jellemzők: A ferrit  mágnesszalag tekercselővel  ugyanúgy működik, mint egy ragasztószalag-adagoló. Egyszerűen  egy éles széllel  letépi  a kívánt hosszúságot. Ideális  képeslapok, fényképek ragasztására , majd hűtőszekrényre vagy más fémtárgyra történő rögzítésére. Ne rögzítsen  neodímium mágneseket a mágnesszalaghoz – ezek demagnetizálhatják a szalagot. A védőfólia eltávolítása után  erősen nyomja  a szalagot az aljzathoz. Paraméterek: Szélesség (A):  19 mm Hosszúság:  3 m Súly:  125 g/m Felület:  öntapadó Anyaga:  ferrit</p>\n",
+        "short_description": "<p>Szélesség (mm):  19 mm Hosszúság (m):  3 m</p>\n",
+        "sku": "",
+        "price": "2656",
+        "regular_price": "2656",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>2 656&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3247,
+            3203,
+            3217,
+            3209,
+            3235
+        ],
+        "meta_data": [],
+        "stock_status": "outofstock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3251"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3249,
+        "name": "Mágneses fólia - öntapadó",
+        "slug": "magneses-folia-ontapado",
+        "permalink": "https://kdtech.hu/product/magneses-folia-ontapado/",
+        "date_created": "2024-07-15T11:30:27",
+        "date_created_gmt": "2024-07-15T11:30:27",
+        "date_modified": "2024-07-16T07:38:04",
+        "date_modified_gmt": "2024-07-16T07:38:04",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Mágneses fólia - öntapadó Mérete: A4 A mágneses ragasztófóliát a kényelem és a  sokoldalúság  jellemzi. Ideális  kis tárgyak fémfelületre  történő rögzítéséhez. Jellemzők és felhasználás: Az  anizotróp  fóliának 2x nagyobb mágneses ereje van, mint a közönséges izotróp fóliáknak. Mágnesek gyártására  alkalmas. A raktár polcain lévő áruk megjelölésére is használható. A fólia  könnyen vágható ollóval  vagy szikével. Akkor tart a legjobban, ha teljes felületével szilárd felületre rögzíti, például egy fémlapra. Ez a fólia  nem mágnesek rögzítésére szolgál , nem kellene mágneses hirdetőtáblaként szolgálnia. Ne vigye a mágneses fóliákat neodímium mágnesek közelébe, mert mágnesezés fordulhat elő – az erős mágnes hatástalanítja a fólia hatását. Paraméterek: Mérete:  A4 Hosszúság (A):  297 m Szélesség (B):  210 mm Vastagság:  1 mm Súly:  240 g Felület:  öntapadó Mágneses erő:  80 g/cm²</p>\n",
+        "short_description": "<p>Vastagság (mm):  1 mm Dimenzió:  A4</p>\n",
+        "sku": "",
+        "price": "2656",
+        "regular_price": "2656",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 3,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>2 656&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3199,
+            3207,
+            3225,
+            3213,
+            3209
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3249"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3247,
+        "name": "Mágnes - kampó",
+        "slug": "magnes-forgo-kampo",
+        "permalink": "https://kdtech.hu/product/magnes-forgo-kampo/",
+        "date_created": "2024-07-15T11:29:24",
+        "date_created_gmt": "2024-07-15T11:29:24",
+        "date_modified": "2024-07-16T07:31:06",
+        "date_modified_gmt": "2024-07-16T07:31:06",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - kampó Mérete: 20 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. A fémtokban lévő mágneses kampó  ideális például munkaeszközök, reklámtranszparensek, információs táblák felakasztására... Használhatja otthon , műhelyben, építkezésen fúrás nélkül. Luxus fémes megjelenés. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Paraméterek: Mágnes magassága (A):  15,5 mm Átmérő (B):  20 mm Teljes magasság kampóval együtt (C):  44 mm Menet:  M4 Tűréshatár:  + - 1 mm Súly:  21 g Mágneses erő:  16 kg (az adatok hozzávetőlegesek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N42 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Átmérő (mm):  25 mm Magasság (mm):  65 mm</p>\n",
+        "sku": "",
+        "price": "971",
+        "regular_price": "971",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 32,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "25",
+            "height": "65"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>971&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3213,
+            3233,
+            3201,
+            3197,
+            3237
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3247"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3244,
+        "name": "Mágnes - blokk",
+        "slug": "magnes-blokk-nyilassal",
+        "permalink": "https://kdtech.hu/product/magnes-blokk-nyilassal/",
+        "date_created": "2024-07-15T11:28:56",
+        "date_created_gmt": "2024-07-15T11:28:56",
+        "date_modified": "2024-07-15T13:10:25",
+        "date_modified_gmt": "2024-07-15T13:10:25",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Szélesség (mm):  15 mm Magasság (mm):  5 mm</p>\n",
+        "short_description": "<p>Szélesség (mm):  15 mm Magasság (mm):  5 mm</p>\n",
+        "sku": "",
+        "price": "971",
+        "regular_price": "971",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "3"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>971&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3247,
+            3221,
+            3242,
+            3251,
+            3201
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3244"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3242,
+        "name": "Mágnes - kör alakú, nyílással",
+        "slug": "magnes-kor-alaku-nyilassal",
+        "permalink": "https://kdtech.hu/product/magnes-kor-alaku-nyilassal/",
+        "date_created": "2024-07-15T11:28:48",
+        "date_created_gmt": "2024-07-15T11:28:48",
+        "date_modified": "2024-07-16T07:38:49",
+        "date_modified_gmt": "2024-07-16T07:38:49",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - kör alakú, csavarhoz való nyílással Mérete: 8x3x3,5 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: Kis méretének köszönhetően  térben kompakt  és mégis  nagyon erős . A mágnes belsejében egy lyuk található, amely az  ajtóhoz  vagy a kerethez való könnyű  rögzítésre  szolgál. A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg található : nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: Ezt a típusú mágnest leggyakrabban a  szaunaajtó  beépítésénél használják -  szorosan zárva tartja a nehéz ajtót . Rovarhálók rögzítése az ablakokra. A kis mágneseket  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  3 mm Átmérő (B):  8 mm Belső átmérő:  3,5 mm Ilyen típusú csavarhoz:  M3 Tűréshatár:  + - 1 mm Súly:  0,9 g Mágneses erő:  1 kg (az adatok hozzávetőlegesek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N38 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Belső átmérő (mm):  4,5 mm Átmérő (mm):  15 mm Magasság (mm):  10 mm</p>\n",
+        "sku": "",
+        "price": "140",
+        "regular_price": "140",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 14,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "09",
+        "dimensions": {
+            "length": "",
+            "width": "8",
+            "height": "3"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>140&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3223,
+            3203,
+            3233,
+            3201,
+            3199
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3242"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3240,
+        "name": "Mágnes - gyűrűs",
+        "slug": "magnes-gyurus",
+        "permalink": "https://kdtech.hu/product/magnes-gyurus/",
+        "date_created": "2024-07-15T11:28:36",
+        "date_created_gmt": "2024-07-15T11:28:36",
+        "date_modified": "2024-07-16T07:38:25",
+        "date_modified_gmt": "2024-07-16T07:38:25",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - gyűrűs Mérete: 6x1,5 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: A  gyűrűs/kör alakú  mágneseket a számítástechnikában,  fémdetektorok , generátorok, elektromos készülékek gyártásában használják. A kis mágneseket  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. A  hímzésben , modellezésben és kreativitásban az alkatrészek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként  a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  3 mm Átmérő (B):  6 mm Belső átmérő:  1,5 mm Tűréshatár:  + - 1 mm Súly:  0,6 g Mágneses erő:  760 g (az adatok hozzávetőlegesek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N38 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Belső átmérő (mm):  1,5 mm Átmérő (mm):  5 mm Magasság (mm):  3 mm</p>\n",
+        "sku": "",
+        "price": "86",
+        "regular_price": "86",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 26,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "06",
+        "dimensions": {
+            "length": "",
+            "width": "10",
+            "height": "5"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>86&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3213,
+            3237,
+            3231,
+            3233,
+            3221
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3240"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3237,
+        "name": "Mágnes - gömb alakú",
+        "slug": "magnes-gomb-alaku",
+        "permalink": "https://kdtech.hu/product/magnes-gomb-alaku/",
+        "date_created": "2024-07-15T11:28:14",
+        "date_created_gmt": "2024-07-15T11:28:14",
+        "date_modified": "2024-07-15T13:10:30",
+        "date_modified_gmt": "2024-07-15T13:10:30",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Átmérő (mm):  10 mm Magasság (mm):  10 mm</p>\n",
+        "short_description": "<p>Átmérő (mm):  10 mm Magasság (mm):  10 mm</p>\n",
+        "sku": "",
+        "price": "1558",
+        "regular_price": "1558",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "8",
+            "height": "8"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1 558&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3249,
+            3197,
+            3231,
+            3217,
+            3251
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3237"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3235,
+        "name": "Mágnes karabinerrel",
+        "slug": "magnes-karabinerrel",
+        "permalink": "https://kdtech.hu/product/magnes-karabinerrel/",
+        "date_created": "2024-07-15T11:28:06",
+        "date_created_gmt": "2024-07-15T11:28:06",
+        "date_modified": "2024-07-16T07:23:17",
+        "date_modified_gmt": "2024-07-16T07:23:17",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes karabinerrel Mérete: 25 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A mágneses karabinert  könnyedén rögzítheti fémvázra , radiátorra, fémlemez szekrényre fúrás és ragasztás nélkül. A karabiner  biztosítási szabadalommal  rendelkezik a felfüggesztett tárgy  kiesése ellen . A neodímium  10-szer erősebb, mint a  más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Használat: leesett szerszámok kihúzása kútból, aknából... szökőkutak tisztítása a bedobált érmék lerakódásaitól szétszóródott szegek összegyűjtése fémforgács összetakarítása eltömődött lefolyó tisztítása hulladékválogatás Figyelmeztetés: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesné l be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Paraméterek: Magasság (A):  16 mm Átmérő (B):  25 mm Tűréshatár:  + - 1 mm Súly:  33 g Mágneses erő:  18 kg (az adat tájékoztató jellegű) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N38 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Átmérő (mm):  25 mm Magasság:  16  mm</p>\n",
+        "sku": "",
+        "price": "1931",
+        "regular_price": "1931",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 13,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "25",
+            "height": "16"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1 931&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3219,
+            3197,
+            3251,
+            3231,
+            3201
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3235"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3233,
+        "name": "Mágnesszalag zöld",
+        "slug": "magnesszalag-zold",
+        "permalink": "https://kdtech.hu/product/magnesszalag-zold/",
+        "date_created": "2024-07-15T11:27:58",
+        "date_created_gmt": "2024-07-15T11:27:58",
+        "date_modified": "2024-07-16T07:22:54",
+        "date_modified_gmt": "2024-07-16T07:22:54",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Mágnesszalag zöld Szélesség: 40 mm Az ár 5 m-es csomagolásra vonatkozik A  színes mágnesszalagokat  ferromágneses anyagokhoz, fémekhez, fémszerkezetekhez való rögzítéshez használják. Hasznosak például a raktárakban polcok jelölésére.  Könnyű vágás  ollóval. Paraméterek: Szélesség (A):  40 mm Vastagság:  1 mm Hosszúság:  5 m Súly:  140 g/m Mágneses erő:  80 g/cm² Mágnesezés:  anizotróp Szín:  zöld</p>\n",
+        "short_description": "<p>Szélesség (mm):  40 mm Hosszúság (m):  5 m Vastagság (mm):  1 mm</p>\n",
+        "sku": "",
+        "price": "6454",
+        "regular_price": "6454",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>6 454&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3215,
+            3242,
+            3237,
+            3251,
+            3207
+        ],
+        "meta_data": [],
+        "stock_status": "outofstock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3233"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3231,
+        "name": "Mágnes - blokk",
+        "slug": "magnes-blokk-ontapado-2",
+        "permalink": "https://kdtech.hu/product/magnes-blokk-ontapado-2/",
+        "date_created": "2024-07-15T11:27:15",
+        "date_created_gmt": "2024-07-15T11:27:15",
+        "date_modified": "2024-07-15T13:10:35",
+        "date_modified_gmt": "2024-07-15T13:10:35",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Szélesség (mm):  10 mm Magasság (mm):  2 mm Hosszúság (mm):  20 mm</p>\n",
+        "short_description": "<p>Szélesség (mm):  10 mm Magasság (mm):  2 mm Hosszúság (mm):  20 mm</p>\n",
+        "sku": "",
+        "price": "576",
+        "regular_price": "576",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>576&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3233,
+            3227,
+            3209,
+            3215,
+            3205
+        ],
+        "meta_data": [
+            {
+                "id": 3985,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3231"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3227,
+        "name": "Mágnes - rúd",
+        "slug": "magnes-rud-2",
+        "permalink": "https://kdtech.hu/product/magnes-rud-2/",
+        "date_created": "2024-07-15T11:23:53",
+        "date_created_gmt": "2024-07-15T11:23:53",
+        "date_modified": "2024-07-16T07:45:40",
+        "date_modified_gmt": "2024-07-16T07:45:40",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - rúd Mérete: 8x7 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, akár 100-szorosát is  képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek, és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Használat: A kis mágneseket  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. Hímzésben , modellezésben és kreativitásban az alkatrészek rögzítésekor. Kisméretű fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Az ablakot kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként  a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  8 mm Átmérő (B):  7 mm Tűréshatár:  + - 1 mm Súly:  2,4 g Mágneses erő:  1,9 kg (az adatok hozzávetőlegesek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N42 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Átmérő (mm):  8 mm Magasság (mm):  10 mm</p>\n",
+        "sku": "",
+        "price": "245",
+        "regular_price": "245",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 20,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "24",
+        "dimensions": {
+            "length": "",
+            "width": "7",
+            "height": "8"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>245&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3199,
+            3215,
+            3211,
+            3201,
+            3247
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3227"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3225,
+        "name": "Mágnes szemmel",
+        "slug": "magnes-szemmel",
+        "permalink": "https://kdtech.hu/product/magnes-szemmel/",
+        "date_created": "2024-07-15T11:23:47",
+        "date_created_gmt": "2024-07-15T11:23:47",
+        "date_modified": "2024-07-16T07:39:20",
+        "date_modified_gmt": "2024-07-16T07:39:20",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes szemmel Mérete: 75 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: Ezeket a mágneseket  kifejezetten kincsvadászoknak tervezték - magnet fishing. A mágnes  akasztószemmel  rendelkezik a kötél megkötéséhez. Használhatják  régészek , fémvadászok, építők... A  szemcsavar  az erős mágnes és a tárgy elválasztásához szükséges. A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Felhasználás: leesett szerszámok kihúzása kútból, aknából... fémkincsek utáni kutatás a tengerparton szökőkutak tisztítása a bedobott érmék lerakódásaitól szétszóródott szögek összegyűjtése fémforgács tisztítása eltömődött hulladék tisztítása hulladékválogatás Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek, és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Paraméterek: Magasság (A):  18 mm Átmérő (B):  75 mm Teljes magasság szemmel együtt (C):  80 mm Menet:  M10 Tűréshatár:  + - 1 mm Súly:  718 g Mágneses erő:  282 kg (az adatok hozzávetőlegesek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N38 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Átmérő (mm):  60 mm Magasság (mm):  50 mm</p>\n",
+        "sku": "",
+        "price": "37519",
+        "regular_price": "37519",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 1,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "75",
+            "height": "80"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>37 519&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3227,
+            3233,
+            3231,
+            3237,
+            3249
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3225"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3223,
+        "name": "Mágnes - tekercses",
+        "slug": "magnes-tekercses-6",
+        "permalink": "https://kdtech.hu/product/magnes-tekercses-6/",
+        "date_created": "2024-07-15T11:23:41",
+        "date_created_gmt": "2024-07-15T11:23:41",
+        "date_modified": "2024-07-16T07:35:11",
+        "date_modified_gmt": "2024-07-16T07:35:11",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - tekercses Mérete: 20x5 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát is  képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: A kis mágneseket  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. A  hímzésben , modellezésben és kreativitásban az alkatrészek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként  a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  5 mm Átmérő (B):  20 mm Tűréshatár:  + - 1 mm Súly:  11,8 g Mágneses erő:  6,7 kg (az adatok hozzávetőlegesek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N38 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Átmérő (mm):  30 mm Magasság (mm):  5 mm</p>\n",
+        "sku": "",
+        "price": "971",
+        "regular_price": "971",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 10,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "118",
+        "dimensions": {
+            "length": "",
+            "width": "20",
+            "height": "5"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>971&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3227,
+            3237,
+            3203,
+            3205,
+            3233
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3223"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3221,
+        "name": "Mágnes - kocka",
+        "slug": "magnes-kocka",
+        "permalink": "https://kdtech.hu/product/magnes-kocka/",
+        "date_created": "2024-07-15T11:23:35",
+        "date_created_gmt": "2024-07-15T11:23:35",
+        "date_modified": "2024-07-15T13:10:40",
+        "date_modified_gmt": "2024-07-15T13:10:40",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Szélesség (mm):  10 mm Magasság (mm):  10 mm</p>\n",
+        "short_description": "<p>Szélesség (mm):  10 mm Magasság (mm):  10 mm</p>\n",
+        "sku": "",
+        "price": "267",
+        "regular_price": "267",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "5"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>267&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3247,
+            3213,
+            3249,
+            3215,
+            3219
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3221"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3219,
+        "name": "Mágnes - kampó",
+        "slug": "magnes-kampo",
+        "permalink": "https://kdtech.hu/product/magnes-kampo/",
+        "date_created": "2024-07-15T11:23:28",
+        "date_created_gmt": "2024-07-15T11:23:28",
+        "date_modified": "2024-07-15T13:10:42",
+        "date_modified_gmt": "2024-07-15T13:10:42",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Átmérő (mm):  32 mm Magasság (mm):  42 mm</p>\n",
+        "short_description": "<p>Átmérő (mm):  32 mm Magasság (mm):  42 mm</p>\n",
+        "sku": "",
+        "price": "971",
+        "regular_price": "971",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "20",
+            "height": "44"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>971&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3225,
+            3231,
+            3233,
+            3197,
+            3240
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3219"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3217,
+        "name": "Mágnes - tekercses",
+        "slug": "magnes-tekercses-5",
+        "permalink": "https://kdtech.hu/product/magnes-tekercses-5/",
+        "date_created": "2024-07-15T11:23:22",
+        "date_created_gmt": "2024-07-15T11:23:22",
+        "date_modified": "2024-07-15T13:10:43",
+        "date_modified_gmt": "2024-07-15T13:10:43",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Átmérő (mm):  10 mm Magasság (mm):  4 mm</p>\n",
+        "short_description": "<p>Átmérő (mm):  10 mm Magasság (mm):  4 mm</p>\n",
+        "sku": "",
+        "price": "218",
+        "regular_price": "218",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>218&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3203,
+            3233,
+            3213,
+            3242,
+            3249
+        ],
+        "meta_data": [
+            {
+                "id": 4009,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3217"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3215,
+        "name": "Mágnes - rúd",
+        "slug": "magnes-rud",
+        "permalink": "https://kdtech.hu/product/magnes-rud/",
+        "date_created": "2024-07-15T11:23:16",
+        "date_created_gmt": "2024-07-15T11:23:16",
+        "date_modified": "2024-07-15T13:10:45",
+        "date_modified_gmt": "2024-07-15T13:10:45",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Átmérő (mm):  10 mm Magasság (mm):  20 mm</p>\n",
+        "short_description": "<p>Átmérő (mm):  10 mm Magasság (mm):  20 mm</p>\n",
+        "sku": "",
+        "price": "971",
+        "regular_price": "971",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>971&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3203,
+            3235,
+            3223,
+            3219,
+            3199
+        ],
+        "meta_data": [
+            {
+                "id": 3991,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3215"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3213,
+        "name": "Mágneses szalag - öntapadó",
+        "slug": "magneses-szalag-ontapado",
+        "permalink": "https://kdtech.hu/product/magneses-szalag-ontapado/",
+        "date_created": "2024-07-15T11:23:09",
+        "date_created_gmt": "2024-07-15T11:23:09",
+        "date_modified": "2024-07-16T07:40:03",
+        "date_modified_gmt": "2024-07-16T07:40:03",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Mágneses szalag - öntapadó Szélesség: 50 mm Az ár 5 m-es csomagolásra vonatkozik A mágneses ragasztószalagot kényelem és  sokoldalúság  jellemzi. Ideális  kis tárgyak  fémfelületre történő rögzítéséhez. Jellemzők: A neodímium mágnesszalag körülbelü l 4-szer nagyobb mágneses erővel  tűnik ki, mint a hagyományos ferrit szalag. Erős tapadó 3M réteg. A szalag könnyen vágható ollóval. Nem ajánlott  a neodímium mágnesek használata neodímium mágnesszalaggal, elveszítheti hatékonyságát. Minél hosszabb a mágnesszalag, annál nagyobb lesz a mágneses erő. A mágneses oldalon az  északi és a déli pólus  milliméterenként váltakozik. A mágnesszalag nem alkalmas nehéz tárgyak rögzítésére. Alkalmazás: A védőfólia eltávolítása után erősen nyomja a szalagot az aljzathoz. Olyan  anyagokhoz rögzíthető , mint a fa, műanyag, porcelán, fal, alumínium, rozsdamentes acél és más sima felületek. Erősebb kötésekhez ragasztás előtt javasolt a felület  megtisztítása . Hűtőmágnesek  készítése, képek rögzítése a falra. Használható szabadon záródó ajtókhoz is, rovarháló  rögzítésére . Egy másik  felhasználási  terület az árcédulák elhelyezése a fémpolcokon. Paraméterek: Szélesség (A):  50 mm Vastagság:  1,5 mm Hosszúság:  5 m Súly:  273 g/m Felület:  öntapadó Mágneses erő:  102 g/cm² Maximális üzemi hőmérséklet:  100°C Anyaga:  NdFeB Ragasztó:  3M</p>\n",
+        "short_description": "<p>Szélesség (mm):  30 mm Hosszúság (m):  5 m Vastagság (mm):  1,5 mm</p>\n",
+        "sku": "",
+        "price": "8065",
+        "regular_price": "8065",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 0,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>8 065&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3209,
+            3197,
+            3231,
+            3233,
+            3205
+        ],
+        "meta_data": [],
+        "stock_status": "outofstock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3213"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3211,
+        "name": "Mágnes tokban, lyukkal",
+        "slug": "magnes-tokban-lyukkal",
+        "permalink": "https://kdtech.hu/product/magnes-tokban-lyukkal/",
+        "date_created": "2024-07-15T11:23:03",
+        "date_created_gmt": "2024-07-15T11:23:03",
+        "date_modified": "2024-07-16T07:37:16",
+        "date_modified_gmt": "2024-07-16T07:37:16",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes tokban, csavarhoz való lyukkal Mérete: 9x42 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: Ezeken a mágneseken  lyukak vannak csavarokhoz . A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: A mágnes  egyszerűen felcsavarozható  a mennyezetre, a falra, a szerkezetre, tárgyakra... Ilyen mágneseket használnak például  lámpák mennyezetre szerelésekor , reklámállványok gyártásához... Függönyök  és rovarhálók  rögzítése ,  konyhában  kiegészítők tartójaként,  műhelyben ... A kis mágneseket  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. A  hímzésben , modellezésben és kreativitásban az alkatrészek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként  a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  9 mm Átmérő (B):  42 mm Ilyen típusú csavarhoz:  M6 Tűréshatár:  + - 1 mm Súly:  77 g Mágneses erő:  55 kg (az adatok hozzávetőlegesek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N38 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Átmérő (mm):  25 mm Magasság (mm):  8 mm</p>\n",
+        "sku": "",
+        "price": "3360",
+        "regular_price": "3360",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 10,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "48",
+            "height": "11"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>3 360&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3225,
+            3199,
+            3201,
+            3251,
+            3203
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3211"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3209,
+        "name": "Mágnes- tekercses öntapadó",
+        "slug": "magnes-tekercses-ontapado",
+        "permalink": "https://kdtech.hu/product/magnes-tekercses-ontapado/",
+        "date_created": "2024-07-15T11:22:56",
+        "date_created_gmt": "2024-07-15T11:22:56",
+        "date_modified": "2024-07-16T07:45:58",
+        "date_modified_gmt": "2024-07-16T07:45:58",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Neodímium mágnes - tekercses öntapadó Mérete: 25x2 mm A neodímium mágnesek vasból, bórból és neodímiumból álló  anyaguk  miatt a  legerősebbek  közé tartoznak. Még a kis mágneseknek is  hatalmas erejük  van. A neodímium mágnesek ritkaföldfémekből történő előállításának technológiáját az  alkatrészek  közvetlen  ötvözésével  nyerik. Jellemzők: A mágnes egyik oldalán nagyon  erős 3M habragasztó  található. A ragasztott kötés maximális szilárdságának elérése érdekében javasolt a mágnest  5 percig terhelni . A neodímium  10-szer erősebb, mint  a más anyagokból készült  hagyományos mágnesek . A fémekkel alkotott erős kötőerő miatt a neodímium mágnesek  saját tömegük 50-szeresét, sőt 100-szorosát  is képesek megtartani. Egy 5 mm-es oldalú mágneskocka fémtermékről való leválasztásához 1 kg erőt kell alkalmazni. A mágnesek felületén  három védőréteg  található: nikkel, réz és ismét nikkel. Ezek a mágnesek  nem kültéri használatra készültek , erre speciális vízálló mágnesek vannak. Figyelmeztetések: A hidegről melegre történő gyors átállás a mágnes eltörését vagy megrepedését okozhatja. Minden mágnesnél  be kell tartani a maximális üzemi hőmérsékletet . A maximális üzemi hőmérséklet túllépése esetén a mágnes elveszti eredeti tulajdonságait. Óvatosan használja  a terméket, hogy elkerülje a fémmel való éles érintkezés vagy véletlen ütés okozta sérüléseket. Ne helyezze a mágnest mérőeszközökre, laptopokra, telefonokra. A neodímium termékek nagyon törékenyek és ütközéskor éles darabokra törnek. Ha bármilyen más tárgy/felület van a fémfelület és a mágnes között, a mágneses erő csökken. Ha  maximalizálni  szeretné a  súrlódást  a mágnes és a felület között, akkor gumírozott mágnesek használata javasolt. Alkalmazás: A kis mágneseket  kézzel  készített képeslapok,  ékszerek , táskazárak gyártásához használják. A  hímzésben , modellezésben és kreativitásban az alkatrészek rögzítéséhez. Apró fémtermékek begyűjtése  nehezen elérhető helyeken, fémmaradványok tisztítása. Motor- és sebességváltó olajok tisztítása. Ablakokat kívülről mosó berendezések gyártása. Szerszámok, kulcsok, kések, különféle apróságok rendezésére és  tárolására  a műhelyben. Jegyzettartókként  a hűtőn. Fejhallgatók, hangszórók, rádiók, mobiltelefonok hangszóróinak gyártásában. Használják a  mindennapi életben , az építkezés során, ajándéktárgyak gyártásához, élelmiszeriparban, fémiparban... Paraméterek: Magasság (A):  2 mm Átmérő (B):  25 mm Tűréshatár:  + - 1 mm Súly:  4,9 g Mágneses erő:  2,4 kg (az adatok tájékoztató jellegűek) Maximális üzemi hőmérséklet:  80°C Mágnesezés:  N38 Felületkezelés:  nikkelezett (Ni-Cu-Ni) Anyaga:  NdFeB</p>\n",
+        "short_description": "<p>Átmérő (mm):  15 mm Magasság (mm):  2 mm</p>\n",
+        "sku": "",
+        "price": "693",
+        "regular_price": "693",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 15,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "49",
+        "dimensions": {
+            "length": "",
+            "width": "25",
+            "height": "2"
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>693&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3197,
+            3235,
+            3227,
+            3237,
+            3217
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3209"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3207,
+        "name": "Mágnes - blokk",
+        "slug": "magnes-blokk-ontapado",
+        "permalink": "https://kdtech.hu/product/magnes-blokk-ontapado/",
+        "date_created": "2024-07-15T11:22:48",
+        "date_created_gmt": "2024-07-15T11:22:48",
+        "date_modified": "2024-07-15T13:10:51",
+        "date_modified_gmt": "2024-07-15T13:10:51",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Szélesség (mm):  10 mm Magasság (mm):  2 mm Hosszúság (mm):  20 mm</p>\n",
+        "short_description": "<p>Szélesség (mm):  10 mm Magasság (mm):  2 mm Hosszúság (mm):  20 mm</p>\n",
+        "sku": "",
+        "price": "483",
+        "regular_price": "483",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>483&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3219,
+            3225,
+            3251,
+            3213,
+            3249
+        ],
+        "meta_data": [
+            {
+                "id": 3994,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3207"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3205,
+        "name": "Mágnes - tekercses",
+        "slug": "magnes-tekercses-4",
+        "permalink": "https://kdtech.hu/product/magnes-tekercses-4/",
+        "date_created": "2024-07-15T11:22:42",
+        "date_created_gmt": "2024-07-15T11:22:42",
+        "date_modified": "2024-07-15T13:10:53",
+        "date_modified_gmt": "2024-07-15T13:10:53",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Átmérő (mm): 6 mm Magasság (mm): 3 mm</p>\n",
+        "short_description": "<p>Átmérő (mm): 6 mm Magasság (mm): 3 mm</p>\n",
+        "sku": "",
+        "price": "64",
+        "regular_price": "64",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>64&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3197,
+            3215,
+            3240,
+            3203,
+            3217
+        ],
+        "meta_data": [
+            {
+                "id": 3997,
+                "key": "_wp_page_template",
+                "value": "default"
+            },
+            {
+                "id": 4011,
+                "key": "_product_video_gallery",
+                "value": ""
+            },
+            {
+                "id": 4012,
+                "key": "_product_video_code",
+                "value": ""
+            },
+            {
+                "id": 4013,
+                "key": "_product_video_autoplay",
+                "value": ""
+            },
+            {
+                "id": 4014,
+                "key": "_et_quantity_type",
+                "value": ""
+            },
+            {
+                "id": 4015,
+                "key": "_et_quantity_ranges",
+                "value": ""
+            },
+            {
+                "id": 4016,
+                "key": "et_quantity_discounts_settings",
+                "value": "inherit"
+            },
+            {
+                "id": 4017,
+                "key": "_sale_price_time_start",
+                "value": ""
+            },
+            {
+                "id": 4018,
+                "key": "_sale_price_time_end",
+                "value": ""
+            },
+            {
+                "id": 4019,
+                "key": "_et_gtin",
+                "value": ""
+            },
+            {
+                "id": 4020,
+                "key": "_et_bought_together_ids",
+                "value": []
+            },
+            {
+                "id": 4021,
+                "key": "_et_primary_category",
+                "value": "auto"
+            },
+            {
+                "id": 4022,
+                "key": "_et_sale_counter",
+                "value": "disable"
+            },
+            {
+                "id": 4023,
+                "key": "_et_single_layout",
+                "value": "standard"
+            },
+            {
+                "id": 4024,
+                "key": "_et_additional_block",
+                "value": "0"
+            },
+            {
+                "id": 4025,
+                "key": "_et_product_slider",
+                "value": "inherit"
+            },
+            {
+                "id": 4026,
+                "key": "_et_single_thumbnail_hover",
+                "value": "inherit"
+            },
+            {
+                "id": 4027,
+                "key": "_et_product_view_hover",
+                "value": "inherit"
+            },
+            {
+                "id": 4028,
+                "key": "_et_product_view_color",
+                "value": "inherit"
+            },
+            {
+                "id": 4029,
+                "key": "_et_product_video_thumbnail",
+                "value": "inherit"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3205"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3203,
+        "name": "Mágnes - blokk",
+        "slug": "magnes-blokk",
+        "permalink": "https://kdtech.hu/product/magnes-blokk/",
+        "date_created": "2024-07-15T11:22:36",
+        "date_created_gmt": "2024-07-15T11:22:36",
+        "date_modified": "2024-07-15T13:10:54",
+        "date_modified_gmt": "2024-07-15T13:10:54",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Szélesség (mm):  10 mm Magasság (mm):  2 mm Hosszúság (mm):  30 mm</p>\n",
+        "short_description": "<p>Szélesség (mm):  10 mm Magasság (mm):  2 mm Hosszúság (mm):  30 mm</p>\n",
+        "sku": "",
+        "price": "483",
+        "regular_price": "483",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>483&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3249,
+            3225,
+            3251,
+            3205,
+            3215
+        ],
+        "meta_data": [
+            {
+                "id": 4000,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3203"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3201,
+        "name": "Mágnes - tekercses",
+        "slug": "magnes-tekercses-3",
+        "permalink": "https://kdtech.hu/product/magnes-tekercses-3/",
+        "date_created": "2024-07-15T11:22:29",
+        "date_created_gmt": "2024-07-15T11:22:29",
+        "date_modified": "2024-07-15T13:10:56",
+        "date_modified_gmt": "2024-07-15T13:10:56",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Átmérő (mm):  8 mm Magasság (mm):  4 mm</p>\n",
+        "short_description": "<p>Átmérő (mm):  8 mm Magasság (mm):  4 mm</p>\n",
+        "sku": "",
+        "price": "164",
+        "regular_price": "164",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>164&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3231,
+            3207,
+            3221,
+            3225,
+            3205
+        ],
+        "meta_data": [
+            {
+                "id": 4003,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3201"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3199,
+        "name": "Mágnes - tekercses",
+        "slug": "magnes-tekercses-2",
+        "permalink": "https://kdtech.hu/product/magnes-tekercses-2/",
+        "date_created": "2024-07-15T11:22:23",
+        "date_created_gmt": "2024-07-15T11:22:23",
+        "date_modified": "2024-07-15T13:10:57",
+        "date_modified_gmt": "2024-07-15T13:10:57",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Átmérő (mm):  4 mm Magasság (mm):  2 mm</p>\n",
+        "short_description": "<p>Átmérő (mm):  4 mm Magasság (mm):  2 mm</p>\n",
+        "sku": "",
+        "price": "32",
+        "regular_price": "32",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>32&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3219,
+            3211,
+            3197,
+            3205,
+            3215
+        ],
+        "meta_data": [
+            {
+                "id": 4006,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3199"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 3197,
+        "name": "Mágnes - tekercses",
+        "slug": "magnes-tekercses",
+        "permalink": "https://kdtech.hu/product/magnes-tekercses/",
+        "date_created": "2024-07-15T11:22:17",
+        "date_created_gmt": "2024-07-15T11:22:17",
+        "date_modified": "2024-07-15T13:10:59",
+        "date_modified_gmt": "2024-07-15T13:10:59",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Átmérő (mm):  3 mm Magasság (mm):  2 mm</p>\n",
+        "short_description": "<p>Átmérő (mm):  3 mm Magasság (mm):  2 mm</p>\n",
+        "sku": "",
+        "price": "32",
+        "regular_price": "32",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 500,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 82,
+                "name": "Mágnesek",
+                "slug": "magnesek"
+            }
+        ],
+        "tags": [],
+        "images": [],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>32&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            3209,
+            3240,
+            3213,
+            3242,
+            3227
+        ],
+        "meta_data": [
+            {
+                "id": 3988,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/3197"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    }
+]
