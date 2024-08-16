@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import re
 from config.config import api_key
-
+#555
 # Function to fetch HTML content using ScraperAPI with delay
 def get_html_content(url):
     try:
