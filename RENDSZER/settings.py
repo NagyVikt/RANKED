@@ -22,6 +22,6 @@ categories = [
 ]
 
 
-INPUT_JSON_FILE = 'villanyszerelesi-anyagok4.json'
-OUTPUT_JSON_FILE = 'villanyszerelesi-anyagok5.json'
-TARGETID = 73
+INPUT_JSON_FILE = 'egyeni-vedoeszkozok-delta-plus5.json'
+OUTPUT_JSON_FILE = 'egyeni-vedoeszkozok-delta-plus6.json'
+TARGETID = 71

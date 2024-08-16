@@ -105,7 +105,7 @@ def update_products_with_additional_details(json_filename):
             else:
                 print(f"Failed to fetch additional details for product: {product['name']}")
             # Save updated product incrementally
-            with open("lanc-es-textilhevederek3.json", 'w', encoding='utf-8') as f:
+            with open("egyeni-vedoeszkozok-delta-plus5.json", 'w', encoding='utf-8') as f:
                 json.dump(updated_products, f, ensure_ascii=False, indent=4)
             print(f"Saved updated product {i+1} to JSON file: {json_filename}")
         else:
@@ -117,6 +117,6 @@ def update_products_with_additional_details(json_filename):
 
 # Main script execution
 if __name__ == "__main__":
-    json_filename = 'lanc-es-textilhevederek.json'
+    json_filename = 'egyeni-vedoeszkozok-delta-plus.json'
     updated_products = update_products_with_additional_details(json_filename)
     print(f"Updated products with additional details and saved to {json_filename}")

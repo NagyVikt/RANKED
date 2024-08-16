@@ -1,5 +1,5 @@
 import json
-from settings import INPUT_JSON_FILE, OUTPUT_JSON_FILE, TARGETID
+from RANKED.RENDSZER.settings import INPUT_JSON_FILE, OUTPUT_JSON_FILE, TARGETID
 
 # Load the category configuration
 categories = [
