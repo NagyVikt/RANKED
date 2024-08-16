@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 from urllib.parse import urljoin
-from config import api_key, category  # Import the API key and category from the config file
+from config.config import api_key, category  # Import the API key and category from the config file
 import re
 
 # Base URL to scrape

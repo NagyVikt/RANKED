@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
-from config import api_key
+from config.config import api_key
 
 # Function to fetch HTML content using ScraperAPI with delay
 def get_html_content(url):

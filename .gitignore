@@ -1,6 +1,6 @@
 node_modules/
 GPT/apikey.txt
 apikey.txt
-config.py
+config/
 # Ignore virtual environment directory
 venv/

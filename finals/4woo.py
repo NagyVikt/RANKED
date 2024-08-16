@@ -5,7 +5,7 @@ import base64
 import re
 from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
-from config import api_key
+from config.config import api_key
 # WooCommerce API credentials
 username = 'Deadpool'
 password = 'Karategi123'
