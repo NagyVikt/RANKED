@@ -1,0 +1,668 @@
+[
+    {
+        "id": 4686,
+        "name": "Kötélfeszítő horganyzott 120mm",
+        "slug": "kotelfeszito-horganyzott-120mm",
+        "permalink": "https://kdtech.hu/product/kotelfeszito-horganyzott-120mm/",
+        "date_created": "2024-07-29T10:36:37",
+        "date_created_gmt": "2024-07-29T10:36:37",
+        "date_modified": "2024-07-29T10:36:37",
+        "date_modified_gmt": "2024-07-29T10:36:37",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Kötélfeszítő horganyzott<br />\n Méret: 120mm<br />\n A kerítésfeszítő egy  nélkülözhetetlen kerítéselem , amelynek a klasszikus hálók felszerelésekor veszi majd hasznát.<br />\n  <br />\n Jellemzők: </p>\n<p> Megkönnyíti a feszítőhuzalok optimális megfeszítését.<br />\n Ideális horganyzott hálók felszerelésére.<br />\n A kerítésfeszítőt a feszítőhuzalok megfeszítéséhez vagy a feszítőhuzaloknak a pengés drót elhelyezéséhez történő megfeszítéséhez használják,<br />\n A feszítők övvel vagy feszítőhuzaldarabbal rögzíthetők az oszlophoz.<br />\n A feszítők különféle kerítésekhez alkalmasak, mint például drótkerítésekhez, dróthálóból készült kerítésekhez, szőlőlugasokhoz, szögesdróthoz, eurókerítésekhez, erdészeti kerítésekhez.</p>\n",
+        "short_description": "<p>Átmérő:<br />\nMagasság:<br />\nSúly: </p>\n",
+        "sku": "SKU7985389",
+        "price": "352.0",
+        "regular_price": "352.0",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 1216,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 79,
+                "name": "Szövetek",
+                "slug": "szovetek"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4685,
+                "date_created": "2024-07-29T10:36:36",
+                "date_created_gmt": "2024-07-29T10:36:36",
+                "date_modified": "2024-07-29T10:36:37",
+                "date_modified_gmt": "2024-07-29T10:36:37",
+                "src": "https://kdtech.hu/wp-content/uploads/2024/07/napinac_lana_pozinkovany_16143243473_KqxWsOA.jpg.256x256_q85ss0_background-23fff.jpg.webp",
+                "name": "napinac_lana_pozinkovany_16143243473_KqxWsOA.jpg.256x256_q85ss0_background-%23fff.jpg",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>352&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            4680,
+            4682,
+            4678,
+            4676,
+            4684
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/4686"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4684,
+        "name": "Árnyékoló háló antracit szürke 95% - hosszúság 10m - magasság 1,8m",
+        "slug": "arnyekolo-halo-antracit-szurke-95-hosszusag-10m-magassag-18m",
+        "permalink": "https://kdtech.hu/product/arnyekolo-halo-antracit-szurke-95-hosszusag-10m-magassag-18m/",
+        "date_created": "2024-07-29T10:36:35",
+        "date_created_gmt": "2024-07-29T10:36:35",
+        "date_modified": "2024-07-29T10:36:35",
+        "date_modified_gmt": "2024-07-29T10:36:35",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Árnyékoló háló -  antracit szürke  95 % <br />\n Magasság: 1,8 m <br />\n Az antracit szürke árnyékoló háló  csökkenti a kerítés átláthatóságát akár 95%-al.  A háló HDPE anyagból készül. </p>\n<p> Tulajdonságok: </p>\n<p> Használható  mezőgazdaságban  az  üvegházak, kertek és fák  védelmére, jégeső, madarak illetve túlzott napsugárzás ellen. <br />\n Megvédi a növényeket a káros napsugárzástól  és más időjárási viszonyoktól termelésük időszakában. <br />\n Csökkenti az üvegházi hőmérsékletet  akár 7-12 ° C.<br />\n Védelmet nyújt a kártevő madarak ellen. <br />\n Az árnyékoló háló egyszerűen felszerelhető  speciális klippek vagy kábelkötegelők segítségével.<br />\n Használható parkokban, parkolóban, játszótereken, éttermekben  megbízható védelmet és szellőzést biztosítva. <br />\n Az árnyékoló háló HDPE- polietilénből készül.  </p>\n<p> Paraméterek:  </p>\n<p> Magasság : 1,8 m<br />\n Hossz : 10 m<br />\n Árnyékosság : 95%<br />\n Súly : 230g/m2<br />\n Szín :  antracit szürke</p>\n",
+        "short_description": "<p>Átmérő:<br />\nMagasság:<br />\nSúly: </p>\n",
+        "sku": "SKU7964482",
+        "price": "0.0",
+        "regular_price": "0.0",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 18,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 79,
+                "name": "Szövetek",
+                "slug": "szovetek"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4683,
+                "date_created": "2024-07-29T10:36:33",
+                "date_created_gmt": "2024-07-29T10:36:33",
+                "date_modified": "2024-07-29T10:36:35",
+                "date_modified_gmt": "2024-07-29T10:36:35",
+                "src": "https://kdtech.hu/wp-content/uploads/2024/07/tienacie_siete-menC5A1ie_95_18_10_A_.jpg.256x256_q85ss0_background-23fff.jpg.webp",
+                "name": "tienacie_siete-men%C5%A1ie_95_18_10_A_.jpg.256x256_q85ss0_background-%23fff.jpg",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>0&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            4686,
+            4682,
+            4676,
+            4678,
+            4680
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/4684"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4682,
+        "name": "Árnyékoló háló antracit szürke 95% - hosszúság 10m - magasság 1,5m",
+        "slug": "arnyekolo-halo-antracit-szurke-95-hosszusag-10m-magassag-15m",
+        "permalink": "https://kdtech.hu/product/arnyekolo-halo-antracit-szurke-95-hosszusag-10m-magassag-15m/",
+        "date_created": "2024-07-29T10:36:32",
+        "date_created_gmt": "2024-07-29T10:36:32",
+        "date_modified": "2024-07-29T10:36:32",
+        "date_modified_gmt": "2024-07-29T10:36:32",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Árnyékoló háló - antracit sz ürke  95 % <br />\n Magasság: 1,5 m <br />\n Az antracit sz ürke  árnyékoló háló  csökkenti a kerítés átláthatóságát akár 95%-al.  A háló HDPE anyagból készül. </p>\n<p> Tulajdonságok: </p>\n<p> Használható  mezőgazdaságban  az  üvegházak, kertek és fák  védelmére, jégeső, madarak illetve túlzott napsugárzás ellen. <br />\n Megvédi a növényeket a káros napsugárzástól  és más időjárási viszonyoktól termelésük időszakában. <br />\n Csökkenti az üvegházi hőmérsékletet  akár 7-12 ° C.<br />\n Védelmet nyújt a kártevő madarak ellen. <br />\n Az árnyékoló háló egyszerűen felszerelhető  speciális klippek vagy kábelkötegelők segítségével.<br />\n Használható parkokban, parkolóban, játszótereken, éttermekben  megbízható védelmet és szellőzést biztosítva. <br />\n Az árnyékoló háló HDPE- polietilénből készül.  </p>\n<p> Paraméterek:  </p>\n<p> Magasság : 1,5 m<br />\n Hossz : 10 m<br />\n Árnyékosság : 95%<br />\n Súly : 230g/m2<br />\n Szín : antracit szürke</p>\n",
+        "short_description": "<p>Átmérő:<br />\nMagasság:<br />\nSúly: </p>\n",
+        "sku": "SKU7911548",
+        "price": "0.0",
+        "regular_price": "0.0",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 49,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 79,
+                "name": "Szövetek",
+                "slug": "szovetek"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4681,
+                "date_created": "2024-07-29T10:36:30",
+                "date_created_gmt": "2024-07-29T10:36:30",
+                "date_modified": "2024-07-29T10:36:32",
+                "date_modified_gmt": "2024-07-29T10:36:32",
+                "src": "https://kdtech.hu/wp-content/uploads/2024/07/tienacie_siete-menC5A1ie_95_15_10_A.jpg.256x256_q85ss0_background-23fff.jpg.webp",
+                "name": "tienacie_siete-men%C5%A1ie_95_15_10_A.jpg.256x256_q85ss0_background-%23fff.jpg",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>0&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            4678,
+            4680,
+            4686,
+            4684,
+            4676
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/4682"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4680,
+        "name": "Madárháló",
+        "slug": "madarhalo",
+        "permalink": "https://kdtech.hu/product/madarhalo/",
+        "date_created": "2024-07-29T10:36:29",
+        "date_created_gmt": "2024-07-29T10:36:29",
+        "date_modified": "2024-07-29T10:42:36",
+        "date_modified_gmt": "2024-07-29T10:42:36",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Madárháló Mérete: 2x10 m Gazdaságos és megbízható műanyag  háló  madarak és kártevők ellen, ideális a  termény védelméhez . Erős és tartós több vegetációs időszakban. Jellemzők: Nagy sűrűségű polietilénből  készült. Ellenáll az  UV sugárzásnak . Alkalmas  tavak  és bokrok  védelmére , de ideális az  erkélyre  is a madarak nem kívánt látogatásai ellen. Fontos azonban észben tartani, hogy nem minden madárfaj kártevő, és sok madárfajt a természetvédelmi törvények védenek. Madárhálót csak  szükség esetén  és a helyi törvényeknek és előírásoknak megfelelően szabad használni. A kártevőhálók használata  segíthet minimalizálni a növényvédő szerek használatát  és védeni a környezetet. Paraméterek: Szélesség:  2 m Hosszúság:  10 m Szemméret:  16x16 mm (a háló feszültségétől függően változhat) Szín:  zöld</p>\n",
+        "short_description": "<p>Átmérő:<br />\nMagasság:<br />\nSúly: </p>\n",
+        "sku": "SKU7989506",
+        "price": "1389",
+        "regular_price": "1500",
+        "sale_price": "1389",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": true,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 65,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 79,
+                "name": "Szövetek",
+                "slug": "szovetek"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4679,
+                "date_created": "2024-07-29T10:36:27",
+                "date_created_gmt": "2024-07-29T10:36:27",
+                "date_modified": "2024-07-29T10:36:29",
+                "date_modified_gmt": "2024-07-29T10:36:29",
+                "src": "https://kdtech.hu/wp-content/uploads/2024/07/siet_proti_vtakom_16778308072_Ck7YJXg.jpg.256x256_q85ss0_background-23fff.jpg.webp",
+                "name": "siet_proti_vtakom_16778308072_Ck7YJXg.jpg.256x256_q85ss0_background-%23fff.jpg",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<del aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi>1 500&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span></del> <span class=\"screen-reader-text\">Original price was: 1 500&nbsp;&#070;&#116;.</span><ins aria-hidden=\"true\"><span class=\"woocommerce-Price-amount amount\"><bdi>1 389&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span></ins><span class=\"screen-reader-text\">Current price is: 1 389&nbsp;&#070;&#116;.</span>",
+        "related_ids": [
+            4686,
+            4684,
+            4678,
+            4682,
+            4676
+        ],
+        "meta_data": [
+            {
+                "id": 8916,
+                "key": "_wp_page_template",
+                "value": "default"
+            }
+        ],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/4680"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4678,
+        "name": "Kötélfeszítő zöld 100mm",
+        "slug": "kotelfeszito-zold-100mm",
+        "permalink": "https://kdtech.hu/product/kotelfeszito-zold-100mm/",
+        "date_created": "2024-07-29T10:36:26",
+        "date_created_gmt": "2024-07-29T10:36:26",
+        "date_modified": "2024-07-29T10:36:26",
+        "date_modified_gmt": "2024-07-29T10:36:26",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Kötélfeszítő zöld<br />\n Méret: 100mm<br />\n Minőségi kerítéshuzal-feszítő, lakkozott, zöld. A komaxittal kezelt feszítő egy nélkülözhetetlen kerítéselem, amelynek a klasszikus hálók felszerelésekor veszi majd hasznát.<br />\n  <br />\n Jellemzők: </p>\n<p> A feszítő a feszítőhuzalok  tökéletes megfeszítésére szolgál.<br />\n Ideális horganyzott hálók felszerelésére.<br />\n Továbbá pl.  szögesdrót felfüggesztéséhez , vagy a feszítőhuzalok megfeszítéséhez használják, a pengés drót elhelyezéséhez.<br />\n A feszítők övvel vagy feszítőhuzaldarabbal rögzíthetők az oszlophoz.<br />\n A feszítők különféle kerítésekhez alkalmasak, mint például drótkerítésekhez, dróthálóból készült kerítésekhez, szőlőlugasokhoz, szögesdróthoz, eurókerítésekhez, erdészeti kerítésekhez.</p>\n",
+        "short_description": "<p>Átmérő:<br />\nMagasság:<br />\nSúly: </p>\n",
+        "sku": "SKU7992094",
+        "price": "414.0",
+        "regular_price": "414.0",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 242,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 79,
+                "name": "Szövetek",
+                "slug": "szovetek"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4677,
+                "date_created": "2024-07-29T10:36:24",
+                "date_created_gmt": "2024-07-29T10:36:24",
+                "date_modified": "2024-07-29T10:36:26",
+                "date_modified_gmt": "2024-07-29T10:36:26",
+                "src": "https://kdtech.hu/wp-content/uploads/2024/07/napinac_lana_zeleny_16131181321_mqEbqYA.jpg.256x256_q85ss0_background-23fff.jpg.webp",
+                "name": "__napinac_lana_zeleny_16131181321_mqEbqYA.jpg.256x256_q85ss0_background-%23fff.jpg",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>414&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            4682,
+            4686,
+            4684,
+            4676,
+            4680
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/4678"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 4676,
+        "name": "Kötélfeszítő horganyzott 100mm",
+        "slug": "kotelfeszito-horganyzott-100mm",
+        "permalink": "https://kdtech.hu/product/kotelfeszito-horganyzott-100mm/",
+        "date_created": "2024-07-29T10:36:22",
+        "date_created_gmt": "2024-07-29T10:36:22",
+        "date_modified": "2024-07-29T10:36:22",
+        "date_modified_gmt": "2024-07-29T10:36:22",
+        "type": "simple",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>Kötélfeszítő horganyzott<br />\n Méret: 100mm<br />\n A kerítésfeszítő egy  nélkülözhetetlen kerítéselem , amelynek a klasszikus hálók felszerelésekor veszi majd hasznát.<br />\n  <br />\n Jellemzők: </p>\n<p> Megkönnyíti a feszítőhuzalok optimális megfeszítését.<br />\n Ideális horganyzott hálók felszerelésére.<br />\n A kerítésfeszítőt a feszítőhuzalok megfeszítéséhez vagy a feszítőhuzaloknak a pengés drót elhelyezéséhez történő megfeszítéséhez használják,<br />\n A feszítők övvel vagy feszítőhuzaldarabbal rögzíthetők az oszlophoz.<br />\n A feszítők különféle kerítésekhez alkalmasak, mint például drótkerítésekhez, dróthálóból készült kerítésekhez, szőlőlugasokhoz, szögesdróthoz, eurókerítésekhez, erdészeti kerítésekhez.</p>\n",
+        "short_description": "<p>Átmérő:<br />\nMagasság:<br />\nSúly: </p>\n",
+        "sku": "SKU7958346",
+        "price": "422.0",
+        "regular_price": "422.0",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 237,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 79,
+                "name": "Szövetek",
+                "slug": "szovetek"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 4675,
+                "date_created": "2024-07-29T10:36:21",
+                "date_created_gmt": "2024-07-29T10:36:21",
+                "date_modified": "2024-07-29T10:36:22",
+                "date_modified_gmt": "2024-07-29T10:36:22",
+                "src": "https://kdtech.hu/wp-content/uploads/2024/07/napinac_lana_pozinkovany_16143238913_8oJyFar.jpg.256x256_q85ss0_background-23fff.jpg.webp",
+                "name": "napinac_lana_pozinkovany_16143238913_8oJyFar.jpg.256x256_q85ss0_background-%23fff.jpg",
+                "alt": ""
+            }
+        ],
+        "attributes": [],
+        "default_attributes": [],
+        "variations": [],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>422&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&#70;&#116;</span></bdi></span>",
+        "related_ids": [
+            4680,
+            4678,
+            4682,
+            4684,
+            4686
+        ],
+        "meta_data": [],
+        "stock_status": "instock",
+        "has_options": false,
+        "post_password": "",
+        "etheme_brands": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products/4676"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://kdtech.hu/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    }
+]
