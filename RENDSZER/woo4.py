@@ -2,19 +2,67 @@ import json
 import requests
 import os
 import base64
+import re
 from urllib.parse import urljoin, urlparse
-
+from bs4 import BeautifulSoup
+from config import api_key
 # WooCommerce API credentials
 username = 'Deadpool'
 password = 'Karategi123'
 wp_base_url = 'https://kdtech.hu/wp-json/'
 wc_base_url = 'https://kdtech.hu/wp-json/wc/v3/'
 
+# ScraperAPI key
+
 # Encode credentials for HTTP Basic Authentication
 auth_string = f'{username}:{password}'
 auth_header = {
     'Authorization': 'Basic ' + base64.b64encode(auth_string.encode()).decode()
 }
+
+# Function to fetch HTML content using ScraperAPI with delay
+def get_html_content(url):
+    try:
+        print(f"Fetching URL: {url}")
+        payload = {
+            'api_key': api_key,
+            'url': url,
+            'render': 'true',
+            'device_type': 'desktop',
+            'wait_for_selector': 'p[data-delivery-message]'
+        }
+        response = requests.get('https://api.scraperapi.com/', params=payload)
+        response.raise_for_status()
+        print("Successfully fetched the URL")
+        return response.text
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching {url}: {e}")
+        return None
+
+# Function to fetch price details from the product page
+def fetch_price_details(product_url):
+    html_content = get_html_content(product_url)
+    if not html_content:
+        return None
+
+    soup = BeautifulSoup(html_content, 'html.parser')
+    price_details = {}
+
+    # Extracting sale price
+    sale_price_tag = soup.find('div', {'data-config-product-price-primary': True})
+    if sale_price_tag:
+        sale_price = re.sub(r'\D', '', sale_price_tag.text)
+        price_details['sale_price'] = float(sale_price)
+        print(f"Extracted sale price: {price_details['sale_price']}")
+
+    # Extracting regular price
+    regular_price_tag = soup.find('s', {'class': 'mr-8 text-dark-60'})
+    if regular_price_tag:
+        regular_price = re.sub(r'\D', '', regular_price_tag.text)
+        price_details['regular_price'] = float(regular_price)
+        print(f"Extracted regular price: {price_details['regular_price']}")
+
+    return price_details
 
 # Function to download an image
 def download_image(image_url, save_dir):
@@ -79,7 +127,7 @@ def create_or_update_product_in_woocommerce(product_data):
             return None
 
 # Load the updated JSON file
-with open('magnesek2.json', 'r', encoding='utf-8') as file:
+with open('emelotechnika-kampok-es-lancok-80-es-100-osztaly5.json', 'r', encoding='utf-8') as file:
     products = json.load(file)
 
 # Directory to save downloaded images
@@ -87,32 +135,60 @@ save_dir = os.path.join(os.getcwd(), 'images')
 os.makedirs(save_dir, exist_ok=True)
 
 # Preprocess product data to ensure correct format
+updated_products = []
+
 for product in products:
-    # Convert price to number
-    product['price'] = product['price'].replace(' Ft', '').replace(' ', '')  # Removing 'Ft' and non-breaking space
-    product['price'] = float(product['price'])
+    # Check if price is missing
+    if 'price' not in product or not product['price']:
+        # Fetch price details if price is missing
+        price_details = fetch_price_details(product['link'])
+        if price_details:
+            product['regular_price'] = price_details.get('regular_price', 0)
+            product['sale_price'] = price_details.get('sale_price', 0)
+        else:
+            product['regular_price'] = 0
+            product['sale_price'] = 0
+    else:
+        # Convert price to number
+        price = product['price']
+        price = re.sub(r'\D', '', price)  # Remove all non-numeric characters
+        product['regular_price'] = float(price)
+        product['sale_price'] = 0
 
     # Convert weight to a proper decimal number
-    if product['weight']:
-        product['weight'] = product['weight'].replace(',', '.').replace(' g', '').replace('kg', '').strip()
-        product['weight'] = float(product['weight'])
+    weight = product.get('weight')
+    if weight:
+        weight = weight.replace(',', '.').replace(' g', '').replace('kg', '').strip()
+        product['weight'] = float(weight)
+    else:
+        product['weight'] = None
+
+    updated_products.append(product)
+
+# Save the updated products back to the JSON file
+with open('emelotechnika-kampok-es-lancok-80-es-100-osztaly6.json', 'w', encoding='utf-8') as file:
+    json.dump(updated_products, file, ensure_ascii=False, indent=4)
 
 # Iterate through the products and upload them to WooCommerce
-for product in products:
+for product in updated_products:
     image_path = download_image(product['image'], save_dir)
     if image_path:
         image_id, image_url = upload_image(image_path)
         if image_id:
+            # Ensure categories are in the correct format
+            categories = [{'id': category['id']} for category in product['categories']]
+            
             product_data = {
                 'name': product['name'],
                 'type': 'simple',
-                'regular_price': str(product['price']),  # WooCommerce API expects price as a string
+                'regular_price': str(product['regular_price']),  # WooCommerce API expects price as a string
+                'sale_price': str(product['sale_price']) if product['sale_price'] else '',  # Add sale price if available
                 'description': product['description'],
                 'short_description': product['short_description'],
                 'sku': product['sku'],
-                'weight': str(product['weight']),  # WooCommerce API expects weight as a string
+                'weight': str(product.get('weight', '')),  # WooCommerce API expects weight as a string
                 'dimensions': product['dimensions'],
-                'categories': [{'id': 82}],  # Assuming 'Uncategorized' category
+                'categories': categories,
                 'images': [{'id': image_id}],
                 'manage_stock': True,
                 'stock_quantity': product.get('stock_quantity', 0)  # Default to 0 if not provided

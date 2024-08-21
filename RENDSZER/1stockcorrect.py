@@ -1,5 +1,5 @@
 import json
-from RANKED.RENDSZER.settings import INPUT_JSON_FILE, OUTPUT_JSON_FILE
+from settings import INPUT_JSON_FILE, OUTPUT_JSON_FILE
 
 # Load JSON data from a file
 with open(INPUT_JSON_FILE, 'r', encoding='utf-8') as file:

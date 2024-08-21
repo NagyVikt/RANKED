@@ -22,6 +22,6 @@ categories = [
 ]
 
 
-INPUT_JSON_FILE = 'egyeni-vedoeszkozok-delta-plus5.json'
-OUTPUT_JSON_FILE = 'egyeni-vedoeszkozok-delta-plus6.json'
-TARGETID = 71
+INPUT_JSON_FILE = 'emelotechnika-kampok-es-lancok-80-es-100-osztaly4.json'
+OUTPUT_JSON_FILE = 'emelotechnika-kampok-es-lancok-80-es-100-osztaly5.json'
+TARGETID = 66

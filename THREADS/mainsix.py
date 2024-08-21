@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+from datetime import datetime
 from config.config import api_key
 
 # Function to fetch HTML content using ScraperAPI with delay
@@ -100,12 +101,14 @@ def update_products_with_additional_details(json_filename):
             if additional_details:
                 product.update(additional_details)
                 product['short_description'] = f"Átmérő: {product['dimensions'].get('width', '')}\nMagasság: {product['dimensions'].get('height', '')}\nSúly: {product.get('weight', '')}"
+                # Add the current date and time as the updated property
+                product['updated'] = datetime.now().strftime('%B %d, %Y %H:%M:%S')
                 updated_products.append(product)
-                print(f"Updated product: {product['name']} with additional details")
+                print(f"Updated product: {product['name']} with additional details and timestamp")
             else:
                 print(f"Failed to fetch additional details for product: {product['name']}")
             # Save updated product incrementally
-            with open("feszitopantok-gurtnik-es-tartozekok2.json", 'w', encoding='utf-8') as f:
+            with open("emelotechnika-kampok-es-lancok-80-es-100-osztaly2.json", 'w', encoding='utf-8') as f:
                 json.dump(updated_products, f, ensure_ascii=False, indent=4)
             print(f"Saved updated product {i+1} to JSON file: {json_filename}")
         else:
@@ -117,6 +120,6 @@ def update_products_with_additional_details(json_filename):
 
 # Main script execution
 if __name__ == "__main__":
-    json_filename = 'feszitopantok-gurtnik-es-tartozekok.json'
+    json_filename = 'emelotechnika-kampok-es-lancok-80-es-100-osztaly.json'
     updated_products = update_products_with_additional_details(json_filename)
     print(f"Updated products with additional details and saved to {json_filename}")

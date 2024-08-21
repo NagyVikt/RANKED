@@ -1,6 +1,6 @@
 import json
 import random
-from RANKED.RENDSZER.settings import INPUT_JSON_FILE, OUTPUT_JSON_FILE
+from settings import INPUT_JSON_FILE, OUTPUT_JSON_FILE
 
 # Function to generate a unique SKU for a given category ID
 def generate_sku(category_id):
