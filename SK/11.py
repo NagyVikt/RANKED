@@ -28,8 +28,8 @@ categories = [
     {"id": 87, "name": "Zdvíhacia technika, háky a reťaze tr 80 a tr 100", "slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100"}
 ]
 
-category_id = 91
-total_pages = 15  # This is the variable you can redefine each run
+category_id = 96
+total_pages = 8  # This is the variable you can redefine each run
 
 def get_html_content(url, wait_for_selector=None):
     try:
@@ -179,8 +179,8 @@ def fetch_additional_details(product_info):
     # Category details (extracted from the category page URL)
     additional_details['categories'] = [{
         "id": category_id,  # Update this ID to match the category ID if known
-        "name": "Pätky, uholníky a kovania",
-        "slug": "patky-uholniky-a-kovania"
+        "name": "Stavebná chémia",
+        "slug": "stavebna-chemia"
     }]
 
     # Update the product info with additional details
@@ -196,8 +196,8 @@ def save_product_to_json(product_info):
 
 # Main script execution
 if __name__ == "__main__":
-    base_category_url = 'https://www.svx.sk/patky-uholniky-a-kovania/'  # Base URL of the category
-    output_json_filename = 'patky-uholniky-a-kovania.json'
+    base_category_url = 'https://www.svx.sk/stavebna-chemia/'  # Base URL of the category
+    output_json_filename = 'stavebna-chemia.json'
 
     # Create or clear the JSON file before starting the scraping process
     with open(output_json_filename, 'w', encoding='utf-8') as f:
