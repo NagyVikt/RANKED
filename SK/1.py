@@ -205,9 +205,9 @@ def save_product_to_json(product_info):
 
 # Main script execution
 if __name__ == "__main__":
-    output_json_filename = 'spojovaci-a-kotviaci-material.json'
+    output_json_filename = 'spojovaci-a-kotviaci-material_new.json'
 
-    existing_product_urls = load_existing_products(output_json_filename)
+    existing_product_urls = load_existing_products('spojovaci-a-kotviaci-material.json')
 
     base_category_url = 'https://www.svx.sk/spojovaci-a-kotviaci-material/'  # Base URL of the category
 

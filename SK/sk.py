@@ -214,7 +214,7 @@ if __name__ == "__main__":
     with open(output_json_filename, 'w', encoding='utf-8') as f:
         f.write('[\n')  # Start JSON array
 
-    for page_number in range(1, total_pages + 1):
+    for page_number in range(47, total_pages + 1):
         category_url = f"{base_category_url}?p={page_number}"
         print(f"Processing page {page_number} of {total_pages}: {category_url}")
 

@@ -206,8 +206,9 @@ def load_existing_products(filename):
 # Main script execution
 if __name__ == "__main__":
     base_category_url = 'https://www.svx.sk/rebriky-alve/'  # Base URL of the category
-    output_json_filename = 'rebriky-alve.json'
-    existing_product_urls = load_existing_products(output_json_filename)
+    output_json_filename = 'new_rebriky-alve.json'
+    existing_product_urls = load_existing_products('rebriky-alve.json')  # Load existing product URLs from the original file
+
 
     # Create or clear the JSON file before starting the scraping process
     with open(output_json_filename, 'w', encoding='utf-8') as f:
