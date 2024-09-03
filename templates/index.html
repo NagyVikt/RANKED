@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thread Status</title>
+    <script src="https://cdn.socket.io/4.3.2/socket.io.min.js"></script>
+
+    <script type="text/javascript" charset="utf-8">
+        document.addEventListener("DOMContentLoaded", function() {
+            var socket = io();
+
+            socket.on('update_status', function(data) {
+                console.log("Status Update Received:", data);
+                for (const [threadName, status] of Object.entries(data)) {
+                    document.getElementById(threadName).textContent = `Thread ${threadName}: ${status}`;
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <h1>Thread Status</h1>
+    <ul>
+        {% for thread, info in thread_manager.items() %}
+            <li id="{{ thread }}">Thread {{ thread }}: {{ info.status }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

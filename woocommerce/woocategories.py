@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 # WooCommerce API credentials
 username = 'Deadpool'
 password = 'Karategi123'
-wc_base_url = 'https://kdtech.hu/wp-json/wc/v3/'
+wc_base_url = 'https://kdtech.sk/wp-json/wc/v3/'
 
 # Encode credentials for HTTP Basic Authentication
 auth_string = f'{username}:{password}'
