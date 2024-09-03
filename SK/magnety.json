@@ -1,0 +1,1460 @@
+[
+{
+    "name": "SVX    Magnet - kocka",
+    "link": "https://www.svx.sk/magnety-kocky/magnet-kocka-512kg_20761/",
+    "price": "0.216",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU10135847",
+    "regular_price": 0.216,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový samolepiaci",
+    "link": "https://www.svx.sk/magnety-so-samolepkou/magnet-kotucovy-samolepiaci-25x232kg_21040/",
+    "price": "1.56",
+    "stock_quantity": 40,
+    "attributes": [],
+    "sku": "SKU10142200",
+    "regular_price": 1.56,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kváder s otvorom",
+    "link": "https://www.svx.sk/magnety-s-dierou-pre-skrutku/magnet-kvader-s-otvorom-15x15x549kg_20730/",
+    "price": "1.75",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10170364",
+    "regular_price": 1.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kváder",
+    "link": "https://www.svx.sk/magnety-kvadre/magnet-kvader-30x15x233kg_20724/",
+    "price": "1.3",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU10196977",
+    "regular_price": 1.3,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kváder",
+    "link": "https://www.svx.sk/magnety-kvadre/magnet-kvader-15x15x551kg_20731/",
+    "price": "1.75",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU10136619",
+    "regular_price": 1.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - hák",
+    "link": "https://www.svx.sk/magnety-s-hakom/magnet-hak-32mm41kg_20736/",
+    "price": "4.34",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU10133519",
+    "regular_price": 4.34,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kváder",
+    "link": "https://www.svx.sk/magnety-kvadre/magnet-kvader-10x10x534kg_20757/",
+    "price": "0.744",
+    "stock_quantity": 17,
+    "attributes": [],
+    "sku": "SKU10188849",
+    "regular_price": 0.744,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-5x7mm900g_21007/",
+    "price": "0.2456",
+    "stock_quantity": 18,
+    "attributes": [],
+    "sku": "SKU10189880",
+    "regular_price": 0.2456,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet kvádrový v plaste",
+    "link": "https://www.svx.sk/magnety-farebne/magnet-kvadrovy-v-plaste-zeleny-kvader_21047/",
+    "price": "0.8976",
+    "stock_quantity": 15,
+    "attributes": [],
+    "sku": "SKU10131460",
+    "regular_price": 0.8976,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-6x3950g_20746/",
+    "price": "0.168",
+    "stock_quantity": 40,
+    "attributes": [],
+    "sku": "SKU10173676",
+    "regular_price": 0.168,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-8x415kg_20748/",
+    "price": "0.368",
+    "stock_quantity": 20,
+    "attributes": [],
+    "sku": "SKU10179976",
+    "regular_price": 0.368,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet v puzdre s dierou",
+    "link": "https://www.svx.sk/magnety-s-dierou-pre-skrutku/magnet-v-puzdre-s-dierou-7x2013kg_20764/",
+    "price": "1.94",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU10189815",
+    "regular_price": 1.94,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet v puzdre s dierou",
+    "link": "https://www.svx.sk/magnety-s-dierou-pre-skrutku/magnet-v-puzdre-s-dierou-8x2519kg_20765/",
+    "price": "3.38",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU10191627",
+    "regular_price": 3.38,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - hák",
+    "link": "https://www.svx.sk/magnety-s-hakom/magnet-hak-25mm30kg_20740/",
+    "price": "3.63",
+    "stock_quantity": 49,
+    "attributes": [],
+    "sku": "SKU10174444",
+    "regular_price": 3.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - otočný hák",
+    "link": "https://www.svx.sk/magnety-s-hakom/magnet-otocny-hak-25mm20kg_20742/",
+    "price": "3.63",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU10126266",
+    "regular_price": 3.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kruhový",
+    "link": "https://www.svx.sk/magnety-kruhy/magnet-kruhovy-10x521kg_20772/",
+    "price": "0.912",
+    "stock_quantity": 28,
+    "attributes": [],
+    "sku": "SKU10130078",
+    "regular_price": 0.912,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická - samolepiaca",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-samolepiaca-20mm_20737/",
+    "price": "7.27",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10162363",
+    "regular_price": 7.27,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - hák",
+    "link": "https://www.svx.sk/magnety-s-hakom/magnet-hak-42mm80kg_20739/",
+    "price": "9.96",
+    "stock_quantity": 12,
+    "attributes": [],
+    "sku": "SKU10124686",
+    "regular_price": 9.96,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový samolepiaci",
+    "link": "https://www.svx.sk/magnety-so-samolepkou/magnet-kotucovy-samolepiaci-15x219kg_20753/",
+    "price": "0.6",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10191763",
+    "regular_price": 0.6,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická - samolepiaca",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-samolepiaca-50mm_20889/",
+    "price": "18.14",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10135575",
+    "regular_price": 18.14,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická - samolepiaca, trhacia",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-samolepiaca-trhacia-19mm_20890/",
+    "price": "5.98",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10146500",
+    "regular_price": 5.98,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kváder",
+    "link": "https://www.svx.sk/magnety-kvadre/magnet-kvader-30x10x226kg_21307/",
+    "price": "1.09",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10181580",
+    "regular_price": 1.09,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-3x2250g_20722/",
+    "price": "0.072",
+    "stock_quantity": 125,
+    "attributes": [],
+    "sku": "SKU10171332",
+    "regular_price": 0.072,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový samolepiaci",
+    "link": "https://www.svx.sk/magnety-so-samolepkou/magnet-kotucovy-samolepiaci-12x215kg_20723/",
+    "price": "0.432",
+    "stock_quantity": 100,
+    "attributes": [],
+    "sku": "SKU10183788",
+    "regular_price": 0.432,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kocka",
+    "link": "https://www.svx.sk/magnety-kocky/magnet-kocka-2120g_20725/",
+    "price": "0.072",
+    "stock_quantity": 63,
+    "attributes": [],
+    "sku": "SKU10129639",
+    "regular_price": 0.072,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kruhový",
+    "link": "https://www.svx.sk/magnety-kruhy/magnet-kruhovy-5x15550g_20726/",
+    "price": "0.168",
+    "stock_quantity": 12,
+    "attributes": [],
+    "sku": "SKU10195338",
+    "regular_price": 0.168,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet v puzdre s dierou",
+    "link": "https://www.svx.sk/magnety-s-dierou-pre-skrutku/magnet-v-puzdre-s-dierou-5x165kg_20727/",
+    "price": "1.21",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU10112110",
+    "regular_price": 1.21,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kváder samolepiaci",
+    "link": "https://www.svx.sk/magnety-so-samolepkou/magnet-kvader-samolepiaci-20x10x22kg_20728/",
+    "price": "0.792",
+    "stock_quantity": 21,
+    "attributes": [],
+    "sku": "SKU10132975",
+    "regular_price": 0.792,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kruhový s otvorom",
+    "link": "https://www.svx.sk/magnety-s-dierou-pre-skrutku/magnet-kruhovy-s-otvorom-15x10x4572kg_20729/",
+    "price": "2.54",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU10133546",
+    "regular_price": 2.54,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická - samolepiaca",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-samolepiaca-10mm_20732/",
+    "price": "6.05",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10140927",
+    "regular_price": 6.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická - samolepiaca",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-samolepiaca-30mm_20738/",
+    "price": "10.92",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10150048",
+    "regular_price": 10.92,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-4x2420g_20743/",
+    "price": "0.072",
+    "stock_quantity": 100,
+    "attributes": [],
+    "sku": "SKU10175000",
+    "regular_price": 0.072,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-3x6mm400g_21001/",
+    "price": "0.1928",
+    "stock_quantity": 17,
+    "attributes": [],
+    "sku": "SKU10111640",
+    "regular_price": 0.1928,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-5x3720g_20744/",
+    "price": "0.168",
+    "stock_quantity": 50,
+    "attributes": [],
+    "sku": "SKU10143967",
+    "regular_price": 0.168,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-5x5900g_20745/",
+    "price": "0.193",
+    "stock_quantity": 50,
+    "attributes": [],
+    "sku": "SKU10140898",
+    "regular_price": 0.193,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-6x512kg_20747/",
+    "price": "0.2458",
+    "stock_quantity": 14,
+    "attributes": [],
+    "sku": "SKU10138904",
+    "regular_price": 0.2458,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-8x825kg_20749/",
+    "price": "0.6",
+    "stock_quantity": 18,
+    "attributes": [],
+    "sku": "SKU10158349",
+    "regular_price": 0.6,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-10x839kg_20751/",
+    "price": "0.912",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10169551",
+    "regular_price": 0.912,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-12x428kg_20752/",
+    "price": "0.672",
+    "stock_quantity": 28,
+    "attributes": [],
+    "sku": "SKU10194050",
+    "regular_price": 0.672,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový samolepiaci",
+    "link": "https://www.svx.sk/magnety-so-samolepkou/magnet-kotucovy-samolepiaci-20x224kg_20754/",
+    "price": "1.03",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU10156976",
+    "regular_price": 1.03,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-20x567kg_20755/",
+    "price": "2.18",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10184381",
+    "regular_price": 2.18,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-30x510kg_20756/",
+    "price": "4.96",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10143176",
+    "regular_price": 4.96,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kváder",
+    "link": "https://www.svx.sk/magnety-kvadre/magnet-kvader-20x20x349kg_20758/",
+    "price": "2.18",
+    "stock_quantity": 22,
+    "attributes": [],
+    "sku": "SKU10155472",
+    "regular_price": 2.18,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kocka",
+    "link": "https://www.svx.sk/magnety-kocky/magnet-kocka-3300g_20759/",
+    "price": "0.096",
+    "stock_quantity": 53,
+    "attributes": [],
+    "sku": "SKU10141038",
+    "regular_price": 0.096,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kocka",
+    "link": "https://www.svx.sk/magnety-kocky/magnet-kocka-4500g_20760/",
+    "price": "0.1229",
+    "stock_quantity": 20,
+    "attributes": [],
+    "sku": "SKU10138556",
+    "regular_price": 0.1229,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kocka",
+    "link": "https://www.svx.sk/magnety-kocky/magnet-kocka-727kg_20762/",
+    "price": "0.6",
+    "stock_quantity": 24,
+    "attributes": [],
+    "sku": "SKU10155438",
+    "regular_price": 0.6,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kocka",
+    "link": "https://www.svx.sk/magnety-kocky/magnet-kocka-1046kg_20763/",
+    "price": "1.46",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10158564",
+    "regular_price": 1.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet v puzdre s dierou",
+    "link": "https://www.svx.sk/magnety-s-dierou-pre-skrutku/magnet-v-puzdre-s-dierou-115x4887kg_20767/",
+    "price": "14.18",
+    "stock_quantity": 14,
+    "attributes": [],
+    "sku": "SKU10190052",
+    "regular_price": 14.18,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kruhový",
+    "link": "https://www.svx.sk/magnety-kruhy/magnet-kruhovy-12x1045kg_20773/",
+    "price": "1.56",
+    "stock_quantity": 20,
+    "attributes": [],
+    "sku": "SKU10114189",
+    "regular_price": 1.56,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Fólia magnetická - samolepiaca",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/folia-magneticka-samolepiaca-a41mm_20774/",
+    "price": "5.98",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU10165798",
+    "regular_price": 5.98,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kruhový",
+    "link": "https://www.svx.sk/magnety-kruhy/magnet-kruhovy-6x15760g_20770/",
+    "price": "0.193",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10146679",
+    "regular_price": 0.193,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kruhový s otvorom",
+    "link": "https://www.svx.sk/magnety-s-dierou-pre-skrutku/magnet-kruhovy-s-otvorom-8x35x31kg_20771/",
+    "price": "0.3152",
+    "stock_quantity": 22,
+    "attributes": [],
+    "sku": "SKU10182374",
+    "regular_price": 0.3152,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet s okom",
+    "link": "https://www.svx.sk/magnety-s-okom/magnet-s-okom-m9135kg_20775/",
+    "price": "33.13",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU10139430",
+    "regular_price": 33.13,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet s okom",
+    "link": "https://www.svx.sk/magnety-s-okom/magnet-s-okom-m20282kg_20806/",
+    "price": "84.41",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10128899",
+    "regular_price": 84.41,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická - samolepiaca",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-samolepiaca-15mm_20888/",
+    "price": "7.32",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10191640",
+    "regular_price": 7.32,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická žltá",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-zlta-40mm_20891/",
+    "price": "14.52",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10192367",
+    "regular_price": 14.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická červená",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-cervena-40mm_20915/",
+    "price": "14.45",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10139244",
+    "regular_price": 14.45,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická čierna",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-cierna-40mm_20916/",
+    "price": "14.52",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10120000",
+    "regular_price": 14.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická biela",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-biela-40mm_20917/",
+    "price": "14.45",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10163051",
+    "regular_price": 14.45,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-4x6mm650g_21006/",
+    "price": "0.1928",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU10156593",
+    "regular_price": 0.1928,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-6x8mm13kg_21008/",
+    "price": "0.432",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU10141108",
+    "regular_price": 0.432,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-7x8mm19kg_21009/",
+    "price": "0.552",
+    "stock_quantity": 20,
+    "attributes": [],
+    "sku": "SKU10147400",
+    "regular_price": 0.552,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - guľový",
+    "link": "https://www.svx.sk/magnety-gule/magnet-gulovy-8/",
+    "price": "0.9632",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU10198949",
+    "regular_price": 0.9632,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-8x10mm24kg_21010/",
+    "price": "0.8408",
+    "stock_quantity": 32,
+    "attributes": [],
+    "sku": "SKU10180917",
+    "regular_price": 0.8408,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-10x20mm5kg_21011/",
+    "price": "2.18",
+    "stock_quantity": 33,
+    "attributes": [],
+    "sku": "SKU10172892",
+    "regular_price": 2.18,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet kotúčový v plaste",
+    "link": "https://www.svx.sk/magnety-farebne/magnet-kotucovy-v-plaste-cierny-22x6-mm_21038/",
+    "price": "2.54",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU10191234",
+    "regular_price": 2.54,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet kvádrový v plaste",
+    "link": "https://www.svx.sk/magnety-farebne/magnet-kvadrovy-v-plaste-modry-25412763-mm_21039/",
+    "price": "2.54",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU10112766",
+    "regular_price": 2.54,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet kvádrový v plaste",
+    "link": "https://www.svx.sk/magnety-farebne/magnet-kvadrovy-v-plaste-cerveny-25412763mm_21041/",
+    "price": "2.54",
+    "stock_quantity": 20,
+    "attributes": [],
+    "sku": "SKU10144760",
+    "regular_price": 2.54,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet kvádrový v plaste",
+    "link": "https://www.svx.sk/magnety-farebne/magnet-kvadrovy-v-plaste-cierny-25412763mm_21042/",
+    "price": "2.54",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU10145637",
+    "regular_price": 2.54,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická - samolepiaca",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-samolepiaca-15mm_20888/",
+    "price": "7.32",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10195517",
+    "regular_price": 7.32,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická žltá",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-zlta-40mm_20891/",
+    "price": "14.52",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10166341",
+    "regular_price": 14.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická modrá",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-modra-40mm_20914/",
+    "price": "14.45",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10121917",
+    "regular_price": 14.45,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická červená",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-cervena-40mm_20915/",
+    "price": "14.45",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10172675",
+    "regular_price": 14.45,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická čierna",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-cierna-40mm_20916/",
+    "price": "14.52",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10175065",
+    "regular_price": 14.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Páska magnetická biela",
+    "link": "https://www.svx.sk/magnety-pasky-a-folie/paska-magneticka-biela-40mm_20917/",
+    "price": "14.45",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10135622",
+    "regular_price": 14.45,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-4x6mm650g_21006/",
+    "price": "0.1928",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU10129535",
+    "regular_price": 0.1928,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-6x8mm13kg_21008/",
+    "price": "0.432",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU10150592",
+    "regular_price": 0.432,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - tyčový",
+    "link": "https://www.svx.sk/magnety-tyce/magnet-tycovy-7x8mm19kg_21009/",
+    "price": "0.552",
+    "stock_quantity": 20,
+    "attributes": [],
+    "sku": "SKU10145055",
+    "regular_price": 0.552,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kocka",
+    "link": "https://www.svx.sk/magnety-kocky/magnet-kocka-15x15x15-10kg/",
+    "price": "5.13",
+    "stock_quantity": 20,
+    "attributes": [],
+    "sku": "SKU10172257",
+    "regular_price": 5.13,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet s karabínou",
+    "link": "https://www.svx.sk/magnety-s-okom/magnet-s-karabinou-18-kg_21175/",
+    "price": "4.34",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU10158849",
+    "regular_price": 4.34,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+{
+    "name": "SVX    Magnet - kotúčový",
+    "link": "https://www.svx.sk/magnety-kotuce/magnet-kotucovy-10x421kg_20750/",
+    "price": "0.4908",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10166588",
+    "regular_price": 0.4908,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 101,
+            "name": "Magnety",
+            "slug": "magnety"
+        }
+    ]
+},
+]

@@ -1,0 +1,1460 @@
+[
+{
+    "name": "SVX    Pletivo pozinkované",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pozinkovane-150cm-60x60mm_20267/",
+    "price": "79.63 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10075432",
+    "regular_price": 79.63,
+    "sale_price": 79.63,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "Napínač lana zelený 100mm",
+    "link": "https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-zelene/napinac-lana-zeleny-100mm_1783/",
+    "price": "0.99",
+    "stock_quantity": 196,
+    "attributes": [],
+    "sku": "SKU10015655",
+    "regular_price": 0.99,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Stĺpik zelený PVC",
+    "link": "https://www.svx.sk/pletiva-stlpiky/stpik-zeleny-pvc-48mm230_20416/",
+    "price": "11.25 €",
+    "stock_quantity": 26,
+    "attributes": [],
+    "sku": "SKU10081002",
+    "regular_price": 11.25,
+    "sale_price": 11.25,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "None    Napínač lana pozinkovaný 100mm",
+    "link": "https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-pozinkovane/napinac-lana-pozinkovany-100mm_4605_CZ/",
+    "price": "0.9504",
+    "stock_quantity": 179,
+    "attributes": [],
+    "sku": "SKU10065644",
+    "regular_price": 0.9504,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Drôt viazací zn",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/drot-viazaci-zn-zn-13x50_20440/",
+    "price": "2.48",
+    "stock_quantity": 43,
+    "attributes": [],
+    "sku": "SKU10015308",
+    "regular_price": 2.48,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "Sieť proti vtákom",
+    "link": "https://www.svx.sk/pletiva-siete-proti-vtakom/siet-proti-vtakom-45m_20826/",
+    "price": "1.96 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10040402",
+    "regular_price": 1.96,
+    "sale_price": 1.96,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť antracit 95% - dĺžka 10m - výška 1,5m",
+    "link": "https://www.svx.sk/pletiva-antracitove-siete/tieniaca-siet-antracit-95-15-m-10-m_10806/",
+    "price": "27.59 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU10019720",
+    "regular_price": 27.59,
+    "sale_price": 27.59,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Napínač lana zelený 120mm",
+    "link": "https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-zelene/napinac-lana-zeleny-120-mm_4615/",
+    "price": "0.8712",
+    "stock_quantity": 1709,
+    "attributes": [],
+    "sku": "SKU10026969",
+    "regular_price": 0.8712,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Napínač lana pozinkovaný 120mm",
+    "link": "https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-pozinkovane/napinac-lana-pozinkovany-120mm_4606/",
+    "price": "0.792",
+    "stock_quantity": 1096,
+    "attributes": [],
+    "sku": "SKU10023677",
+    "regular_price": 0.792,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "Sieť proti vtákom",
+    "link": "https://www.svx.sk/pletiva-siete-proti-vtakom/siet-proti-vtakom-210m_20818/",
+    "price": "1.96 €",
+    "stock_quantity": 35,
+    "attributes": [],
+    "sku": "SKU10048873",
+    "regular_price": 1.96,
+    "sale_price": 1.96,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Drôt napínací zelený",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/drot-napinaci-zeleny-pvc-34x78_20410/",
+    "price": "8.66",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10023341",
+    "regular_price": 8.66,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť čierna 95% - dĺžka 25m - výška 1,5m",
+    "link": "https://www.svx.sk/pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete/tieniaca-siet-cierna-95-dlzka-25m-vyska-15m/",
+    "price": "56.63 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10052884",
+    "regular_price": 56.63,
+    "sale_price": 56.63,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť čierna 95% - dĺžka 25m - výška 1m",
+    "link": "https://www.svx.sk/pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete/tieniaca-siet-cierna-95-dlzka-25m-vyska-1m/",
+    "price": "34.85 €",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU10019441",
+    "regular_price": 34.85,
+    "sale_price": 34.85,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť hnedá 95%  - dĺžka 10m - výška 1m",
+    "link": "https://www.svx.sk/pletiva-hnede-siete/tieniaca-siet-hneda-95-1m-10-m-hneda_10763/",
+    "price": "17.42 €",
+    "stock_quantity": 12,
+    "attributes": [],
+    "sku": "SKU10084190",
+    "regular_price": 17.42,
+    "sale_price": 17.42,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť čierna 95% - dĺžka 10m - výška 1,5m",
+    "link": "https://www.svx.sk/pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete/tieniaca-siet-cierna-95-dlzka-10m-vyska-15m/",
+    "price": "27.59 €",
+    "stock_quantity": 14,
+    "attributes": [],
+    "sku": "SKU10022459",
+    "regular_price": 27.59,
+    "sale_price": 27.59,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť zelená 90% - dĺžka 10m - výška 2m",
+    "link": "https://www.svx.sk/pletiva-tienivost-90/tieniaca-siet-zelena-90-2-m-10-m_10797/",
+    "price": "24.68 €",
+    "stock_quantity": 34,
+    "attributes": [],
+    "sku": "SKU10084190",
+    "regular_price": 24.68,
+    "sale_price": 24.68,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Drôt napínací zelený",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/drot-napinaci-zeleny-pvc-34x26_20408/",
+    "price": "3.04",
+    "stock_quantity": 30,
+    "attributes": [],
+    "sku": "SKU10022849",
+    "regular_price": 3.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Spinky omega zn",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/spinky-omega-zn-bal-200ks_20430/",
+    "price": "6.44",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10053197",
+    "regular_price": 6.44,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Drôt viazací zelený",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/drot-viazaci-zeleny-pvc-09x30_20442/",
+    "price": "0.2524",
+    "stock_quantity": 762,
+    "attributes": [],
+    "sku": "SKU10062347",
+    "regular_price": 0.2524,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "Sieť proti vtákom",
+    "link": "https://www.svx.sk/pletiva-siete-proti-vtakom/siet-proti-vtakom-410m_20827/",
+    "price": "3.94 €",
+    "stock_quantity": 60,
+    "attributes": [],
+    "sku": "SKU10010468",
+    "regular_price": 3.94,
+    "sale_price": 3.94,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Okrasné pletivo PVC",
+    "link": "https://www.svx.sk/pletiva-okrasne/okrasne-pletivo-pvc-65cm_20282/",
+    "price": "24.0 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10026851",
+    "regular_price": 24.0,
+    "sale_price": 24.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť zelená 95%  - dĺžka 25m - výška 1m",
+    "link": "https://www.svx.sk/pletiva-tienivost-95/tieniaca-siet-zelena-95-1m25m_13812/",
+    "price": "34.85 €",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU10078097",
+    "regular_price": 34.85,
+    "sale_price": 34.85,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Standard",
+    "link": "https://www.svx.sk/pletiva-standard/zahradna-branka-standard-1125m_20689/",
+    "price": "83.0 €",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU10029324",
+    "regular_price": 83.0,
+    "sale_price": 83.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Napínač lana pozinkovaný 100mm",
+    "link": "https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-pozinkovane/napinac-lana-pozinkovany-100mm_4605/",
+    "price": "0.66",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10017399",
+    "regular_price": 0.66,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Napínač lana zelený 100mm",
+    "link": "https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-zelene/napinac-lana-zeleny-100-mm_4614/",
+    "price": "0.7392",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10030404",
+    "regular_price": 0.7392,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Okrasné pletivo PVC",
+    "link": "https://www.svx.sk/pletiva-okrasne/okrasne-pletivo-pvc-95cm_20283/",
+    "price": "34.2 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10043017",
+    "regular_price": 34.2,
+    "sale_price": 34.2,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "Napínač lana zelený 120mm",
+    "link": "https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-zelene/napinac-lana-zeleny-120mm_1788/",
+    "price": "1.82",
+    "stock_quantity": 133,
+    "attributes": [],
+    "sku": "SKU10066718",
+    "regular_price": 1.82,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo PVC zelené",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pvc-zelene-100cm-60x60mm_20259/",
+    "price": "63.79 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10014207",
+    "regular_price": 63.79,
+    "sale_price": 63.79,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo pozinkované",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pozinkovane-100cm-60x60mm_20260/",
+    "price": "60.3 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10069594",
+    "regular_price": 60.3,
+    "sale_price": 60.3,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo PVC zelené",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pvc-zelene-125cm-60x60mm_20261/",
+    "price": "72.9 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10051522",
+    "regular_price": 72.9,
+    "sale_price": 72.9,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo PVC zelené",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pvc-zelene-160cm-60x60mm_20263/",
+    "price": "86.06 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10090869",
+    "regular_price": 86.06,
+    "sale_price": 86.06,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo PVC zelené",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pvc-zelene-180cm-60x60mm_20264/",
+    "price": "100.13 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10078003",
+    "regular_price": 100.13,
+    "sale_price": 100.13,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo PVC zelené",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pvc-zelene-200cm-60x60mm_20265/",
+    "price": "105.08 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10078925",
+    "regular_price": 105.08,
+    "sale_price": 105.08,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo pozinkované",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pozinkovane-125cm-60x60mm_20266/",
+    "price": "75.6 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10096814",
+    "regular_price": 75.6,
+    "sale_price": 75.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo pozinkované",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pozinkovane-160cm-60x60mm_20268/",
+    "price": "84.71 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10037090",
+    "regular_price": 84.71,
+    "sale_price": 84.71,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo pozinkované",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pozinkovane-180cm-60x60mm_20269/",
+    "price": "92.14 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10056830",
+    "regular_price": 92.14,
+    "sale_price": 92.14,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo pozinkované",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pozinkovane-200cm-60x60mm_20270/",
+    "price": "120.42 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10051104",
+    "regular_price": 120.42,
+    "sale_price": 120.42,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo pozinkované 6-hran",
+    "link": "https://www.svx.sk/pletiva-6-hranne/pletivo-pozinkovane-6-hran-100cm-16x16mm_20272/",
+    "price": "74.34 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10083484",
+    "regular_price": 74.34,
+    "sale_price": 74.34,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo pozinkované 6-hran",
+    "link": "https://www.svx.sk/pletiva-6-hranne/pletivo-pozinkovane-6-hran-100cm-20x20mm_20273/",
+    "price": "30.0 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10071706",
+    "regular_price": 30.0,
+    "sale_price": 30.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo pozinkované 6-hran",
+    "link": "https://www.svx.sk/pletiva-6-hranne/pletivo-pozinkovane-6-hran-100cm-25x25mm_20274/",
+    "price": "54.13 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10047516",
+    "regular_price": 54.13,
+    "sale_price": 54.13,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo PVC 6-hran",
+    "link": "https://www.svx.sk/pletiva-6-hranne/pletivo-pvc-6-hran-100cm-13x13_20275/",
+    "price": "36.0 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10058763",
+    "regular_price": 36.0,
+    "sale_price": 36.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo PVC 6-hran",
+    "link": "https://www.svx.sk/pletiva-6-hranne/pletivo-pvc-6-hran-100cm-16x16mm_20276/",
+    "price": "39.6 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10073920",
+    "regular_price": 39.6,
+    "sale_price": 39.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo PVC 6-hran",
+    "link": "https://www.svx.sk/pletiva-6-hranne/pletivo-pvc-6-hran-50cm-13x13_20279/",
+    "price": "12.35 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10053816",
+    "regular_price": 12.35,
+    "sale_price": 12.35,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Zváraná sieť ZN",
+    "link": "https://www.svx.sk/pletiva-zvarane/zvarana-siet-zn-25m-6x6_20313/",
+    "price": "94.75 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10040805",
+    "regular_price": 94.75,
+    "sale_price": 94.75,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Zváraná sieť ZN",
+    "link": "https://www.svx.sk/pletiva-zvarane/zvarana-siet-zn-25m-10x10mm_20314/",
+    "price": "74.25 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10071145",
+    "regular_price": 74.25,
+    "sale_price": 74.25,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Zváraná sieť ZN",
+    "link": "https://www.svx.sk/pletiva-zvarane/zvarana-siet-zn-25m-13x13mm_20315/",
+    "price": "48.3 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10083141",
+    "regular_price": 48.3,
+    "sale_price": 48.3,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť zelená 90% - dĺžka 25m - výška 1m",
+    "link": "https://www.svx.sk/pletiva-tienivost-90/tieniaca-siet-zelena-90-1-m-25-m_10796/",
+    "price": "24.68 €",
+    "stock_quantity": 29,
+    "attributes": [],
+    "sku": "SKU10072552",
+    "regular_price": 24.68,
+    "sale_price": 24.68,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť zelená 95% - dĺžka 10m - výška 1m",
+    "link": "https://www.svx.sk/pletiva-tienivost-95/tieniaca-siet-zelena-95-1m-10m_13735/",
+    "price": "17.42 €",
+    "stock_quantity": 30,
+    "attributes": [],
+    "sku": "SKU10081754",
+    "regular_price": 17.42,
+    "sale_price": 17.42,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Zváraná sieť ZN",
+    "link": "https://www.svx.sk/pletiva-zvarane/zvarana-siet-zn-25m-16x16mm_20316/",
+    "price": "76.5 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10078934",
+    "regular_price": 76.5,
+    "sale_price": 76.5,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Zváraná sieť ZN",
+    "link": "https://www.svx.sk/pletiva-zvarane/zvarana-siet-zn-25m-19x19mm_20317/",
+    "price": "87.75 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10034762",
+    "regular_price": 87.75,
+    "sale_price": 87.75,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Zváraná sieť PVC",
+    "link": "https://www.svx.sk/pletiva-zvarane/zvarana-siet-pvc-25m-127x127mm_20319/",
+    "price": "82.08 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10013944",
+    "regular_price": 82.08,
+    "sale_price": 82.08,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Zváraná sieť PVC",
+    "link": "https://www.svx.sk/pletiva-zvarane/zvarana-siet-pvc-25m-16x16mm_20320/",
+    "price": "72.45 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10082983",
+    "regular_price": 72.45,
+    "sale_price": 72.45,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Panel BRICO antracit",
+    "link": "https://www.svx.sk/pletiva-plotove-panely/panel-brico-antracit-25m203_20398/",
+    "price": "33.5 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10049311",
+    "regular_price": 33.5,
+    "sale_price": 33.5,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Stĺpik zelený PVC",
+    "link": "https://www.svx.sk/pletiva-stlpiky/stpik-zeleny-pvc-48mm250_20417/",
+    "price": "12.38 €",
+    "stock_quantity": 32,
+    "attributes": [],
+    "sku": "SKU10048048",
+    "regular_price": 12.38,
+    "sale_price": 12.38,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Stĺpik zelený PVC",
+    "link": "https://www.svx.sk/pletiva-stlpiky/stpik-zeleny-pvc-38230_20427/",
+    "price": "7.65 €",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU10029721",
+    "regular_price": 7.65,
+    "sale_price": 7.65,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Stĺpik zelený PVC",
+    "link": "https://www.svx.sk/pletiva-stlpiky/stpik-zeleny-pvc-38250_20428/",
+    "price": "8.64 €",
+    "stock_quantity": 21,
+    "attributes": [],
+    "sku": "SKU10027650",
+    "regular_price": 8.64,
+    "sale_price": 8.64,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Spinky omega zn",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/spinky-omega-zn-bal-1000ks_20435/",
+    "price": "13.5",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10024725",
+    "regular_price": 13.5,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Spinky omega zelené",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/spinky-omega-zelene-bal-200-ks_20436/",
+    "price": "4.86",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10094937",
+    "regular_price": 4.86,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Spinky omega zelené",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/spinky-omega-zelene-bal-1000-ks_20437/",
+    "price": "19.71",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10077237",
+    "regular_price": 19.71,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Kliešte omega so zásobníkom",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/klieste-omega-so-zasobnikom_20438/",
+    "price": "20.52",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU10075255",
+    "regular_price": 20.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Drôt napínací zn",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/drot-napinaci-zn-3x78_20439/",
+    "price": "12.06",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10028947",
+    "regular_price": 12.06,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Drôt viazací zelený",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/drot-viazaci-zeleny-pvc-06x30_20441/",
+    "price": "0.234",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10092284",
+    "regular_price": 0.234,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Standard",
+    "link": "https://www.svx.sk/pletiva-standard/zahradna-branka-standard-11m_20688/",
+    "price": "108.0 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU10077846",
+    "regular_price": 108.0,
+    "sale_price": 108.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Standard",
+    "link": "https://www.svx.sk/pletiva-standard/zahradna-branka-standard-4125m_20693/",
+    "price": "181.0 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU10063962",
+    "regular_price": 181.0,
+    "sale_price": 181.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Optim",
+    "link": "https://www.svx.sk/pletiva-optim/zahradna-branka-optim-118-zelena_20704/",
+    "price": "183.6 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10045788",
+    "regular_price": 183.6,
+    "sale_price": 183.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "Sieť proti vtákom",
+    "link": "https://www.svx.sk/pletiva-siete-proti-vtakom/siet-proti-vtakom-420m_20828/",
+    "price": "10.53 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU10061623",
+    "regular_price": 10.53,
+    "sale_price": 10.53,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo pozinkované 6-hran",
+    "link": "https://www.svx.sk/pletiva-6-hranne/pletivo-pozinkovane-6-hran-100cm-13x13mm_20271/",
+    "price": "48.0 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10029865",
+    "regular_price": 48.0,
+    "sale_price": 48.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka ECO",
+    "link": "https://www.svx.sk/pletiva-eco/zahradna-branka-eco-11m_20684/",
+    "price": "42.0 €",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU10094718",
+    "regular_price": 42.0,
+    "sale_price": 42.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka ECO",
+    "link": "https://www.svx.sk/pletiva-eco/zahradna-branka-eco-112m_20685/",
+    "price": "48.0 €",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU10022538",
+    "regular_price": 48.0,
+    "sale_price": 48.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka ECO",
+    "link": "https://www.svx.sk/pletiva-eco/zahradna-branka-eco-11m_20684/",
+    "price": "42.0 €",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU10082031",
+    "regular_price": 42.0,
+    "sale_price": 42.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka ECO",
+    "link": "https://www.svx.sk/pletiva-eco/zahradna-branka-eco-112m_20685/",
+    "price": "48.0 €",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU10022807",
+    "regular_price": 48.0,
+    "sale_price": 48.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Optim",
+    "link": "https://www.svx.sk/pletiva-optim/zahradna-branka-optim-1125-zelena_20702/",
+    "price": "96.0 €",
+    "stock_quantity": 24,
+    "attributes": [],
+    "sku": "SKU10053839",
+    "regular_price": 96.0,
+    "sale_price": 96.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Optim",
+    "link": "https://www.svx.sk/pletiva-optim/zahradna-branka-optim-115-zelena_20703/",
+    "price": "102.0 €",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU10035132",
+    "regular_price": 102.0,
+    "sale_price": 102.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Optim",
+    "link": "https://www.svx.sk/pletiva-optim/zahradna-branka-optim-12-zelena_20705/",
+    "price": "108.0 €",
+    "stock_quantity": 17,
+    "attributes": [],
+    "sku": "SKU10073246",
+    "regular_price": 108.0,
+    "sale_price": 108.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Optim",
+    "link": "https://www.svx.sk/pletiva-optim/zahradna-branka-optim-36x15-zelena_20709/",
+    "price": "180.0 €",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU10035741",
+    "regular_price": 180.0,
+    "sale_price": 180.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Optim",
+    "link": "https://www.svx.sk/pletiva-optim/zahradna-branka-optim-36x18-zelena_20710/",
+    "price": "192.0 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10038273",
+    "regular_price": 192.0,
+    "sale_price": 192.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Záhradná bránka Optim",
+    "link": "https://www.svx.sk/pletiva-optim/zahradna-branka-optim-36x2-zelena_20711/",
+    "price": "204.0 €",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU10011284",
+    "regular_price": 204.0,
+    "sale_price": 204.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Zváraná sieť ZN",
+    "link": "https://www.svx.sk/pletiva-zvarane/zvarana-siet-zn-25m-254x254mm_20318/",
+    "price": "45.0 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10061967",
+    "regular_price": 45.0,
+    "sale_price": 45.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Pletivo PVC zelené",
+    "link": "https://www.svx.sk/pletiva-4-hranne/pletivo-pvc-zelene-160cm-60x60mm_20263/",
+    "price": "86.06 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10031209",
+    "regular_price": 86.06,
+    "sale_price": 86.06,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Drôt napínací zelený",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/drot-napinaci-zeleny-pvc-34x52_20409/",
+    "price": "7.0",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU10036387",
+    "regular_price": 7.0,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Drôt viazací zelený",
+    "link": "https://www.svx.sk/pletiva-k-4-hrannym-pletivam/drot-viazaci-zeleny-pvc-14x50_20429/",
+    "price": "2.16",
+    "stock_quantity": 64,
+    "attributes": [],
+    "sku": "SKU10096612",
+    "regular_price": 2.16,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+]

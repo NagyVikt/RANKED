@@ -5,3 +5,4 @@ config/
 # Ignore virtual environment directory
 venv/
 RENDSZER/config.py
+myenv/

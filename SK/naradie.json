@@ -1,0 +1,5816 @@
+[
+{
+    "name": "SVXtools    Sada bitov 10 dielna",
+    "link": "https://www.svx.sk/naradie-sady-1/sada-bitov-10-dielna-svxtools_21426/",
+    "price": "3.99 €",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9717930",
+    "regular_price": 3.99,
+    "sale_price": 3.99,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Box viacúčelový 285x135x115mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/box-viacucelovy-pwfsreczatpg011_13651/",
+    "price": "2.74",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9782232",
+    "regular_price": 2.74,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Pištoľ na PUR peny",
+    "link": "https://www.svx.sk/naradie-pistole-na-silikony-a-pur-peny/pistol-na-pur-peny_svxtools/",
+    "price": "3.99 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9777171",
+    "regular_price": 3.99,
+    "sale_price": 3.99,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Bit magnetický PZ1x25 mm - 25ks",
+    "link": "https://www.svx.sk/naradie-25-mm/bit-magneticky-pz1x25-mm-svxtools_21392/",
+    "price": "5.56",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9758709",
+    "regular_price": 5.56,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Pištoľ na tmel skeletová - kovová 310ml",
+    "link": "https://www.svx.sk/naradie-pistole/pistol-na-tmel-46660/",
+    "price": "1.49 €",
+    "stock_quantity": 117,
+    "attributes": [],
+    "sku": "SKU9798456",
+    "regular_price": 1.49,
+    "sale_price": 1.49,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Organizér Tandem 400 C 385x283x50mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/organizer-tandem-300-c-org400011_19645/",
+    "price": "6.93",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9772087",
+    "regular_price": 6.93,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Dielenská zásuvka 155x100x225mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/dielenska-zasuvka-szu10xczapg011_13652/",
+    "price": "7.18",
+    "stock_quantity": 21,
+    "attributes": [],
+    "sku": "SKU9721127",
+    "regular_price": 7.18,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    Nôž olamovací kov / plast 18mm",
+    "link": "https://www.svx.sk/naradie-noze/noz-olamovaci-kov-plast-18mm_12544/",
+    "price": "1.49",
+    "stock_quantity": 25,
+    "attributes": [],
+    "sku": "SKU9757725",
+    "regular_price": 1.49,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Organizér Tandem 300 C 284x182x50mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/organizer-tandem-300-c-org300011_19644/",
+    "price": "3.67",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9756614",
+    "regular_price": 3.67,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Box viacúčelový veľký 330x160x140mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/box-viacucelovy-velky-pwfd011_19630/",
+    "price": "3.06",
+    "stock_quantity": 32,
+    "attributes": [],
+    "sku": "SKU9785953",
+    "regular_price": 3.06,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Bit magnetický TX25x50 mm - 10ks",
+    "link": "https://www.svx.sk/naradie-50-mm/bit-magneticky-tx25x50-mm-svxtools_21421/",
+    "price": "5.43",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9771498",
+    "regular_price": 5.43,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Bit magnetický TX40x50 mm - 10ks",
+    "link": "https://www.svx.sk/naradie-50-mm/bit-magneticky-tx40x50-mm-svxtools_21424/",
+    "price": "5.43",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9767730",
+    "regular_price": 5.43,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky grafit",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-pica-dry-grafit-basic-4050_13425/",
+    "price": "10.44",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9749947",
+    "regular_price": 10.44,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WIHA    Bit wiha TX30x25 mm",
+    "link": "https://www.svx.sk/naradie-wiha/bit-wiha-tx30x25-mm-tx30x25mm_9119/",
+    "price": "1.04",
+    "stock_quantity": 145,
+    "attributes": [],
+    "sku": "SKU9796614",
+    "regular_price": 1.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Organizér Tandem 200 C 192x143x50mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/organizer-tandem-200-c-org200011_19641/",
+    "price": "1.98",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9791021",
+    "regular_price": 1.98,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vrták korunkový SDS+ 73mm",
+    "link": "https://www.svx.sk/naradie-korunkove-vrtaky/vrtak-korunkovy-sds-m2273mm_21344/",
+    "price": "8.16 €",
+    "stock_quantity": 383,
+    "attributes": [],
+    "sku": "SKU9769841",
+    "regular_price": 8.16,
+    "sale_price": 8.16,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WIHA    Bit wiha TX40x25 mm",
+    "link": "https://www.svx.sk/naradie-wiha/bit-wiha-tx40x25-mm-tx40x25mm_9102/",
+    "price": "1.03",
+    "stock_quantity": 111,
+    "attributes": [],
+    "sku": "SKU9766749",
+    "regular_price": 1.03,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Zváračský mastenec  - biela krieda",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/zvaracsky-mastenec-biela-krieda_21244/",
+    "price": "0.5916",
+    "stock_quantity": 24,
+    "attributes": [],
+    "sku": "SKU9718383",
+    "regular_price": 0.5916,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    Meter zvinovací pogumovaný 5m",
+    "link": "https://www.svx.sk/naradie-metre-a-pasma/meter-zvinovaci-pogumovany-5m_12578/",
+    "price": "4.36",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9776142",
+    "regular_price": 4.36,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Držiak na náradie 2 ks 34x52x42mm",
+    "link": "https://www.svx.sk/naradie-drziaky/drziak-na-naradie-2-ks-34x52x42mm2x_20830/",
+    "price": "7.15",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9767191",
+    "regular_price": 7.15,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Box na elektrikárske náradie Tool case 400x320x180mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/box-na-elektrikarske-naradie-tool-case-elek011_19636/",
+    "price": "8.46",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9745375",
+    "regular_price": 8.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Značkovač červený",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-cerveny_12936/",
+    "price": "0.306",
+    "stock_quantity": 330,
+    "attributes": [],
+    "sku": "SKU9772619",
+    "regular_price": 0.306,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Značkovač čierny",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-cierny_12937/",
+    "price": "0.306",
+    "stock_quantity": 622,
+    "attributes": [],
+    "sku": "SKU9768233",
+    "regular_price": 0.306,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Sekáč SDS plus - plochý 250x20mm",
+    "link": "https://www.svx.sk/naradie-sekace-sds/sekac-sds-plus-plochy-20250mm_21371/",
+    "price": "1.56 €",
+    "stock_quantity": 318,
+    "attributes": [],
+    "sku": "SKU9726783",
+    "regular_price": 1.56,
+    "sale_price": 1.56,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FORTUM    Kliešte cvikacie káblové 160 mm",
+    "link": "https://www.svx.sk/naradie-klieste-a-noznice/klieste-cvikacie-kablove-160-mm-vde160mm-fortum_19483/",
+    "price": "26.9",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9795992",
+    "regular_price": 26.9,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    Kľúč oko - vidlica 11mm",
+    "link": "https://www.svx.sk/naradie-oko-vidlicove-vidlicove-ockove/kluc-oko-vidlica-11-mm_12742/",
+    "price": "2.46",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9763009",
+    "regular_price": 2.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FORTUM    Kľúč oko - vidlica 12mm",
+    "link": "https://www.svx.sk/naradie-oko-vidlicove-vidlicove-ockove/kluc-oko-vidlica-12-mm_12743/",
+    "price": "2.79",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9756964",
+    "regular_price": 2.79,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Ceruzka",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/ceruzka-pica-dry-longlife-3030_13424/",
+    "price": "17.36",
+    "stock_quantity": 22,
+    "attributes": [],
+    "sku": "SKU9773850",
+    "regular_price": 17.36,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Upínací tŕň pre korunky BMK 32-210mm",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-bimetalove-korunky/upinaci-trn-pre-korunky-bmk-32-210mm_5798/",
+    "price": "14.15 €",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9790511",
+    "regular_price": 14.15,
+    "sale_price": 14.15,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    Brity do univerzálneho olamovacieho noža 18mm",
+    "link": "https://www.svx.sk/naradie-nahradne-cepele/brity-do-univerzalneho-olamovacieho-noza-18mm_12550/",
+    "price": "1.33",
+    "stock_quantity": 27,
+    "attributes": [],
+    "sku": "SKU9729018",
+    "regular_price": 1.33,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Box Stuff 26 Optimo B 595x337x316mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/box-stuff-26-optimo-b-skr26bstuoczapg011_13647/",
+    "price": "17.77",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9735730",
+    "regular_price": 17.77,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Bimetalová korunka 73mm",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-bimetalove-korunky/bimetalova-korunka-73-mm_21325/",
+    "price": "5.88 €",
+    "stock_quantity": 160,
+    "attributes": [],
+    "sku": "SKU9719168",
+    "regular_price": 5.88,
+    "sale_price": 5.88,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do železa HSS 1,6x20/43mm",
+    "link": "https://www.svx.sk/naradie-hss/vrtak-do-zeleza-hss-16-hss-super-do-zeleza_19155/",
+    "price": "1.51",
+    "stock_quantity": 15,
+    "attributes": [],
+    "sku": "SKU9786358",
+    "regular_price": 1.51,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WIHA    Bit wiha TX15x25 mm",
+    "link": "https://www.svx.sk/naradie-wiha/bit-wiha-tx15x25-mm-tx15x25mm_9099/",
+    "price": "0.8083",
+    "stock_quantity": 80,
+    "attributes": [],
+    "sku": "SKU9791667",
+    "regular_price": 0.8083,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FORTUM    Nôž olamovací kovový - zatvárací 9mm",
+    "link": "https://www.svx.sk/naradie-noze/noz-olamovaci-kovovy-zatvaraci-9mm_12547/",
+    "price": "2.19",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9783984",
+    "regular_price": 2.19,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    Kľúč rúrkový 10x11mm",
+    "link": "https://www.svx.sk/naradie-rurkove/kluc-rurkovy-10x11mm_12786/",
+    "price": "1.22",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9771351",
+    "regular_price": 1.22,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Stierka nerezová ECO LINE 300x47mm",
+    "link": "https://www.svx.sk/naradie-murarske-spachtle-a-stierky/stierka-nerezova-eco-line-300x47mm_4975/",
+    "price": "3.71",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9766396",
+    "regular_price": 3.71,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    Kliešte cvikacie bočné 160 mm",
+    "link": "https://www.svx.sk/naradie-klieste-a-noznice/klieste-cvikacie-bocne-160-mm-160mm-vde-extol_19480/",
+    "price": "11.55",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9791772",
+    "regular_price": 11.55,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FORTUM    Kliešte cvikacie bočné 125 mm",
+    "link": "https://www.svx.sk/naradie-klieste-a-noznice/klieste-cvikacie-bocne-125-mm-125mm-fortum_19488/",
+    "price": "12.7",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9793131",
+    "regular_price": 12.7,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FORTUM    Kliešte cvikacie bočné 150 mm",
+    "link": "https://www.svx.sk/naradie-klieste-a-noznice/klieste-cvikacie-bocne-150-mm-150mm-fortum_19489/",
+    "price": "13.87",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9789196",
+    "regular_price": 13.87,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Toolbox Stuff Carbo Semi Profi Alu 16 415x226x200mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/toolbox-stuff-carbo-semi-profi-alu-16-skr16spscarzolpg011_13638/",
+    "price": "10.41",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9763368",
+    "regular_price": 10.41,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Box Stuff Basic Alu 20-525x256x246mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/box-stuff-basic-alu-20-skr20balstuczapg011_13641/",
+    "price": "12.19",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9714989",
+    "regular_price": 12.19,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "QBRICK    Box QBRICK® System ONE 450 Basic 52L",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/box-qbrick-system-one-450-basic_6053/",
+    "price": "75.88",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9739014",
+    "regular_price": 75.88,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Gola hlava magnetická 13mm",
+    "link": "https://www.svx.sk/naradie-50-mm/gola-hlava-magneticka-svxtools-13x65_21429/",
+    "price": "1.41",
+    "stock_quantity": 50,
+    "attributes": [],
+    "sku": "SKU9711103",
+    "regular_price": 1.41,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vrták korunkový SDS+ 100mm",
+    "link": "https://www.svx.sk/naradie-korunkove-vrtaky/vrtak-korunkovy-sds-m22100mm_21346/",
+    "price": "11.4 €",
+    "stock_quantity": 49,
+    "attributes": [],
+    "sku": "SKU9717836",
+    "regular_price": 11.4,
+    "sale_price": 11.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do dreva plochý 8x152mm",
+    "link": "https://www.svx.sk/naradie-ploche-1/vrtak-do-dreva-plochy-80152-alpen_19100/",
+    "price": "3.71",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9724963",
+    "regular_price": 3.71,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do dreva plochý 6x152mm",
+    "link": "https://www.svx.sk/naradie-ploche-1/vrtak-do-dreva-plochy-60152-alpen_19099/",
+    "price": "3.07",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9769743",
+    "regular_price": 3.07,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták HSS zúžený 18x130/191mm",
+    "link": "https://www.svx.sk/naradie-hss/vrtak-hss-zuzeny-180x130x191mm_5799/",
+    "price": "15.61",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9754874",
+    "regular_price": 15.61,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 3x30/60mm",
+    "link": "https://www.svx.sk/naradie-spiralove/vrtak-do-dreva-3x30x60mm-oren_19296/",
+    "price": "1.25",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9750659",
+    "regular_price": 1.25,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVX    Plachta zakrývacia 3x5m modro-strieborná 200g/m²",
+    "link": "https://www.svx.sk/naradie-krycie-plachty-200-g-m2/plachta-zakryvacia-3-5m-modro-strieborna-200g-m2/",
+    "price": "13.2 €",
+    "stock_quantity": 68,
+    "attributes": [],
+    "sku": "SKU9793476",
+    "regular_price": 13.2,
+    "sale_price": 13.2,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do dreva plochý 8x152mm",
+    "link": "https://www.svx.sk/naradie-ploche-1/vrtak-do-dreva-plochy-80152-alpen_19100/",
+    "price": "3.71",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9766070",
+    "regular_price": 3.71,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko XD",
+    "link": "https://www.svx.sk/naradie-bez-priruby/koliesko-xd-xd-v12515c_11460/",
+    "price": "3.96",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9794497",
+    "regular_price": 3.96,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Račňa s páčkou 1/4´´",
+    "link": "https://www.svx.sk/naradie-racne-hlavice-prislusenstvo/racna-s-packou-14_20156/",
+    "price": "18.23",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9784191",
+    "regular_price": 18.23,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WIHA    Bit wiha TX10x25 mm",
+    "link": "https://www.svx.sk/naradie-wiha/bit-wiha-tx10x25-mm-tx10x25mm_9098/",
+    "price": "0.8083",
+    "stock_quantity": 23,
+    "attributes": [],
+    "sku": "SKU9742483",
+    "regular_price": 0.8083,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "BOSCH    Bit TX25x49 mm",
+    "link": "https://www.svx.sk/naradie-bosch/bit-tx25x49-mm-tx25x49-mm_13589/",
+    "price": "3.06",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9752980",
+    "regular_price": 3.06,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "BOSCH    Bit TX40x49 mm",
+    "link": "https://www.svx.sk/naradie-bosch/bit-tx40x49-mm-tx40x49-mm_13595/",
+    "price": "5.16",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9743740",
+    "regular_price": 5.16,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Nožnice na káble 165 mm zaisťovacie",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/noznice-na-kable-165-mm-zaistovacie-vde-knipex_21356/",
+    "price": "70.61",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9752148",
+    "regular_price": 70.61,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Organizér Domino 36-364x268x66mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/organizer-domino-36-org36domczapg011_13649/",
+    "price": "6.99",
+    "stock_quantity": 42,
+    "attributes": [],
+    "sku": "SKU9799065",
+    "regular_price": 6.99,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    Nôž olamovací kov / guma 18mm",
+    "link": "https://www.svx.sk/naradie-noze/noz-olamovaci-kovovy-18mm_12545/",
+    "price": "2.88",
+    "stock_quantity": 17,
+    "attributes": [],
+    "sku": "SKU9769606",
+    "regular_price": 2.88,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Bit magnetický PZ2x90 mm - 10ks",
+    "link": "https://www.svx.sk/naradie-90-mm/bit-magneticky-pz2x90-mm-svxtools_21400/",
+    "price": "7.76",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9718403",
+    "regular_price": 7.76,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Vedro pre obkladačov 20L",
+    "link": "https://www.svx.sk/naradie-stavebne-vedra/vedro-pre-obkladacov-20l_5073/",
+    "price": "15.8",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9712577",
+    "regular_price": 15.8,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Sada vrtákov do železobetónu 3dielna",
+    "link": "https://www.svx.sk/naradie-sady-vrtakov/sada-vrtakov-do-zelezobetonu-6810mm_18907/",
+    "price": "7.8 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9749860",
+    "regular_price": 7.8,
+    "sale_price": 7.8,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vyrezávač diamantový M14-8mm",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-diamantove-vrtaky/vyrezavac-diamantovy-m14-8-mm_21330/",
+    "price": "5.4 €",
+    "stock_quantity": 62,
+    "attributes": [],
+    "sku": "SKU9795733",
+    "regular_price": 5.4,
+    "sale_price": 5.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vyrezávač diamantový M14-6mm",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-diamantove-vrtaky/vyrezavac-diamantovy-m14-6-mm_21320/",
+    "price": "5.4 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9721199",
+    "regular_price": 5.4,
+    "sale_price": 5.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vyrezávač diamantový M14-105mm",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-diamantove-vrtaky/vyrezavac-diamantovy-m14-105-mm_21341/",
+    "price": "34.8 €",
+    "stock_quantity": 14,
+    "attributes": [],
+    "sku": "SKU9720412",
+    "regular_price": 34.8,
+    "sale_price": 34.8,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Záhlbník do dreva 3mm",
+    "link": "https://www.svx.sk/naradie-zahlbniky/zahlbnik-3-mm-oren_19336/",
+    "price": "4.58",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9744112",
+    "regular_price": 4.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 6x250/320mm",
+    "link": "https://www.svx.sk/naradie-hadovite/vrtak-do-dreva-hadovity-6x250x320mm-oren_19349/",
+    "price": "6.24",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9717047",
+    "regular_price": 6.24,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do debnenia 18x550/600mm",
+    "link": "https://www.svx.sk/naradie-spiralove/vrtak-do-debnenia-18x550x600mm-oren_19334/",
+    "price": "19.77",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9772789",
+    "regular_price": 19.77,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Procraft    Rýchloupínacia matica RM14",
+    "link": "https://www.svx.sk/elektricke-naradi-procraft-prislusenstvo/rychloupinacia-matica-rm14/",
+    "price": "12.26 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9798176",
+    "regular_price": 12.26,
+    "sale_price": 12.26,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVX    Plachta zakrývacia 2x3m modro-strieborná 200g/m²",
+    "link": "https://www.svx.sk/naradie-krycie-plachty-200-g-m2/plachta-zakryvacia-2-3m-modro-strieborna-200g-m2/",
+    "price": "6.0 €",
+    "stock_quantity": 64,
+    "attributes": [],
+    "sku": "SKU9757527",
+    "regular_price": 6.0,
+    "sale_price": 6.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Sada vyrezávačov - diamant",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-diamantove-vrtaky/sada-vyrezavacov-diamant-6-8-10-20-35-50-68-mm_21321/",
+    "price": "72.0 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9785206",
+    "regular_price": 72.0,
+    "sale_price": 72.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FORTUM    Brity do olamovacieho noža - čierne 18mm",
+    "link": "https://www.svx.sk/naradie-nahradne-cepele/brity-do-olamovacieho-noza-cierne-18mm_12549/",
+    "price": "4.25",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU9792869",
+    "regular_price": 4.25,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    L-skrutkovač imbus HX 4",
+    "link": "https://www.svx.sk/naradie-imbus-hx/l-skrutkovac-imbus-hx-4_12769/",
+    "price": "6.12",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9757990",
+    "regular_price": 6.12,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    L-kľúče imbus sada 9 ks",
+    "link": "https://www.svx.sk/naradie-l-kluce-imbus/l-kluce-imbus-sada-9-ks_12794/",
+    "price": "5.31",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9732628",
+    "regular_price": 5.31,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač izolovaný PH0 x 60",
+    "link": "https://www.svx.sk/naradie-izolovane-ph/skrutkovac-izolovany-ph0-x-60_12680/",
+    "price": "5.35",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9783339",
+    "regular_price": 5.35,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada nástrčných kľúčov a bitov 1/4\" - 1/2\"",
+    "link": "https://www.svx.sk/naradie-sady/sada-nastrcnych-klucov-a-bitov-14-12-56-dielna-14-12_12740/",
+    "price": "119.41",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9784319",
+    "regular_price": 119.41,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    L-skrutkovač imbus HX 5",
+    "link": "https://www.svx.sk/naradie-imbus-hx/l-skrutkovac-imbus-hx-5_12768/",
+    "price": "7.37",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9724568",
+    "regular_price": 7.37,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovače izolované 6-dielna sada",
+    "link": "https://www.svx.sk/naradie-sady/skrutkovace-izolovane-6-dielna-sada-vde-plph-6ks-proxxon_12809/",
+    "price": "34.09",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9744975",
+    "regular_price": 34.09,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Kliešte lisovacie 280mm",
+    "link": "https://www.svx.sk/lana-retaze-a-stahovacie-pasky-klieste-na-ocelove-lana/klieste-lisovacie-280mm-lis-1-25mm_7109/",
+    "price": "29.04",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9752325",
+    "regular_price": 29.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Kliešte lisovacie 760mm",
+    "link": "https://www.svx.sk/lana-retaze-a-stahovacie-pasky-klieste-na-ocelove-lana/klieste-lisovacie-760mm-lis-5-8mm_7113/",
+    "price": "145.2",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9772791",
+    "regular_price": 145.2,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Kliešte lisovacie 460mm",
+    "link": "https://www.svx.sk/lana-retaze-a-stahovacie-pasky-klieste-na-ocelove-lana/klieste-lisovacie-460mm-lis-15-45mm_7112/",
+    "price": "66.0",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9760396",
+    "regular_price": 66.0,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Kliešte lisovacie 610mm",
+    "link": "https://www.svx.sk/lana-retaze-a-stahovacie-pasky-klieste-na-ocelove-lana/klieste-lisovacie-610mm-lis-1-6mm_7111/",
+    "price": "105.6",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9750454",
+    "regular_price": 105.6,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Kliešte lisovacie 350mm",
+    "link": "https://www.svx.sk/lana-retaze-a-stahovacie-pasky-klieste-na-ocelove-lana/klieste-lisovacie-350mm-lis-15-45mm_7110/",
+    "price": "79.2",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9725335",
+    "regular_price": 79.2,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Kliešte odizolovacie automatické 180 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/klieste-odizolovacie-automaticke-180-mm-180mm-knipex_13445/",
+    "price": "44.46",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9734708",
+    "regular_price": 44.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Nôž odizolovací 165 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/noz-odizolovaci-165-mm-165-mm-knipex_13446/",
+    "price": "26.68",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9720066",
+    "regular_price": 26.68,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "BOSCH    Bit PZ1x49 mm",
+    "link": "https://www.svx.sk/naradie-bosch/bit-pz1x49-mm-pz1x49-mm_13569/",
+    "price": "2.9",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9752107",
+    "regular_price": 2.9,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "BOSCH    Bit PZ2x49 mm",
+    "link": "https://www.svx.sk/naradie-bosch/bit-pz2x49-mm-pz2x49-mm_13571/",
+    "price": "3.1",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9794103",
+    "regular_price": 3.1,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Ceruzka tesárska",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/ceruzka-tesarska-pica-540_21231/",
+    "price": "1.51",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9766994",
+    "regular_price": 1.51,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Fixka s okrúhlym hrotom laková - čierna",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/fixka-s-okruhlym-hrotom-lakova-cierna-524_21254/",
+    "price": "3.92",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9775013",
+    "regular_price": 3.92,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Fixka s okrúhlym hrotom laková - biela",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/fixka-s-okruhlym-hrotom-lakova-biela-524_21255/",
+    "price": "3.92",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9716761",
+    "regular_price": 3.92,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Toolbox HD Compact Logic 445x350x300mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/toolbox-hd-compact-logic-skrclhdpzczapg011_13605/",
+    "price": "18.33",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9746130",
+    "regular_price": 18.33,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Skrinka Toolbox formula S Alu 500 462x256x242mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/skrinka-toolbox-formula-s-alu-500-skrs500frcczapg011_13625/",
+    "price": "16.44",
+    "stock_quantity": 14,
+    "attributes": [],
+    "sku": "SKU9796240",
+    "regular_price": 16.44,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Skrinka Toolbox formula S Alu 700 595x289x328mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/skrinka-toolbox-formula-s-alu-700-skrs700frcczapg011_13635/",
+    "price": "23.53",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9716407",
+    "regular_price": 23.53,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PATROL GROUP    Sada pre začiatočníkov 350 set 345x385x90mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/sada-pre-zaciatocnikov-350-set-z212379_19634/",
+    "price": "8.1",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU9737985",
+    "regular_price": 8.1,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "QBRICK    Box QBRICK® System One 200 Profi 15,5L",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/box-qbrick-system-one-200-profi_5851/",
+    "price": "53.59",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9733882",
+    "regular_price": 53.59,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Tracon electric    Kliešte lisovacie k dutinkám 10-35mm²",
+    "link": "https://www.svx.sk/naradie-klieste-lisovacie/klieste-lisovacie-k-dutinkam-10-35mm2_4233/",
+    "price": "29.81",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9770384",
+    "regular_price": 29.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    Meter zvinovací pogumovaný 10m",
+    "link": "https://www.svx.sk/naradie-metre-a-pasma/meter-zvinovaci-pogumovany-10m_12580/",
+    "price": "9.58",
+    "stock_quantity": 52,
+    "attributes": [],
+    "sku": "SKU9795864",
+    "regular_price": 9.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Kľúč vidlicový - nastaviteľný 24,5mm",
+    "link": "https://www.svx.sk/naradie-nastavitelne/kluc-vidlicovy-nastavitelny-rg-200-245mm-proxxon_20113/",
+    "price": "22.81",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9794107",
+    "regular_price": 22.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Stavebná lyžica štukatérska nerezová 120mm",
+    "link": "https://www.svx.sk/naradie-murarske-lyzice-a-naberacky/stavebna-lyzica-stukaterska-nerezova-120mm_4947/",
+    "price": "6.43",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9770333",
+    "regular_price": 6.43,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Stavebná lyžica štukatérska nerezová 100mm",
+    "link": "https://www.svx.sk/naradie-murarske-lyzice-a-naberacky/stavebna-lyzica-stukaterska-nerezova-100mmdvojzlozkova-rukovat_4949/",
+    "price": "9.05",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9747119",
+    "regular_price": 9.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Hladítko plastové s celulózovou hubou 140x280mm",
+    "link": "https://www.svx.sk/naradie-hladidla-s-hubkou/hladitko-plastove-s-celulozovou-hubou-140x280_12097/",
+    "price": "14.83",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9722561",
+    "regular_price": 14.83,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Hladítko nerezové hladké 130x270mm",
+    "link": "https://www.svx.sk/naradie-hladidla-kovove/hladitko-nerezove-hladke-130x270mmdvojzlozkova-rukovat_4919/",
+    "price": "8.32",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9768976",
+    "regular_price": 8.32,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Hladítko nerezové zubové zub 12x12 130x270mm",
+    "link": "https://www.svx.sk/naradie-hladidla-kovove/hladitko-nerezove-zubove-zub-12x12-130x270mmplastova-rukovat_4910/",
+    "price": "6.64",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9763938",
+    "regular_price": 6.64,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Hladítko nerezové s polguľatým zubami 130x270mm",
+    "link": "https://www.svx.sk/naradie-hladidla-kovove/hladitko-nerezove-s-polgulatym-zubami-130x270mm_4918/",
+    "price": "8.75",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9715858",
+    "regular_price": 8.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Stierka nerezová na fasády 600mm",
+    "link": "https://www.svx.sk/naradie-murarske-spachtle-a-stierky/stierka-nerezova-na-fasady-600mm_4929/",
+    "price": "17.57",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9738079",
+    "regular_price": 17.57,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Bit magnetický TX30x25 mm - 25ks",
+    "link": "https://www.svx.sk/naradie-25-mm/bit-magneticky-tx30x25-mm-svxtools_21416/",
+    "price": "5.56",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9751524",
+    "regular_price": 5.56,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Držiak na metlu nalepovací 35x85x52mm",
+    "link": "https://www.svx.sk/naradie-drziaky/drziak-na-metlu-nalepovaci-35x85x52mm_20835/",
+    "price": "7.06",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9744058",
+    "regular_price": 7.06,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Procraft    Pílový kotúč B185.40",
+    "link": "https://www.svx.sk/elektricke-naradi-procraft-prislusenstvo/pilovy-kotuc-185mm-b185-40/",
+    "price": "6.24 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9798702",
+    "regular_price": 6.24,
+    "sale_price": 6.24,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vrták korunkový SDS+ 68mm",
+    "link": "https://www.svx.sk/naradie-korunkove-vrtaky/vrtak-korunkovy-sds-m2268mm_21323/",
+    "price": "10.8 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9742910",
+    "regular_price": 10.8,
+    "sale_price": 10.8,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vrták korunkový SDS+ 79mm",
+    "link": "https://www.svx.sk/naradie-korunkove-vrtaky/vrtak-korunkovy-sds-m2279mm_21345/",
+    "price": "13.2 €",
+    "stock_quantity": 235,
+    "attributes": [],
+    "sku": "SKU9723511",
+    "regular_price": 13.2,
+    "sale_price": 13.2,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vrták korunkový SDS+ 115mm",
+    "link": "https://www.svx.sk/naradie-korunkove-vrtaky/vrtak-korunkovy-sds-m22115mm_21347/",
+    "price": "26.4 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9745394",
+    "regular_price": 26.4,
+    "sale_price": 26.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vrták korunkový SDS+ 125mm",
+    "link": "https://www.svx.sk/naradie-korunkove-vrtaky/vrtak-korunkovy-sds-m22125mm_21348/",
+    "price": "27.6 €",
+    "stock_quantity": 76,
+    "attributes": [],
+    "sku": "SKU9732106",
+    "regular_price": 27.6,
+    "sale_price": 27.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vyrezávač diamantový M14-45mm",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-diamantove-vrtaky/vyrezavac-diamantovy-m14-45-mm_21336/",
+    "price": "14.4 €",
+    "stock_quantity": 54,
+    "attributes": [],
+    "sku": "SKU9795613",
+    "regular_price": 14.4,
+    "sale_price": 14.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Vyrezávač diamantový M14-72mm",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-diamantove-vrtaky/vyrezavac-diamantovy-m14-72-mm_21340/",
+    "price": "22.8 €",
+    "stock_quantity": 13,
+    "attributes": [],
+    "sku": "SKU9791750",
+    "regular_price": 22.8,
+    "sale_price": 22.8,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Sekáč SDS plus - plochý 400x40mm",
+    "link": "https://www.svx.sk/naradie-sekace-sds/sekac-sds-plus-plochy-40400-svxtools_21368/",
+    "price": "3.48 €",
+    "stock_quantity": 416,
+    "attributes": [],
+    "sku": "SKU9712940",
+    "regular_price": 3.48,
+    "sale_price": 3.48,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Sekáč SDS plus - plochý 400x20mm",
+    "link": "https://www.svx.sk/naradie-sekace-sds/sekac-sds-plus-plochy-20400-svxtools_21369/",
+    "price": "3.0 €",
+    "stock_quantity": 421,
+    "attributes": [],
+    "sku": "SKU9798859",
+    "regular_price": 3.0,
+    "sale_price": 3.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Sada vyrezávačov - diamant (20-68mm)",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-diamantove-vrtaky/sada-vyrezavacov-diamant-20-35-45-55-68-mm_21322/",
+    "price": "84.0 €",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU9724305",
+    "regular_price": 84.0,
+    "sale_price": 84.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Sada vrtákov Brick PZ5-5dielna",
+    "link": "https://www.svx.sk/naradie-sady-vrtakov/sada-vrtakov-brick-pz5-4-10mm_6185/",
+    "price": "17.6 €",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9766398",
+    "regular_price": 17.6,
+    "sale_price": 17.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do dreva plochý 14x152mm",
+    "link": "https://www.svx.sk/naradie-ploche-1/vrtak-do-dreva-plochy-140152-alpen_19104/",
+    "price": "4.46",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9767062",
+    "regular_price": 4.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do dreva plochý 40x152mm",
+    "link": "https://www.svx.sk/naradie-ploche-1/vrtak-do-dreva-plochy-400152-alpen_19119/",
+    "price": "17.39",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9729982",
+    "regular_price": 17.39,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Záhlbník do dreva 5mm",
+    "link": "https://www.svx.sk/naradie-zahlbniky/zahlbnik-do-dreva-5-mm-oren_19338/",
+    "price": "4.58",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9762221",
+    "regular_price": 4.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Záhlbník do dreva 4mm",
+    "link": "https://www.svx.sk/naradie-zahlbniky/zahlbnik-do-dreva-4-mm-oren_19337/",
+    "price": "4.58",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9794911",
+    "regular_price": 4.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Záhlbník do dreva 6mm",
+    "link": "https://www.svx.sk/naradie-zahlbniky/zahlbnik-do-dreva-6-mm-oren_19339/",
+    "price": "4.58",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9772063",
+    "regular_price": 4.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Záhlbník do dreva 8mm",
+    "link": "https://www.svx.sk/naradie-zahlbniky/zahlbnik-do-dreva-8-mm-oren_19340/",
+    "price": "3.98",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9748345",
+    "regular_price": 3.98,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do mramoru 12x90/150mm",
+    "link": "https://www.svx.sk/naradie-vrtaky-do-roznych-materialov/vrtak-do-mramoru-12x150mm_18961/",
+    "price": "11.12",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9747735",
+    "regular_price": 11.12,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FORTUM    Kliešte polguľaté priame 160 mm",
+    "link": "https://www.svx.sk/naradie-klieste-a-noznice/klieste-polgulate-priame-160-mm-160mm-fortum_19486/",
+    "price": "8.24",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9769205",
+    "regular_price": 8.24,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "BOSCH    Vrták SDS plus-1 14x400/460mm",
+    "link": "https://www.svx.sk/naradie-vrtaky-do-betonu/vrtak-sds-plus-1-14x400x460mm_13168/",
+    "price": "8.04",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9735318",
+    "regular_price": 8.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do železa HSS 5x52/86mm",
+    "link": "https://www.svx.sk/naradie-hss/vrtak-do-zeleza-hss-50-hss-super-do-zeleza_19185/",
+    "price": "1.88",
+    "stock_quantity": 49,
+    "attributes": [],
+    "sku": "SKU9767296",
+    "regular_price": 1.88,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do železa HSS 8,5x75/117mm",
+    "link": "https://www.svx.sk/naradie-hss/vrtak-do-zeleza-hss-85-hss-super-do-zeleza_19225/",
+    "price": "6.03",
+    "stock_quantity": 37,
+    "attributes": [],
+    "sku": "SKU9788230",
+    "regular_price": 6.03,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do železa HSS 10x87/133mm",
+    "link": "https://www.svx.sk/naradie-hss/vrtak-do-zeleza-hss-100-hss-super-do-zeleza_19240/",
+    "price": "8.22",
+    "stock_quantity": 28,
+    "attributes": [],
+    "sku": "SKU9753025",
+    "regular_price": 8.22,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do železa HSS 8,7x81/125mm",
+    "link": "https://www.svx.sk/naradie-hss/vrtak-do-zeleza-hss-87-hss-super-do-zeleza_19227/",
+    "price": "6.42",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU9773075",
+    "regular_price": 6.42,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták HSS zúžený 14,5x114/169mm",
+    "link": "https://www.svx.sk/naradie-hss/vrtak-hss-zuzeny-145x114x169mm_5533/",
+    "price": "9.42",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9718085",
+    "regular_price": 9.42,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 6x50/90mm",
+    "link": "https://www.svx.sk/naradie-spiralove/vrtak-do-dreva-6x50x90mm-oren_19301/",
+    "price": "1.46",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9713470",
+    "regular_price": 1.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 4x40/75mm",
+    "link": "https://www.svx.sk/naradie-spiralove/vrtak-do-dreva-4x40x75mm-oren_19297/",
+    "price": "1.46",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9745383",
+    "regular_price": 1.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 6x400/460mm",
+    "link": "https://www.svx.sk/naradie-hadovite/vrtak-do-dreva-6x400x460mm-oren-hadovity_19357/",
+    "price": "7.91",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9752503",
+    "regular_price": 7.91,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 16x400/460mm",
+    "link": "https://www.svx.sk/naradie-hadovite/vrtak-do-dreva-hadovity-16x400x460mm-oren_19362/",
+    "price": "13.46",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9747428",
+    "regular_price": 13.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 10x165/235mm",
+    "link": "https://www.svx.sk/naradie-hadovite/vrtak-do-dreva-hadovity-10x165x235mm-oren_19343/",
+    "price": "4.99",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9782196",
+    "regular_price": 4.99,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 5x45/85mm",
+    "link": "https://www.svx.sk/naradie-spiralove/vrtak-do-dreva-5x45x85mm-oren_19300/",
+    "price": "1.46",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9737341",
+    "regular_price": 1.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 8x60/115mm",
+    "link": "https://www.svx.sk/naradie-spiralove/vrtak-do-dreva-8x60x115mm-oren_19303/",
+    "price": "1.87",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9795096",
+    "regular_price": 1.87,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 8x165/235mm",
+    "link": "https://www.svx.sk/naradie-hadovite/vrtak-do-dreva-hadovity-8x165x235mm-oren_19346/",
+    "price": "5.61",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9715112",
+    "regular_price": 5.61,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Vrták do dreva 20x250/320mm",
+    "link": "https://www.svx.sk/naradie-hadovite/vrtak-do-dreva-hadovity-20250320mm-oren_19356/",
+    "price": "13.26",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9717887",
+    "regular_price": 13.26,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVX    Plachta zakrývacia 5x8m tmavá zelená 65g/m²",
+    "link": "https://www.svx.sk/naradie-krycie-plachty-65-g-m2/plachta-zakryvacia-5-8m-tmava-zelena-65g-m2/",
+    "price": "12.0 €",
+    "stock_quantity": 89,
+    "attributes": [],
+    "sku": "SKU9737943",
+    "regular_price": 12.0,
+    "sale_price": 12.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVX    Plachta zakrývacia 4x6m modro-strieborná 200g/m2",
+    "link": "https://www.svx.sk/naradie-krycie-plachty-200-g-m2/plachta-zakryvacia-4-6m-modro-strieborna-200g-m2/",
+    "price": "20.4 €",
+    "stock_quantity": 70,
+    "attributes": [],
+    "sku": "SKU9790593",
+    "regular_price": 20.4,
+    "sale_price": 20.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Záhlbník do dreva 5mm",
+    "link": "https://www.svx.sk/naradie-zahlbniky/zahlbnik-do-dreva-5-mm-oren_19338/",
+    "price": "4.58",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9719508",
+    "regular_price": 4.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Záhlbník do dreva 4mm",
+    "link": "https://www.svx.sk/naradie-zahlbniky/zahlbnik-do-dreva-4-mm-oren_19337/",
+    "price": "4.58",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9725844",
+    "regular_price": 4.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Záhlbník do dreva 6mm",
+    "link": "https://www.svx.sk/naradie-zahlbniky/zahlbnik-do-dreva-6-mm-oren_19339/",
+    "price": "4.58",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9724956",
+    "regular_price": 4.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "OREN    Záhlbník do dreva 8mm",
+    "link": "https://www.svx.sk/naradie-zahlbniky/zahlbnik-do-dreva-8-mm-oren_19340/",
+    "price": "3.98",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9783642",
+    "regular_price": 3.98,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Vrták do mramoru 12x90/150mm",
+    "link": "https://www.svx.sk/naradie-vrtaky-do-roznych-materialov/vrtak-do-mramoru-12x150mm_18961/",
+    "price": "11.12",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9744426",
+    "regular_price": 11.12,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "BOSCH    Vrták SDS plus-1 14x400/460mm",
+    "link": "https://www.svx.sk/naradie-vrtaky-do-betonu/vrtak-sds-plus-1-14x400x460mm_13168/",
+    "price": "8.04",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9761363",
+    "regular_price": 8.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Mars Svratka a.s.    MARS Skrinka 25 M - modrá 306x238x145mm",
+    "link": "https://www.svx.sk/naradie-boxy-na-naradie/mars-skrinka-25-m-modra-6742_21284/",
+    "price": "33.05",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9748140",
+    "regular_price": 33.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Procraft    Zváračka polyfúzna, platňová PL2000",
+    "link": "https://www.svx.sk/elektricke-naradie-procraft-elektricke-naradie/zvaracka-polyfuzna-platnova-pl2000/",
+    "price": "57.16",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9715380",
+    "regular_price": 57.16,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky červené",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-cervene-4031_20078/",
+    "price": "11.81",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9743387",
+    "regular_price": 11.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Kefa WB30 na zámkovú dlažbu",
+    "link": "https://www.svx.sk/naradie-zahradne-naradie/kefa-wb30-na-zamkovu-dlazbu_6369/",
+    "price": "3.81",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9750735",
+    "regular_price": 3.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Nôž na burinu WE1635",
+    "link": "https://www.svx.sk/naradie-zahradne-naradie/noz-na-burinu-we1635_6376/",
+    "price": "3.41",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9733827",
+    "regular_price": 3.41,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Oberač ovocia FC78 na palicu",
+    "link": "https://www.svx.sk/naradie-zahradne-naradie/oberac-ovocia-fc78-na-palicu_6377/",
+    "price": "5.13",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9766563",
+    "regular_price": 5.13,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Kliešte lisovacie mini 250mm",
+    "link": "https://www.svx.sk/lana-retaze-a-stahovacie-pasky-klieste-na-ocelove-lana/klieste-lisovacie-mini-250mm-lis-1-15mm_7108/",
+    "price": "17.16",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9713422",
+    "regular_price": 17.16,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    L-skrutkovač imbus HX 2",
+    "link": "https://www.svx.sk/naradie-imbus-hx/l-skrutkovac-imbus-hx-2_12772/",
+    "price": "5.45",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9733432",
+    "regular_price": 5.45,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň TPE 88 RUBBERJET 1,75mm červená",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-tpe-88-rubberjet-175mm-cervena-cervena_7226/",
+    "price": "49.55",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9760821",
+    "regular_price": 49.55,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA+ 1,75mm čierna",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-cierna-cierna_7228/",
+    "price": "48.05",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9756242",
+    "regular_price": 48.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm biela",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-biela-biela_7242/",
+    "price": "48.05",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9752587",
+    "regular_price": 48.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm fluo. oranžová",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-fluo-oranzova-fluo-oranzova_7243/",
+    "price": "42.23",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9755688",
+    "regular_price": 42.23,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm oranžová",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-oranzova-oranzova_7245/",
+    "price": "47.58",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9734443",
+    "regular_price": 47.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm perl. červená",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-perl-cervena-perl-cervena_7246/",
+    "price": "42.23",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9762333",
+    "regular_price": 42.23,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm perl. modrá",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-perl-modra-perl-modra_7247/",
+    "price": "48.05",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9734208",
+    "regular_price": 48.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm ružová",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-ruzova-ruzova_7249/",
+    "price": "47.11",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9772045",
+    "regular_price": 47.11,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    L-skrutkovač imbus HX 10",
+    "link": "https://www.svx.sk/naradie-imbus-hx/l-skrutkovac-imbus-hx-10_12764/",
+    "price": "14.12",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9710187",
+    "regular_price": 14.12,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    L-skrutkovač imbus HX 8",
+    "link": "https://www.svx.sk/naradie-imbus-hx/l-skrutkovac-imbus-hx-8_12765/",
+    "price": "10.65",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9744246",
+    "regular_price": 10.65,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko XD",
+    "link": "https://www.svx.sk/naradie-bez-priruby/koliesko-xd-xd-v07512c_11455/",
+    "price": "1.61",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9792895",
+    "regular_price": 1.61,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521",
+    "link": "https://www.svx.sk/naradie-otocne/koliesko-521-xd-v075s-z_11456/",
+    "price": "5.25",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9774926",
+    "regular_price": 5.25,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521F",
+    "link": "https://www.svx.sk/naradie-s-brzdou/koliesko-521f-xd-v075s-z_11457/",
+    "price": "8.18",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9774667",
+    "regular_price": 8.18,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko XD",
+    "link": "https://www.svx.sk/naradie-bez-priruby/koliesko-xd-xd-v08512c_11458/",
+    "price": "1.98",
+    "stock_quantity": 14,
+    "attributes": [],
+    "sku": "SKU9739778",
+    "regular_price": 1.98,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko XD",
+    "link": "https://www.svx.sk/naradie-bez-priruby/koliesko-xd-xd-v10012c_11459/",
+    "price": "2.69",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9773723",
+    "regular_price": 2.69,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko XD",
+    "link": "https://www.svx.sk/naradie-bez-priruby/koliesko-xd-xd-v20020c_11462/",
+    "price": "11.94",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9778037",
+    "regular_price": 11.94,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko XD",
+    "link": "https://www.svx.sk/naradie-bez-priruby/koliesko-xd-xd-v25020c_11463/",
+    "price": "18.76",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9761126",
+    "regular_price": 18.76,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521",
+    "link": "https://www.svx.sk/naradie-otocne/koliesko-521-xd-v085c-z_11464/",
+    "price": "5.81",
+    "stock_quantity": 13,
+    "attributes": [],
+    "sku": "SKU9733616",
+    "regular_price": 5.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521",
+    "link": "https://www.svx.sk/naradie-otocne/koliesko-521-xd-v100c-z-dm_11465/",
+    "price": "7.72",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9717957",
+    "regular_price": 7.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521",
+    "link": "https://www.svx.sk/naradie-otocne/koliesko-521-xd-v125c-z_11466/",
+    "price": "9.2",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9795116",
+    "regular_price": 9.2,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521",
+    "link": "https://www.svx.sk/naradie-otocne/koliesko-521-xd-v160c-z-dm_11467/",
+    "price": "17.42",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9725062",
+    "regular_price": 17.42,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521",
+    "link": "https://www.svx.sk/naradie-otocne/koliesko-521-xd-v200c-z-dm_11468/",
+    "price": "22.44",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9795231",
+    "regular_price": 22.44,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521F",
+    "link": "https://www.svx.sk/naradie-s-brzdou/koliesko-521f-xd-v085c-z_11473/",
+    "price": "8.98",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9762554",
+    "regular_price": 8.98,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521F",
+    "link": "https://www.svx.sk/naradie-s-brzdou/koliesko-521f-xd-v125c-z_11476/",
+    "price": "11.94",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9788770",
+    "regular_price": 11.94,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521F",
+    "link": "https://www.svx.sk/naradie-s-brzdou/koliesko-521f-xd-v100c-z-dm_11475/",
+    "price": "10.82",
+    "stock_quantity": 13,
+    "attributes": [],
+    "sku": "SKU9750483",
+    "regular_price": 10.82,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 531",
+    "link": "https://www.svx.sk/naradie-pevne/koliesko-531-xd-v160c-z-dm_11484/",
+    "price": "15.05",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9791894",
+    "regular_price": 15.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 531",
+    "link": "https://www.svx.sk/naradie-pevne/koliesko-531-xd-v200c-z-dm_11485/",
+    "price": "16.13",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9778007",
+    "regular_price": 16.13,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 551",
+    "link": "https://www.svx.sk/naradie-bez-priruby/koliesko-551-xd-v125c-z_11486/",
+    "price": "8.85",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9795500",
+    "regular_price": 8.85,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 521F",
+    "link": "https://www.svx.sk/naradie-s-brzdou/koliesko-521f-xd-v160c-z_11479/",
+    "price": "20.86",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9753202",
+    "regular_price": 20.86,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 531",
+    "link": "https://www.svx.sk/naradie-pevne/koliesko-531-xd-v075s-z_11480/",
+    "price": "4.22",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9718440",
+    "regular_price": 4.22,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 531",
+    "link": "https://www.svx.sk/naradie-pevne/koliesko-531-xd-v085c-z_11481/",
+    "price": "4.38",
+    "stock_quantity": 14,
+    "attributes": [],
+    "sku": "SKU9748405",
+    "regular_price": 4.38,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko 531",
+    "link": "https://www.svx.sk/naradie-pevne/koliesko-531-xd-v100c-z-dm_11482/",
+    "price": "6.07",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9752270",
+    "regular_price": 6.07,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Sada vrtákov do kovu Sprint Master - 25dielna",
+    "link": "https://www.svx.sk/naradie-sady-vrtakov/sada-vrtakov-do-kovu-sprint-master-25dielna-km25_5803/",
+    "price": "117.59 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9762707",
+    "regular_price": 117.59,
+    "sale_price": 117.59,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FORTUM    Pištoľ na PUR peny - teflónová",
+    "link": "https://www.svx.sk/naradie-pistole-na-silikony-a-pur-peny/pistol-na-pur-peny-teflonova_5811/",
+    "price": "29.89 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9734520",
+    "regular_price": 29.89,
+    "sale_price": 29.89,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    Pištoľ na PUR peny - plast/kov",
+    "link": "https://www.svx.sk/naradie-pistole-na-silikony-a-pur-peny/pistol-na-pur-peny-plastkov_5818/",
+    "price": "9.88 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9787950",
+    "regular_price": 9.88,
+    "sale_price": 9.88,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Sada vrtákov do kovu Sprint Master - 25dielna",
+    "link": "https://www.svx.sk/naradie-sady-vrtakov/sada-vrtakov-do-kovu-sprint-master-25dielna-kp25_5820/",
+    "price": "72.25 €",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9712083",
+    "regular_price": 72.25,
+    "sale_price": 72.25,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "ALPEN    Sada vrtákov + bity",
+    "link": "https://www.svx.sk/naradie-sady-vrtakov/sada-vrtakov-bity-kit13_5825/",
+    "price": "70.83 €",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9784464",
+    "regular_price": 70.83,
+    "sale_price": 70.83,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RAWLPLUG    Nastreľovacia plynová pištoľ do dreva",
+    "link": "https://www.svx.sk/naradie-nastrelovacie-pistole/nastrelovacia-plynova-pistol-do-dreva_6278/",
+    "price": "628.2",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9792067",
+    "regular_price": 628.2,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RAWLPLUG    Plynová kartuša pre SC40II",
+    "link": "https://www.svx.sk/naradie-nastrelovacie-pistole/plynova-kartusa-pre-sc40ii-40ml32g_6280/",
+    "price": "13.97",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9729003",
+    "regular_price": 13.97,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WIHA    Bit wiha PZ1x25 mm",
+    "link": "https://www.svx.sk/naradie-wiha/bit-wiha-pz1x25-mm-pz1x25mm_9092/",
+    "price": "0.6973",
+    "stock_quantity": 189,
+    "attributes": [],
+    "sku": "SKU9755243",
+    "regular_price": 0.6973,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WIHA    Bit wiha PH1x25 mm",
+    "link": "https://www.svx.sk/naradie-wiha/bit-wiha-ph1x25-mm-ph1x25mm_9095/",
+    "price": "1.26",
+    "stock_quantity": 161,
+    "attributes": [],
+    "sku": "SKU9715135",
+    "regular_price": 1.26,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WIHA    Bit wiha PH3x25 mm",
+    "link": "https://www.svx.sk/naradie-wiha/bit-wiha-ph3x25-mm-ph3x25mm_9097/",
+    "price": "0.6973",
+    "stock_quantity": 183,
+    "attributes": [],
+    "sku": "SKU9777611",
+    "regular_price": 0.6973,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WIHA    Bit wiha TX20x25 mm",
+    "link": "https://www.svx.sk/naradie-wiha/bit-wiha-tx20x25-mm-tx20x25mm_9100/",
+    "price": "1.03",
+    "stock_quantity": 59,
+    "attributes": [],
+    "sku": "SKU9784906",
+    "regular_price": 1.03,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "BOSCH    32-dielna sada bitov s farebným označením",
+    "link": "https://www.svx.sk/naradie-bosch/32-dielna-sada-bitov-s-farebnym-oznacenim-32ks-bosch_9103/",
+    "price": "17.98",
+    "stock_quantity": 27,
+    "attributes": [],
+    "sku": "SKU9783330",
+    "regular_price": 17.98,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WIHA    Bit wiha TX50x35 mm",
+    "link": "https://www.svx.sk/naradie-wiha/bit-wiha-tx50x35-mm-tx50x35mm_9120/",
+    "price": "6.02",
+    "stock_quantity": 13,
+    "attributes": [],
+    "sku": "SKU9784639",
+    "regular_price": 6.02,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "BOSCH    Diamantový rezný kotúč 115",
+    "link": "https://www.svx.sk/naradie-diamantove-kotuce/diamantovy-rezny-kotuc-115-115mm_13775/",
+    "price": "17.73",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9784887",
+    "regular_price": 17.73,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač PH0 x 60 mm",
+    "link": "https://www.svx.sk/naradie-krizove-ph/skrutkovac-ph0-x-60-mm_12663/",
+    "price": "3.72",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9774662",
+    "regular_price": 3.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač PH1 x 80",
+    "link": "https://www.svx.sk/naradie-krizove-ph/skrutkovac-ph1-x-80_12666/",
+    "price": "4.97",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9787330",
+    "regular_price": 4.97,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač PH2 x 100",
+    "link": "https://www.svx.sk/naradie-krizove-ph/skrutkovac-ph2-x-100_12667/",
+    "price": "5.51",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9791668",
+    "regular_price": 5.51,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač PH3 x 150",
+    "link": "https://www.svx.sk/naradie-krizove-ph/skrutkovac-ph3-x-150_12668/",
+    "price": "8.4",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9786840",
+    "regular_price": 8.4,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač PZ0 x 60",
+    "link": "https://www.svx.sk/naradie-krizove-pz/skrutkovac-pz0-x-60_12669/",
+    "price": "3.65",
+    "stock_quantity": 14,
+    "attributes": [],
+    "sku": "SKU9743911",
+    "regular_price": 3.65,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač PZ1 x 80",
+    "link": "https://www.svx.sk/naradie-krizove-pz/skrutkovac-pz1-x-80_12670/",
+    "price": "4.9",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9794224",
+    "regular_price": 4.9,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač PZ2 x 100",
+    "link": "https://www.svx.sk/naradie-krizove-pz/skrutkovac-pz2-x-100_12671/",
+    "price": "5.59",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9746790",
+    "regular_price": 5.59,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač PZ3 x 150",
+    "link": "https://www.svx.sk/naradie-krizove-pz/skrutkovac-pz3-x-150_12672/",
+    "price": "8.43",
+    "stock_quantity": 13,
+    "attributes": [],
+    "sku": "SKU9738154",
+    "regular_price": 8.43,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač TTX10 x 100",
+    "link": "https://www.svx.sk/naradie-torx-ttx/skrutkovac-ttx10-x-100_12675/",
+    "price": "5.56",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9777763",
+    "regular_price": 5.56,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koleso na kosačku",
+    "link": "https://www.svx.sk/naradie-samostatne-kolieska/koleso-lk-n1303012_11572/",
+    "price": "10.3",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9771205",
+    "regular_price": 10.3,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko LU",
+    "link": "https://www.svx.sk/naradie-samostatne-kolieska/koliesko-lu-n1204400_11573/",
+    "price": "44.43",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9789358",
+    "regular_price": 44.43,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RENOST    Koliesko LU",
+    "link": "https://www.svx.sk/naradie-samostatne-kolieska/koliesko-lu-n12044100_11574/",
+    "price": "57.17",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9756868",
+    "regular_price": 57.17,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Oporné koleso",
+    "link": "https://www.svx.sk/naradie-samostatne-kolieska/oporne-koleso_11575/",
+    "price": "28.72",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9766646",
+    "regular_price": 28.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Brennenstuhl    Skladacia kovová pracovná koza",
+    "link": "https://www.svx.sk/naradie-pracovne-stoly/skladacia-kovova-pracovna-koza-mb-120-kh_11943/",
+    "price": "41.13",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9738280",
+    "regular_price": 41.13,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Kľúče vidlicové , 8-dielna sada",
+    "link": "https://www.svx.sk/naradie-oko-vidlicove-vidlicove-ockove/kluce-vidlicove-8-dielna-sada-8-dielna-proxxon_12805/",
+    "price": "38.66",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9799271",
+    "regular_price": 38.66,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    L-kľúče imbus sada 9 ks - predĺžené",
+    "link": "https://www.svx.sk/naradie-l-kluce-imbus/l-kluce-imbus-sada-9-ks-predzene_12795/",
+    "price": "9.24",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9776164",
+    "regular_price": 9.24,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "EXTOL    L-kľúče imbus sada 9 ks",
+    "link": "https://www.svx.sk/naradie-l-kluce-imbus/l-kluce-imbus-sada-9-ks-cr-v-9-dielna_12796/",
+    "price": "8.08",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9797798",
+    "regular_price": 8.08,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FORTUM    L-kľúče imbus zástrčné - sada 9 ks",
+    "link": "https://www.svx.sk/naradie-l-kluce-imbus/l-kluce-imbus-zastrcne-sada-9-ks_12797/",
+    "price": "20.28",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9717752",
+    "regular_price": 20.28,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Kliešte lisovacie mini 250mm",
+    "link": "https://www.svx.sk/lana-retaze-a-stahovacie-pasky-klieste-na-ocelove-lana/klieste-lisovacie-mini-250mm-lis-1-15mm_7108/",
+    "price": "17.16",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9751035",
+    "regular_price": 17.16,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    L-skrutkovač imbus HX 2",
+    "link": "https://www.svx.sk/naradie-imbus-hx/l-skrutkovac-imbus-hx-2_12772/",
+    "price": "5.45",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9766665",
+    "regular_price": 5.45,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň TPE 88 RUBBERJET 1,75mm červená",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-tpe-88-rubberjet-175mm-cervena-cervena_7226/",
+    "price": "49.55",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9781316",
+    "regular_price": 49.55,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA+ 1,75mm čierna",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-cierna-cierna_7228/",
+    "price": "48.05",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9714972",
+    "regular_price": 48.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm biela",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-biela-biela_7242/",
+    "price": "48.05",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9712891",
+    "regular_price": 48.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm fluo. oranžová",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-fluo-oranzova-fluo-oranzova_7243/",
+    "price": "42.23",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9757628",
+    "regular_price": 42.23,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm oranžová",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-oranzova-oranzova_7245/",
+    "price": "47.58",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9714017",
+    "regular_price": 47.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm perl. červená",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-perl-cervena-perl-cervena_7246/",
+    "price": "42.23",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9787215",
+    "regular_price": 42.23,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm perl. modrá",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-perl-modra-perl-modra_7247/",
+    "price": "48.05",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9749887",
+    "regular_price": 48.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm ružová",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-ruzova-ruzova_7249/",
+    "price": "47.11",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9727214",
+    "regular_price": 47.11,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm strieborná",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-strieborna-strieborna_7250/",
+    "price": "42.23",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9755365",
+    "regular_price": 42.23,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm transparentná",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-transparentna-transparentna_7251/",
+    "price": "47.11",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9793907",
+    "regular_price": 47.11,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Filament PM    Filament pre 3D Tlačiareň PLA 1,75mm žltá",
+    "link": "https://www.svx.sk/naradie-filament/filament-pre-3d-tlaciaren-pla-175mm-zlta-zlta_7252/",
+    "price": "47.11",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9769827",
+    "regular_price": 47.11,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač aku - sada",
+    "link": "https://www.svx.sk/naradie-sady/skrutkovac-aku-sada-14-bity_20280/",
+    "price": "39.15",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9735061",
+    "regular_price": 39.15,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač plochý 5,5x125",
+    "link": "https://www.svx.sk/naradie-ploche/skrutkovac-plochy-55x125_12784/",
+    "price": "5.33",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9771361",
+    "regular_price": 5.33,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač gélový - žltý",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-gelovy-zlty_20971/",
+    "price": "11.42",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9729802",
+    "regular_price": 11.42,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač gélový - biely",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-gelovy-biely_20972/",
+    "price": "10.53",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9770189",
+    "regular_price": 10.53,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač gélový - čierny",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-gelovy-cierny_20973/",
+    "price": "10.52",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9789362",
+    "regular_price": 10.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada nástrčných kľúčov 3/8",
+    "link": "https://www.svx.sk/naradie-sady/sada-nastrcnych-klucov-38-24-dielna_20151/",
+    "price": "59.71",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9773165",
+    "regular_price": 59.71,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada nástrčných a zástrčných hlavíc",
+    "link": "https://www.svx.sk/naradie-sady/sada-nastrcnych-a-zastrcnych-hlavic-29-dielna_20108/",
+    "price": "83.48",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9727607",
+    "regular_price": 83.48,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada zástrčných hlavíc so šesťhranom",
+    "link": "https://www.svx.sk/naradie-sady/sada-zastrcnych-hlavic-so-sesthranom-18-dielna_20109/",
+    "price": "63.23",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9796074",
+    "regular_price": 63.23,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada račňových kľúčov",
+    "link": "https://www.svx.sk/naradie-sady/sada-racnovych-klucov-7-dielna_20110/",
+    "price": "105.1",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9789739",
+    "regular_price": 105.1,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Nadstavec pružinový 1/4\"",
+    "link": "https://www.svx.sk/naradie-imbus-hx/nadstavec-pruzinovy-14-14-150mm-proxxon_20112/",
+    "price": "5.49",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9722338",
+    "regular_price": 5.49,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada skrutkovačov",
+    "link": "https://www.svx.sk/naradie-sady/sada-skrutkovacov-13-dielna-micro-driver_20152/",
+    "price": "42.68",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9757703",
+    "regular_price": 42.68,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovače 6-dielna sada",
+    "link": "https://www.svx.sk/naradie-sady/skrutkovace-6-dielna-sada-6xtx_20153/",
+    "price": "29.93",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9777838",
+    "regular_price": 29.93,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Račňa štandardná 1/4´´",
+    "link": "https://www.svx.sk/naradie-racne-hlavice-prislusenstvo/racna-standardna-14_20155/",
+    "price": "13.95",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9763106",
+    "regular_price": 13.95,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Račňa s páčkou 1/2´´",
+    "link": "https://www.svx.sk/naradie-racne-hlavice-prislusenstvo/racna-s-packou-12_20157/",
+    "price": "28.3",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9783384",
+    "regular_price": 28.3,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Račňa štandardná 1/2´´",
+    "link": "https://www.svx.sk/naradie-racne-hlavice-prislusenstvo/racna-standardna-12_20158/",
+    "price": "25.88",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9755864",
+    "regular_price": 25.88,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Momentový kľúč 3/8´´",
+    "link": "https://www.svx.sk/naradie-racne-hlavice-prislusenstvo/momentovy-kluc-38-20-100-nm_20159/",
+    "price": "106.3",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9783838",
+    "regular_price": 106.3,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Momentový kľúč 1/2´´",
+    "link": "https://www.svx.sk/naradie-racne-hlavice-prislusenstvo/momentovy-kluc-12-60-320-nm_20160/",
+    "price": "149.6",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9739258",
+    "regular_price": 149.6,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovače 6-dielna sada PL/PZ",
+    "link": "https://www.svx.sk/naradie-sady/skrutkovace-6-dielna-sada-plpz-4xpl-2xpz_20161/",
+    "price": "22.72",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9735055",
+    "regular_price": 22.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovače 6-dielna sada PL/PH",
+    "link": "https://www.svx.sk/naradie-sady/skrutkovace-6-dielna-sada-plph-4xpl2xph_20162/",
+    "price": "22.72",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9775206",
+    "regular_price": 22.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada náradia",
+    "link": "https://www.svx.sk/naradie-sady/sada-naradia-47-dielna_20195/",
+    "price": "237.67",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9782404",
+    "regular_price": 237.67,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada nástrčných kľúčov 1/2",
+    "link": "https://www.svx.sk/naradie-sady/sada-nastrcnych-klucov-12-3-dielna_20205/",
+    "price": "45.83",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9746071",
+    "regular_price": 45.83,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovač  TTX8x75",
+    "link": "https://www.svx.sk/naradie-torx-ttx/skrutkovac-ttx8x75_12763/",
+    "price": "4.2",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9712942",
+    "regular_price": 4.2,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "SVXtools    Upínač pre korunky BMK 14-30mm",
+    "link": "https://www.svx.sk/naradie-vykruzovacie-bimetalove-korunky/upinac-pre-korunky-bmk-14-30-mm-svxtools_21319/",
+    "price": "3.12 €",
+    "stock_quantity": 126,
+    "attributes": [],
+    "sku": "SKU9773466",
+    "regular_price": 3.12,
+    "sale_price": 3.12,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Fixka s okrúhlym hrotom - čierna",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/fixka-s-okruhlym-hrotom-cierna-classic-520_21248/",
+    "price": "1.71",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9743875",
+    "regular_price": 1.71,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky grafit",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-grafit-dry-10ks_21201/",
+    "price": "12.12",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9728366",
+    "regular_price": 12.12,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky farebné",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-farebne-dry-8-ks_21202/",
+    "price": "9.73",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9750428",
+    "regular_price": 9.73,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky farebné",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-farebne-summer-8-ks_21203/",
+    "price": "9.67",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9737951",
+    "regular_price": 9.67,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač atramentový - červený",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-atramentovy-cerveny_21206/",
+    "price": "9.89",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9794417",
+    "regular_price": 9.89,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač atramentový - čierny",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-atramentovy-cierny_21208/",
+    "price": "9.89",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9797589",
+    "regular_price": 9.89,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky grafit BIG dry",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-grafit-big-dry-12ks-grafit_21210/",
+    "price": "16.63",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9760387",
+    "regular_price": 16.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky BIG dry na suché drevo",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-big-dry-na-suche-drevo-12ks-grafit_21211/",
+    "price": "14.08",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9716569",
+    "regular_price": 14.08,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky BIG dry na mokré drevo",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-big-dry-na-mokre-drevo-12ks-grafit_21212/",
+    "price": "16.63",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9741823",
+    "regular_price": 16.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky BIG dry na kameň a betón",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-big-dry-na-kamen-a-beton-12-ks-cierna_21213/",
+    "price": "15.36",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9785936",
+    "regular_price": 15.36,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky farebné BIG dry",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-farebne-big-dry-12ks-grafitbielacervena_21214/",
+    "price": "16.63",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9726758",
+    "regular_price": 16.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky farebné BIG dry",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-farebne-big-dry-12ks-ciernazltacervena_21215/",
+    "price": "16.63",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9749402",
+    "regular_price": 16.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Ceruzka automatická mikro FINE dry",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/ceruzka-automaticka-mikro-fine-dry-09mm_21216/",
+    "price": "18.48",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9750979",
+    "regular_price": 18.48,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky FINE dry",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-fine-dry-09mm-h-24ks-tvrda_21217/",
+    "price": "5.9",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9748230",
+    "regular_price": 5.9,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač voskový - biely VISOR",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-voskovy-biely-visor_21219/",
+    "price": "12.04",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9790324",
+    "regular_price": 12.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač voskový - červený VISOR",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-voskovy-cerveny-visor_21220/",
+    "price": "11.75",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9762147",
+    "regular_price": 11.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač voskový - modrý VISOR",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-voskovy-modry-visor_21221/",
+    "price": "11.75",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9787614",
+    "regular_price": 11.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač voskový - žltý VISOR",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-voskovy-zlty-visor_21222/",
+    "price": "11.75",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9722248",
+    "regular_price": 11.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do značkovača VISOR - červené",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-znackovaca-visor-cervene-4ks_21223/",
+    "price": "6.9",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9710318",
+    "regular_price": 6.9,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do značkovača VISOR - žlté",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-znackovaca-visor-zlte-4ks_21225/",
+    "price": "6.9",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9760126",
+    "regular_price": 6.9,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do značkovača VISOR - biele",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-znackovaca-visor-biele-4ks_21226/",
+    "price": "6.9",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9780248",
+    "regular_price": 6.9,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Ceruzka univerzálna",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/ceruzka-univerzalna-pica-ciernobiela_21227/",
+    "price": "3.79",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9793342",
+    "regular_price": 3.79,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Ceruzka anilínová",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/ceruzka-anilinova-picablack_21228/",
+    "price": "2.53",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9748335",
+    "regular_price": 2.53,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Ceruzka kamenárska",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/ceruzka-kamenarska-pica-beton_21229/",
+    "price": "1.94",
+    "stock_quantity": 40,
+    "attributes": [],
+    "sku": "SKU9754939",
+    "regular_price": 1.94,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Ceruzka kamenárska + držiak",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/ceruzka-kamenarska-drziak-pocket-sada_21233/",
+    "price": "11.75",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9730397",
+    "regular_price": 11.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Držiak na ceruzku so strúhadlom",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/drziak-na-ceruzku-so-struhadlom-505_21234/",
+    "price": "11.26",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9774761",
+    "regular_price": 11.26,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Stierky nerezové - japonské 4ks",
+    "link": "https://www.svx.sk/naradie-murarske-spachtle-a-stierky/stierky-nerezove-japonske-4ks_4966/",
+    "price": "4.97",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9733875",
+    "regular_price": 4.97,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Čistič špár gumový - modrý",
+    "link": "https://www.svx.sk/naradie-maliarske-prislusenstvo/cistic-spar-gumovy-modry_4967/",
+    "price": "1.6",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9798588",
+    "regular_price": 1.6,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KUBALA    Smart Level aplikačné kliešte",
+    "link": "https://www.svx.sk/naradie-distancne-kriziky-a-spony/smart-level-aplikacne-klieste_5063/",
+    "price": "29.72",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9755167",
+    "regular_price": 29.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RAWLPLUG    Nastreľovacia plynová pištoľ do dreva",
+    "link": "https://www.svx.sk/naradie-nastrelovacie-pistole/nastrelovacia-plynova-pistol-do-dreva_6278/",
+    "price": "628.2",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9779767",
+    "regular_price": 628.2,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "RAWLPLUG    Plynová kartuša pre SC40II",
+    "link": "https://www.svx.sk/naradie-nastrelovacie-pistole/plynova-kartusa-pre-sc40ii-40ml32g_6280/",
+    "price": "13.97",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9768082",
+    "regular_price": 13.97,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Kefa WB30 na zámkovú dlažbu",
+    "link": "https://www.svx.sk/naradie-zahradne-naradie/kefa-wb30-na-zamkovu-dlazbu_6369/",
+    "price": "3.81",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9728519",
+    "regular_price": 3.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Nôž na burinu WE1635",
+    "link": "https://www.svx.sk/naradie-zahradne-naradie/noz-na-burinu-we1635_6376/",
+    "price": "3.41",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9780117",
+    "regular_price": 3.41,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Oberač ovocia FC78 na palicu",
+    "link": "https://www.svx.sk/naradie-zahradne-naradie/oberac-ovocia-fc78-na-palicu_6377/",
+    "price": "5.13",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9758407",
+    "regular_price": 5.13,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FISKARS    Nožnice na hrubé konáre - teleskopické",
+    "link": "https://www.svx.sk/naradie-zahradne-naradie/noznice-na-hrube-konare-teleskopicke-1013564-fiskars_20054/",
+    "price": "73.46",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9752685",
+    "regular_price": 73.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FISKARS    Pílka záhradná",
+    "link": "https://www.svx.sk/naradie-zahradne-naradie/pilka-zahradna-fiskars-1001620_20055/",
+    "price": "61.11",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9756587",
+    "regular_price": 61.11,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "FISKARS    Nožnice na hrubé konáre",
+    "link": "https://www.svx.sk/naradie-zahradne-naradie/noznice-na-hrube-konare-1000584-fiskars_20056/",
+    "price": "73.62",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9792735",
+    "regular_price": 73.62,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Tuhy do ceruzky biele",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/tuhy-do-ceruzky-biele-4043_20079/",
+    "price": "12.48",
+    "stock_quantity": 12,
+    "attributes": [],
+    "sku": "SKU9720200",
+    "regular_price": 12.48,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač BIG Ink - červený",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-big-ink-cerveny-xl-17040_20083/",
+    "price": "10.1",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9794371",
+    "regular_price": 10.1,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač BIG Ink - čierny",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-big-ink-cierny-xl-17046_20085/",
+    "price": "10.1",
+    "stock_quantity": 12,
+    "attributes": [],
+    "sku": "SKU9741229",
+    "regular_price": 10.1,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PICA    Značkovač BIG Ink - modrý",
+    "link": "https://www.svx.sk/naradie-znackovace-a-ceruzky/znackovac-big-ink-modry-xl-17041_20084/",
+    "price": "10.1",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9746110",
+    "regular_price": 10.1,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada nástrčných kľúčov 3/8",
+    "link": "https://www.svx.sk/naradie-sady/sada-nastrcnych-klucov-38-24-dielna_20151/",
+    "price": "59.71",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9784639",
+    "regular_price": 59.71,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada nástrčných a zástrčných hlavíc",
+    "link": "https://www.svx.sk/naradie-sady/sada-nastrcnych-a-zastrcnych-hlavic-29-dielna_20108/",
+    "price": "83.48",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9765874",
+    "regular_price": 83.48,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada zástrčných hlavíc so šesťhranom",
+    "link": "https://www.svx.sk/naradie-sady/sada-zastrcnych-hlavic-so-sesthranom-18-dielna_20109/",
+    "price": "63.23",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9736890",
+    "regular_price": 63.23,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada račňových kľúčov",
+    "link": "https://www.svx.sk/naradie-sady/sada-racnovych-klucov-7-dielna_20110/",
+    "price": "105.1",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9781288",
+    "regular_price": 105.1,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Nadstavec pružinový 1/4\"",
+    "link": "https://www.svx.sk/naradie-imbus-hx/nadstavec-pruzinovy-14-14-150mm-proxxon_20112/",
+    "price": "5.49",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9763183",
+    "regular_price": 5.49,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Sada skrutkovačov",
+    "link": "https://www.svx.sk/naradie-sady/sada-skrutkovacov-13-dielna-micro-driver_20152/",
+    "price": "42.68",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9718326",
+    "regular_price": 42.68,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Skrutkovače 6-dielna sada",
+    "link": "https://www.svx.sk/naradie-sady/skrutkovace-6-dielna-sada-6xtx_20153/",
+    "price": "29.93",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9761423",
+    "regular_price": 29.93,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Račňa štandardná 1/4´´",
+    "link": "https://www.svx.sk/naradie-racne-hlavice-prislusenstvo/racna-standardna-14_20155/",
+    "price": "13.95",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9757499",
+    "regular_price": 13.95,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "PROXXON    Račňa s páčkou 1/2´´",
+    "link": "https://www.svx.sk/naradie-racne-hlavice-prislusenstvo/racna-s-packou-12_20157/",
+    "price": "28.3",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9758134",
+    "regular_price": 28.3,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Kliešte cvikacie bočné 125 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/klieste-cvikacie-bocne-125-mm-vde-knipex_21269/",
+    "price": "29.8",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9753454",
+    "regular_price": 29.8,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Kliešte odizolovacie 160 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/klieste-odizolovacie-160-mm-vde-knipex_21270/",
+    "price": "34.63",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9738289",
+    "regular_price": 34.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Kliešte polguľaté s britmi 200 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/klieste-polgulate-s-britmi-200-mm-knipex-zahnute_21271/",
+    "price": "46.55",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9740911",
+    "regular_price": 46.55,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Kliešte elektroinštalačné 200 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/klieste-elektroinstalacne-200-mm-knipex-vde_21272/",
+    "price": "71.71",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9793628",
+    "regular_price": 71.71,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Nožnice na káble 200 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/noznice-na-kable-200-mm-vde-knipex_21273/",
+    "price": "68.48",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9781744",
+    "regular_price": 68.48,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Nožnice na káble 165 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/noznice-na-kable-165-mm-vde-knipex_21274/",
+    "price": "53.82",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9754239",
+    "regular_price": 53.82,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Kliešte na skrutky 250 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/klieste-na-skrutky-250-mm-knipex_21315/",
+    "price": "38.91",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9716427",
+    "regular_price": 38.91,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Kliešte odizolovacie automatické 195 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/klieste-odizolovacie-automaticke-195-mm-knipex_21357/",
+    "price": "112.66",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9749064",
+    "regular_price": 112.66,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KNIPEX    Nožnice elektroinštalačné 155 mm",
+    "link": "https://www.svx.sk/naradie-klieste-knipex/noznice-elektroinstalacne-155-mm-knipex_21358/",
+    "price": "21.84",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9724743",
+    "regular_price": 21.84,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "KAPRO    Vodováha bez magnetu 200cm",
+    "link": "https://www.svx.sk/naradie-bez-magnetu/vodovaha-bez-magnetu-200cm_12494/",
+    "price": "33.11",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9787868",
+    "regular_price": 33.11,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Tracon electric    Kliešte lisovacie k dutinkám 1,5-6mm²",
+    "link": "https://www.svx.sk/naradie-klieste-lisovacie/klieste-lisovacie-k-dutinkam-15-6mm2_4238/",
+    "price": "26.73",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9739423",
+    "regular_price": 26.73,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Tracon electric    Kliešte lisovacie k dutinkám 0,5-6mm²",
+    "link": "https://www.svx.sk/naradie-klieste-lisovacie/klieste-lisovacie-k-dutinkam-05-6mm2_4401/",
+    "price": "24.79",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9764722",
+    "regular_price": 24.79,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Tracon electric    Kliešte lisovacie k dutinkám 6-16mm²",
+    "link": "https://www.svx.sk/naradie-klieste-lisovacie/klieste-lisovacie-k-dutinkam-6-16mm2_4402/",
+    "price": "23.76",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9740401",
+    "regular_price": 23.76,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Tracon electric    Kliešte k mosadzným koncovkám 0,5-6mm²",
+    "link": "https://www.svx.sk/naradie-klieste-lisovacie/klieste-k-mosadznym-koncovkam-05-6mm2_4240/",
+    "price": "26.75",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9760712",
+    "regular_price": 26.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "Tracon electric    Kliešte k mosadzným koncovkám 0,5-6mm²",
+    "link": "https://www.svx.sk/naradie-klieste-lisovacie/klieste-k-mosadznym-koncovkam-05-6-mm2_4400/",
+    "price": "29.81",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9798978",
+    "regular_price": 29.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+{
+    "name": "WEICON    Kliešte odizolovacie 5-12mm",
+    "link": "https://www.svx.sk/naradie-klieste-odizolovacie/klieste-odizolovacie-no-5_20020/",
+    "price": "32.63",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9796815",
+    "regular_price": 32.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 97,
+            "name": "Náradie",
+            "slug": "naradie"
+        }
+    ]
+},
+]

@@ -1,0 +1,4538 @@
+[
+{
+    "name": "MASTERsil    Blokátor tvrdosti 1L",
+    "link": "https://www.svx.sk/bazenova-chemia/blokator-tvrdosti/",
+    "price": "4.72 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9878664",
+    "regular_price": 4.72,
+    "sale_price": 4.72,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 7tyčový 2m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-7-tycove-susiaky/stropny-susiak-7tycovy2m_5074/",
+    "price": "32.84",
+    "stock_quantity": 18,
+    "attributes": [],
+    "sku": "SKU9867638",
+    "regular_price": 32.84,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Kvapalný prípravok KRIŠTÁĽ 1L",
+    "link": "https://www.svx.sk/bazenova-chemia/kvapalny-pripravok-kristal/",
+    "price": "3.98 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9810991",
+    "regular_price": 3.98,
+    "sale_price": 3.98,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Sypký prípravok pH plus 1kg",
+    "link": "https://www.svx.sk/bazenova-chemia/sypky-pripravok-ph-plus-1kg/",
+    "price": "2.76 €",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9881075",
+    "regular_price": 2.76,
+    "sale_price": 2.76,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    MULTIPLEX Tablety 4v1 5kg",
+    "link": "https://www.svx.sk/bazenova-chemia/multiplex-tablety-4v1-5kg/",
+    "price": "32.12 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9860589",
+    "regular_price": 32.12,
+    "sale_price": 32.12,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 7tyčový 1,6m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-7-tycove-susiaky/stropny-susiak-7tycovy16m_5078/",
+    "price": "28.76",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9889229",
+    "regular_price": 28.76,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák plochý",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-plochy-10-cm_21094/",
+    "price": "3.47",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9844081",
+    "regular_price": 3.47,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    OXI Tablet 500g",
+    "link": "https://www.svx.sk/bazenova-chemia/OXI-tablet/",
+    "price": "10.22 €",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9881861",
+    "regular_price": 10.22,
+    "sale_price": 10.22,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Mäkká zarážka dverí - biela",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/makka-zarazka-dveri-biela-20x89x97mm_20850/",
+    "price": "2.42",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9896339",
+    "regular_price": 2.42,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    OXI ŠOK granulát 1kg",
+    "link": "https://www.svx.sk/bazenova-chemia/oxi-sok-granulat-1kg/",
+    "price": "12.55 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9872502",
+    "regular_price": 12.55,
+    "sale_price": 12.55,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 6tyčový 1,6m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/stropny-susiak-6tycovy16m_5087/",
+    "price": "25.3",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9894958",
+    "regular_price": 25.3,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 06 AA/4",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-06-aa4_12534/",
+    "price": "2.59",
+    "stock_quantity": 35,
+    "attributes": [],
+    "sku": "SKU9877948",
+    "regular_price": 2.59,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Stojan nástenný na bicykel",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/stojan-nastenny-na-bicykel-12-cm_21093/",
+    "price": "8.54 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9897040",
+    "regular_price": 8.54,
+    "sale_price": 8.54,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    MULTIPLEX Tablet 1kg",
+    "link": "https://www.svx.sk/bazenova-chemia/multiplex-tablet/",
+    "price": "8.41 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9812902",
+    "regular_price": 8.41,
+    "sale_price": 8.41,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    MULTIPLEX Tablet MINI 20g 500g",
+    "link": "https://www.svx.sk/bazenova-chemia/multiplex-tablet-mini-20g-500g/",
+    "price": "7.55 €",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9824644",
+    "regular_price": 7.55,
+    "sale_price": 7.55,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 6tyčový 2m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/stropny-susiak-6tycovy2m_5083/",
+    "price": "30.09",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9813186",
+    "regular_price": 30.09,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 6tyčový 1,8m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/stropny-susiak-6tycovy18m_5085/",
+    "price": "28.36",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9899099",
+    "regular_price": 28.36,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 6tyčový 1,5m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/stropny-susiak-6tycovy15m_5088/",
+    "price": "24.68",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9840763",
+    "regular_price": 24.68,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 5tyčový 1,6m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-5-tycove-susiaky/stropny-susiak-5tycovy16m_5096/",
+    "price": "21.83",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9892192",
+    "regular_price": 21.83,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Banchem    Aviváž SENSI Rose dew",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-avivaze/avivaz-sensi-rose-dew-1l_1654/",
+    "price": "3.92",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9816914",
+    "regular_price": 3.92,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák pogumovaný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-pogumovany-10-cm_21121/",
+    "price": "5.92",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9842552",
+    "regular_price": 5.92,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Elitex    Utierka viacúčelová modrá - 68m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-univerzalne-cistice/utierka-viacucelova-modra-elitex-68m/",
+    "price": "13.19",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9893838",
+    "regular_price": 13.19,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Granulovaný prípravok pH mínus 1,6kg",
+    "link": "https://www.svx.sk/bazenova-chemia/granulovany-pripravok-ph-minus/",
+    "price": "4.36 €",
+    "stock_quantity": 12,
+    "attributes": [],
+    "sku": "SKU9835292",
+    "regular_price": 4.36,
+    "sale_price": 4.36,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Hladinová sieťka s teleskopickou tyčou 3x35cm",
+    "link": "https://www.svx.sk/Bazenove-prislusenstvo/hladinova-sietka-s-teleskopickou-tycou/",
+    "price": "12.46 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9827098",
+    "regular_price": 12.46,
+    "sale_price": 12.46,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Dávkovač do bazénu PLAVÁK MINI + teplomer",
+    "link": "https://www.svx.sk/Bazenove-prislusenstvo/davkovac-do-bazena-plavak-mini/",
+    "price": "8.1 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9877899",
+    "regular_price": 8.1,
+    "sale_price": 8.1,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Ochrana rohov",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/ochrana-rohov-24x52x52mm-hneda_20787/",
+    "price": "5.52",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU9890934",
+    "regular_price": 5.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 6tyčový 1,4m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/stropny-susiak-6tycovy14m_5089/",
+    "price": "24.07",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9818941",
+    "regular_price": 24.07,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 5tyčový 2m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-5-tycove-susiaky/stropny-susiak-5tycovy2m_5092/",
+    "price": "25.81",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9850986",
+    "regular_price": 25.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 5tyčový 1,7m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-5-tycove-susiaky/stropny-susiak-5tycovy17m_5095/",
+    "price": "23.26",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9825839",
+    "regular_price": 23.26,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 5tyčový 1,4m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-5-tycove-susiaky/stropny-susiak-5tycovy14m_5098/",
+    "price": "20.81",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9841530",
+    "regular_price": 20.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-25mm_5336/",
+    "price": "6.02",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9871453",
+    "regular_price": 6.02,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok - 4ks",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-4ks-40mm_5342/",
+    "price": "30.37",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9893031",
+    "regular_price": 30.37,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný dvojitý",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-dvojity-22-cm_21089/",
+    "price": "7.07",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9892203",
+    "regular_price": 7.07,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák dvojitý pogumovaný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-dvojity-pogumovany-30-cm_21140/",
+    "price": "18.91",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9874228",
+    "regular_price": 18.91,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Chlór štart 1kg",
+    "link": "https://www.svx.sk/bazenova-chemia/chlor-start-1kg/",
+    "price": "6.89 €",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9899955",
+    "regular_price": 6.89,
+    "sale_price": 6.89,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    ALGICID plus 1L",
+    "link": "https://www.svx.sk/bazenova-chemia/algicid-plus/",
+    "price": "8.71 €",
+    "stock_quantity": 13,
+    "attributes": [],
+    "sku": "SKU9817020",
+    "regular_price": 8.71,
+    "sale_price": 8.71,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák pogumovaný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-pogumovany-105-cm_21122/",
+    "price": "13.79 €",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9885394",
+    "regular_price": 13.79,
+    "sale_price": 13.79,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž viacúčelový 108x40x26mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-viacucelovy-10-funkcii_21191/",
+    "price": "40.78",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9856983",
+    "regular_price": 40.78,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž multifunkčný 112x42x12mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-multifunkcny-smartknife_21297/",
+    "price": "24.46",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9888550",
+    "regular_price": 24.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 7tyčový 1,8m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-7-tycove-susiaky/stropny-susiak-7tycovy18m_5076/",
+    "price": "31.52",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9867203",
+    "regular_price": 31.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 7tyčový 1,7m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-7-tycove-susiaky/stropny-susiak-7tycovy17m_5077/",
+    "price": "30.8",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9836666",
+    "regular_price": 30.8,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 7tyčový 1,5m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-7-tycove-susiaky/stropny-susiak-7tycovy15m_5079/",
+    "price": "28.05",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9877540",
+    "regular_price": 28.05,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 7tyčový 1,4m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-7-tycove-susiaky/stropny-susiak-7tycovy14m_5080/",
+    "price": "27.34",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9839034",
+    "regular_price": 27.34,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 6tyčový 1,9m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/stropny-susiak-6tycovy19m_5084/",
+    "price": "29.27",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9825953",
+    "regular_price": 29.27,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 6tyčový 1,7m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/stropny-susiak-6tycovy17m_5086/",
+    "price": "27.54",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9893242",
+    "regular_price": 27.54,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 6tyčový 1,2m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/stropny-susiak-6tycovy12m_5090/",
+    "price": "22.85",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9870216",
+    "regular_price": 22.85,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 5tyčový 1,9m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-5-tycove-susiaky/stropny-susiak-5tycovy19m_5093/",
+    "price": "24.99",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9896928",
+    "regular_price": 24.99,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 5tyčový 1,2m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-5-tycove-susiaky/stropny-susiak-5tycovy12m_5099/",
+    "price": "19.79",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9851480",
+    "regular_price": 19.79,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 5tyčový 1m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-5-tycove-susiaky/stropny-susiak-5tycovy1m_5100/",
+    "price": "18.77",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9892757",
+    "regular_price": 18.77,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    CHLÓR tablet 1kg",
+    "link": "https://www.svx.sk/bazenova-chemia/chlor-tablet-1kg/",
+    "price": "8.41 €",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9823848",
+    "regular_price": 8.41,
+    "sale_price": 8.41,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SOMOGYI    Party reprobox - aku, BT, LED",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multimedialne-party-boxy/party-reprobox-bt-led-par20bt_12472/",
+    "price": "96.47",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9815858",
+    "regular_price": 96.47,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie A11",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/energizer-a11_12518/",
+    "price": "3.51",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9851164",
+    "regular_price": 3.51,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria CR 123A",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-cr-123a_12519/",
+    "price": "5.42",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9824887",
+    "regular_price": 5.42,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria CR 1620",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-cr-1620_12521/",
+    "price": "2.36",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9815262",
+    "regular_price": 2.36,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria CR 1616",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-cr-1616_12520/",
+    "price": "2.03",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9813811",
+    "regular_price": 2.03,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria CR 1632",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-cr-1632_12522/",
+    "price": "3.17",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9842392",
+    "regular_price": 3.17,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria CR 2032",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-cr-2032_12523/",
+    "price": "1.08",
+    "stock_quantity": 18,
+    "attributes": [],
+    "sku": "SKU9894683",
+    "regular_price": 1.08,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria CR 2016",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-cr-2016_12524/",
+    "price": "1.62",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9841694",
+    "regular_price": 1.62,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria CR 2025",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-cr-2025_12525/",
+    "price": "1.1",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9899261",
+    "regular_price": 1.1,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 44",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-44_12526/",
+    "price": "2.92",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9891583",
+    "regular_price": 2.92,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 43",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-43_12527/",
+    "price": "1.46",
+    "stock_quantity": 13,
+    "attributes": [],
+    "sku": "SKU9847071",
+    "regular_price": 1.46,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 54",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-54_12528/",
+    "price": "1.4",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9896551",
+    "regular_price": 1.4,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria A23",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-a23_12529/",
+    "price": "1.85",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9820841",
+    "regular_price": 1.85,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie A27",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-a27_12530/",
+    "price": "3.91",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9843729",
+    "regular_price": 3.91,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 03 AAA2",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-03-aaa2_12531/",
+    "price": "1.22",
+    "stock_quantity": 42,
+    "attributes": [],
+    "sku": "SKU9872373",
+    "regular_price": 1.22,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 03 AAA4",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-03-aaa4_12532/",
+    "price": "2.36",
+    "stock_quantity": 25,
+    "attributes": [],
+    "sku": "SKU9850222",
+    "regular_price": 2.36,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 06 AA/2",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-06-aa2_12533/",
+    "price": "1.22",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9875706",
+    "regular_price": 1.22,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria LR 61",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-lr-61_12535/",
+    "price": "2.54",
+    "stock_quantity": 20,
+    "attributes": [],
+    "sku": "SKU9863104",
+    "regular_price": 2.54,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 14",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-14_12536/",
+    "price": "3.15",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9847622",
+    "regular_price": 3.15,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 20",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-20_12537/",
+    "price": "5.49",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU9829579",
+    "regular_price": 5.49,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie HR 03 AAA4 nabíjateľné",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-hr-03-aaa4-nabijatelne_12538/",
+    "price": "13.03",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9829152",
+    "regular_price": 13.03,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie HR 06 AA2 nabíjateľné",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-hr-06-aa2-nabijatelne_12539/",
+    "price": "8.35",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9812178",
+    "regular_price": 8.35,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 03 AAA2",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-03-aaa2_12531/",
+    "price": "1.22",
+    "stock_quantity": 42,
+    "attributes": [],
+    "sku": "SKU9822679",
+    "regular_price": 1.22,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 03 AAA4",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-03-aaa4_12532/",
+    "price": "2.36",
+    "stock_quantity": 25,
+    "attributes": [],
+    "sku": "SKU9844466",
+    "regular_price": 2.36,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 06 AA/2",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-06-aa2_12533/",
+    "price": "1.22",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9872035",
+    "regular_price": 1.22,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batéria LR 61",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/bateria-lr-61_12535/",
+    "price": "2.54",
+    "stock_quantity": 20,
+    "attributes": [],
+    "sku": "SKU9879605",
+    "regular_price": 2.54,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 14",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-14_12536/",
+    "price": "3.15",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9894530",
+    "regular_price": 3.15,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 20",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-20_12537/",
+    "price": "5.49",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9891754",
+    "regular_price": 5.49,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie HR 03 AAA4 nabíjateľné",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-hr-03-aaa4-nabijatelne_12538/",
+    "price": "13.03",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9861828",
+    "regular_price": 13.03,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie HR 06 AA2 nabíjateľné",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-hr-06-aa2-nabijatelne_12539/",
+    "price": "8.35",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9823643",
+    "regular_price": 8.35,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Nabíjačka Pro Charger+AAA",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/nabijacka-pro-chargeraaa_12540/",
+    "price": "34.99",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9884415",
+    "regular_price": 34.99,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Ochrana rohov - transparentná",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/ochrana-rohov-transparentna-24x43x43mm-transparentna_20785/",
+    "price": "5.28",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9899115",
+    "regular_price": 5.28,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Ochrana rohov",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/ochrana-rohov-24x52x52mm-biela_20786/",
+    "price": "5.52",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9834909",
+    "regular_price": 5.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Ochrana rohov v rolke",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/ochrana-rohov-v-rolke-260x216x31mm-biela_20788/",
+    "price": "12.55",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9893426",
+    "regular_price": 12.55,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Zámok viacúčelový bezpečnostný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/zamok-viacucelovy-bezpecnostny-biely-36x163x13mm_20790/",
+    "price": "6.07",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9872984",
+    "regular_price": 6.07,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Zámok viacúčelový bezpečnostný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/zamok-viacucelovy-bezpecnostny-biely-36x107x13mm_20791/",
+    "price": "6.48",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9844604",
+    "regular_price": 6.48,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Zámok nastaviteľný bezpečnostný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/zamok-nastavitelny-bezpecnostny-biela-56x210x14mm_20792/",
+    "price": "6.72",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9865480",
+    "regular_price": 6.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Bočný bezpečnostný zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/bocny-bezpecnostny-zamok-180x90x32mm-biela_20793/",
+    "price": "4.3",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9857327",
+    "regular_price": 4.3,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Vonkajší bezpečnostný zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/vonkajsi-bezpecnostny-zamok-35x98x16mm_20837/",
+    "price": "5.64",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9871505",
+    "regular_price": 5.64,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Vnútorný bezpečnostný zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/vonkajsi-bezpecnostny-zamok-48x45x85mm_20838/",
+    "price": "3.6",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9841963",
+    "regular_price": 3.6,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Bezpečnostný blok na okná",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/bezpecnostny-blok-na-okna-25x127x14mm_20839/",
+    "price": "2.93",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9838237",
+    "regular_price": 2.93,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Mäkká zarážka dverí - mačka",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/makka-zarazka-dveri-macka-13x100x106-mm_20851/",
+    "price": "3.12",
+    "stock_quantity": 17,
+    "attributes": [],
+    "sku": "SKU9864255",
+    "regular_price": 3.12,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Mäkká zarážka dverí - tiger",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/makka-zarazka-dveri-macka-13x97x105-mm_20852/",
+    "price": "3.12",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9822582",
+    "regular_price": 3.12,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Mäkká zarážka dverí - opica",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/makka-zarazka-dveri-opica-13x100x100-mm_20853/",
+    "price": "3.12",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU9881876",
+    "regular_price": 3.12,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "INOFIX    Mäkká zarážka dverí - lienka",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/makka-zarazka-dveri-lienka-13x97x98-mm_20854/",
+    "price": "2.66",
+    "stock_quantity": 9,
+    "attributes": [],
+    "sku": "SKU9836432",
+    "regular_price": 2.66,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Ohrievač - elektrický",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/ohrievac-elektricky-3kwipx0_6394/",
+    "price": "56.63",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9825311",
+    "regular_price": 56.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Halogénový ohrievač",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/halogenovy-ohrievac-hh-01s-4008001200w_20095/",
+    "price": "31.72",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9854144",
+    "regular_price": 31.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Maják na auto WK194",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/majak-na-auto-gmpsm802hhh_19426/",
+    "price": "51.35",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9876672",
+    "regular_price": 51.35,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Ventilátor rotačný do auta",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/ventilator-rotacny-do-auta_19424/",
+    "price": "17.42",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9810541",
+    "regular_price": 17.42,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Sada dvoch nástenných držiakov",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/sada-dvoch-nastennych-drziakov-2x_21081/",
+    "price": "25.58 €",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9825765",
+    "regular_price": 25.58,
+    "sale_price": 25.58,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný otočný XXL",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-otocny-xxl-75cm_21082/",
+    "price": "32.84",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9890260",
+    "regular_price": 32.84,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný tvar U",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-tvar-u-13-cm_21083/",
+    "price": "3.26",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9864146",
+    "regular_price": 3.26,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný tvar V",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-tvar-v-10-cm_21086/",
+    "price": "1.78",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9816496",
+    "regular_price": 1.78,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný s vrutom",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-s-vrutom-28-cm_21085/",
+    "price": "4.49",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9840965",
+    "regular_price": 4.49,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný s vrutom",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-s-vrutom-15-cm_21087/",
+    "price": "1.84",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9810319",
+    "regular_price": 1.84,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný s vrutom",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-s-vrutom-19-cm_21088/",
+    "price": "2.36",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9888278",
+    "regular_price": 2.36,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný dvojitý",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-dvojity-165-cm_21090/",
+    "price": "6.58",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9826892",
+    "regular_price": 6.58,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný dvojitý",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-dvojity-32-cm_21091/",
+    "price": "8.19",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9869950",
+    "regular_price": 8.19,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný dvojitý",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-dvojity-16-cm_21092/",
+    "price": "4.8",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9894995",
+    "regular_price": 4.8,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák na lyže",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-na-lyze-155-cm_21095/",
+    "price": "13.65",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9861249",
+    "regular_price": 13.65,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-8-cm_21096/",
+    "price": "1.49",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9829301",
+    "regular_price": 1.49,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák pogumovaný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-pogumovany-8-cm_21097/",
+    "price": "3.04",
+    "stock_quantity": 14,
+    "attributes": [],
+    "sku": "SKU9860861",
+    "regular_price": 3.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    S hák",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/s-hak-20-cm_21099/",
+    "price": "2.62",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9846636",
+    "regular_price": 2.62,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-16-cm_21101/",
+    "price": "3.02",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9895833",
+    "regular_price": 3.02,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák pogumovaný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-pogumovany-16-cm_21102/",
+    "price": "4.43",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9845663",
+    "regular_price": 4.43,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-21-cm_21108/",
+    "price": "3.62",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9819823",
+    "regular_price": 3.62,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák pogumovaný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-pogumovany-21-cm_21109/",
+    "price": "5.63",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9891879",
+    "regular_price": 5.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-28-cm_21110/",
+    "price": "4.51",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9858974",
+    "regular_price": 4.51,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák rovný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-rovny-20-cm_21111/",
+    "price": "2.86",
+    "stock_quantity": 7,
+    "attributes": [],
+    "sku": "SKU9822434",
+    "regular_price": 2.86,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák rovný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-rovny-32-cm_21112/",
+    "price": "3.67",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9852722",
+    "regular_price": 3.67,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák rovný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-rovny-50-cm_21114/",
+    "price": "7.18",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9893314",
+    "regular_price": 7.18,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-52-cm_21115/",
+    "price": "8.97",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9899741",
+    "regular_price": 8.97,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák dvojitý plochý - sada",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-dvojity-plochy-sada-48-mm_21117/",
+    "price": "8.28",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9877744",
+    "regular_price": 8.28,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák - sada",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-sada-95mm_21118/",
+    "price": "7.55",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9868434",
+    "regular_price": 7.55,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák stropný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-stropny-17-cm_21120/",
+    "price": "5.72",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9824504",
+    "regular_price": 5.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák - sada",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-sada-65cm_21123/",
+    "price": "6.26",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9860451",
+    "regular_price": 6.26,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Nástenný držiak bicyklov",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/nastenny-drziak-bicyklov-cerveny_21126/",
+    "price": "32.01 €",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9883629",
+    "regular_price": 32.01,
+    "sale_price": 32.01,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Nástenný stojan na bicykel",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/nastenny-stojan-na-bicykel-otocny_21127/",
+    "price": "20.97 €",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9879168",
+    "regular_price": 20.97,
+    "sale_price": 20.97,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Stropný držiak na bicykel",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/stropny-drziak-na-bicykel-b128p_21128/",
+    "price": "27.3 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9882151",
+    "regular_price": 27.3,
+    "sale_price": 27.3,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný tvar U",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-tvar-u-20-cm_21129/",
+    "price": "12.16",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9897485",
+    "regular_price": 12.16,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný tvar U",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-tvar-u-25-cm_21131/",
+    "price": "14.16",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9876006",
+    "regular_price": 14.16,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák nástenný tvar U",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-nastenny-tvar-u-40-cm_21132/",
+    "price": "16.63",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9878956",
+    "regular_price": 16.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák dvojitý",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-dvojity-15-cm_21134/",
+    "price": "9.79",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9891338",
+    "regular_price": 9.79,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák tvar D",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-tvar-d-35-cm_21135/",
+    "price": "13.87",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9820148",
+    "regular_price": 13.87,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák tvar D",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-tvar-d-25-cm_21136/",
+    "price": "12.81",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9894903",
+    "regular_price": 12.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák tvar D",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-tvar-d-50-cm_21137/",
+    "price": "14.77",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9824064",
+    "regular_price": 14.77,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák dvojitý",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-dvojity-35-cm_21138/",
+    "price": "14.69",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9893094",
+    "regular_price": 14.69,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák dvojitý pogumovaný",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-dvojity-pogumovany-40-cm_21139/",
+    "price": "20.49",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9853854",
+    "regular_price": 20.49,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák dvojitý",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-dvojity-30-cm_21141/",
+    "price": "16.42",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9834500",
+    "regular_price": 16.42,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák dvojitý",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-dvojity-20-cm_21142/",
+    "price": "13.61",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9820968",
+    "regular_price": 13.61,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Hák na papierovú rolku",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/hak-na-papierovu-rolku-30-cm_21143/",
+    "price": "12.44",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9862195",
+    "regular_price": 12.44,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Noha stola X",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-nohy-stola/noha-stola-x-cierna-matna_21144/",
+    "price": "77.52",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9893853",
+    "regular_price": 77.52,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Noha stola X",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-nohy-stola/noha-stola-x-biela-matna_21145/",
+    "price": "104.04",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9884134",
+    "regular_price": 104.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Noha stola obdĺžnik",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-nohy-stola/noha-stola-obdznik-cierna-matna_21146/",
+    "price": "61.2",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9869444",
+    "regular_price": 61.2,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Noha stola obdĺžnik",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-nohy-stola/noha-stola-obdznik-cierna-matna-velka_21147/",
+    "price": "93.84",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9858521",
+    "regular_price": 93.84,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Noha stola lichobežník",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-nohy-stola/noha-stola-lichobeznik-cierna-matna-mala_21148/",
+    "price": "65.28",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9881184",
+    "regular_price": 65.28,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Noha stola lichobežník",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-nohy-stola/noha-stola-lichobeznik-cierna-matna-velka_21149/",
+    "price": "91.8",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9882583",
+    "regular_price": 91.8,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Kliešte viacúčelové",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/klieste-viacucelove_21177/",
+    "price": "55.47",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9833990",
+    "regular_price": 55.47,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SOMOGYI    Ochladzovač vzduchu",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/ochladzovac-vzduchu-230-v-50-hz-80-w_21180/",
+    "price": "135.07",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9830990",
+    "regular_price": 135.07,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SOMOGYI    Klimatizácia mobilná",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/klimatizacia-mobilna-220-240-v-50-hz-1000-w_21181/",
+    "price": "350.82",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9867519",
+    "regular_price": 350.82,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SOMOGYI    Ochladzovač vzduchu",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/ochladzovac-vzduchu-230-v-50-hz_21183/",
+    "price": "83.77",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9824856",
+    "regular_price": 83.77,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SOMOGYI    Vnútorný elektrický lapač hmyzu",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-lapace-hmyzu/vnutorny-elektricky-lapac-hmyzu-6w-ik-240_21186/",
+    "price": "16.5",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9833890",
+    "regular_price": 16.5,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SOMOGYI    Vnútorný elektrický lapač hmyzu",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-lapace-hmyzu/vnutorny-elektricky-lapac-hmyzu-23w_21187/",
+    "price": "34.99",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9810730",
+    "regular_price": 34.99,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SOMOGYI    Vnútorný elektrický lapač hmyzu",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-lapace-hmyzu/vnutorny-elektricky-lapac-hmyzu-45w_21188/",
+    "price": "53.84",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9859229",
+    "regular_price": 53.84,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Náradie multifunkčné",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/naradie-multifunkcne-fixr_21277/",
+    "price": "16.3",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9825274",
+    "regular_price": 16.3,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Náradie multifunkčné",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/naradie-multifunkcne-fshface_21278/",
+    "price": "18.75",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9838508",
+    "regular_price": 18.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Náradie multifunkčné mini",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/naradie-multifunkcne-mini-sharkey_21280/",
+    "price": "13.5",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9885074",
+    "regular_price": 13.5,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Kompaktná sada na nechty",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/kompaktna-sada-na-nechty-nailclipkit_21288/",
+    "price": "13.5",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9894093",
+    "regular_price": 13.5,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Peňaženka kapsulová",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/penazenka-kapsulova-cashstash_21290/",
+    "price": "10.59",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9827015",
+    "regular_price": 10.59,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Kľúčenka so zapaľovačom",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/klucenka-so-zapalovacom-firestash_21291/",
+    "price": "10.59",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9820293",
+    "regular_price": 10.59,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Zapaľovač turbo",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/zapalovac-turbo-turbojet_21293/",
+    "price": "14.18",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9877904",
+    "regular_price": 14.18,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    LED svietidlo s laserom",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/led-svietidlo-s-laserom-laserlite_21292/",
+    "price": "12.87",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9835771",
+    "regular_price": 12.87,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Karabína so svetlom na kľúče",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/karabina-so-svetlom-na-kluce-cliplite_21298/",
+    "price": "27.72",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9853993",
+    "regular_price": 27.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Kompaktné nabíjateľné svetielko",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/kompaktne-nabijatelne-svetielko-buttonlite_21299/",
+    "price": "18.75",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9831044",
+    "regular_price": 18.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Zenit    Umývacia pasta na ruky 450g Solvina Industry",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/umyvacia-pasta-na-ruky-450g-solvina-industry/",
+    "price": "1.87",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9880101",
+    "regular_price": 1.87,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Zenit    Solvina Pro abrazívna 450g",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/solvina-pro-abrazivna-450g/",
+    "price": "2.28",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9878376",
+    "regular_price": 2.28,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Náradie multifunkčné mini",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/naradie-multifunkcne-mini-sharkey_21280/",
+    "price": "13.5",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9817328",
+    "regular_price": 13.5,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Kompaktná sada na nechty",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/kompaktna-sada-na-nechty-nailclipkit_21288/",
+    "price": "13.5",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9899177",
+    "regular_price": 13.5,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Peňaženka kapsulová",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/penazenka-kapsulova-cashstash_21290/",
+    "price": "10.59",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9865124",
+    "regular_price": 10.59,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Kľúčenka so zapaľovačom",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/klucenka-so-zapalovacom-firestash_21291/",
+    "price": "10.59",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9812814",
+    "regular_price": 10.59,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Zapaľovač turbo",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/zapalovac-turbo-turbojet_21293/",
+    "price": "14.18",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9878370",
+    "regular_price": 14.18,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    LED svietidlo s laserom",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/led-svietidlo-s-laserom-laserlite_21292/",
+    "price": "12.87",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9823823",
+    "regular_price": 12.87,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Karabína so svetlom na kľúče",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/karabina-so-svetlom-na-kluce-cliplite_21298/",
+    "price": "27.72",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9859591",
+    "regular_price": 27.72,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Kompaktné nabíjateľné svetielko",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/kompaktne-nabijatelne-svetielko-buttonlite_21299/",
+    "price": "18.75",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9815777",
+    "regular_price": 18.75,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Zenit    Umývacia pasta na ruky 450g Solvina Industry",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/umyvacia-pasta-na-ruky-450g-solvina-industry/",
+    "price": "1.87",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9864925",
+    "regular_price": 1.87,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Zenit    Solvina Pro abrazívna 450g",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/solvina-pro-abrazivna-450g/",
+    "price": "2.28",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9837991",
+    "regular_price": 2.28,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Zenit    Solvina Pro gélová 450g",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/solvina-pro-gelova-450g/",
+    "price": "2.81",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9854622",
+    "regular_price": 2.81,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Vione    hard tekutá pasta na ruky 600g",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/vione-hard-tekuta-pasta-na-ruky-600g/",
+    "price": "1.8",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9853619",
+    "regular_price": 1.8,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Zenit    Solvina Pro abrazívna 5 kg",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/solvina-pro-abrazivna-5kg/",
+    "price": "17.73",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9861614",
+    "regular_price": 17.73,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Vione    hard tekutá pasta na ruky 5l",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/vione-hard-tekuta-pasta-na-ruky-5l/",
+    "price": "10.04",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9824272",
+    "regular_price": 10.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Elitex    Handra na podlahu tkaná Venda",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-univerzalne-cistice/handra-na-podlahu-tkana-venda/",
+    "price": "2.01",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9898000",
+    "regular_price": 2.01,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Maják na auto WK190",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/majak-na-auto-wk-190/",
+    "price": "31.71",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9881828",
+    "regular_price": 31.71,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž zatvárací s nožnicami 100x30x20mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-zatvaraci-s-noznicami_21176/",
+    "price": "26.09",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9861675",
+    "regular_price": 26.09,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž kompaktný s otvarákom 76x17x8mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-kompaktny-s-otvarakom_21190/",
+    "price": "19.56",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9887125",
+    "regular_price": 19.56,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž robustný 109x31x17mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-robustny_21200/",
+    "price": "20.38",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9870138",
+    "regular_price": 20.38,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž vreckový 85x30x15mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-vreckovy-seven_21261/",
+    "price": "21.01",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9822894",
+    "regular_price": 21.01,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž viacúčelový 108x38x25mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-viacucelovy-handyone_21275/",
+    "price": "39.15",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9810932",
+    "regular_price": 39.15,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž multifunkčný 76x38x16mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-multifunkcny-minimulti_21276/",
+    "price": "14.99",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9825097",
+    "regular_price": 14.99,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž multifunkčný 86x20x12mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-multifunkcny-minimalist_21279/",
+    "price": "20.38",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9817672",
+    "regular_price": 20.38,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž vreckový 63x24x6mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-vreckovy-skeletonknife_21294/",
+    "price": "10.59",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9899151",
+    "regular_price": 10.59,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "TRUE UTILITI    Nôž sklopný 110x26x9mm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/noz-sklopny-crafty_21296/",
+    "price": "15.48",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9820182",
+    "regular_price": 15.48,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Držiak na metlu 9cm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/drziak-na-metlu-9-cm_21124/",
+    "price": "5.8 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9884022",
+    "regular_price": 5.8,
+    "sale_price": 5.8,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Držiak na metlu trojitý 50cm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/drziak-na-metlu-trojity-50-cm_21125/",
+    "price": "19.38 €",
+    "stock_quantity": 11,
+    "attributes": [],
+    "sku": "SKU9845264",
+    "regular_price": 19.38,
+    "sale_price": 19.38,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Magnetický držiak na náradie 38cm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/magneticky-drziak-na-naradie-38-cm_21133/",
+    "price": "16.12 €",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9829858",
+    "regular_price": 16.12,
+    "sale_price": 16.12,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "SVX    Stropný sušiak 7tyčový 1,9m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-7-tycove-susiaky/stropny-susiak-7tycovy19m_5075/",
+    "price": "32.23",
+    "stock_quantity": 10,
+    "attributes": [],
+    "sku": "SKU9817600",
+    "regular_price": 32.23,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Elitex    Utierka viacúčelová kýblik - 68m",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-univerzalne-cistice/utierka-viacucelova-elitex-68m/",
+    "price": "15.83",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9828429",
+    "regular_price": 15.83,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Zenit    Umývacia pasta na ruky 450g Solvina Original",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/umyvacia-pasta-na-ruky-450g-solvina-original/",
+    "price": "2.59",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9816115",
+    "regular_price": 2.59,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Zenit    Solvina Pro gélová 5 kg",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/solvina-pro-gelova-5kg/",
+    "price": "32.88",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9842032",
+    "regular_price": 32.88,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Varná kanvica",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/varna-kanvica-24v-300w-1l_19423/",
+    "price": "40.97",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9883669",
+    "regular_price": 40.97,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Maják na auto WK194",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/majak-na-auto-gmpsm802hhh_19426/",
+    "price": "51.35",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9841282",
+    "regular_price": 51.35,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Ventilátor rotačný do auta",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/ventilator-rotacny-do-auta_19424/",
+    "price": "17.42",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9833226",
+    "regular_price": 17.42,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok - 2ks",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-2ks-30mm_5338/",
+    "price": "14.21",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9887529",
+    "regular_price": 14.21,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-40mm_5339/",
+    "price": "9.5",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9885512",
+    "regular_price": 9.5,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok - 2ks",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-2ks-40mm_5340/",
+    "price": "16.15",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9820318",
+    "regular_price": 16.15,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok - 3ks",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-3ks-40mm_5341/",
+    "price": "22.03",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9894716",
+    "regular_price": 22.03,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-40mm63hb_5343/",
+    "price": "10.28",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9875915",
+    "regular_price": 10.28,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-45mm_5344/",
+    "price": "11.62",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9821677",
+    "regular_price": 11.62,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-50mm_5345/",
+    "price": "12.55",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9885697",
+    "regular_price": 12.55,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-50mm80hb_5346/",
+    "price": "12.85",
+    "stock_quantity": 5,
+    "attributes": [],
+    "sku": "SKU9820499",
+    "regular_price": 12.85,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ABUS    Visiaci zámok",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-70mm_5347/",
+    "price": "29.82",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9865214",
+    "regular_price": 29.82,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Banchem    Gél na dezinfekciu rúk BANNderm",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-xxl/gel-na-dezinfekciu-ruk-bannderm-5l_1526/",
+    "price": "80.78",
+    "stock_quantity": 8,
+    "attributes": [],
+    "sku": "SKU9819168",
+    "regular_price": 80.78,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Banchem    Prací gél SENSI White (White flower)",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-avivaze/praci-gel-sensi-white-white-flower-3l_1634/",
+    "price": "7.14",
+    "stock_quantity": 1,
+    "attributes": [],
+    "sku": "SKU9895136",
+    "regular_price": 7.14,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Banchem    Odstraňovač škvŕn SENSI white",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-avivaze/odstranovac-skvrn-sensi-white-1l_1658/",
+    "price": "3.92",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9854939",
+    "regular_price": 3.92,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "STREND PRO    Ohrievač - elektrický",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/ohrievac-elektricky-ipx4_6385/",
+    "price": "64.26",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9852387",
+    "regular_price": 64.26,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "RICHTER    Visiaci zámok - sada",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-sada-1xzamok-52mm2x-vlozka-3035-su_13224/",
+    "price": "25.51",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9848254",
+    "regular_price": 25.51,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "RICHTER    Visiaci zámok - sada",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/visiaci-zamok-sada-2xzamok-52mm1x-vlozka-3035-su_13225/",
+    "price": "23.69",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9826022",
+    "regular_price": 23.69,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "RICHTER    Zámok TSA 335",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/zamok-tsa-335_13229/",
+    "price": "7.31",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9871142",
+    "regular_price": 7.31,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Vločkovacie tablety 20g 500g",
+    "link": "https://www.svx.sk/bazenova-chemia/vlockovacie-tablety-20g/",
+    "price": "3.83 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9856345",
+    "regular_price": 3.83,
+    "sale_price": 3.83,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Quick tester 3 parametre 50ks",
+    "link": "https://www.svx.sk/Bazenove-prislusenstvo/quick-tester-3-parametre/",
+    "price": "5.27 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9853241",
+    "regular_price": 5.27,
+    "sale_price": 5.27,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Quick tester 6 parametrov 50ks",
+    "link": "https://www.svx.sk/Bazenove-prislusenstvo/quick-tester-6-parametrov/",
+    "price": "8.09 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9848224",
+    "regular_price": 8.09,
+    "sale_price": 8.09,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Tester na pH a koncentráciu chlóru MARIMEX",
+    "link": "https://www.svx.sk/Bazenove-prislusenstvo/tester-na-ph-a-koncentraciu-chloru/",
+    "price": "12.22 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9849355",
+    "regular_price": 12.22,
+    "sale_price": 12.22,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Filtračné guličky 500g",
+    "link": "https://www.svx.sk/Bazenove-prislusenstvo/filtracne-gulicky-500g/",
+    "price": "21.4 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9812940",
+    "regular_price": 21.4,
+    "sale_price": 21.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Súprava pre lepenie bazénových fólií",
+    "link": "https://www.svx.sk/Bazenove-prislusenstvo/suprava-pre-lepenie-bazenovych-folii/",
+    "price": "6.4 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9816328",
+    "regular_price": 6.4,
+    "sale_price": 6.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MASTERsil    Dávkovač do bazénu \"PLAVÁK MAXI\"",
+    "link": "https://www.svx.sk/Bazenove-prislusenstvo/davkovac-do-bazena-plavak-maxi/",
+    "price": "10.08 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9822044",
+    "regular_price": 10.08,
+    "sale_price": 10.08,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Banchem    SOMO WC čistič Oceán 750ml",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-dezinfekcie/somo-wc-cistic-ocean-750ml_1431/",
+    "price": "2.69",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9853203",
+    "regular_price": 2.69,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "Banchem    Univerzálny čistič PANTRA® PROFESIONAL 11 green lily 1L",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-univerzalne-cistice/univerzalny-cistic-pantra-profesional-11-green-lily-1l_1662/",
+    "price": "4.04",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9877457",
+    "regular_price": 4.04,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Rúrka pre konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/rurka-pre-konektor-200cm42mm_21150/",
+    "price": "21.6 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9843441",
+    "regular_price": 21.6,
+    "sale_price": 21.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Rúrkový konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/rurkovy-konektor-42-mm_21168/",
+    "price": "9.6 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9859394",
+    "regular_price": 9.6,
+    "sale_price": 9.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Konektor držiaka",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/konektor-drziaka-42-mm_21169/",
+    "price": "19.2 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9851227",
+    "regular_price": 19.2,
+    "sale_price": 19.2,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/konektor-42-mm_21172/",
+    "price": "6.6 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9851984",
+    "regular_price": 6.6,
+    "sale_price": 6.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Konektor na podporu panelu",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/konektor-na-podporu-panelu-42-mm_21174/",
+    "price": "7.8 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9878414",
+    "regular_price": 7.8,
+    "sale_price": 7.8,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Rúrka pre konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/rurka-pre-konektor-200cm27-mm_21151/",
+    "price": "22.8 €",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9872694",
+    "regular_price": 22.8,
+    "sale_price": 22.8,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Rúrka pre konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/rurka-pre-konektor-200cm27mmcierna_21152/",
+    "price": "27.0 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9825618",
+    "regular_price": 27.0,
+    "sale_price": 27.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar T",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-t-27-mm_21153/",
+    "price": "10.2 €",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9878030",
+    "regular_price": 10.2,
+    "sale_price": 10.2,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar T",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-t-42-mm_21154/",
+    "price": "12.6 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9849795",
+    "regular_price": 12.6,
+    "sale_price": 12.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar X",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-x-42-mm_21157/",
+    "price": "11.4 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9862815",
+    "regular_price": 11.4,
+    "sale_price": 11.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar L",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-l-27-mm_21158/",
+    "price": "5.4 €",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9848473",
+    "regular_price": 5.4,
+    "sale_price": 5.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar L",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-l-42-mm_21159/",
+    "price": "15.0 €",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9881944",
+    "regular_price": 15.0,
+    "sale_price": 15.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Konektor na podporu panelu",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/konektor-na-podporu-panelu-42-mm_21174/",
+    "price": "7.8 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9856896",
+    "regular_price": 7.8,
+    "sale_price": 7.8,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Rúrka pre konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/rurka-pre-konektor-200cm27-mm_21151/",
+    "price": "22.8 €",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9813600",
+    "regular_price": 22.8,
+    "sale_price": 22.8,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Rúrka pre konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/rurka-pre-konektor-200cm27mmcierna_21152/",
+    "price": "27.0 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9892561",
+    "regular_price": 27.0,
+    "sale_price": 27.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar T",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-t-27-mm_21153/",
+    "price": "10.2 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9893987",
+    "regular_price": 10.2,
+    "sale_price": 10.2,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar T",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-t-42-mm_21154/",
+    "price": "12.6 €",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9885259",
+    "regular_price": 12.6,
+    "sale_price": 12.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar X",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-x-42-mm_21157/",
+    "price": "11.4 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9883804",
+    "regular_price": 11.4,
+    "sale_price": 11.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar L",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-l-27-mm_21158/",
+    "price": "5.4 €",
+    "stock_quantity": 3,
+    "attributes": [],
+    "sku": "SKU9839803",
+    "regular_price": 5.4,
+    "sale_price": 5.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tvar L",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tvar-l-42-mm_21159/",
+    "price": "15.0 €",
+    "stock_quantity": 4,
+    "attributes": [],
+    "sku": "SKU9856726",
+    "regular_price": 15.0,
+    "sale_price": 15.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok tri vetvy",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-tri-vetvy-42-mm_21161/",
+    "price": "12.6 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9827889",
+    "regular_price": 12.6,
+    "sale_price": 12.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Spojovací článok štyri vetvy",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/spojovaci-clanok-styri-vetvy-42-mm_21164/",
+    "price": "10.2 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU9883361",
+    "regular_price": 10.2,
+    "sale_price": 10.2,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Podporný konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/podporny-konektor-27-mm_21165/",
+    "price": "9.0 €",
+    "stock_quantity": 6,
+    "attributes": [],
+    "sku": "SKU9847028",
+    "regular_price": 9.0,
+    "sale_price": 9.0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Podporný konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/podporny-konektor-42-mm_21166/",
+    "price": "9.6 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9839661",
+    "regular_price": 9.6,
+    "sale_price": 9.6,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "MOTTEZ    Rúrkový konektor",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/rurkovy-konektor-27-mm_21167/",
+    "price": "5.4 €",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU9865939",
+    "regular_price": 5.4,
+    "sale_price": 5.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+{
+    "name": "ENERGIZER    Batérie LR 03 AAA4",
+    "link": "https://www.svx.sk/domacnost-a-drogeria-baterie/baterie-lr-03-aaa4_12532/",
+    "price": "2.36",
+    "stock_quantity": 24,
+    "attributes": [],
+    "sku": "SKU9816597",
+    "regular_price": 2.36,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 98,
+            "name": "Domácnosť a drogéria",
+            "slug": "domacnost-a-drogeria"
+        }
+    ]
+},
+]
