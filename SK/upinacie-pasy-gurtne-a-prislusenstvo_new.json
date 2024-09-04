@@ -1,0 +1,128 @@
+[
+{
+    "name": "SVX    Jednodielny rýchloupínací pás so sponou a voľným koncom čierny 6M",
+    "link": "https://www.svx.sk/upinacie-pasy-gurtne-a-prislusenstvo-rychloupinacie-pasy-cierne/jednodielny-rychloupinaci-pas-so-sponou-a-volnym-koncom-cierny-6m-250kg_2271/",
+    "price": "3.7 €",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU8984463",
+    "regular_price": 3.7,
+    "sale_price": 3.7,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 89,
+            "name": "Upínacie pásy - gurtne a príslušenstvo",
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        }
+    ]
+},
+{
+    "name": "Zakladací klin pod kolesá 415 mm",
+    "link": "https://www.svx.sk/upinacie-pasy-gurtne-a-prislusenstvo-zakladacie-kliny-pod-kolesa/zakladaci-klin-pod-kolesa-415-mm-415mm-35t_13462/",
+    "price": "19.7",
+    "stock_quantity": 16,
+    "attributes": [],
+    "sku": "SKU8938069",
+    "regular_price": 19.7,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 89,
+            "name": "Upínacie pásy - gurtne a príslušenstvo",
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        }
+    ]
+},
+{
+    "name": "Zakladací klin pod kolesá 500 mm",
+    "link": "https://www.svx.sk/upinacie-pasy-gurtne-a-prislusenstvo-zakladacie-kliny-pod-kolesa/zakladaci-klin-pod-kolesa-500-mm-500mm-35t-zlty_13451/",
+    "price": "19.01",
+    "stock_quantity": 107,
+    "attributes": [],
+    "sku": "SKU8958751",
+    "regular_price": 19.01,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 89,
+            "name": "Upínacie pásy - gurtne a príslušenstvo",
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        }
+    ]
+},
+{
+    "name": "Gurtňa - Upínací pás 1T-4M",
+    "link": "https://www.svx.sk/gurtne_dvojdielne_1T/gurtna-upinaci-pas-4m-1t_1844/",
+    "price": "7.63",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU8933014",
+    "regular_price": 7.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 89,
+            "name": "Upínacie pásy - gurtne a príslušenstvo",
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        }
+    ]
+},
+{
+    "name": "Gurtňa - Upínací pás 2T-4M",
+    "link": "https://www.svx.sk/gurtne_dvojdielne_2T/gurtna-upinaci-pas-4m-2t_1886/",
+    "price": "13.91",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU8910992",
+    "regular_price": 13.91,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 89,
+            "name": "Upínacie pásy - gurtne a príslušenstvo",
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        }
+    ]
+},
+{
+    "name": "Gurtňa - Upínací pás 1T-4M",
+    "link": "https://www.svx.sk/gurtne_dvojdielne_1T/gurtna-upinaci-pas-4m-1t_1844/",
+    "price": "7.63",
+    "stock_quantity": 2,
+    "attributes": [],
+    "sku": "SKU8937196",
+    "regular_price": 7.63,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 89,
+            "name": "Upínacie pásy - gurtne a príslušenstvo",
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        }
+    ]
+},
+{
+    "name": "Gurtňa - Upínací pás 2T-4M",
+    "link": "https://www.svx.sk/gurtne_dvojdielne_2T/gurtna-upinaci-pas-4m-2t_1886/",
+    "price": "13.91",
+    "stock_quantity": 0,
+    "attributes": [],
+    "sku": "SKU8971179",
+    "regular_price": 13.91,
+    "sale_price": 0,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 89,
+            "name": "Upínacie pásy - gurtne a príslušenstvo",
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        }
+    ]
+},
+]

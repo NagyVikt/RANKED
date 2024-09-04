@@ -1,0 +1,56 @@
+[
+{
+    "name": "SVX    Tieniaca sieť zelená 95%  - dĺžka 10m - výška 2m",
+    "link": "https://www.svx.sk/pletiva-tienivost-95/tieniaca-siet-zelena-95-2m10m_13811/",
+    "price": "33.4 €",
+    "stock_quantity": 19,
+    "attributes": [],
+    "sku": "SKU10099060",
+    "regular_price": 33.4,
+    "sale_price": 33.4,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť čierna 95% - dĺžka 10m - výška 1m",
+    "link": "https://www.svx.sk/pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete/tieniaca-siet-cierna-95-dlzka-10m-vyska-1m/",
+    "price": "17.42 €",
+    "stock_quantity": 25,
+    "attributes": [],
+    "sku": "SKU10084723",
+    "regular_price": 17.42,
+    "sale_price": 17.42,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+{
+    "name": "SVX    Tieniaca sieť zelená 90% - dĺžka 10m - výška 1m",
+    "link": "https://www.svx.sk/pletiva-tienivost-90/tieniaca-siet-zelena-90-1-m-10-m_10760/",
+    "price": "14.52 €",
+    "stock_quantity": 66,
+    "attributes": [],
+    "sku": "SKU10021035",
+    "regular_price": 14.52,
+    "sale_price": 14.52,
+    "dimensions": {},
+    "categories": [
+        {
+            "id": 100,
+            "name": "Pletivá",
+            "slug": "pletiva"
+        }
+    ]
+},
+]
