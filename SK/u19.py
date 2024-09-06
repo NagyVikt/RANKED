@@ -160,7 +160,7 @@ def create_or_update_product_in_woocommerce(product_data):
             return None
 
 # Load the JSON file
-with open('retazove-a-textilne-uvazky_new.json', 'r', encoding='utf-8') as file:
+with open('lanove-prislusenstvo-a-nerezovy-program2.json', 'r', encoding='utf-8') as file:
     products = json.load(file)
 
 # Directory to save downloaded images
