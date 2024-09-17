@@ -79,7 +79,7 @@ password = 'Karategi123'
 wc_base_url = 'https://kdtech.sk/wp-json/wc/v3/'
 
 # Read the product list from the JSON file
-with open('lanove-prislusenstvo-a-nerezovy-program2.json', 'r', encoding='utf-8') as f:
+with open('domacnost-a-drogeria.json', 'r', encoding='utf-8') as f:
     products = json.load(f)
 
 # Iterate over each product
