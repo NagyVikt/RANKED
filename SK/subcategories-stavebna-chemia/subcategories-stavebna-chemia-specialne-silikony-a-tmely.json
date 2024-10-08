@@ -1,0 +1,512 @@
+[
+    {
+        "name": "MASTERsil   Motorový silikón červený 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Pružný karosársky tmel biely 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Tesniaci tmel tekutý šedý 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Klampiarsky tmel šedý 310ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Sklenársky tmel  šedo-béžový 500g",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Kachliarsky tmel čierny 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Strešný tmel čierny 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Butylový tmel šedý 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný dub 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný svetlo sivý 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný buk 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný orech 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný smrek 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný čerešňa 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný mahagón 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný breza 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný antracit 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6199,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Motorový silikón červený 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Pružný karosársky tmel biely 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Tesniaci tmel tekutý šedý 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Klampiarsky tmel šedý 310ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Sklenársky tmel  šedo-béžový 500g",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Kachliarsky tmel čierny 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Strešný tmel čierny 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Butylový tmel šedý 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný dub 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný svetlo sivý 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný buk 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný orech 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný smrek 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný čerešňa 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný mahagón 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný breza 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Parketový tmel pružný antracit 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 891,
+                "name": "Stavebna Chemia Specialne Silikony A Tmely",
+                "slug": "stavebna-chemia-specialne-silikony-a-tmely"
+            }
+        ]
+    }
+]

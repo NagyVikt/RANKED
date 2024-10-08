@@ -1,0 +1,122 @@
+[
+    {
+        "name": "MASTERsil   Lepidlo na drevo D3 1kg",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 9287,
+                "name": "Stavebna Chemia Lepidla",
+                "slug": "stavebna-chemia-lepidla"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Lepidlo na polystyrén biele 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 9287,
+                "name": "Stavebna Chemia Lepidla",
+                "slug": "stavebna-chemia-lepidla"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Univerzálne lepidlo v spreji 400ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 9287,
+                "name": "Stavebna Chemia Lepidla",
+                "slug": "stavebna-chemia-lepidla"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Lepidlo na drevo D3 250g",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 9287,
+                "name": "Stavebna Chemia Lepidla",
+                "slug": "stavebna-chemia-lepidla"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Lepidlo na drevo D3 1kg",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 2128,
+                "name": "Stavebna Chemia Lepidla",
+                "slug": "stavebna-chemia-lepidla"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Lepidlo na polystyrén biele 315ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 2128,
+                "name": "Stavebna Chemia Lepidla",
+                "slug": "stavebna-chemia-lepidla"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Univerzálne lepidlo v spreji 400ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 2128,
+                "name": "Stavebna Chemia Lepidla",
+                "slug": "stavebna-chemia-lepidla"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Lepidlo na drevo D3 250g",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 2128,
+                "name": "Stavebna Chemia Lepidla",
+                "slug": "stavebna-chemia-lepidla"
+            }
+        ]
+    }
+]

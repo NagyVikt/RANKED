@@ -1,0 +1,92 @@
+[
+    {
+        "name": "MASTERsil   Polyuretanový tmel PU 50 čierna 310ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 1392,
+                "name": "Stavebna Chemia Tmely",
+                "slug": "stavebna-chemia-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Polyuretanový tmel PU 50 biela 310ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 1392,
+                "name": "Stavebna Chemia Tmely",
+                "slug": "stavebna-chemia-tmely"
+            }
+        ]
+    },
+    {
+        "name": "Wolf swiss quality   Akrylový tmel 290ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 1392,
+                "name": "Stavebna Chemia Tmely",
+                "slug": "stavebna-chemia-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Polyuretanový tmel PU 50 čierna 310ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5567,
+                "name": "Stavebna Chemia Tmely",
+                "slug": "stavebna-chemia-tmely"
+            }
+        ]
+    },
+    {
+        "name": "MASTERsil   Polyuretanový tmel PU 50 biela 310ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5567,
+                "name": "Stavebna Chemia Tmely",
+                "slug": "stavebna-chemia-tmely"
+            }
+        ]
+    },
+    {
+        "name": "Wolf swiss quality   Akrylový tmel 290ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5567,
+                "name": "Stavebna Chemia Tmely",
+                "slug": "stavebna-chemia-tmely"
+            }
+        ]
+    }
+]

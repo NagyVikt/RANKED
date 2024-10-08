@@ -1,0 +1,62 @@
+[
+    {
+        "name": "RAWLPLUG   Plynová kartuša pre SC40II",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 4308,
+                "name": "Naradie Nastrelovacie Pistole",
+                "slug": "naradie-nastrelovacie-pistole"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Nastreľovacia plynová pištoľ do dreva",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 4308,
+                "name": "Naradie Nastrelovacie Pistole",
+                "slug": "naradie-nastrelovacie-pistole"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Plynová kartuša pre SC40II",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6664,
+                "name": "Naradie Nastrelovacie Pistole",
+                "slug": "naradie-nastrelovacie-pistole"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Nastreľovacia plynová pištoľ do dreva",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6664,
+                "name": "Naradie Nastrelovacie Pistole",
+                "slug": "naradie-nastrelovacie-pistole"
+            }
+        ]
+    }
+]

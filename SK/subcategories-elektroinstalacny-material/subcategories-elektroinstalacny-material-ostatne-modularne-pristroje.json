@@ -1,0 +1,92 @@
+[
+    {
+        "name": "OEZ   Zvonček modulárny UMZ-A230",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 7190,
+                "name": "Elektroinstalacny Material Ostatne Modularne Pristroje",
+                "slug": "elektroinstalacny-material-ostatne-modularne-pristroje"
+            }
+        ]
+    },
+    {
+        "name": "OEZ   Transformátor zvončekový UTZ-4A 12A",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 7190,
+                "name": "Elektroinstalacny Material Ostatne Modularne Pristroje",
+                "slug": "elektroinstalacny-material-ostatne-modularne-pristroje"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Modulárna sieťová zásuvka 16A",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 7190,
+                "name": "Elektroinstalacny Material Ostatne Modularne Pristroje",
+                "slug": "elektroinstalacny-material-ostatne-modularne-pristroje"
+            }
+        ]
+    },
+    {
+        "name": "OEZ   Zvonček modulárny UMZ-A230",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 3248,
+                "name": "Elektroinstalacny Material Ostatne Modularne Pristroje",
+                "slug": "elektroinstalacny-material-ostatne-modularne-pristroje"
+            }
+        ]
+    },
+    {
+        "name": "OEZ   Transformátor zvončekový UTZ-4A 12A",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 3248,
+                "name": "Elektroinstalacny Material Ostatne Modularne Pristroje",
+                "slug": "elektroinstalacny-material-ostatne-modularne-pristroje"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Modulárna sieťová zásuvka 16A",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 3248,
+                "name": "Elektroinstalacny Material Ostatne Modularne Pristroje",
+                "slug": "elektroinstalacny-material-ostatne-modularne-pristroje"
+            }
+        ]
+    }
+]

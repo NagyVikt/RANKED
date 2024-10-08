@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Kábel CYYP-O 3x1,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6890,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    },
+    {
+        "name": "Kábel CYYP 2Bx2,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6890,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    },
+    {
+        "name": "Kábel CYYP 2Bx1,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6890,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    },
+    {
+        "name": "Kábel CYYP-J 3x1,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6890,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    },
+    {
+        "name": "Kábel CYYP-J 3x2,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6890,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    },
+    {
+        "name": "Kábel CYYP-O 3x1,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 3165,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    },
+    {
+        "name": "Kábel CYYP 2Bx2,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 3165,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    },
+    {
+        "name": "Kábel CYYP 2Bx1,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 3165,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    },
+    {
+        "name": "Kábel CYYP-J 3x1,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 3165,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    },
+    {
+        "name": "Kábel CYYP-J 3x2,5",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 3165,
+                "name": "Elektroinstalacny Material Cyyp Kable",
+                "slug": "elektroinstalacny-material-cyyp-kable"
+            }
+        ]
+    }
+]

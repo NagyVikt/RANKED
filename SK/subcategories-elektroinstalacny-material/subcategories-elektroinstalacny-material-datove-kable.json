@@ -1,0 +1,92 @@
+[
+    {
+        "name": "SOLARIX   Kábel FTP Cat5e SXKD-5e-FTP-PE Outdoor",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 7046,
+                "name": "Elektroinstalacny Material Datove Kable",
+                "slug": "elektroinstalacny-material-datove-kable"
+            }
+        ]
+    },
+    {
+        "name": "SOLARIX   Kábel FTP Cat5e SXKD-5e-FTP-PVC",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 7046,
+                "name": "Elektroinstalacny Material Datove Kable",
+                "slug": "elektroinstalacny-material-datove-kable"
+            }
+        ]
+    },
+    {
+        "name": "SOLARIX   Kábel FTP Cat5e SXKD-5e-FTP-LSOH",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 7046,
+                "name": "Elektroinstalacny Material Datove Kable",
+                "slug": "elektroinstalacny-material-datove-kable"
+            }
+        ]
+    },
+    {
+        "name": "SOLARIX   Kábel FTP Cat5e SXKD-5e-FTP-PE Outdoor",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5826,
+                "name": "Elektroinstalacny Material Datove Kable",
+                "slug": "elektroinstalacny-material-datove-kable"
+            }
+        ]
+    },
+    {
+        "name": "SOLARIX   Kábel FTP Cat5e SXKD-5e-FTP-PVC",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5826,
+                "name": "Elektroinstalacny Material Datove Kable",
+                "slug": "elektroinstalacny-material-datove-kable"
+            }
+        ]
+    },
+    {
+        "name": "SOLARIX   Kábel FTP Cat5e SXKD-5e-FTP-LSOH",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5826,
+                "name": "Elektroinstalacny Material Datove Kable",
+                "slug": "elektroinstalacny-material-datove-kable"
+            }
+        ]
+    }
+]

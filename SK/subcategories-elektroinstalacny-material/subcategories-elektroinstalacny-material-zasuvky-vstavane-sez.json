@@ -1,0 +1,122 @@
+[
+    {
+        "name": "SEZ   Zásuvka vstavaná IEN 1653",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1863,
+                "name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+                "slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka vstavaná IEN 3243",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1863,
+                "name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+                "slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka vstavaná IEN 3253",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1863,
+                "name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+                "slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka vstavaná IEN 1643",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1863,
+                "name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+                "slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka vstavaná IEN 1653",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2605,
+                "name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+                "slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka vstavaná IEN 3243",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2605,
+                "name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+                "slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka vstavaná IEN 3253",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2605,
+                "name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+                "slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka vstavaná IEN 1643",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2605,
+                "name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+                "slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+            }
+        ]
+    }
+]

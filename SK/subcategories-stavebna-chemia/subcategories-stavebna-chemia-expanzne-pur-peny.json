@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Wolf swiss quality   Montážna (PUR) pena trubičková VYSOKOEXPANZNÁ 700ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5809,
+                "name": "Stavebna Chemia Expanzne Pur Peny",
+                "slug": "stavebna-chemia-expanzne-pur-peny"
+            }
+        ]
+    },
+    {
+        "name": "Wolf swiss quality   Montážna (PUR) pena pištoľová VYSOKOEXPANZNÁ 700ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5809,
+                "name": "Stavebna Chemia Expanzne Pur Peny",
+                "slug": "stavebna-chemia-expanzne-pur-peny"
+            }
+        ]
+    },
+    {
+        "name": "Wolf swiss quality   Montážna (PUR) pena pištoľová VYSOKOEXPANZNÁ - 10 ks MEGA PACK 700ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5809,
+                "name": "Stavebna Chemia Expanzne Pur Peny",
+                "slug": "stavebna-chemia-expanzne-pur-peny"
+            }
+        ]
+    },
+    {
+        "name": "Wolf swiss quality   Montážna (PUR) pena trubičková VYSOKOEXPANZNÁ 700ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 1337,
+                "name": "Stavebna Chemia Expanzne Pur Peny",
+                "slug": "stavebna-chemia-expanzne-pur-peny"
+            }
+        ]
+    },
+    {
+        "name": "Wolf swiss quality   Montážna (PUR) pena pištoľová VYSOKOEXPANZNÁ 700ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 1337,
+                "name": "Stavebna Chemia Expanzne Pur Peny",
+                "slug": "stavebna-chemia-expanzne-pur-peny"
+            }
+        ]
+    },
+    {
+        "name": "Wolf swiss quality   Montážna (PUR) pena pištoľová VYSOKOEXPANZNÁ - 10 ks MEGA PACK 700ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 1337,
+                "name": "Stavebna Chemia Expanzne Pur Peny",
+                "slug": "stavebna-chemia-expanzne-pur-peny"
+            }
+        ]
+    }
+]

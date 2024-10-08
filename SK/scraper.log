@@ -1,0 +1,908 @@
+2024-10-08 19:45:51,729 - INFO - Successfully fetched https://www.svx.sk/zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/
+2024-10-08 19:45:51,863 - INFO - Found 80 subcategories for https://www.svx.sk/zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/
+2024-10-08 19:46:08,951 - INFO - Successfully fetched https://www.svx.sk/zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy/
+2024-10-08 19:46:09,196 - INFO - Found 24 products in subcategory https://www.svx.sk/zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy/
+2024-10-08 19:46:09,198 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Fialový 1T/1M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,200 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Zelený 2T/1-2M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,201 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Červený 5T/3-6M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,203 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Zelený 2T/2-4M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,204 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Žltý 3T/3-6M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,206 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Zelený 2T/2M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,207 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Fialový 1T/2M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,209 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Zelený 2T/4M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,211 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Žltý 3T/3M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,212 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Fialový 1T/1-2M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,214 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Fialový 1T/0,5-1M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,215 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Zelený 2T/1,5M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,217 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Zelený 2T/6M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,219 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Žltý 3T/1-2M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,221 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Zelený 2T/3M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,224 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Žltý 3T/5M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,225 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Sivý 4T/4M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,227 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Fialový 1T/1,5-3M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,229 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Žltý 3T/2-4M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,232 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Zelený 2T/0,5-1M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,234 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Sivý 4T/4-8M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,235 - INFO - Saved product SVX   Nekonečná slučka - zdvíhací pás Čierny 2T/1-2M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,237 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Žltý 3T/6M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:09,239 - INFO - Saved product SVX   Oko/oko - zdvíhací pás Žltý 3T/4M to subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100/subcategories-zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-textilne-pasy.json
+2024-10-08 19:46:35,649 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria/
+2024-10-08 19:46:35,881 - INFO - Found 32 subcategories for https://www.svx.sk/domacnost-a-drogeria/
+2024-10-08 19:46:39,914 - INFO - Successfully fetched https://www.svx.sk/pletiva/
+2024-10-08 19:46:40,079 - INFO - Found 36 subcategories for https://www.svx.sk/pletiva/
+2024-10-08 19:46:51,824 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-drogeria/
+2024-10-08 19:46:52,009 - INFO - Found 18 products in subcategory https://www.svx.sk/domacnost-a-drogeria-drogeria/
+2024-10-08 19:46:52,011 - INFO - Saved product Zenit   Umývacia pasta na ruky 450g Solvina Industry to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,012 - INFO - Saved product Vione   hard tekutá pasta na ruky 600g to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,013 - INFO - Saved product Banchem   Aviváž SENSI Rose dew to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,014 - INFO - Saved product Elitex   Utierka viacúčelová modrá - 68m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,015 - INFO - Saved product Zenit   Solvina Pro abrazívna 450g to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,016 - INFO - Saved product Zenit   Solvina Pro abrazívna 5 kg to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,017 - INFO - Saved product Elitex   Kefka na ruky mix to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,018 - INFO - Saved product Elitex   Utierka viacúčelová kýblik - 68m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,019 - INFO - Saved product Zenit   Umývacia pasta na ruky 450g Solvina Original to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,020 - INFO - Saved product Zenit   Solvina Pro gélová 5 kg to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,021 - INFO - Saved product Banchem   SOMO WC čistič Oceán 750ml to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,022 - INFO - Saved product Banchem   Univerzálny čistič PANTRA® PROFESIONAL 11 green lily 1L to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,023 - INFO - Saved product Zenit   Solvina Pro gélová 450g to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,024 - INFO - Saved product Vione   hard tekutá pasta na ruky 5l to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,025 - INFO - Saved product Elitex   Handra na podlahu tkaná Venda to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,027 - INFO - Saved product Banchem   Gél na dezinfekciu rúk BANNderm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,028 - INFO - Saved product Banchem   Prací gél SENSI White (White flower) to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:52,029 - INFO - Saved product Banchem   Odstraňovač škvŕn SENSI white to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:46:56,437 - INFO - Successfully fetched https://www.svx.sk/pletiva-tieniace-siete-a-plachty/
+2024-10-08 19:46:56,609 - INFO - Found 15 products in subcategory https://www.svx.sk/pletiva-tieniace-siete-a-plachty/
+2024-10-08 19:46:56,611 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,612 - INFO - Saved product SVX   Tieniaca sieť zelená 95%  - dĺžka 10m - výška 2m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,613 - INFO - Saved product SVX   Tieniaca sieť hnedá 95%  - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,614 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,615 - INFO - Saved product SVX   Tieniaca sieť zelená 95%  - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,616 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 10m - výška 1,5m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,617 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,618 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 2m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,619 - INFO - Saved product SVX   Tieniaca sieť antracit 95% - dĺžka 10m - výška 1,5m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,620 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,621 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,622 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,623 - INFO - Saved product SVX   Tieniaca sieť zelená 95% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,624 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:46:56,625 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:47:02,891 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/
+2024-10-08 19:47:03,080 - INFO - Found 8 products in subcategory https://www.svx.sk/domacnost-a-drogeria-drogeria-cistiace-pasty/
+2024-10-08 19:47:03,081 - INFO - Saved product Zenit   Umývacia pasta na ruky 450g Solvina Industry to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria-cistiace-pasty.json
+2024-10-08 19:47:03,082 - INFO - Saved product Vione   hard tekutá pasta na ruky 600g to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria-cistiace-pasty.json
+2024-10-08 19:47:03,083 - INFO - Saved product Zenit   Solvina Pro abrazívna 450g to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria-cistiace-pasty.json
+2024-10-08 19:47:03,084 - INFO - Saved product Zenit   Solvina Pro abrazívna 5 kg to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria-cistiace-pasty.json
+2024-10-08 19:47:03,084 - INFO - Saved product Zenit   Solvina Pro gélová 450g to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria-cistiace-pasty.json
+2024-10-08 19:47:03,085 - INFO - Saved product Vione   hard tekutá pasta na ruky 5l to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria-cistiace-pasty.json
+2024-10-08 19:47:03,086 - INFO - Saved product Zenit   Umývacia pasta na ruky 450g Solvina Original to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria-cistiace-pasty.json
+2024-10-08 19:47:03,086 - INFO - Saved product Zenit   Solvina Pro gélová 5 kg to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria-cistiace-pasty.json
+2024-10-08 19:47:12,517 - INFO - Successfully fetched https://www.svx.sk/pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete/
+2024-10-08 19:47:12,692 - INFO - Found 3 products in subcategory https://www.svx.sk/pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete/
+2024-10-08 19:47:12,693 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete.json
+2024-10-08 19:47:12,694 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 10m - výška 1,5m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete.json
+2024-10-08 19:47:12,694 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete.json
+2024-10-08 19:47:19,057 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-avivaze/
+2024-10-08 19:47:19,197 - INFO - Found 3 products in subcategory https://www.svx.sk/domacnost-a-drogeria-avivaze/
+2024-10-08 19:47:19,198 - INFO - Saved product Banchem   Aviváž SENSI Rose dew to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-avivaze.json
+2024-10-08 19:47:19,198 - INFO - Saved product Banchem   Prací gél SENSI White (White flower) to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-avivaze.json
+2024-10-08 19:47:19,199 - INFO - Saved product Banchem   Odstraňovač škvŕn SENSI white to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-avivaze.json
+2024-10-08 19:47:28,875 - INFO - Successfully fetched https://www.svx.sk/pletiva-zelene-siete/
+2024-10-08 19:47:29,051 - INFO - Found 6 products in subcategory https://www.svx.sk/pletiva-zelene-siete/
+2024-10-08 19:47:29,052 - INFO - Saved product SVX   Tieniaca sieť zelená 95%  - dĺžka 10m - výška 2m to subcategories-pletiva/subcategories-pletiva-zelene-siete.json
+2024-10-08 19:47:29,052 - INFO - Saved product SVX   Tieniaca sieť zelená 95%  - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-zelene-siete.json
+2024-10-08 19:47:29,053 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 2m to subcategories-pletiva/subcategories-pletiva-zelene-siete.json
+2024-10-08 19:47:29,053 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-zelene-siete.json
+2024-10-08 19:47:29,054 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-zelene-siete.json
+2024-10-08 19:47:29,054 - INFO - Saved product SVX   Tieniaca sieť zelená 95% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-zelene-siete.json
+2024-10-08 19:47:40,028 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-dezinfekcie/
+2024-10-08 19:47:40,183 - INFO - Found 1 products in subcategory https://www.svx.sk/domacnost-a-drogeria-dezinfekcie/
+2024-10-08 19:47:40,183 - INFO - Saved product Banchem   SOMO WC čistič Oceán 750ml to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-dezinfekcie.json
+2024-10-08 19:47:44,814 - INFO - Successfully fetched https://www.svx.sk/pletiva-antracitove-siete/
+2024-10-08 19:47:44,989 - INFO - Found 1 products in subcategory https://www.svx.sk/pletiva-antracitove-siete/
+2024-10-08 19:47:44,990 - INFO - Saved product SVX   Tieniaca sieť antracit 95% - dĺžka 10m - výška 1,5m to subcategories-pletiva/subcategories-pletiva-antracitove-siete.json
+2024-10-08 19:47:55,851 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-xxl/
+2024-10-08 19:47:55,993 - INFO - Found 1 products in subcategory https://www.svx.sk/domacnost-a-drogeria-xxl/
+2024-10-08 19:47:55,994 - INFO - Saved product Banchem   Gél na dezinfekciu rúk BANNderm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-xxl.json
+2024-10-08 19:48:06,513 - INFO - Successfully fetched https://www.svx.sk/pletiva-hnede-siete/
+2024-10-08 19:48:06,687 - INFO - Found 1 products in subcategory https://www.svx.sk/pletiva-hnede-siete/
+2024-10-08 19:48:06,688 - INFO - Saved product SVX   Tieniaca sieť hnedá 95%  - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-hnede-siete.json
+2024-10-08 19:48:18,077 - INFO - Successfully fetched https://www.svx.sk/pletiva-siete-proti-vtakom/
+2024-10-08 19:48:18,223 - INFO - Found 4 products in subcategory https://www.svx.sk/pletiva-siete-proti-vtakom/
+2024-10-08 19:48:18,224 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-siete-proti-vtakom.json
+2024-10-08 19:48:18,225 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-siete-proti-vtakom.json
+2024-10-08 19:48:18,225 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-siete-proti-vtakom.json
+2024-10-08 19:48:18,226 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-siete-proti-vtakom.json
+2024-10-08 19:48:30,728 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-univerzalne-cistice/
+2024-10-08 19:48:30,875 - INFO - Found 5 products in subcategory https://www.svx.sk/domacnost-a-drogeria-univerzalne-cistice/
+2024-10-08 19:48:30,876 - INFO - Saved product Elitex   Utierka viacúčelová modrá - 68m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-univerzalne-cistice.json
+2024-10-08 19:48:30,876 - INFO - Saved product Elitex   Kefka na ruky mix to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-univerzalne-cistice.json
+2024-10-08 19:48:30,877 - INFO - Saved product Elitex   Utierka viacúčelová kýblik - 68m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-univerzalne-cistice.json
+2024-10-08 19:48:30,878 - INFO - Saved product Banchem   Univerzálny čistič PANTRA® PROFESIONAL 11 green lily 1L to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-univerzalne-cistice.json
+2024-10-08 19:48:30,878 - INFO - Saved product Elitex   Handra na podlahu tkaná Venda to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-univerzalne-cistice.json
+2024-10-08 19:48:34,248 - INFO - Successfully fetched https://www.svx.sk/pletiva-4-hranne/
+2024-10-08 19:48:34,440 - INFO - Found 12 products in subcategory https://www.svx.sk/pletiva-4-hranne/
+2024-10-08 19:48:34,442 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,443 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,444 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,445 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,446 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,447 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,448 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,449 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,450 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,451 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,452 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:34,453 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:48:52,793 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-susiaky/
+2024-10-08 19:48:52,974 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-susiaky/
+2024-10-08 19:48:52,975 - INFO - Saved product SVX   Stropný sušiak 7tyčový 2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,976 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,4m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,977 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,8m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,979 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,8m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,980 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,7m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,981 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,9m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,982 - INFO - Saved product SVX   Stropný sušiak 6tyčový 2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,983 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,984 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,7m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,985 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,4m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,987 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,9m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,988 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,6m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,989 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,991 - INFO - Saved product SVX   Stropný sušiak 5tyčový 2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,993 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,5m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,995 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,997 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,5m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:52,999 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,9m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:53,001 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,7m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:53,002 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,5m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:53,005 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,6m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:53,007 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:53,008 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,4m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:53,010 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,8m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:48:56,284 - INFO - Successfully fetched https://www.svx.sk/pletiva-6-hranne/
+2024-10-08 19:48:56,412 - INFO - Found 7 products in subcategory https://www.svx.sk/pletiva-6-hranne/
+2024-10-08 19:48:56,413 - INFO - Saved product SVX   Pletivo PVC 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:48:56,414 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:48:56,415 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:48:56,415 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:48:56,416 - INFO - Saved product SVX   Pletivo PVC 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:48:56,417 - INFO - Saved product SVX   Pletivo PVC 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:48:56,417 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:49:09,286 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-5-tycove-susiaky/
+2024-10-08 19:49:09,510 - INFO - Found 9 products in subcategory https://www.svx.sk/domacnost-a-drogeria-5-tycove-susiaky/
+2024-10-08 19:49:09,511 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,4m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-5-tycove-susiaky.json
+2024-10-08 19:49:09,512 - INFO - Saved product SVX   Stropný sušiak 5tyčový 2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-5-tycove-susiaky.json
+2024-10-08 19:49:09,513 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,9m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-5-tycove-susiaky.json
+2024-10-08 19:49:09,513 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,7m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-5-tycove-susiaky.json
+2024-10-08 19:49:09,514 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,5m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-5-tycove-susiaky.json
+2024-10-08 19:49:09,515 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,8m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-5-tycove-susiaky.json
+2024-10-08 19:49:09,515 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,6m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-5-tycove-susiaky.json
+2024-10-08 19:49:09,516 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-5-tycove-susiaky.json
+2024-10-08 19:49:09,517 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-5-tycove-susiaky.json
+2024-10-08 19:49:12,239 - INFO - Successfully fetched https://www.svx.sk/pletiva-zvarane/
+2024-10-08 19:49:12,404 - INFO - Found 8 products in subcategory https://www.svx.sk/pletiva-zvarane/
+2024-10-08 19:49:12,405 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:49:12,406 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:49:12,407 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:49:12,408 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:49:12,409 - INFO - Saved product SVX   Zváraná sieť PVC to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:49:12,410 - INFO - Saved product SVX   Zváraná sieť PVC to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:49:12,411 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:49:12,412 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:49:25,322 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/
+2024-10-08 19:49:25,510 - INFO - Found 9 products in subcategory https://www.svx.sk/domacnost-a-drogeria-6-tycove-susiaky/
+2024-10-08 19:49:25,511 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,8m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-6-tycove-susiaky.json
+2024-10-08 19:49:25,512 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,7m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-6-tycove-susiaky.json
+2024-10-08 19:49:25,513 - INFO - Saved product SVX   Stropný sušiak 6tyčový 2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-6-tycove-susiaky.json
+2024-10-08 19:49:25,513 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-6-tycove-susiaky.json
+2024-10-08 19:49:25,514 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,9m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-6-tycove-susiaky.json
+2024-10-08 19:49:25,515 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,6m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-6-tycove-susiaky.json
+2024-10-08 19:49:25,515 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-6-tycove-susiaky.json
+2024-10-08 19:49:25,516 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,5m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-6-tycove-susiaky.json
+2024-10-08 19:49:25,516 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,4m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-6-tycove-susiaky.json
+2024-10-08 19:49:33,772 - INFO - Successfully fetched https://www.svx.sk/pletiva-okrasne/
+2024-10-08 19:49:33,910 - INFO - Found 2 products in subcategory https://www.svx.sk/pletiva-okrasne/
+2024-10-08 19:49:33,911 - INFO - Saved product SVX   Okrasné pletivo PVC to subcategories-pletiva/subcategories-pletiva-okrasne.json
+2024-10-08 19:49:33,912 - INFO - Saved product SVX   Okrasné pletivo PVC to subcategories-pletiva/subcategories-pletiva-okrasne.json
+2024-10-08 19:49:39,100 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-7-tycove-susiaky/
+2024-10-08 19:49:39,249 - INFO - Found 9 products in subcategory https://www.svx.sk/domacnost-a-drogeria-7-tycove-susiaky/
+2024-10-08 19:49:39,250 - INFO - Saved product SVX   Stropný sušiak 7tyčový 2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-7-tycove-susiaky.json
+2024-10-08 19:49:39,251 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,8m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-7-tycove-susiaky.json
+2024-10-08 19:49:39,251 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,9m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-7-tycove-susiaky.json
+2024-10-08 19:49:39,252 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,7m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-7-tycove-susiaky.json
+2024-10-08 19:49:39,253 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,4m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-7-tycove-susiaky.json
+2024-10-08 19:49:39,253 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,5m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-7-tycove-susiaky.json
+2024-10-08 19:49:39,254 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-7-tycove-susiaky.json
+2024-10-08 19:49:39,254 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,6m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-7-tycove-susiaky.json
+2024-10-08 19:49:39,255 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-7-tycove-susiaky.json
+2024-10-08 19:49:50,067 - INFO - Successfully fetched https://www.svx.sk/pletiva-plotove-panely/
+2024-10-08 19:49:50,247 - INFO - Found 1 products in subcategory https://www.svx.sk/pletiva-plotove-panely/
+2024-10-08 19:49:50,248 - INFO - Saved product SVX   Panel BRICO antracit to subcategories-pletiva/subcategories-pletiva-plotove-panely.json
+2024-10-08 19:50:00,125 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/
+2024-10-08 19:50:00,336 - INFO - Found 15 products in subcategory https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/
+2024-10-08 19:50:00,337 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,338 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,339 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,340 - INFO - Saved product STREND PRO   Konvektor + Turbo ventilátor to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,342 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,343 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,344 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,345 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,346 - INFO - Saved product SOMOGYI   Ventilátor nástenný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,347 - INFO - Saved product SOMOGYI   Ochladzovač vzduchu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,349 - INFO - Saved product SOMOGYI   Klimatizácia mobilná to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,350 - INFO - Saved product SOMOGYI   Ochladzovač vzduchu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,351 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,352 - INFO - Saved product STREND PRO   Halogénový ohrievač to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:00,353 - INFO - Saved product SOMOGYI   Ventilátor štipcový AKU to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:50:11,638 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/
+2024-10-08 19:50:11,807 - INFO - Found 14 products in subcategory https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/
+2024-10-08 19:50:11,808 - INFO - Saved product RICHTER   Visiaci zámok - sada to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,810 - INFO - Saved product RICHTER   Visiaci zámok - sada to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,811 - INFO - Saved product RICHTER   Zámok TSA 335 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,813 - INFO - Saved product ABUS   Visiaci zámok - 2ks to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,814 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,815 - INFO - Saved product ABUS   Visiaci zámok - 2ks to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,817 - INFO - Saved product ABUS   Visiaci zámok - 3ks to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,818 - INFO - Saved product ABUS   Visiaci zámok - 4ks to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,819 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,821 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,822 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,823 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,825 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:11,826 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:50:16,673 - INFO - Successfully fetched https://www.svx.sk/pletiva-stlpiky/
+2024-10-08 19:50:16,819 - INFO - Found 6 products in subcategory https://www.svx.sk/pletiva-stlpiky/
+2024-10-08 19:50:16,820 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:50:16,821 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:50:16,822 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:50:16,823 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:50:16,823 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:50:16,824 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:50:32,843 - INFO - Successfully fetched https://www.svx.sk/pletiva-prislusenstvo/
+2024-10-08 19:50:33,010 - INFO - Found 20 products in subcategory https://www.svx.sk/pletiva-prislusenstvo/
+2024-10-08 19:50:33,012 - INFO - Saved product SVX   Napínač lana pozinkovaný 120mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,013 - INFO - Saved product SVX   Napínač lana zelený 120mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,014 - INFO - Saved product SVX   Spinky omega zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,015 - INFO - Saved product SVX   Kliešte omega so zásobníkom to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,017 - INFO - Saved product SVX   Drôt viazací zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,018 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,019 - INFO - Saved product SVX   Spinky omega zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,021 - INFO - Saved product SVX   Spinky omega zelené to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,022 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,023 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,024 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,026 - INFO - Saved product SVX   Spinky omega zelené to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,027 - INFO - Saved product SVX   Drôt napínací zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,029 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,030 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,032 - INFO - Saved product None   Napínač lana pozinkovaný 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,033 - INFO - Saved product Napínač lana zelený 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,034 - INFO - Saved product Napínač lana zelený 120mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,036 - INFO - Saved product SVX   Napínač lana pozinkovaný 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,037 - INFO - Saved product SVX   Napínač lana zelený 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:50:33,665 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-baterie/
+2024-10-08 19:50:33,858 - INFO - Found 23 products in subcategory https://www.svx.sk/domacnost-a-drogeria-baterie/
+2024-10-08 19:50:33,860 - INFO - Saved product ENERGIZER   Batéria CR 2032 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,861 - INFO - Saved product ENERGIZER   Batérie LR 06 AA/2 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,862 - INFO - Saved product ENERGIZER   Batérie A11 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,863 - INFO - Saved product ENERGIZER   Batéria CR 123A to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,865 - INFO - Saved product ENERGIZER   Batéria CR 1620 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,866 - INFO - Saved product ENERGIZER   Batéria CR 1616 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,868 - INFO - Saved product ENERGIZER   Batéria CR 1632 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,869 - INFO - Saved product ENERGIZER   Batéria CR 2016 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,870 - INFO - Saved product ENERGIZER   Batéria CR 2025 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,871 - INFO - Saved product ENERGIZER   Batérie LR 44 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,873 - INFO - Saved product ENERGIZER   Batérie LR 43 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,874 - INFO - Saved product ENERGIZER   Batérie LR 54 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,876 - INFO - Saved product ENERGIZER   Batérie A27 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,877 - INFO - Saved product ENERGIZER   Batérie LR 03 AAA2 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,879 - INFO - Saved product ENERGIZER   Batéria LR 61 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,880 - INFO - Saved product ENERGIZER   Batérie HR 03 AAA4 nabíjateľné to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,881 - INFO - Saved product ENERGIZER   Batérie HR 06 AA2 nabíjateľné to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,883 - INFO - Saved product ENERGIZER   Nabíjačka Pro Charger+AAA to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,885 - INFO - Saved product ENERGIZER   Batéria A23 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,886 - INFO - Saved product ENERGIZER   Batérie LR 03 AAA4 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,888 - INFO - Saved product ENERGIZER   Batérie LR 06 AA/4 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,889 - INFO - Saved product ENERGIZER   Batérie LR 20 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:33,891 - INFO - Saved product ENERGIZER   Batérie LR 14 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:50:49,339 - INFO - Successfully fetched https://www.svx.sk/pletiva-k-4-hrannym-pletivam/
+2024-10-08 19:50:49,539 - INFO - Found 13 products in subcategory https://www.svx.sk/pletiva-k-4-hrannym-pletivam/
+2024-10-08 19:50:49,540 - INFO - Saved product SVX   Spinky omega zn to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,541 - INFO - Saved product SVX   Kliešte omega so zásobníkom to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,542 - INFO - Saved product SVX   Drôt viazací zn to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,542 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,543 - INFO - Saved product SVX   Spinky omega zn to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,544 - INFO - Saved product SVX   Spinky omega zelené to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,545 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,546 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,547 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,547 - INFO - Saved product SVX   Spinky omega zelené to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,548 - INFO - Saved product SVX   Drôt napínací zn to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,549 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:49,550 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-k-4-hrannym-pletivam.json
+2024-10-08 19:50:50,681 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/
+2024-10-08 19:50:50,826 - INFO - Found 4 products in subcategory https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/
+2024-10-08 19:50:50,827 - INFO - Saved product Maják na auto WK194 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-prislusenstvo-do-auta.json
+2024-10-08 19:50:50,828 - INFO - Saved product Ventilátor rotačný do auta to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-prislusenstvo-do-auta.json
+2024-10-08 19:50:50,829 - INFO - Saved product Maják na auto WK190 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-prislusenstvo-do-auta.json
+2024-10-08 19:50:50,829 - INFO - Saved product Varná kanvica to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-prislusenstvo-do-auta.json
+2024-10-08 19:51:02,617 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/
+2024-10-08 19:51:02,814 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/
+2024-10-08 19:51:02,816 - INFO - Saved product INOFIX   Kryt zásuvky zaklapávací to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,818 - INFO - Saved product INOFIX   Ochrana rohov - transparentná to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,820 - INFO - Saved product INOFIX   Mäkká zarážka dverí - lienka to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,821 - INFO - Saved product INOFIX   Ochrana rohov to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,823 - INFO - Saved product INOFIX   Ochrana rohov to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,825 - INFO - Saved product INOFIX   Ochrana rohov v rolke to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,826 - INFO - Saved product INOFIX   Ochrana rohov v rolke to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,828 - INFO - Saved product INOFIX   Zámok viacúčelový bezpečnostný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,830 - INFO - Saved product INOFIX   Zámok viacúčelový bezpečnostný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,832 - INFO - Saved product INOFIX   Zámok nastaviteľný bezpečnostný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,833 - INFO - Saved product INOFIX   Bočný bezpečnostný zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,835 - INFO - Saved product INOFIX   Vonkajší bezpečnostný zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,836 - INFO - Saved product INOFIX   Vnútorný bezpečnostný zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,838 - INFO - Saved product INOFIX   Bezpečnostný blok na okná to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,840 - INFO - Saved product INOFIX   Mäkká zarážka dverí - biela to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,842 - INFO - Saved product INOFIX   Mäkká zarážka dverí - mačka to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,844 - INFO - Saved product INOFIX   Mäkká zarážka dverí - tiger to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,846 - INFO - Saved product INOFIX   Mäkká zarážka dverí - opica to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,848 - INFO - Saved product INOFIX   Flexibilný držiak pod dvere to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,851 - INFO - Saved product INOFIX   Kryt zásuvky nalepovací to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,853 - INFO - Saved product INOFIX   Viacúčelová karabína na detský kočík to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,855 - INFO - Saved product INOFIX   Otočné háčiky na detský kočík to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,857 - INFO - Saved product INOFIX   Protišmykové nálepky to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:02,859 - INFO - Saved product INOFIX   Protišmykové nálepky to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:51:06,817 - INFO - Successfully fetched https://www.svx.sk/pletiva-brany/
+2024-10-08 19:51:06,990 - INFO - Found 12 products in subcategory https://www.svx.sk/pletiva-brany/
+2024-10-08 19:51:06,991 - INFO - Saved product SVX   Záhradná bránka ECO to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:06,992 - INFO - Saved product SVX   Záhradná bránka ECO to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:06,993 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:06,994 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:06,995 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:06,996 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:06,997 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:06,998 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:06,999 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:07,000 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:07,002 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:07,003 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:51:21,062 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-lapace-hmyzu/
+2024-10-08 19:51:21,205 - INFO - Found 3 products in subcategory https://www.svx.sk/domacnost-a-drogeria-lapace-hmyzu/
+2024-10-08 19:51:21,206 - INFO - Saved product SOMOGYI   Vnútorný elektrický lapač hmyzu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-lapace-hmyzu.json
+2024-10-08 19:51:21,207 - INFO - Saved product SOMOGYI   Vnútorný elektrický lapač hmyzu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-lapace-hmyzu.json
+2024-10-08 19:51:21,207 - INFO - Saved product SOMOGYI   Vnútorný elektrický lapač hmyzu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-lapace-hmyzu.json
+2024-10-08 19:51:27,851 - INFO - Successfully fetched https://www.svx.sk/pletiva-standard/
+2024-10-08 19:51:27,984 - INFO - Found 3 products in subcategory https://www.svx.sk/pletiva-standard/
+2024-10-08 19:51:27,984 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-standard.json
+2024-10-08 19:51:27,985 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-standard.json
+2024-10-08 19:51:27,986 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-standard.json
+2024-10-08 19:51:40,051 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-zavesne-systemy/
+2024-10-08 19:51:40,309 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-zavesne-systemy/
+2024-10-08 19:51:40,311 - INFO - Saved product MOTTEZ   Hák na papierovú rolku to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,312 - INFO - Saved product MOTTEZ   Hák nástenný tvar U to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,313 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,314 - INFO - Saved product MOTTEZ   Sada dvoch nástenných držiakov to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,316 - INFO - Saved product MOTTEZ   Hák nástenný otočný XXL to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,317 - INFO - Saved product MOTTEZ   Hák nástenný tvar V to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,318 - INFO - Saved product MOTTEZ   Hák nástenný s vrutom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,320 - INFO - Saved product MOTTEZ   Hák nástenný s vrutom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,321 - INFO - Saved product MOTTEZ   Hák nástenný s vrutom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,322 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,324 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,325 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,327 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,329 - INFO - Saved product MOTTEZ   Stojan nástenný na bicykel to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,330 - INFO - Saved product MOTTEZ   Hák plochý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,332 - INFO - Saved product MOTTEZ   Hák na lyže to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,334 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,336 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,338 - INFO - Saved product MOTTEZ   S hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,339 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,341 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,342 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,344 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:40,346 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:51:48,764 - INFO - Successfully fetched https://www.svx.sk/pletiva-optim/
+2024-10-08 19:51:48,991 - INFO - Found 7 products in subcategory https://www.svx.sk/pletiva-optim/
+2024-10-08 19:51:48,992 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-optim.json
+2024-10-08 19:51:48,993 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-optim.json
+2024-10-08 19:51:48,994 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-optim.json
+2024-10-08 19:51:48,994 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-optim.json
+2024-10-08 19:51:48,995 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-optim.json
+2024-10-08 19:51:48,995 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-optim.json
+2024-10-08 19:51:48,996 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-optim.json
+2024-10-08 19:52:01,392 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/
+2024-10-08 19:52:01,600 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-haky-a-haciky/
+2024-10-08 19:52:01,602 - INFO - Saved product MOTTEZ   Hák na papierovú rolku to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,604 - INFO - Saved product MOTTEZ   Hák nástenný tvar U to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,605 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,607 - INFO - Saved product MOTTEZ   Hák nástenný otočný XXL to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,608 - INFO - Saved product MOTTEZ   Hák nástenný tvar V to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,609 - INFO - Saved product MOTTEZ   Hák nástenný s vrutom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,610 - INFO - Saved product MOTTEZ   Hák nástenný s vrutom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,611 - INFO - Saved product MOTTEZ   Hák nástenný s vrutom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,612 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,613 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,614 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,615 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,617 - INFO - Saved product MOTTEZ   Hák plochý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,618 - INFO - Saved product MOTTEZ   Hák na lyže to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,620 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,621 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,622 - INFO - Saved product MOTTEZ   S hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,623 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,625 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,626 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,627 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,629 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,630 - INFO - Saved product MOTTEZ   Hák rovný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:01,632 - INFO - Saved product MOTTEZ   Hák rovný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-haky-a-haciky.json
+2024-10-08 19:52:08,176 - INFO - Successfully fetched https://www.svx.sk/pletiva-eco/
+2024-10-08 19:52:08,329 - INFO - Found 2 products in subcategory https://www.svx.sk/pletiva-eco/
+2024-10-08 19:52:08,330 - INFO - Saved product SVX   Záhradná bránka ECO to subcategories-pletiva/subcategories-pletiva-eco.json
+2024-10-08 19:52:08,331 - INFO - Saved product SVX   Záhradná bránka ECO to subcategories-pletiva/subcategories-pletiva-eco.json
+2024-10-08 19:52:22,793 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/
+2024-10-08 19:52:23,013 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-vesiaky-a-stojany/
+2024-10-08 19:52:23,014 - INFO - Saved product MOTTEZ   Sada dvoch nástenných držiakov to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,014 - INFO - Saved product MOTTEZ   Stojan nástenný na bicykel to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,015 - INFO - Saved product MOTTEZ   Nástenný držiak bicyklov to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,016 - INFO - Saved product MOTTEZ   Nástenný stojan na bicykel to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,017 - INFO - Saved product MOTTEZ   Stropný držiak na bicykel to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,017 - INFO - Saved product MOTTEZ   Držiak na metlu 9cm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,018 - INFO - Saved product MOTTEZ   Držiak na metlu trojitý 50cm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,019 - INFO - Saved product MOTTEZ   Magnetický držiak na náradie 38cm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,020 - INFO - Saved product MOTTEZ   Rúrka pre konektor to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,021 - INFO - Saved product MOTTEZ   Rúrkový konektor to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,021 - INFO - Saved product MOTTEZ   Konektor držiaka to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,022 - INFO - Saved product MOTTEZ   Konektor to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,023 - INFO - Saved product MOTTEZ   Konektor na podporu panelu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,024 - INFO - Saved product MOTTEZ   Rúrka pre konektor to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,024 - INFO - Saved product MOTTEZ   Rúrka pre konektor to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,025 - INFO - Saved product MOTTEZ   Spojovací článok tvar T to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,026 - INFO - Saved product MOTTEZ   Spojovací článok tvar T to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,027 - INFO - Saved product MOTTEZ   Spojovací článok tvar X to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,028 - INFO - Saved product MOTTEZ   Spojovací článok tvar L to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,029 - INFO - Saved product MOTTEZ   Spojovací článok tvar L to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,029 - INFO - Saved product MOTTEZ   Spojovací článok tri vetvy to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,030 - INFO - Saved product MOTTEZ   Spojovací článok štyri vetvy to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,031 - INFO - Saved product MOTTEZ   Podporný konektor to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:23,032 - INFO - Saved product MOTTEZ   Podporný konektor to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-vesiaky-a-stojany.json
+2024-10-08 19:52:29,647 - INFO - Successfully fetched https://www.svx.sk/pletiva-tieniace-siete-a-plachty/
+2024-10-08 19:52:29,819 - INFO - Found 15 products in subcategory https://www.svx.sk/pletiva-tieniace-siete-a-plachty/
+2024-10-08 19:52:29,821 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,822 - INFO - Saved product SVX   Tieniaca sieť zelená 95%  - dĺžka 10m - výška 2m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,823 - INFO - Saved product SVX   Tieniaca sieť hnedá 95%  - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,825 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,826 - INFO - Saved product SVX   Tieniaca sieť zelená 95%  - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,827 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 10m - výška 1,5m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,829 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,830 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 2m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,831 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,833 - INFO - Saved product SVX   Tieniaca sieť antracit 95% - dĺžka 10m - výška 1,5m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,834 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,835 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,837 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,838 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:29,839 - INFO - Saved product SVX   Tieniaca sieť zelená 95% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:52:39,655 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-nohy-stola/
+2024-10-08 19:52:39,800 - INFO - Found 6 products in subcategory https://www.svx.sk/domacnost-a-drogeria-nohy-stola/
+2024-10-08 19:52:39,801 - INFO - Saved product MOTTEZ   Noha stola X to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:52:39,802 - INFO - Saved product MOTTEZ   Noha stola X to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:52:39,802 - INFO - Saved product MOTTEZ   Noha stola obdĺžnik to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:52:39,803 - INFO - Saved product MOTTEZ   Noha stola obdĺžnik to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:52:39,803 - INFO - Saved product MOTTEZ   Noha stola lichobežník to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:52:39,804 - INFO - Saved product MOTTEZ   Noha stola lichobežník to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:52:45,643 - INFO - Successfully fetched https://www.svx.sk/pletiva-4-hranne/
+2024-10-08 19:52:45,830 - INFO - Found 12 products in subcategory https://www.svx.sk/pletiva-4-hranne/
+2024-10-08 19:52:45,831 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,832 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,833 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,834 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,835 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,836 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,837 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,837 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,838 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,839 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,840 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:52:45,841 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:53:02,243 - INFO - Successfully fetched https://www.svx.sk/pletiva-6-hranne/
+2024-10-08 19:53:02,414 - INFO - Found 7 products in subcategory https://www.svx.sk/pletiva-6-hranne/
+2024-10-08 19:53:02,416 - INFO - Saved product SVX   Pletivo PVC 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:53:02,417 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:53:02,419 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:53:02,420 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:53:02,422 - INFO - Saved product SVX   Pletivo PVC 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:53:02,422 - INFO - Saved product SVX   Pletivo PVC 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:53:02,423 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:53:05,766 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/
+2024-10-08 19:53:05,922 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/
+2024-10-08 19:53:05,924 - INFO - Saved product TRUE UTILITI   Peňaženka kapsulová to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,925 - INFO - Saved product TRUE UTILITI   Kľúčenka s perom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,926 - INFO - Saved product TRUE UTILITI   Kliešte viacúčelové to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,927 - INFO - Saved product TRUE UTILITI   Náradie multifunkčné to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,929 - INFO - Saved product TRUE UTILITI   Náradie multifunkčné to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,930 - INFO - Saved product TRUE UTILITI   Náradie multifunkčné mini to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,931 - INFO - Saved product TRUE UTILITI   Kompaktná sada na nechty to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,933 - INFO - Saved product TRUE UTILITI   Kľúčenka so zapaľovačom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,934 - INFO - Saved product TRUE UTILITI   Zapaľovač turbo to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,935 - INFO - Saved product TRUE UTILITI   LED svietidlo s laserom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,937 - INFO - Saved product TRUE UTILITI   Karabína so svetlom na kľúče to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,939 - INFO - Saved product TRUE UTILITI   Kompaktné nabíjateľné svetielko to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,940 - INFO - Saved product TRUE UTILITI   Nôž zatvárací s nožnicami 100x30x20mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,941 - INFO - Saved product TRUE UTILITI   Nôž kompaktný s otvarákom 76x17x8mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,942 - INFO - Saved product TRUE UTILITI   Nôž viacúčelový 108x40x26mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,944 - INFO - Saved product TRUE UTILITI   Nôž robustný 109x31x17mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,945 - INFO - Saved product TRUE UTILITI   Nôž vreckový 85x30x15mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,947 - INFO - Saved product TRUE UTILITI   Nôž viacúčelový 108x38x25mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,949 - INFO - Saved product TRUE UTILITI   Nôž multifunkčný 76x38x16mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,950 - INFO - Saved product TRUE UTILITI   Nôž multifunkčný 86x20x12mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,951 - INFO - Saved product TRUE UTILITI   Nôž vreckový 63x24x6mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,953 - INFO - Saved product TRUE UTILITI   Nôž masívny 75x33x17mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,955 - INFO - Saved product TRUE UTILITI   Nôž sklopný 110x26x9mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:05,956 - INFO - Saved product TRUE UTILITI   Nôž multifunkčný 112x42x12mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:53:26,969 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-drogeria/
+2024-10-08 19:53:27,185 - INFO - Found 18 products in subcategory https://www.svx.sk/domacnost-a-drogeria-drogeria/
+2024-10-08 19:53:27,187 - INFO - Saved product Zenit   Umývacia pasta na ruky 450g Solvina Industry to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,188 - INFO - Saved product Vione   hard tekutá pasta na ruky 600g to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,190 - INFO - Saved product Banchem   Aviváž SENSI Rose dew to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,192 - INFO - Saved product Elitex   Utierka viacúčelová modrá - 68m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,193 - INFO - Saved product Zenit   Solvina Pro abrazívna 450g to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,195 - INFO - Saved product Zenit   Solvina Pro abrazívna 5 kg to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,197 - INFO - Saved product Elitex   Kefka na ruky mix to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,199 - INFO - Saved product Elitex   Utierka viacúčelová kýblik - 68m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,201 - INFO - Saved product Zenit   Umývacia pasta na ruky 450g Solvina Original to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,203 - INFO - Saved product Zenit   Solvina Pro gélová 5 kg to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,204 - INFO - Saved product Banchem   SOMO WC čistič Oceán 750ml to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,206 - INFO - Saved product Banchem   Univerzálny čistič PANTRA® PROFESIONAL 11 green lily 1L to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,208 - INFO - Saved product Zenit   Solvina Pro gélová 450g to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,210 - INFO - Saved product Vione   hard tekutá pasta na ruky 5l to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,212 - INFO - Saved product Elitex   Handra na podlahu tkaná Venda to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,213 - INFO - Saved product Banchem   Gél na dezinfekciu rúk BANNderm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,215 - INFO - Saved product Banchem   Prací gél SENSI White (White flower) to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:27,217 - INFO - Saved product Banchem   Odstraňovač škvŕn SENSI white to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-drogeria.json
+2024-10-08 19:53:33,683 - INFO - Successfully fetched https://www.svx.sk/pletiva-zvarane/
+2024-10-08 19:53:33,868 - INFO - Found 8 products in subcategory https://www.svx.sk/pletiva-zvarane/
+2024-10-08 19:53:33,869 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:53:33,870 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:53:33,871 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:53:33,873 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:53:33,874 - INFO - Saved product SVX   Zváraná sieť PVC to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:53:33,875 - INFO - Saved product SVX   Zváraná sieť PVC to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:53:33,875 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:53:33,877 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:53:50,564 - INFO - Successfully fetched https://www.svx.sk/pletiva-okrasne/
+2024-10-08 19:53:50,784 - INFO - Found 2 products in subcategory https://www.svx.sk/pletiva-okrasne/
+2024-10-08 19:53:50,785 - INFO - Saved product SVX   Okrasné pletivo PVC to subcategories-pletiva/subcategories-pletiva-okrasne.json
+2024-10-08 19:53:50,785 - INFO - Saved product SVX   Okrasné pletivo PVC to subcategories-pletiva/subcategories-pletiva-okrasne.json
+2024-10-08 19:53:55,008 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-susiaky/
+2024-10-08 19:53:55,181 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-susiaky/
+2024-10-08 19:53:55,183 - INFO - Saved product SVX   Stropný sušiak 7tyčový 2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,184 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,4m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,186 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,8m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,187 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,8m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,189 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,7m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,190 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,9m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,193 - INFO - Saved product SVX   Stropný sušiak 6tyčový 2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,195 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,197 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,7m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,198 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,4m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,200 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,9m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,203 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,6m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,205 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,207 - INFO - Saved product SVX   Stropný sušiak 5tyčový 2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,208 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,5m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,210 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,2m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,212 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,5m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,214 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,9m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,216 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,7m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,218 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,5m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,220 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1,6m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,223 - INFO - Saved product SVX   Stropný sušiak 7tyčový 1m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,225 - INFO - Saved product SVX   Stropný sušiak 6tyčový 1,4m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:53:55,228 - INFO - Saved product SVX   Stropný sušiak 5tyčový 1,8m to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-susiaky.json
+2024-10-08 19:54:06,636 - INFO - Successfully fetched https://www.svx.sk/pletiva-plotove-panely/
+2024-10-08 19:54:06,801 - INFO - Found 1 products in subcategory https://www.svx.sk/pletiva-plotove-panely/
+2024-10-08 19:54:06,802 - INFO - Saved product SVX   Panel BRICO antracit to subcategories-pletiva/subcategories-pletiva-plotove-panely.json
+2024-10-08 19:54:16,010 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/
+2024-10-08 19:54:16,206 - INFO - Found 15 products in subcategory https://www.svx.sk/domacnost-a-drogeria-ventilatory-a-ohrievace/
+2024-10-08 19:54:16,207 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,209 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,210 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,211 - INFO - Saved product STREND PRO   Konvektor + Turbo ventilátor to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,213 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,214 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,216 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,217 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,218 - INFO - Saved product SOMOGYI   Ventilátor nástenný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,220 - INFO - Saved product SOMOGYI   Ochladzovač vzduchu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,221 - INFO - Saved product SOMOGYI   Klimatizácia mobilná to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,222 - INFO - Saved product SOMOGYI   Ochladzovač vzduchu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,224 - INFO - Saved product STREND PRO   Ohrievač - elektrický to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,225 - INFO - Saved product STREND PRO   Halogénový ohrievač to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:16,227 - INFO - Saved product SOMOGYI   Ventilátor štipcový AKU to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-ventilatory-a-ohrievace.json
+2024-10-08 19:54:22,738 - INFO - Successfully fetched https://www.svx.sk/pletiva-stlpiky/
+2024-10-08 19:54:22,892 - INFO - Found 6 products in subcategory https://www.svx.sk/pletiva-stlpiky/
+2024-10-08 19:54:22,893 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:54:22,894 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:54:22,895 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:54:22,896 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:54:22,897 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:54:22,898 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:54:32,363 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/
+2024-10-08 19:54:32,587 - INFO - Found 14 products in subcategory https://www.svx.sk/domacnost-a-drogeria-visiace-zamky/
+2024-10-08 19:54:32,589 - INFO - Saved product RICHTER   Visiaci zámok - sada to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,590 - INFO - Saved product RICHTER   Visiaci zámok - sada to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,591 - INFO - Saved product RICHTER   Zámok TSA 335 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,592 - INFO - Saved product ABUS   Visiaci zámok - 2ks to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,593 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,594 - INFO - Saved product ABUS   Visiaci zámok - 2ks to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,596 - INFO - Saved product ABUS   Visiaci zámok - 3ks to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,597 - INFO - Saved product ABUS   Visiaci zámok - 4ks to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,598 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,599 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,600 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,601 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,603 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:32,604 - INFO - Saved product ABUS   Visiaci zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-visiace-zamky.json
+2024-10-08 19:54:48,381 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-baterie/
+2024-10-08 19:54:48,573 - INFO - Found 23 products in subcategory https://www.svx.sk/domacnost-a-drogeria-baterie/
+2024-10-08 19:54:48,575 - INFO - Saved product ENERGIZER   Batéria CR 2032 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,577 - INFO - Saved product ENERGIZER   Batérie LR 06 AA/2 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,579 - INFO - Saved product ENERGIZER   Batérie A11 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,581 - INFO - Saved product ENERGIZER   Batéria CR 123A to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,583 - INFO - Saved product ENERGIZER   Batéria CR 1620 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,584 - INFO - Saved product ENERGIZER   Batéria CR 1616 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,586 - INFO - Saved product ENERGIZER   Batéria CR 1632 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,587 - INFO - Saved product ENERGIZER   Batéria CR 2016 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,589 - INFO - Saved product ENERGIZER   Batéria CR 2025 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,590 - INFO - Saved product ENERGIZER   Batérie LR 44 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,592 - INFO - Saved product ENERGIZER   Batérie LR 43 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,595 - INFO - Saved product ENERGIZER   Batérie LR 54 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,597 - INFO - Saved product ENERGIZER   Batérie A27 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,598 - INFO - Saved product ENERGIZER   Batérie LR 03 AAA2 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,600 - INFO - Saved product ENERGIZER   Batéria LR 61 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,601 - INFO - Saved product ENERGIZER   Batérie HR 03 AAA4 nabíjateľné to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,603 - INFO - Saved product ENERGIZER   Batérie HR 06 AA2 nabíjateľné to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,605 - INFO - Saved product ENERGIZER   Nabíjačka Pro Charger+AAA to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,606 - INFO - Saved product ENERGIZER   Batéria A23 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,608 - INFO - Saved product ENERGIZER   Batérie LR 03 AAA4 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,610 - INFO - Saved product ENERGIZER   Batérie LR 06 AA/4 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,612 - INFO - Saved product ENERGIZER   Batérie LR 20 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:48,613 - INFO - Saved product ENERGIZER   Batérie LR 14 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-baterie.json
+2024-10-08 19:54:53,858 - INFO - Successfully fetched https://www.svx.sk/pletiva-prislusenstvo/
+2024-10-08 19:54:54,071 - INFO - Found 20 products in subcategory https://www.svx.sk/pletiva-prislusenstvo/
+2024-10-08 19:54:54,073 - INFO - Saved product SVX   Napínač lana pozinkovaný 120mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,075 - INFO - Saved product SVX   Napínač lana zelený 120mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,077 - INFO - Saved product SVX   Spinky omega zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,079 - INFO - Saved product SVX   Kliešte omega so zásobníkom to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,080 - INFO - Saved product SVX   Drôt viazací zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,082 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,083 - INFO - Saved product SVX   Spinky omega zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,085 - INFO - Saved product SVX   Spinky omega zelené to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,086 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,088 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,089 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,090 - INFO - Saved product SVX   Spinky omega zelené to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,092 - INFO - Saved product SVX   Drôt napínací zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,094 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,096 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,098 - INFO - Saved product None   Napínač lana pozinkovaný 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,099 - INFO - Saved product Napínač lana zelený 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,101 - INFO - Saved product Napínač lana zelený 120mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,102 - INFO - Saved product SVX   Napínač lana pozinkovaný 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:54:54,104 - INFO - Saved product SVX   Napínač lana zelený 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:55:04,814 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/
+2024-10-08 19:55:04,971 - INFO - Found 4 products in subcategory https://www.svx.sk/domacnost-a-drogeria-prislusenstvo-do-auta/
+2024-10-08 19:55:04,972 - INFO - Saved product Maják na auto WK194 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-prislusenstvo-do-auta.json
+2024-10-08 19:55:04,973 - INFO - Saved product Ventilátor rotačný do auta to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-prislusenstvo-do-auta.json
+2024-10-08 19:55:04,974 - INFO - Saved product Maják na auto WK190 to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-prislusenstvo-do-auta.json
+2024-10-08 19:55:04,975 - INFO - Saved product Varná kanvica to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-prislusenstvo-do-auta.json
+2024-10-08 19:55:18,765 - INFO - Successfully fetched https://www.svx.sk/pletiva-brany/
+2024-10-08 19:55:18,915 - INFO - Found 12 products in subcategory https://www.svx.sk/pletiva-brany/
+2024-10-08 19:55:18,916 - INFO - Saved product SVX   Záhradná bránka ECO to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,917 - INFO - Saved product SVX   Záhradná bránka ECO to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,919 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,920 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,921 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,922 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,923 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,924 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,925 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,926 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,928 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:18,929 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:55:25,774 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/
+2024-10-08 19:55:25,962 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-bezpecnost-dietata/
+2024-10-08 19:55:25,964 - INFO - Saved product INOFIX   Kryt zásuvky zaklapávací to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,965 - INFO - Saved product INOFIX   Ochrana rohov - transparentná to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,967 - INFO - Saved product INOFIX   Mäkká zarážka dverí - lienka to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,969 - INFO - Saved product INOFIX   Ochrana rohov to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,970 - INFO - Saved product INOFIX   Ochrana rohov to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,972 - INFO - Saved product INOFIX   Ochrana rohov v rolke to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,973 - INFO - Saved product INOFIX   Ochrana rohov v rolke to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,975 - INFO - Saved product INOFIX   Zámok viacúčelový bezpečnostný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,978 - INFO - Saved product INOFIX   Zámok viacúčelový bezpečnostný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,980 - INFO - Saved product INOFIX   Zámok nastaviteľný bezpečnostný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,982 - INFO - Saved product INOFIX   Bočný bezpečnostný zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,984 - INFO - Saved product INOFIX   Vonkajší bezpečnostný zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,985 - INFO - Saved product INOFIX   Vnútorný bezpečnostný zámok to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,987 - INFO - Saved product INOFIX   Bezpečnostný blok na okná to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,988 - INFO - Saved product INOFIX   Mäkká zarážka dverí - biela to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,990 - INFO - Saved product INOFIX   Mäkká zarážka dverí - mačka to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,992 - INFO - Saved product INOFIX   Mäkká zarážka dverí - tiger to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,993 - INFO - Saved product INOFIX   Mäkká zarážka dverí - opica to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,995 - INFO - Saved product INOFIX   Flexibilný držiak pod dvere to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:25,997 - INFO - Saved product INOFIX   Kryt zásuvky nalepovací to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:26,000 - INFO - Saved product INOFIX   Viacúčelová karabína na detský kočík to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:26,002 - INFO - Saved product INOFIX   Otočné háčiky na detský kočík to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:26,004 - INFO - Saved product INOFIX   Protišmykové nálepky to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:26,006 - INFO - Saved product INOFIX   Protišmykové nálepky to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-bezpecnost-dietata.json
+2024-10-08 19:55:39,954 - INFO - Successfully fetched https://www.svx.sk/pletiva-tieniace-siete-a-plachty/
+2024-10-08 19:55:40,139 - INFO - Found 15 products in subcategory https://www.svx.sk/pletiva-tieniace-siete-a-plachty/
+2024-10-08 19:55:40,141 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,143 - INFO - Saved product SVX   Tieniaca sieť zelená 95%  - dĺžka 10m - výška 2m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,144 - INFO - Saved product SVX   Tieniaca sieť hnedá 95%  - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,145 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,147 - INFO - Saved product SVX   Tieniaca sieť zelená 95%  - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,148 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 10m - výška 1,5m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,149 - INFO - Saved product SVX   Tieniaca sieť čierna 95% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,151 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 2m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,152 - INFO - Saved product SVX   Tieniaca sieť antracit 95% - dĺžka 10m - výška 1,5m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,153 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,155 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,156 - INFO - Saved product SVX   Tieniaca sieť zelená 90% - dĺžka 25m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,158 - INFO - Saved product SVX   Tieniaca sieť zelená 95% - dĺžka 10m - výška 1m to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,159 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:40,160 - INFO - Saved product Sieť proti vtákom to subcategories-pletiva/subcategories-pletiva-tieniace-siete-a-plachty.json
+2024-10-08 19:55:42,739 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-lapace-hmyzu/
+2024-10-08 19:55:42,879 - INFO - Found 3 products in subcategory https://www.svx.sk/domacnost-a-drogeria-lapace-hmyzu/
+2024-10-08 19:55:42,879 - INFO - Saved product SOMOGYI   Vnútorný elektrický lapač hmyzu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-lapace-hmyzu.json
+2024-10-08 19:55:42,880 - INFO - Saved product SOMOGYI   Vnútorný elektrický lapač hmyzu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-lapace-hmyzu.json
+2024-10-08 19:55:42,881 - INFO - Saved product SOMOGYI   Vnútorný elektrický lapač hmyzu to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-lapace-hmyzu.json
+2024-10-08 19:55:50,973 - INFO - Successfully fetched https://www.svx.sk/pletiva-4-hranne/
+2024-10-08 19:55:51,174 - INFO - Found 12 products in subcategory https://www.svx.sk/pletiva-4-hranne/
+2024-10-08 19:55:51,176 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,178 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,179 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,181 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,182 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,184 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,185 - INFO - Saved product SVX   Pletivo PVC zelené to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,186 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,188 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,189 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,191 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:51,193 - INFO - Saved product SVX   Pletivo pozinkované to subcategories-pletiva/subcategories-pletiva-4-hranne.json
+2024-10-08 19:55:59,545 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-zavesne-systemy/
+2024-10-08 19:55:59,783 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-zavesne-systemy/
+2024-10-08 19:55:59,785 - INFO - Saved product MOTTEZ   Hák na papierovú rolku to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,787 - INFO - Saved product MOTTEZ   Hák nástenný tvar U to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,789 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,790 - INFO - Saved product MOTTEZ   Sada dvoch nástenných držiakov to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,792 - INFO - Saved product MOTTEZ   Hák nástenný otočný XXL to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,794 - INFO - Saved product MOTTEZ   Hák nástenný tvar V to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,796 - INFO - Saved product MOTTEZ   Hák nástenný s vrutom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,798 - INFO - Saved product MOTTEZ   Hák nástenný s vrutom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,800 - INFO - Saved product MOTTEZ   Hák nástenný s vrutom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,802 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,803 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,805 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,807 - INFO - Saved product MOTTEZ   Hák nástenný dvojitý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,809 - INFO - Saved product MOTTEZ   Stojan nástenný na bicykel to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,810 - INFO - Saved product MOTTEZ   Hák plochý to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,812 - INFO - Saved product MOTTEZ   Hák na lyže to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,814 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,816 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,818 - INFO - Saved product MOTTEZ   S hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,819 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,821 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,823 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,825 - INFO - Saved product MOTTEZ   Hák pogumovaný to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:55:59,827 - INFO - Saved product MOTTEZ   Hák to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-zavesne-systemy.json
+2024-10-08 19:56:02,450 - INFO - Successfully fetched https://www.svx.sk/pletiva-6-hranne/
+2024-10-08 19:56:02,613 - INFO - Found 7 products in subcategory https://www.svx.sk/pletiva-6-hranne/
+2024-10-08 19:56:02,615 - INFO - Saved product SVX   Pletivo PVC 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:56:02,616 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:56:02,617 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:56:02,619 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:56:02,620 - INFO - Saved product SVX   Pletivo PVC 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:56:02,621 - INFO - Saved product SVX   Pletivo PVC 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:56:02,623 - INFO - Saved product SVX   Pletivo pozinkované 6-hran to subcategories-pletiva/subcategories-pletiva-6-hranne.json
+2024-10-08 19:56:14,234 - INFO - Successfully fetched https://www.svx.sk/pletiva-zvarane/
+2024-10-08 19:56:14,369 - INFO - Found 8 products in subcategory https://www.svx.sk/pletiva-zvarane/
+2024-10-08 19:56:14,370 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:56:14,372 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:56:14,373 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:56:14,374 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:56:14,375 - INFO - Saved product SVX   Zváraná sieť PVC to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:56:14,376 - INFO - Saved product SVX   Zváraná sieť PVC to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:56:14,377 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:56:14,380 - INFO - Saved product SVX   Zváraná sieť ZN to subcategories-pletiva/subcategories-pletiva-zvarane.json
+2024-10-08 19:56:16,060 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-nohy-stola/
+2024-10-08 19:56:16,207 - INFO - Found 6 products in subcategory https://www.svx.sk/domacnost-a-drogeria-nohy-stola/
+2024-10-08 19:56:16,208 - INFO - Saved product MOTTEZ   Noha stola X to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:56:16,208 - INFO - Saved product MOTTEZ   Noha stola X to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:56:16,209 - INFO - Saved product MOTTEZ   Noha stola obdĺžnik to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:56:16,210 - INFO - Saved product MOTTEZ   Noha stola obdĺžnik to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:56:16,210 - INFO - Saved product MOTTEZ   Noha stola lichobežník to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:56:16,211 - INFO - Saved product MOTTEZ   Noha stola lichobežník to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-nohy-stola.json
+2024-10-08 19:56:32,117 - INFO - Successfully fetched https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/
+2024-10-08 19:56:32,295 - INFO - Found 24 products in subcategory https://www.svx.sk/domacnost-a-drogeria-multifunkcne-nastroje/
+2024-10-08 19:56:32,297 - INFO - Saved product TRUE UTILITI   Peňaženka kapsulová to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,299 - INFO - Saved product TRUE UTILITI   Kľúčenka s perom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,301 - INFO - Saved product TRUE UTILITI   Kliešte viacúčelové to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,303 - INFO - Saved product TRUE UTILITI   Náradie multifunkčné to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,305 - INFO - Saved product TRUE UTILITI   Náradie multifunkčné to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,306 - INFO - Saved product TRUE UTILITI   Náradie multifunkčné mini to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,308 - INFO - Saved product TRUE UTILITI   Kompaktná sada na nechty to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,310 - INFO - Saved product TRUE UTILITI   Kľúčenka so zapaľovačom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,312 - INFO - Saved product TRUE UTILITI   Zapaľovač turbo to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,314 - INFO - Saved product TRUE UTILITI   LED svietidlo s laserom to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,316 - INFO - Saved product TRUE UTILITI   Karabína so svetlom na kľúče to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,317 - INFO - Saved product TRUE UTILITI   Kompaktné nabíjateľné svetielko to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,319 - INFO - Saved product TRUE UTILITI   Nôž zatvárací s nožnicami 100x30x20mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,321 - INFO - Saved product TRUE UTILITI   Nôž kompaktný s otvarákom 76x17x8mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,324 - INFO - Saved product TRUE UTILITI   Nôž viacúčelový 108x40x26mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,326 - INFO - Saved product TRUE UTILITI   Nôž robustný 109x31x17mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,328 - INFO - Saved product TRUE UTILITI   Nôž vreckový 85x30x15mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,330 - INFO - Saved product TRUE UTILITI   Nôž viacúčelový 108x38x25mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,332 - INFO - Saved product TRUE UTILITI   Nôž multifunkčný 76x38x16mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,334 - INFO - Saved product TRUE UTILITI   Nôž multifunkčný 86x20x12mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,336 - INFO - Saved product TRUE UTILITI   Nôž vreckový 63x24x6mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,338 - INFO - Saved product TRUE UTILITI   Nôž masívny 75x33x17mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,340 - INFO - Saved product TRUE UTILITI   Nôž sklopný 110x26x9mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:32,342 - INFO - Saved product TRUE UTILITI   Nôž multifunkčný 112x42x12mm to subcategories-domacnost-a-drogeria/subcategories-domacnost-a-drogeria-multifunkcne-nastroje.json
+2024-10-08 19:56:33,148 - INFO - Successfully fetched https://www.svx.sk/pletiva-okrasne/
+2024-10-08 19:56:33,324 - INFO - Found 2 products in subcategory https://www.svx.sk/pletiva-okrasne/
+2024-10-08 19:56:33,325 - INFO - Saved product SVX   Okrasné pletivo PVC to subcategories-pletiva/subcategories-pletiva-okrasne.json
+2024-10-08 19:56:33,326 - INFO - Saved product SVX   Okrasné pletivo PVC to subcategories-pletiva/subcategories-pletiva-okrasne.json
+2024-10-08 19:56:54,252 - INFO - Successfully fetched https://www.svx.sk/pletiva-plotove-panely/
+2024-10-08 19:56:54,381 - INFO - Found 1 products in subcategory https://www.svx.sk/pletiva-plotove-panely/
+2024-10-08 19:56:54,382 - INFO - Saved product SVX   Panel BRICO antracit to subcategories-pletiva/subcategories-pletiva-plotove-panely.json
+2024-10-08 19:57:10,415 - INFO - Successfully fetched https://www.svx.sk/pletiva-stlpiky/
+2024-10-08 19:57:10,566 - INFO - Found 6 products in subcategory https://www.svx.sk/pletiva-stlpiky/
+2024-10-08 19:57:10,567 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:57:10,568 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:57:10,569 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:57:10,570 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:57:10,571 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:57:10,572 - INFO - Saved product SVX   Stĺpik zelený PVC to subcategories-pletiva/subcategories-pletiva-stlpiky.json
+2024-10-08 19:57:28,750 - INFO - Successfully fetched https://www.svx.sk/pletiva-prislusenstvo/
+2024-10-08 19:57:28,947 - INFO - Found 20 products in subcategory https://www.svx.sk/pletiva-prislusenstvo/
+2024-10-08 19:57:28,949 - INFO - Saved product SVX   Napínač lana pozinkovaný 120mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,951 - INFO - Saved product SVX   Napínač lana zelený 120mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,953 - INFO - Saved product SVX   Spinky omega zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,955 - INFO - Saved product SVX   Kliešte omega so zásobníkom to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,958 - INFO - Saved product SVX   Drôt viazací zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,960 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,962 - INFO - Saved product SVX   Spinky omega zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,964 - INFO - Saved product SVX   Spinky omega zelené to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,966 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,969 - INFO - Saved product SVX   Drôt napínací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,971 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,973 - INFO - Saved product SVX   Spinky omega zelené to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,976 - INFO - Saved product SVX   Drôt napínací zn to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,978 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,981 - INFO - Saved product SVX   Drôt viazací zelený to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,983 - INFO - Saved product None   Napínač lana pozinkovaný 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,986 - INFO - Saved product Napínač lana zelený 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,988 - INFO - Saved product Napínač lana zelený 120mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,990 - INFO - Saved product SVX   Napínač lana pozinkovaný 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:28,993 - INFO - Saved product SVX   Napínač lana zelený 100mm to subcategories-pletiva/subcategories-pletiva-prislusenstvo.json
+2024-10-08 19:57:49,781 - INFO - Successfully fetched https://www.svx.sk/pletiva-brany/
+2024-10-08 19:57:49,940 - INFO - Found 12 products in subcategory https://www.svx.sk/pletiva-brany/
+2024-10-08 19:57:49,941 - INFO - Saved product SVX   Záhradná bránka ECO to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,942 - INFO - Saved product SVX   Záhradná bránka ECO to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,944 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,945 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,946 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,946 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,948 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,949 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,950 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,951 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,952 - INFO - Saved product SVX   Záhradná bránka Optim to subcategories-pletiva/subcategories-pletiva-brany.json
+2024-10-08 19:57:49,953 - INFO - Saved product SVX   Záhradná bránka Standard to subcategories-pletiva/subcategories-pletiva-brany.json

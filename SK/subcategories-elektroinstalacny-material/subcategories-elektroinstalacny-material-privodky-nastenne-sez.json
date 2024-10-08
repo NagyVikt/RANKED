@@ -1,0 +1,182 @@
+[
+    {
+        "name": "SEZ   Prívodka nástenná 32A/4 IPN 3243",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5588,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 16A/4 IPN 1643",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5588,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 16A/3 IPN 1632",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5588,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 16A/5 IPN 1653",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5588,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 32A/3 IPN 3232",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5588,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 32A/5 IPN 3253",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5588,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 32A/4 IPN 3243",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2844,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 16A/4 IPN 1643",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2844,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 16A/3 IPN 1632",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2844,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 16A/5 IPN 1653",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2844,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 32A/3 IPN 3232",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2844,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Prívodka nástenná 32A/5 IPN 3253",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2844,
+                "name": "Elektroinstalacny Material Privodky Nastenne Sez",
+                "slug": "elektroinstalacny-material-privodky-nastenne-sez"
+            }
+        ]
+    }
+]

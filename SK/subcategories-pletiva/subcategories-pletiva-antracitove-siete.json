@@ -1,0 +1,47 @@
+[
+    {
+        "name": "SVX   Tieniaca sieť antracit 95% - dĺžka 10m - výška 1,5m",
+        "categories": [
+            {
+                "id": 100,
+                "name": "Pletivá",
+                "slug": "pletiva"
+            },
+            {
+                "id": 6562,
+                "name": "Pletiva Antracitove Siete",
+                "slug": "pletiva-antracitove-siete"
+            }
+        ]
+    },
+    {
+        "name": "SVX   Tieniaca sieť antracit 95% - dĺžka 10m - výška 1,5m",
+        "categories": [
+            {
+                "id": 100,
+                "name": "Pletivá",
+                "slug": "pletiva"
+            },
+            {
+                "id": 3282,
+                "name": "Pletiva Antracitove Siete",
+                "slug": "pletiva-antracitove-siete"
+            }
+        ]
+    },
+    {
+        "name": "SVX   Tieniaca sieť antracit 95% - dĺžka 10m - výška 1,5m",
+        "categories": [
+            {
+                "id": 100,
+                "name": "Pletivá",
+                "slug": "pletiva"
+            },
+            {
+                "id": 4326,
+                "name": "Pletiva Antracitove Siete",
+                "slug": "pletiva-antracitove-siete"
+            }
+        ]
+    }
+]

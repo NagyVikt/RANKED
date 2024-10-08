@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Krytka matice čierna M8/13",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 4110,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    },
+    {
+        "name": "Krytka matice čierna M6/10",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 4110,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    },
+    {
+        "name": "Krytka matice čierna M12/19",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 4110,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    },
+    {
+        "name": "Krytka matice čierna M10/17",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 4110,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    },
+    {
+        "name": "Krytka matice čierna M5/8",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 4110,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    },
+    {
+        "name": "Krytka matice čierna M8/13",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 3724,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    },
+    {
+        "name": "Krytka matice čierna M6/10",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 3724,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    },
+    {
+        "name": "Krytka matice čierna M12/19",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 3724,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    },
+    {
+        "name": "Krytka matice čierna M10/17",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 3724,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    },
+    {
+        "name": "Krytka matice čierna M5/8",
+        "categories": [
+            {
+                "id": 95,
+                "name": "Spojovací a kotviaci materiál",
+                "slug": "spojovaci-a-kotviaci-material"
+            },
+            {
+                "id": 3724,
+                "name": "Spojovaci A Kotviaci Material Krytky",
+                "slug": "spojovaci-a-kotviaci-material-krytky"
+            }
+        ]
+    }
+]

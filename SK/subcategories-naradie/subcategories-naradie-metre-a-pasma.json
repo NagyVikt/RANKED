@@ -1,0 +1,362 @@
+[
+    {
+        "name": "EXTOL   Meter zvinovací pogumovaný 5m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací pogumovaný 7,5m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "FORTUM   Meter zvinovací pogumovaný s magnetom 3m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "FORTUM   Meter zvinovací pogumovaný s magnetom 7,5m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací s magnetom 2m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací mini 1m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Pásmo meracie oceľové rýchlonavíjacie 30m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Pásmo meracie oceľové rýchlonavíjacie 50m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací pogumovaný 2m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací pogumovaný 10m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací s magnetom 3m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací s magnetom 5m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8760,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací pogumovaný 5m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací pogumovaný 7,5m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "FORTUM   Meter zvinovací pogumovaný s magnetom 3m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "FORTUM   Meter zvinovací pogumovaný s magnetom 7,5m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací s magnetom 2m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací mini 1m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Pásmo meracie oceľové rýchlonavíjacie 30m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Pásmo meracie oceľové rýchlonavíjacie 50m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací pogumovaný 2m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací pogumovaný 10m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací s magnetom 3m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Meter zvinovací s magnetom 5m",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 3917,
+                "name": "Naradie Metre A Pasma",
+                "slug": "naradie-metre-a-pasma"
+            }
+        ]
+    }
+]
