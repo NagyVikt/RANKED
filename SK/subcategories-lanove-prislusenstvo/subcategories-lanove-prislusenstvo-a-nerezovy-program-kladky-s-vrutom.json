@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Kladka kovová s vrutom zn 10/50mm",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 1617,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Kladky S Vrutom",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-kladky-s-vrutom"
+            }
+        ]
+    },
+    {
+        "name": "Kladka kovová s vrutom zn 6/20mm",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 1617,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Kladky S Vrutom",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-kladky-s-vrutom"
+            }
+        ]
+    },
+    {
+        "name": "Kladka s nylonovým kolieskom a vrutom 8/30mm",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 1617,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Kladky S Vrutom",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-kladky-s-vrutom"
+            }
+        ]
+    },
+    {
+        "name": "SVX   Kladka kovová s vrutom pozinkovaná 8/30mm",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 1617,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Kladky S Vrutom",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-kladky-s-vrutom"
+            }
+        ]
+    },
+    {
+        "name": "SVX   Kladka kovová s vrutom pozinkovaná 10/50mm",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 1617,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Kladky S Vrutom",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-kladky-s-vrutom"
+            }
+        ]
+    },
+    {
+        "name": "Kladka kovová s vrutom zn 8/30mm",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 1617,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Kladky S Vrutom",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-kladky-s-vrutom"
+            }
+        ]
+    },
+    {
+        "name": "Kladka kovová s vrutom zn 9/40mm",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 1617,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Kladky S Vrutom",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-kladky-s-vrutom"
+            }
+        ]
+    }
+]

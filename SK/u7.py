@@ -1,168 +1,170 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-import base64
-import re
-from config.config import api_key
+import os
+import random
+from urllib.parse import urljoin
+import logging
 
-# Function to get product information from the URL
-def get_product_info(url, api_key):
-    # Base payload for Scraper API
-    payload = {
-        'api_key': api_key,
-        'url': url,
-        'render': 'true',
-        'device_type': 'desktop'
-    }
+# Configuration
+base_url = 'https://www.svx.sk'
+api_key = '4ce5d066b1d682c4fe042f95ef56fdc5'  # Set your API key here
+headers = {'User-Agent': 'Mozilla/5.0'}
+used_subcategory_ids = set()
 
-    # Fetch the page using the Scraper API
-    response = requests.get('http://api.scraperapi.com/', params=payload)
-    if response.status_code != 200:
-        raise Exception(f"Failed to fetch page: {response.status_code}")
+# Configure logging
+logging.basicConfig(
+    filename='scraper.log',
+    filemode='a',
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    level=logging.INFO
+)
 
-    html = response.text
-
-    # Parse the HTML with BeautifulSoup
-    soup = BeautifulSoup(html, 'html.parser')
-
-    # Extract the product description
-    description_div = soup.find('div', id='product-description-tab-content')
-    if description_div:
-        # Clean and extract text from the description
-        description_text = description_div.get_text(separator='\n').strip()
-    else:
-        description_text = ''
-
-    # Extract the specifications
-    specs = {}
-    specs_div = soup.find('div', id='product-specifications-tab-content')
-    if specs_div:
-        for li in specs_div.find_all('li'):
-            # Each 'li' contains the label and the value
-            label_div = li.find('div', class_='w-full sm:w-1/2')
-            value_div = li.find('div', class_='w-full max-sm:text-p-small sm:w-1/2')
-            if label_div and value_div:
-                label = label_div.get_text(strip=True)
-                value = value_div.get_text(strip=True)
-
-                # Mapping various parameters
-                if 'Šírka' in label:
-                    specs['width'] = value.replace('mm', '').strip()
-                elif 'Dĺžka' in label:
-                    specs['length'] = value.replace('cm', '').strip()
-                elif 'Výška' in label:
-                    specs['height'] = value.replace('mm', '').strip()
-                elif 'Váha' in label or 'Hmotnosť' in label:
-                    specs['weight'] = value.replace('kg', '').strip()
-                elif 'Materiál' in label:
-                    specs['material'] = value.strip()
-                elif 'Variant' in label:
-                    specs['Variant'] = value.strip()
-                elif 'Objem (ml)' in label:
-                    specs['Objem (ml)'] = value.strip()
-                elif 'Typ látky' in label:
-                    specs['Typ látky'] = value.strip()
-                else:
-                    # Handle other specs or ignore them
-                    specs[label] = value.strip()
-    else:
-        specs['error'] = 'Specifications not found.'
-
-    return {
-        'description': description_text,
-        'specs': specs
-    }
-
-# WooCommerce API credentials
-username = 'Deadpool'
-password = 'Karategi123'
-wc_base_url = 'https://kdtech.sk/wp-json/wc/v3/'
-
-# Read the product list from the JSON file
-with open('rebriky-alve.json', 'r', encoding='utf-8') as f:
-    products = json.load(f)
-
-# Iterate over each product
-for product in products:
+# Function to fetch a webpage using Scraper API with error logging
+def fetch_page(url, api_key):
     try:
-        # Get the product link and SKU
-        url = product.get('link')
-        sku = product.get('sku')
-
-        if not url or not sku:
-            print(f"Skipping product due to missing URL or SKU: {product.get('name')}")
-            continue
-
-        # Scrape the product information
-        product_info = get_product_info(url, api_key)
-
-        # Prepare the product data for WooCommerce
-        product_data = {
-            'description': product_info['description'],  # Use the scraped description
+        payload = {
+            'api_key': api_key,
+            'url': url,
+            'render': 'true',
+            'device_type': 'desktop'
         }
+        response = requests.get('http://api.scraperapi.com/', params=payload, headers=headers)
+        response.raise_for_status()
+        logging.info(f"Successfully fetched {url}")
+        return response.text
+    except requests.exceptions.RequestException as e:
+        logging.error(f"Error fetching {url}: {e}")
+        raise
 
-        # Construct the short description from specific specs
-        short_description = ''
-        fields = ['Objem (ml)', 'Typ látky', 'Variant']
-        for field in fields:
-            if field in product_info['specs']:
-                short_description += f"<p><strong>{field}:</strong> {product_info['specs'][field]}</p>\n"
+# Function to parse subcategory URLs from the main category page
+def get_subcategory_urls(category_url, api_key):
+    html = fetch_page(category_url, api_key)
+    soup = BeautifulSoup(html, 'html.parser')
+    
+    # Get all subcategories, even the collapsed ones
+    subcategory_urls = []
+    subcategory_tiles = soup.select('li a[href^="/predlzovacie-kable-a-svietidla-brennenstuhl-"]')
+    
+    for tile in subcategory_tiles:
+        href = tile['href']
+        subcategory_urls.append(urljoin(base_url, href))
+    
+    logging.info(f"Found {len(subcategory_urls)} subcategories for {category_url}")
+    return subcategory_urls
 
-        # Set the short description
-        product_data['short_description'] = short_description.strip()
+# Function to extract product information from a subcategory page
+def get_products_from_subcategory(subcategory_url, api_key):
+    html = fetch_page(subcategory_url, api_key)
+    soup = BeautifulSoup(html, 'html.parser')
+    
+    # Find all product cards based on the new HTML structure
+    products = []
+    
+    # Select the anchor tag that contains the product name within the product card
+    product_cards = soup.select('div.inline-flex a')  # Adjusted to match the correct structure
 
-        # Handle weight
-        weight = product_info['specs'].get('weight', '')
-        if weight:
-            product_data['weight'] = weight
+    for card in product_cards:
+        # Extract the product name from the <a> tag text
+        product_name = card.get_text(strip=True)
+        
+        # Extract the product URL from the href attribute of the <a> tag
+        product_url = card['href']
+        full_product_url = urljoin(base_url, product_url)
+        
+        products.append({'name': product_name, 'url': full_product_url})
+    
+    logging.info(f"Found {len(products)} products in subcategory {subcategory_url}")
+    return products
 
-        # Handle dimensions
-        dimensions = {}
-        length = product_info['specs'].get('length', '')
-        width = product_info['specs'].get('width', '')
-        height = product_info['specs'].get('height', '')
 
-        if length:
-            dimensions['length'] = length
-        if width:
-            dimensions['width'] = width
-        if height:
-            dimensions['height'] = height
+# Function to generate a unique random subcategory ID (at least three digits)
+def generate_subcategory_id():
+    while True:
+        new_id = random.randint(100, 9999)
+        if new_id not in used_subcategory_ids:
+            used_subcategory_ids.add(new_id)
+            return new_id
 
-        if dimensions:
-            product_data['dimensions'] = dimensions
+# Function to save product information to a JSON file
+def save_product_json(product, category, subcategory, output_dir):
+    product_data = {
+        'name': product['name'],
+        'categories': [
+            {
+                'id': category['id'],
+                'name': category['name'],
+                'slug': category['slug']
+            },
+            {
+                'id': subcategory['id'],
+                'name': subcategory['name'],
+                'slug': subcategory['slug']
+            }
+        ]
+    }
+    
+    # Create the directory if it doesn't exist
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+    
+    # Define file path
+    file_name = f"subcategories-{subcategory['slug']}.json"
+    file_path = os.path.join(output_dir, file_name)
+    
+    # Load existing data if the file exists
+    if os.path.exists(file_path):
+        try:
+            with open(file_path, 'r', encoding='utf-8') as json_file:
+                data = json.load(json_file)
+        except json.JSONDecodeError:
+            logging.warning(f"JSON decoding error in {file_path}, creating a new file.")
+            data = []
+    else:
+        data = []
+    
+    # Append new product and save back to JSON file
+    data.append(product_data)
+    with open(file_path, 'w', encoding='utf-8') as json_file:
+        json.dump(data, json_file, ensure_ascii=False, indent=4)
+    
+    logging.info(f"Saved product {product['name']} to {file_path}")
 
-        # Get the product ID from WooCommerce using SKU
-        response = requests.get(
-            wc_base_url + "products",
-            params={'sku': sku},
-            auth=(username, password)
-        )
-
-        if response.status_code != 200:
-            print(f"Failed to get product with SKU '{sku}': {response.text}")
-            continue
-
-        products_data = response.json()
-        if not products_data:
-            print(f"No product found with SKU '{sku}'")
-            continue
-
-        # Assuming only one product matches the SKU
-        product_id = products_data[0]['id']
-
-        # Update the product in WooCommerce
-        print(f"Updating product ID {product_id} with SKU {sku}")
-        update_response = requests.put(
-            wc_base_url + f"products/{product_id}",
-            json=product_data,
-            auth=(username, password)
-        )
-
-        if update_response.status_code in [200, 201]:
-            print(f"Product '{product.get('name')}' updated successfully.")
-        else:
-            print(f"Failed to update product '{product.get('name')}': {update_response.text}")
-
+# Main function to process the category
+def process_category(category_url, category_info, api_key, output_dir):
+    try:
+        subcategory_urls = get_subcategory_urls(category_url, api_key)
+        
+        for subcategory_url in subcategory_urls:
+            subcategory_slug = subcategory_url.rstrip('/').split('/')[-1]
+            subcategory_name = subcategory_slug.replace('-', ' ').title()
+            subcategory_info = {
+                'id': generate_subcategory_id(),
+                'name': subcategory_name,
+                'slug': subcategory_slug
+            }
+            
+            # Get products from this subcategory
+            products = get_products_from_subcategory(subcategory_url, api_key)
+            
+            # Save each product in this subcategory to a JSON file as soon as it's processed
+            for product in products:
+                save_product_json(product, category_info, subcategory_info, output_dir)
+    
     except Exception as e:
-        print(f"Error processing product '{product.get('name')}': {str(e)}")
+        logging.error(f"Error processing category {category_url}: {e}")
+        raise
+
+# Example usage
+category_info = {
+    "id": 93,
+    "name": "Predlžovacie káble a svietidlá Brennenstuhl",
+    "slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+}
+
+# Define the category URL and output directory
+category_url = "https://www.svx.sk/predlzovacie-kable-a-svietidla-brennenstuhl/"
+output_dir = "subcategories-predlzovacie-kable-a-svietidla-brennenstuhl"
+
+# Start processing the category
+process_category(category_url, category_info, api_key, output_dir)
