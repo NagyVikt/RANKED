@@ -8,8 +8,8 @@ from bs4 import BeautifulSoup
 # WordPress and WooCommerce API credentials
 username = 'Deadpool'
 password = 'Karategi123'
-wp_base_url = 'https://kdtech.hu/wp-json/'
-wc_base_url = 'https://kdtech.hu/wp-json/wc/v3/'
+wp_base_url = 'https://kdtech.sk/wp-json/'
+wc_base_url = 'https://kdtech.sk/wp-json/wc/v3/'
 
 # Encode credentials for HTTP Basic Authentication
 auth_string = f'{username}:{password}'
@@ -164,5 +164,5 @@ def upload_products(json_file):
 
 # Main script execution
 if __name__ == "__main__":
-    json_file = 'magnesek.json'  # Replace with your actual JSON file name
+    json_file = 'woosk.json'  # Replace with your actual JSON file name
     upload_products(json_file)
