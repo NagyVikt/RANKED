@@ -1,0 +1,782 @@
+[
+    {
+        "name": "Svorka spojovacia SP1",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV15 BR",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV17",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV22",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV22",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV23",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV23",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SR03 B",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka odkvapová SO",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka odkvapová SO",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SR02",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka SJ01",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka SZ",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 6549,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SP1",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV15 BR",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV17",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV22",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV22",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV23",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV23",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SR03 B",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka odkvapová SO",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka odkvapová SO",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SR02",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka SJ01",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka SZ",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 5892,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SP1",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV15 BR",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV17",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV22",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV22",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV23",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV23",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SR03 B",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka odkvapová SO",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka odkvapová SO",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SR02",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka SJ01",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka SZ",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 739,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SP1",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV15 BR",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV17",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV22",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV22",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV23",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Podpera vedenia PV23",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SR03 B",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka odkvapová SO",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka odkvapová SO",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka spojovacia SR02",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka SJ01",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    },
+    {
+        "name": "Svorka SZ",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9734,
+                "name": "Elektroinstalacny Material Bleskozvody",
+                "slug": "elektroinstalacny-material-bleskozvody"
+            }
+        ]
+    }
+]

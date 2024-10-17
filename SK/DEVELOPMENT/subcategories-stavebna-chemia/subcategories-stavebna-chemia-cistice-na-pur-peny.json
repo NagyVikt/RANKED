@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Wolf swiss quality   Čistič montážnej (PUR) peny 500ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 477,
+                "name": "Stavebna Chemia Cistice Na Pur Peny",
+                "slug": "stavebna-chemia-cistice-na-pur-peny"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Čistič na PUR penu 500ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 477,
+                "name": "Stavebna Chemia Cistice Na Pur Peny",
+                "slug": "stavebna-chemia-cistice-na-pur-peny"
+            }
+        ]
+    },
+    {
+        "name": "Wolf swiss quality   Čistič montážnej (PUR) peny 500ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 9756,
+                "name": "Stavebna Chemia Cistice Na Pur Peny",
+                "slug": "stavebna-chemia-cistice-na-pur-peny"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Čistič na PUR penu 500ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 9756,
+                "name": "Stavebna Chemia Cistice Na Pur Peny",
+                "slug": "stavebna-chemia-cistice-na-pur-peny"
+            }
+        ]
+    }
+]

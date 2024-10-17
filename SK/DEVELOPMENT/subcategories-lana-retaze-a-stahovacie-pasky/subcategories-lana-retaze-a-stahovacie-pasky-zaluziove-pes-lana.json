@@ -1,0 +1,47 @@
+[
+    {
+        "name": "PES šnúra žalúziová biela 12pr 1,4mm",
+        "categories": [
+            {
+                "id": 86,
+                "name": "Laná, reťaze a sťahovacie pásky",
+                "slug": "lana-retaze-a-stahovacie-pasky"
+            },
+            {
+                "id": 3862,
+                "name": "Lana Retaze A Stahovacie Pasky Zaluziove Pes Lana",
+                "slug": "lana-retaze-a-stahovacie-pasky-zaluziove-pes-lana"
+            }
+        ]
+    },
+    {
+        "name": "PES šnúra žalúziová biela 12pr 1,2mm",
+        "categories": [
+            {
+                "id": 86,
+                "name": "Laná, reťaze a sťahovacie pásky",
+                "slug": "lana-retaze-a-stahovacie-pasky"
+            },
+            {
+                "id": 3862,
+                "name": "Lana Retaze A Stahovacie Pasky Zaluziove Pes Lana",
+                "slug": "lana-retaze-a-stahovacie-pasky-zaluziove-pes-lana"
+            }
+        ]
+    },
+    {
+        "name": "CONROP   PES šnúra žalúziová biela 16pr 1,4mm",
+        "categories": [
+            {
+                "id": 86,
+                "name": "Laná, reťaze a sťahovacie pásky",
+                "slug": "lana-retaze-a-stahovacie-pasky"
+            },
+            {
+                "id": 3862,
+                "name": "Lana Retaze A Stahovacie Pasky Zaluziove Pes Lana",
+                "slug": "lana-retaze-a-stahovacie-pasky-zaluziove-pes-lana"
+            }
+        ]
+    }
+]

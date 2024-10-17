@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Domax   Zástrč zamykacia WZP 80",
+        "categories": [
+            {
+                "id": 91,
+                "name": "Pätky, uholníky a kovania",
+                "slug": "patky-uholniky-a-kovania"
+            },
+            {
+                "id": 9021,
+                "name": "Patky Uholniky A Kovania Zamykacie",
+                "slug": "patky-uholniky-a-kovania-zamykacie"
+            }
+        ]
+    },
+    {
+        "name": "Domax   Zástrč zamykacia WZP 100",
+        "categories": [
+            {
+                "id": 91,
+                "name": "Pätky, uholníky a kovania",
+                "slug": "patky-uholniky-a-kovania"
+            },
+            {
+                "id": 9021,
+                "name": "Patky Uholniky A Kovania Zamykacie",
+                "slug": "patky-uholniky-a-kovania-zamykacie"
+            }
+        ]
+    },
+    {
+        "name": "Domax   Zástrč zamykacia WZP 120",
+        "categories": [
+            {
+                "id": 91,
+                "name": "Pätky, uholníky a kovania",
+                "slug": "patky-uholniky-a-kovania"
+            },
+            {
+                "id": 9021,
+                "name": "Patky Uholniky A Kovania Zamykacie",
+                "slug": "patky-uholniky-a-kovania-zamykacie"
+            }
+        ]
+    },
+    {
+        "name": "Domax   Zástrč zamykacia WZP 140",
+        "categories": [
+            {
+                "id": 91,
+                "name": "Pätky, uholníky a kovania",
+                "slug": "patky-uholniky-a-kovania"
+            },
+            {
+                "id": 9021,
+                "name": "Patky Uholniky A Kovania Zamykacie",
+                "slug": "patky-uholniky-a-kovania-zamykacie"
+            }
+        ]
+    },
+    {
+        "name": "Domax   Zástrč zamykacia WZP 80",
+        "categories": [
+            {
+                "id": 91,
+                "name": "Pätky, uholníky a kovania",
+                "slug": "patky-uholniky-a-kovania"
+            },
+            {
+                "id": 5115,
+                "name": "Patky Uholniky A Kovania Zamykacie",
+                "slug": "patky-uholniky-a-kovania-zamykacie"
+            }
+        ]
+    },
+    {
+        "name": "Domax   Zástrč zamykacia WZP 100",
+        "categories": [
+            {
+                "id": 91,
+                "name": "Pätky, uholníky a kovania",
+                "slug": "patky-uholniky-a-kovania"
+            },
+            {
+                "id": 5115,
+                "name": "Patky Uholniky A Kovania Zamykacie",
+                "slug": "patky-uholniky-a-kovania-zamykacie"
+            }
+        ]
+    },
+    {
+        "name": "Domax   Zástrč zamykacia WZP 120",
+        "categories": [
+            {
+                "id": 91,
+                "name": "Pätky, uholníky a kovania",
+                "slug": "patky-uholniky-a-kovania"
+            },
+            {
+                "id": 5115,
+                "name": "Patky Uholniky A Kovania Zamykacie",
+                "slug": "patky-uholniky-a-kovania-zamykacie"
+            }
+        ]
+    },
+    {
+        "name": "Domax   Zástrč zamykacia WZP 140",
+        "categories": [
+            {
+                "id": 91,
+                "name": "Pätky, uholníky a kovania",
+                "slug": "patky-uholniky-a-kovania"
+            },
+            {
+                "id": 5115,
+                "name": "Patky Uholniky A Kovania Zamykacie",
+                "slug": "patky-uholniky-a-kovania-zamykacie"
+            }
+        ]
+    }
+]

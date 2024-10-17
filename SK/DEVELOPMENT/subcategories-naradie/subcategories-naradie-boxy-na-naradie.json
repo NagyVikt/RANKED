@@ -1,0 +1,1442 @@
+[
+    {
+        "name": "PATROL GROUP   Dielenská zásuvka 155x100x225mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box Stuff Semi-Profi 16 OPTIMO 415x226x200mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 45-450x340x68mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box Stuff Semi-Profi 20 OPTIMO 525x256x246mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 32-325x260x65mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 16 S - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 35 M - červená 330x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Toolbox Formula Carbo RS Flex 600 547x271x278mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 36-364x268x66mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 350 Profi 38L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Box 200 Flex 26L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 30 M - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 20 M - červená 327x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 60 M - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Wheelbox HD Compact Logic PA 450x350x390mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Toolbox HD Compact Logic 445x350x300mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box viacúčelový 285x135x115mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box viacúčelový veľký 330x160x140mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Tandem 200 C 192x143x50mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Tandem 300 C 284x182x50mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Tandem 400 C 385x283x50mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box na elektrikárske náradie Tool case 400x320x180mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Toolbox Formula Carbo S Alu 500 462x256x242mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Toolbox Formula Carbo S Alu 600 547x271x278mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2217,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Dielenská zásuvka 155x100x225mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box Stuff Semi-Profi 16 OPTIMO 415x226x200mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 45-450x340x68mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 16 S - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 35 M - červená 330x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box Stuff Semi-Profi 20 OPTIMO 525x256x246mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 32-325x260x65mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 350 Profi 38L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Box 200 Flex 26L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 30 M - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 20 M - červená 327x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 60 M - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Toolbox Formula Carbo RS Flex 600 547x271x278mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 36-364x268x66mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 50 M - červená 460x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Cart 38L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System One 200 Profi 15,5L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE Cart Basic 50L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 450 Basic 52L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 200 Basic 15,5L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE Box Plus 35L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Toolbox 26L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE Longer Basic 50L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Organizer Flex 14,5L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2768,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Dielenská zásuvka 155x100x225mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box Stuff Semi-Profi 16 OPTIMO 415x226x200mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 45-450x340x68mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 16 S - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 35 M - červená 330x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box Stuff Semi-Profi 20 OPTIMO 525x256x246mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 32-325x260x65mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 350 Profi 38L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Box 200 Flex 26L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 30 M - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 20 M - červená 327x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 60 M - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Toolbox Formula Carbo RS Flex 600 547x271x278mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 36-364x268x66mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 50 M - červená 460x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Cart 38L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System One 200 Profi 15,5L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE Cart Basic 50L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 450 Basic 52L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 200 Basic 15,5L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE Box Plus 35L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Toolbox 26L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE Longer Basic 50L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Organizer Flex 14,5L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6051,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Dielenská zásuvka 155x100x225mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box Stuff Semi-Profi 16 OPTIMO 415x226x200mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 45-450x340x68mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 16 S - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 35 M - červená 330x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Box Stuff Semi-Profi 20 OPTIMO 525x256x246mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 32-325x260x65mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 350 Profi 38L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Box 200 Flex 26L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 30 M - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 20 M - červená 327x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 60 M - červená 551x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Toolbox Formula Carbo RS Flex 600 547x271x278mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "PATROL GROUP   Organizér Domino 36-364x268x66mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "Mars Svratka a.s.   MARS Skrinka 50 M - červená 460x306x155mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Cart 38L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System One 200 Profi 15,5L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE Cart Basic 50L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 450 Basic 52L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE 200 Basic 15,5L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE Box Plus 35L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Toolbox 26L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System ONE Longer Basic 50L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    },
+    {
+        "name": "QBRICK   Box QBRICK® System TWO Organizer Flex 14,5L",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1514,
+                "name": "Naradie Boxy Na Naradie",
+                "slug": "naradie-boxy-na-naradie"
+            }
+        ]
+    }
+]

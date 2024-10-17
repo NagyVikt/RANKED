@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Brennenstuhl   Skladacia kovová pracovná koza",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1092,
+                "name": "Naradie Pracovne Stoly",
+                "slug": "naradie-pracovne-stoly"
+            }
+        ]
+    },
+    {
+        "name": "Brennenstuhl   Teleskopická pracovná koza",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1092,
+                "name": "Naradie Pracovne Stoly",
+                "slug": "naradie-pracovne-stoly"
+            }
+        ]
+    },
+    {
+        "name": "Brennenstuhl   Skladacia kovová pracovná koza",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5183,
+                "name": "Naradie Pracovne Stoly",
+                "slug": "naradie-pracovne-stoly"
+            }
+        ]
+    },
+    {
+        "name": "Brennenstuhl   Teleskopická pracovná koza",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5183,
+                "name": "Naradie Pracovne Stoly",
+                "slug": "naradie-pracovne-stoly"
+            }
+        ]
+    },
+    {
+        "name": "Brennenstuhl   Skladacia kovová pracovná koza",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5335,
+                "name": "Naradie Pracovne Stoly",
+                "slug": "naradie-pracovne-stoly"
+            }
+        ]
+    },
+    {
+        "name": "Brennenstuhl   Teleskopická pracovná koza",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5335,
+                "name": "Naradie Pracovne Stoly",
+                "slug": "naradie-pracovne-stoly"
+            }
+        ]
+    },
+    {
+        "name": "Brennenstuhl   Skladacia kovová pracovná koza",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1773,
+                "name": "Naradie Pracovne Stoly",
+                "slug": "naradie-pracovne-stoly"
+            }
+        ]
+    },
+    {
+        "name": "Brennenstuhl   Teleskopická pracovná koza",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 1773,
+                "name": "Naradie Pracovne Stoly",
+                "slug": "naradie-pracovne-stoly"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "CONROP   PPV lano farebné s jadrom pletené 40pr 10mm",
+        "categories": [
+            {
+                "id": 86,
+                "name": "Laná, reťaze a sťahovacie pásky",
+                "slug": "lana-retaze-a-stahovacie-pasky"
+            },
+            {
+                "id": 9152,
+                "name": "Lana Retaze A Stahovacie Pasky Lana 40 Pramenne",
+                "slug": "lana-retaze-a-stahovacie-pasky-lana-40-pramenne"
+            }
+        ]
+    },
+    {
+        "name": "CONROP   PPV lano farebné s jadrom pletené 40pr 12mm",
+        "categories": [
+            {
+                "id": 86,
+                "name": "Laná, reťaze a sťahovacie pásky",
+                "slug": "lana-retaze-a-stahovacie-pasky"
+            },
+            {
+                "id": 9152,
+                "name": "Lana Retaze A Stahovacie Pasky Lana 40 Pramenne",
+                "slug": "lana-retaze-a-stahovacie-pasky-lana-40-pramenne"
+            }
+        ]
+    }
+]

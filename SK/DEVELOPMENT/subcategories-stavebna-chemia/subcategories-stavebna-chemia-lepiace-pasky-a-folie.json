@@ -1,0 +1,1442 @@
+[
+    {
+        "name": "Ciret   Páska lepiaca papierová 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Papierová páska UV14 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Samovulkanizačná páska 10mx38mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca obojstranná 10m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca obojstranná 25m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Krycia fólia UV 14m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Krycia fólia UV 14m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Samovulkanizačná páska 10mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Páska textilná 25mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová 50m modrá",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska maliarska 50m červená",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska maliarska 50m fialová",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca plastová 33m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca plastová 33m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7700,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Papierová páska UV14 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Samovulkanizačná páska 10mx38mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca obojstranná 10m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca obojstranná 25m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Krycia fólia UV 14m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Krycia fólia UV 14m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Samovulkanizačná páska 10mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Páska textilná 25mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová 50m modrá",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska maliarska 50m červená",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska maliarska 50m fialová",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca plastová 33m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca plastová 33m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7628,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Papierová páska UV14 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Samovulkanizačná páska 10mx38mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca obojstranná 10m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca obojstranná 25m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Samovulkanizačná páska 10mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Páska textilná 25mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Krycia fólia UV 14m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Krycia fólia UV 14m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   ALU páska samolepiaca 50mm-50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska výstražná 60mm-30m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska baliaca 66m hnedá",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska baliaca 66m transparentná",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Špeciálna textilná páska 50mx50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová 50m modrá",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6531,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Papierová páska UV14 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Samovulkanizačná páska 10mx38mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca obojstranná 10m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca obojstranná 25m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Samovulkanizačná páska 10mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Páska textilná 25mx25mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Krycia fólia UV 14m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Krycia fólia UV 14m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska papierová SL 40m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   ALU páska samolepiaca 50mm-50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska výstražná 60mm-30m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska baliaca 66m hnedá",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska baliaca 66m transparentná",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Špeciálna textilná páska 50mx50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová STANDARD 50m",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Páska lepiaca papierová 50m modrá",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6045,
+                "name": "Stavebna Chemia Lepiace Pasky A Folie",
+                "slug": "stavebna-chemia-lepiace-pasky-a-folie"
+            }
+        ]
+    }
+]

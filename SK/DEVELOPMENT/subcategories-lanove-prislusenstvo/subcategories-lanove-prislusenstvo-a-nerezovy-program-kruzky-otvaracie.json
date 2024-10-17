@@ -1,0 +1,32 @@
+[
+    {
+        "name": "SVX hardware   Krúžok otvárací čierny 6x26mm",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 4919,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Kruzky Otvaracie",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-kruzky-otvaracie"
+            }
+        ]
+    },
+    {
+        "name": "SVX hardware   Krúžok otvárací čierny 6x38mm",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 4919,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Kruzky Otvaracie",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-kruzky-otvaracie"
+            }
+        ]
+    }
+]

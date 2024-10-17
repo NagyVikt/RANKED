@@ -1,0 +1,722 @@
+[
+    {
+        "name": "STREND PRO   Značkovač čierny",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Krieda Classic ECO - červená",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Krieda Classic ECO - modrá",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Fixka s okrúhlym hrotom laková - žltá",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Držiak kriedových značkovačov",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky grafit",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač BIG Ink - čierny",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Fixka s plochým hrotom - čierna",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "STREND PRO   Značkovač červený",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky červené",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Ceruzka",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky grafit",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky farebné",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Ceruzky + tuhy",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Ceruzka tesárska",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Popisovač univerzálny biely",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Ceruzka tesárska + držiak",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - modrý",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - červený",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - žltý",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - biely",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - čierny",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Fixka s okrúhlym hrotom - čierna",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky farebné",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 9227,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "STREND PRO   Značkovač čierny",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Krieda Classic ECO - červená",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Krieda Classic ECO - modrá",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Fixka s okrúhlym hrotom laková - žltá",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Držiak kriedových značkovačov",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky grafit",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač BIG Ink - čierny",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Fixka s plochým hrotom - čierna",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "STREND PRO   Značkovač červený",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky červené",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Ceruzka",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky grafit",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky farebné",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Ceruzky + tuhy",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Ceruzka tesárska",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Popisovač univerzálny biely",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Ceruzka tesárska + držiak",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - modrý",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - červený",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - žltý",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - biely",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Značkovač gélový - čierny",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Fixka s okrúhlym hrotom - čierna",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    },
+    {
+        "name": "PICA   Tuhy do ceruzky farebné",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 8427,
+                "name": "Naradie Znackovace A Ceruzky",
+                "slug": "naradie-znackovace-a-ceruzky"
+            }
+        ]
+    }
+]

@@ -1,0 +1,572 @@
+[
+    {
+        "name": "SEZ   Zásuvková ROS 11/x-21 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 1631 Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 3230 Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS-I 1603/A rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Rozvodka ROP 3243 - roztrojka",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 1630 Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Rozvodka ROP 3253 - roztrojka",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 3231 Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-41 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Rozvodka ROP 1643 - roztrojka",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Rozvodka ROP 1653 - roztrojka",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-55 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-15 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 3231 D Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 1631 D Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 1630 D Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-01 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-16 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 3230 D Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1792,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 11/x-21 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 1631 Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 3230 Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS-I 1603/A rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Rozvodka ROP 3243 - roztrojka",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 1630 Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Rozvodka ROP 3253 - roztrojka",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 3231 Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-41 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Rozvodka ROP 1643 - roztrojka",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Rozvodka ROP 1653 - roztrojka",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-55 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-15 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 3231 D Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 1631 D Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 1630 D Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-01 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvková ROS 5/x-16 rozvodnica neistená",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   ROSP 3230 D Rozvodnica neistená IP54",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 4339,
+                "name": "Elektroinstalacny Material Zasuvkove Rozvodnice",
+                "slug": "elektroinstalacny-material-zasuvkove-rozvodnice"
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Fischer   Statický zmiešavač pre chemické malty",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 8958,
+                "name": "Stavebna Chemia Zmiesace A Kefky",
+                "slug": "stavebna-chemia-zmiesace-a-kefky"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Kefka na čistenie otvorov pred montážou",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 8958,
+                "name": "Stavebna Chemia Zmiesace A Kefky",
+                "slug": "stavebna-chemia-zmiesace-a-kefky"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Statický zmiešavač pre chemické malty",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 4373,
+                "name": "Stavebna Chemia Zmiesace A Kefky",
+                "slug": "stavebna-chemia-zmiesace-a-kefky"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Kefka na čistenie otvorov pred montážou",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 4373,
+                "name": "Stavebna Chemia Zmiesace A Kefky",
+                "slug": "stavebna-chemia-zmiesace-a-kefky"
+            }
+        ]
+    }
+]

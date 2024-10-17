@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tracon electric   Bezpečnostná montážna lampa",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1183,
+                "name": "Elektroinstalacny Material Priemyselne Svietidla",
+                "slug": "elektroinstalacny-material-priemyselne-svietidla"
+            }
+        ]
+    },
+    {
+        "name": "Tracon electric   Bezpečnostná montážna lampa",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 2184,
+                "name": "Elektroinstalacny Material Priemyselne Svietidla",
+                "slug": "elektroinstalacny-material-priemyselne-svietidla"
+            }
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "name": "SEZ   Zásuvka 400V 32A/4 ISN 3243",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1794,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 16A/5 ISB1653",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1794,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 230V 32A/3 ISN 3232",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1794,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 32A/5 ISN 3253",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1794,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 32A/5 ISB3253",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1794,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 16A/5 ISN 1653",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1794,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 16A/4 ISN 1643",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1794,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 230V 16A/3 ISN 1632",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 1794,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 32A/4 ISN 3243",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9660,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 16A/5 ISB1653",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9660,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 230V 32A/3 ISN 3232",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9660,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 32A/5 ISN 3253",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9660,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 32A/5 ISB3253",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9660,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 16A/5 ISN 1653",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9660,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 400V 16A/4 ISN 1643",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9660,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    },
+    {
+        "name": "SEZ   Zásuvka 230V 16A/3 ISN 1632",
+        "categories": [
+            {
+                "id": 94,
+                "name": "Elektroinštalačný materiál",
+                "slug": "elektroinstalacny-material"
+            },
+            {
+                "id": 9660,
+                "name": "Elektroinstalacny Material Zasuvky Sez",
+                "slug": "elektroinstalacny-material-zasuvky-sez"
+            }
+        ]
+    }
+]

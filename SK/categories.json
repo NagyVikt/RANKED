@@ -1,74 +1,292 @@
 [
     {
         "id": 98,
-        "name": "Domácnosť a drogéria"
+        "name": "Domácnosť a drogéria",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
     {
         "id": 94,
-        "name": "Elektroinštalačný materiál"
+        "name": "Elektroinštalačný materiál",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=elektroinstalacny-material",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        
+        ]
     },
     {
         "id": 86,
-        "name": "Laná, reťaze a sťahovacie pásky"
+        "name": "Laná, reťaze a sťahovacie pásky",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=lana-retaze-a-stahovacie-pasky",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
     {
         "id": 85,
-        "name": "Lanové príslušenstvo a nerezový program"
+        "name": "Lanové príslušenstvo a nerezový program",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=lanove-prislusenstvo-a-nerezovy-program",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
-    {
-        "id": 99,
-        "name": "Ložiská, guferá, klinové remene a príslušenstvo"
-    },
-    {
-        "id": 101,
-        "name": "Magnety"
-    },
+
     {
         "id": 97,
-        "name": "Náradie"
+        "name": "Náradie",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=naradie",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
     {
         "id": 92,
-        "name": "Ochranné pracovné prostriedky Delta plus"
+        "name": "Ochranné pracovné prostriedky Delta plus",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
     {
         "id": 91,
-        "name": "Pätky, uholníky a kovania"
+        "name": "Pätky, uholníky a kovania",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
     {
         "id": 100,
-        "name": "Pletivá"
+        "name": "Pletivá",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=pletiva",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
     {
         "id": 93,
-        "name": "Predlžovacie káble a svietidlá Brennenstuhl"
+        "name": "Predlžovacie káble a svietidlá Brennenstuhl",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=predlzovacie-kable-a-svietidla-brennenstuhl",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
-    {
-        "id": 102,
-        "name": "Rebríky ALVE"
-    },
-    {
-        "id": 88,
-        "name": "Reťazové a textilné úväzky"
-    },
+
     {
         "id": 95,
-        "name": "Spojovací a kotviaci materiál"
+        "name": "Spojovací a kotviaci materiál",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
     {
         "id": 96,
-        "name": "Stavebná chémia"
+        "name": "Stavebná chémia",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=stavebna-chemia",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
+
     {
         "id": 89,
-        "name": "Upínacie pásy - gurtne a príslušenstvo"
-    },
-    {
-        "id": 90,
-        "name": "Zdvíhacia a manipulačná technika YALE-PFAFF"
+        "name": "Upínacie pásy - gurtne a príslušenstvo",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     },
     {
         "id": 87,
-        "name": "Zdvíhacia technika, háky a reťaze tr 80 a tr 100"
+        "name": "Zdvíhacia technika, háky a reťaze tr 80 a tr 100",
+        "img":"https://www.svx.sk/media/categories/category_384.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+        "link":"https://kdtech.sk/shop/?filter_cat=zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100",
+        "subcategories": [
+            {
+                "id": 201,
+                "slug": "subcat1",
+                "name": "Subcategory 1",
+                "img": "https://example.com/subcat1.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat1"
+            },
+            {
+                "id": 202,
+                "slug": "subcat2",
+                "name": "Subcategory 2",
+                "img": "https://example.com/subcat2.jpg",
+                "link": "https://kdtech.sk/shop/?filter_cat=subcat2"
+            }
+        ]
     }
 ]

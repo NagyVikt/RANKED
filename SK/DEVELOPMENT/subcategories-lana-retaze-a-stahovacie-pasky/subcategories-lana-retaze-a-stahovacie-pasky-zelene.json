@@ -1,0 +1,32 @@
+[
+    {
+        "name": "SVX   Sťahovacia páska zelená 3,6x200mm",
+        "categories": [
+            {
+                "id": 86,
+                "name": "Laná, reťaze a sťahovacie pásky",
+                "slug": "lana-retaze-a-stahovacie-pasky"
+            },
+            {
+                "id": 1614,
+                "name": "Lana Retaze A Stahovacie Pasky Zelene",
+                "slug": "lana-retaze-a-stahovacie-pasky-zelene"
+            }
+        ]
+    },
+    {
+        "name": "SVX   Sťahovacia páska zelená 4,8x450mm",
+        "categories": [
+            {
+                "id": 86,
+                "name": "Laná, reťaze a sťahovacie pásky",
+                "slug": "lana-retaze-a-stahovacie-pasky"
+            },
+            {
+                "id": 1614,
+                "name": "Lana Retaze A Stahovacie Pasky Zelene",
+                "slug": "lana-retaze-a-stahovacie-pasky-zelene"
+            }
+        ]
+    }
+]

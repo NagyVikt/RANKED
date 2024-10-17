@@ -1,0 +1,722 @@
+[
+    {
+        "name": "SVXtools   Bit magnetický PH2x90 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX40x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX30x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PH2x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX25x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Sada bitov 10 dielna",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PH2x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX20x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX40x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX30x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX20x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ2x90 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX25x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX10x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX40x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "BOSCH   32-dielna sada bitov s farebným označením",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "BOSCH   Bit TX40x89 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ1x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ2x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ3x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ3x90 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX10x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX20x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha PH1x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2179,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PH2x90 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX40x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX30x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PH2x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX25x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Sada bitov 10 dielna",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PH2x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX20x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX40x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX30x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX20x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ2x90 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX25x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "WIHA   Bit wiha TX10x25 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX40x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "BOSCH   Bit TX40x89 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "BOSCH   32-dielna sada bitov s farebným označením",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ1x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ2x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ3x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický PZ3x90 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX10x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "SVXtools   Bit magnetický TX20x50 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    },
+    {
+        "name": "BOSCH   Bit TX30x89 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 2972,
+                "name": "Naradie Bity Na Skrutky",
+                "slug": "naradie-bity-na-skrutky"
+            }
+        ]
+    }
+]

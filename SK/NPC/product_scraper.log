@@ -1,0 +1,47 @@
+2024-10-17 17:17:16,192 - INFO - Scraping category: Lanove Prislusenstvo A Nerezovy Program Nerezovy Program (https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/)
+2024-10-17 17:17:46,775 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/
+2024-10-17 17:17:47,001 - INFO - Total pages in category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program': 1
+2024-10-17 17:17:47,001 - INFO - Fetching page 1 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:18:03,033 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=1
+2024-10-17 17:18:03,305 - INFO - Total products found in category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program': 0
+2024-10-17 17:18:03,310 - WARNING - No products were scraped.
+2024-10-17 17:23:36,365 - INFO - Scraping category: Lanove Prislusenstvo A Nerezovy Program Nerezovy Program (https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/)
+2024-10-17 17:23:47,364 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/
+2024-10-17 17:23:47,640 - INFO - Total pages in category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program': 1
+2024-10-17 17:23:47,640 - INFO - Fetching page 1 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:24:03,757 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=1
+2024-10-17 17:24:04,025 - INFO - Total products found in category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program': 24
+2024-10-17 17:24:04,026 - INFO - Total products scraped: 24
+2024-10-17 17:24:04,027 - INFO - Products saved to products.json with fetch time 2024-10-17T15:24:04.026954Z.
+2024-10-17 17:26:08,499 - INFO - Scraping category: Lanove Prislusenstvo A Nerezovy Program Nerezovy Program (https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/)
+2024-10-17 17:26:26,073 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/
+2024-10-17 17:26:26,508 - INFO - Total pages in category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program': 13
+2024-10-17 17:26:26,508 - INFO - Fetching page 1 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:26:37,531 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=1
+2024-10-17 17:26:37,862 - INFO - Fetching page 2 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:27:00,251 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=2
+2024-10-17 17:27:00,543 - INFO - Fetching page 3 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:27:22,968 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=3
+2024-10-17 17:27:23,222 - INFO - Fetching page 4 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:28:04,323 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=4
+2024-10-17 17:28:04,587 - INFO - Fetching page 5 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:28:31,304 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=5
+2024-10-17 17:28:31,764 - INFO - Fetching page 6 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:28:50,242 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=6
+2024-10-17 17:28:50,639 - INFO - Fetching page 7 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:29:17,604 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=7
+2024-10-17 17:29:18,071 - INFO - Fetching page 8 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:29:35,123 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=8
+2024-10-17 17:29:35,727 - INFO - Fetching page 9 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:29:51,898 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=9
+2024-10-17 17:29:52,384 - INFO - Fetching page 10 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:30:03,306 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=10
+2024-10-17 17:30:03,572 - INFO - Fetching page 11 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:30:19,445 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=11
+2024-10-17 17:30:19,792 - INFO - Fetching page 12 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:30:41,519 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=12
+2024-10-17 17:30:41,824 - INFO - Fetching page 13 of category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program'
+2024-10-17 17:30:57,768 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program-nerezovy-program/?p=13
+2024-10-17 17:30:58,361 - INFO - Total products found in category 'Lanove Prislusenstvo A Nerezovy Program Nerezovy Program': 309
+2024-10-17 17:30:58,362 - INFO - Total products scraped: 309
+2024-10-17 17:30:58,370 - INFO - Products saved to products.json with fetch time 2024-10-17T15:30:58.363714Z.

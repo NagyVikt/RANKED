@@ -1,0 +1,722 @@
+[
+    {
+        "name": "PROXXON   Skrutkovač plochý 4,0x100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 4",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač plochý 6,5x150",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 7",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 6",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 10",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 8",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač TTX30 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač TTX40 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný PH0 x 60",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný PH1 x 80",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný PH2 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný plochý 2,5x75",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný plochý 4,0x100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný plochý 5,5x125",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný plochý 6,5x150",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 5",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovače izolované 6-dielna sada",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "EXTOL   Skúšačka napätia 100-250 V",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "KNIPEX   Skrutkovače izolované 6-dielna sada",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač  TTX8x75",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač plochý 5,5x125",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 2",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač PH0 x 60 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 5140,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač  TTX8x75",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač PH0 x 60 mm",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač PH1 x 80",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač PH2 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač PH3 x 150",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač PZ0 x 60",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač PZ1 x 80",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač PZ2 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač PZ3 x 150",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač TTX10 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač TTX20 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač TTX25 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "KNIPEX   Skrutkovače izolované 6-dielna sada",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 3",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 2,5",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač plochý 4,0x100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   L-skrutkovač imbus HX 4",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač plochý 6,5x150",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač magnetický 1/4\"",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač TTX30 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač TTX40 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný PH0 x 60",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný PH1 x 80",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    },
+    {
+        "name": "PROXXON   Skrutkovač izolovaný PH2 x 100",
+        "categories": [
+            {
+                "id": 97,
+                "name": "Náradie",
+                "slug": "naradie"
+            },
+            {
+                "id": 6497,
+                "name": "Naradie Skrutkovace",
+                "slug": "naradie-skrutkovace"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ciret   Vrecia na odpad 120L",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5817,
+                "name": "Stavebna Chemia Vrecia Na Odpad",
+                "slug": "stavebna-chemia-vrecia-na-odpad"
+            }
+        ]
+    },
+    {
+        "name": "Ciret   Vrecia na odpad 120L",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 629,
+                "name": "Stavebna Chemia Vrecia Na Odpad",
+                "slug": "stavebna-chemia-vrecia-na-odpad"
+            }
+        ]
+    }
+]

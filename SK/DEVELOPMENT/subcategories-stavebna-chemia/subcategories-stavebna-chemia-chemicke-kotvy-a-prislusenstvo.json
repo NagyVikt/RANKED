@@ -1,0 +1,782 @@
+[
+    {
+        "name": "RAWLPLUG   Chemická kotva vinylesterová RAWPLUG 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Chemická malta FIS VL 300ml T",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Statický zmiešavač pre chemické malty",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Chemická kotva vinylesterová RAWPLUG pack 10ks-300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x200mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Predlžovacia hadička pre chemické kotvy 1M",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu kovové 22x1000mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Kefka na čistenie otvorov pred montážou",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 12x50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x130mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 12x85mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x85mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Chemická malta HIGH SPEED FIS VL 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 5456,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Chemická kotva vinylesterová RAWPLUG 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Chemická malta FIS VL 300ml T",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Statický zmiešavač pre chemické malty",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Chemická kotva vinylesterová RAWPLUG pack 10ks-300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x200mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Predlžovacia hadička pre chemické kotvy 1M",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu kovové 22x1000mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Kefka na čistenie otvorov pred montážou",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 12x50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x130mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 12x85mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x85mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Chemická malta HIGH SPEED FIS VL 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7470,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Chemická kotva vinylesterová RAWPLUG 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Chemická malta FIS VL 300ml T",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Statický zmiešavač pre chemické malty",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Chemická kotva vinylesterová RAWPLUG pack 10ks-300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x200mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Predlžovacia hadička pre chemické kotvy 1M",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu kovové 22x1000mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Kefka na čistenie otvorov pred montážou",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 12x50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x130mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 12x85mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x85mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Chemická malta HIGH SPEED FIS VL 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 6573,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Chemická kotva vinylesterová RAWPLUG 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Chemická malta FIS VL 300ml T",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Statický zmiešavač pre chemické malty",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "RAWLPLUG   Chemická kotva vinylesterová RAWPLUG pack 10ks-300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x200mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Predlžovacia hadička pre chemické kotvy 1M",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu kovové 22x1000mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Kefka na čistenie otvorov pred montážou",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 12x50mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x130mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 12x85mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Sitko pre chemickú maltu plastové 20x85mm",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    },
+    {
+        "name": "Fischer   Chemická malta HIGH SPEED FIS VL 300ml",
+        "categories": [
+            {
+                "id": 96,
+                "name": "Stavebná chémia",
+                "slug": "stavebna-chemia"
+            },
+            {
+                "id": 7209,
+                "name": "Stavebna Chemia Chemicke Kotvy A Prislusenstvo",
+                "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo"
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Záves trapézový M8",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 4066,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Trapezove Zavesy",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-trapezove-zavesy"
+            }
+        ]
+    },
+    {
+        "name": "Záves trapézový M10",
+        "categories": [
+            {
+                "id": 85,
+                "name": "Lanové príslušenstvo a nerezový program",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program"
+            },
+            {
+                "id": 4066,
+                "name": "Lanove Prislusenstvo A Nerezovy Program Trapezove Zavesy",
+                "slug": "lanove-prislusenstvo-a-nerezovy-program-trapezove-zavesy"
+            }
+        ]
+    }
+]

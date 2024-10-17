@@ -1,0 +1,47 @@
+[
+    {
+        "name": "SVX   Tieniaca sieť hnedá 95%  - dĺžka 10m - výška 1m",
+        "categories": [
+            {
+                "id": 100,
+                "name": "Pletivá",
+                "slug": "pletiva"
+            },
+            {
+                "id": 907,
+                "name": "Pletiva Hnede Siete",
+                "slug": "pletiva-hnede-siete"
+            }
+        ]
+    },
+    {
+        "name": "SVX   Tieniaca sieť hnedá 95%  - dĺžka 10m - výška 1m",
+        "categories": [
+            {
+                "id": 100,
+                "name": "Pletivá",
+                "slug": "pletiva"
+            },
+            {
+                "id": 9340,
+                "name": "Pletiva Hnede Siete",
+                "slug": "pletiva-hnede-siete"
+            }
+        ]
+    },
+    {
+        "name": "SVX   Tieniaca sieť hnedá 95%  - dĺžka 10m - výška 1m",
+        "categories": [
+            {
+                "id": 100,
+                "name": "Pletivá",
+                "slug": "pletiva"
+            },
+            {
+                "id": 9748,
+                "name": "Pletiva Hnede Siete",
+                "slug": "pletiva-hnede-siete"
+            }
+        ]
+    }
+]
