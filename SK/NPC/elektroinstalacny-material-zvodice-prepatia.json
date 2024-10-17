@@ -1,0 +1,19 @@
+{
+    "fetch_time": "2024-10-17T17:51:12.815595Z",
+    "products": [
+        {
+            "name": "Tracon electric   Zvodič prepätia AC typ T1+T2",
+            "slug": "zvodic-prepatia-ac-typ-t1t2-espd12-12-5-3p_12464",
+            "category_id": 253,
+            "category_name": "Elektroinstalacny Material Zvodice Prepatia",
+            "category_slug": "elektroinstalacny-material-zvodice-prepatia"
+        },
+        {
+            "name": "Tracon electric   Zvodič prepätia AC typ T1+T2",
+            "slug": "zvodic-prepatia-ac-typ-t1t2-espd12-12-5-4p_12465",
+            "category_id": 253,
+            "category_name": "Elektroinstalacny Material Zvodice Prepatia",
+            "category_slug": "elektroinstalacny-material-zvodice-prepatia"
+        }
+    ]
+}

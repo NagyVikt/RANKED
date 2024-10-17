@@ -1,0 +1,936 @@
+{
+    "fetch_time": "2024-10-17T18:19:26.784566Z",
+    "products": [
+        {
+            "name": "Podložka pod nity DIN 9021 M3",
+            "slug": "podlozka-pod-nity-din-9021-m3_9333",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka pod nity DIN 9021 M10",
+            "slug": "podlozka-pod-nity-din-9021-m10-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka pod nity DIN 9021 M12",
+            "slug": "podlozka-pod-nity-din-9021-m12-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka pod nity DIN 9021 M8",
+            "slug": "podlozka-pod-nity-din-9021-m8-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M10",
+            "slug": "podlozka-konstrukcna-din-440-m10_9371",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M8x25",
+            "slug": "podlozka-s-gumou-epdm-m8x25_11761",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka plochá DIN 125 M8",
+            "slug": "podlozka-plocha-din-125-m8-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka plochá DIN 125 M14",
+            "slug": "podlozka-plocha-din-125-m14-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka pod nity DIN 9021 M14",
+            "slug": "podlozka-pod-nity-din-9021-m14-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka pod nity DIN 9021 M16",
+            "slug": "podlozka-pod-nity-din-9021-m16-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M4",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m4_11849",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M6",
+            "slug": "podlozka-plocha-din-125-m6_9337",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka pod nity DIN 9021 M20",
+            "slug": "podlozka-pod-nity-din-9021-m20-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M5",
+            "slug": "podlozka-plocha-din-125-m5_9336",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M4",
+            "slug": "podlozka-pod-nity-din-9021-m4_9381",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M6x19",
+            "slug": "podlozka-s-gumou-epdm-m6x19_11754",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M6",
+            "slug": "podlozka-konstrukcna-din-440-m6_9369",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M8x19",
+            "slug": "podlozka-s-gumou-epdm-m8x19_11760",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka plochá DIN 125 M12",
+            "slug": "podlozka-plocha-din-125-m12-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M18",
+            "slug": "podlozka-plocha-din-125-m18_9363",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M4",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m4_11724",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M12",
+            "slug": "podlozka-konstrukcna-din-440-m12_9372",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M8",
+            "slug": "podlozka-plocha-din-125-m8_9338",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M4- 10ks",
+            "slug": "podlozka-plocha-din-125-m4_9335",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M10",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m10_11728",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka plochá DIN 125 M20",
+            "slug": "podlozka-plocha-din-125-m20-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M8",
+            "slug": "podlozka-pod-nity-din-9021-m8_9384",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka plochá DIN 125 M16",
+            "slug": "podlozka-plocha-din-125-m16-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M5",
+            "slug": "podlozka-konstrukcna-din-440-m5_9334",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M6x25",
+            "slug": "podlozka-s-gumou-epdm-m6x25_11755",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka plochá DIN 125 M10",
+            "slug": "podlozka-plocha-din-125-m10-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M22",
+            "slug": "podlozka-plocha-din-125-m22_9365",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M6x16",
+            "slug": "podlozka-s-gumou-epdm-m6x16_11753",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M8",
+            "slug": "podlozka-konstrukcna-din-440-m8_9370",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M5",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m5_11725",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M3",
+            "slug": "podlozka-plocha-din-125-m3_9327",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M6",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m6_11726",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M14",
+            "slug": "podlozka-konstrukcna-din-440-m14_9373",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M16",
+            "slug": "podlozka-konstrukcna-din-440-m16_9374",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B zn M8",
+            "slug": "podlozka-pruzna-din-127b-zn-m8_11743",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B zn M12",
+            "slug": "podlozka-pruzna-din-127b-zn-m12_11745",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M12",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m12_11854",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M12",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m12_11729",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M8",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m8_11727",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B zn M10",
+            "slug": "podlozka-pruzna-din-127b-zn-m10_11744",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M16",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m16_11856",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A nerez A2 M10",
+            "slug": "podlozka-vejarova-din-6798a-nerez-a2-m10_11895",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M12",
+            "slug": "podlozka-pod-nity-din-9021-m12_9386",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M14",
+            "slug": "podlozka-plocha-din-125-m14_9361",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M16",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m16_11731",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B zn M16",
+            "slug": "podlozka-pruzna-din-127b-zn-m16_11747",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M10",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m10_11737",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M12",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m12_11738",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M24",
+            "slug": "podlozka-konstrukcna-din-440-m24_9376",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M14",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m14_11730",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M20",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m20_11732",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M6",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m6_11735",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B zn M6",
+            "slug": "podlozka-pruzna-din-127b-zn-m6_11742",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 nerez A2 M10",
+            "slug": "podlozka-pruzna-uzka-din-7980-nerez-a2-m10_11811",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M5x14",
+            "slug": "podlozka-s-gumou-epdm-m5x14_11512",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M10",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m10_11853",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M5x16",
+            "slug": "podlozka-s-gumou-epdm-m5x16_11752",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M6",
+            "slug": "podlozka-pod-nity-din-9021-m6_9383",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M24",
+            "slug": "podlozka-pod-nity-din-9021-m24_9390",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B zn M14",
+            "slug": "podlozka-pruzna-din-127b-zn-m14_11746",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M27",
+            "slug": "podlozka-plocha-din-125-m27_9367",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B zn M18",
+            "slug": "podlozka-pruzna-din-127b-zn-m18_11748",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 nerez A2 M10",
+            "slug": "podlozka-konstrukcna-din-440-nerez-a2-m10_11504",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M16",
+            "slug": "podlozka-pod-nity-din-9021-m16_9388",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B zn M20",
+            "slug": "podlozka-pruzna-din-127b-zn-m20_11749",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M30",
+            "slug": "podlozka-plocha-din-125-m30_9368",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M27",
+            "slug": "podlozka-konstrukcna-din-440-m27_9377",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M18",
+            "slug": "podlozka-konstrukcna-din-440-m18_9379",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M20",
+            "slug": "podlozka-konstrukcna-din-440-m20_9375",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M10",
+            "slug": "podlozka-plocha-din-125-m10_9339",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M12",
+            "slug": "podlozka-plocha-din-125-m12_9340",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M16",
+            "slug": "podlozka-plocha-din-125-m16_9362",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M20",
+            "slug": "podlozka-plocha-din-125-m20_9364",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 M24",
+            "slug": "podlozka-plocha-din-125-m24_9366",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka plochá DIN 125 nerez A2 M3",
+            "slug": "podlozka-plocha-din-125-nerez-a2-m3_11440",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M10",
+            "slug": "podlozka-pod-nity-din-9021-m10_9385",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M14",
+            "slug": "podlozka-pod-nity-din-9021-m14_9387",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M20",
+            "slug": "podlozka-pod-nity-din-9021-m20_9389",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M30",
+            "slug": "podlozka-pod-nity-din-9021-m30_9391",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M3",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m3_11441",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M4",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m4_11733",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M5",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m5_11734",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M8",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m8_11736",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M14",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m14_11739",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M16",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m16_11740",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 nerez A2 M20",
+            "slug": "podlozka-pod-nity-din-9021-nerez-a2-m20_11741",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "SVX   Podložka pod nity DIN 9021 M6 - 10ks",
+            "slug": "podlozka-pod-nity-din-9021-m6-c",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M30",
+            "slug": "podlozka-konstrukcna-din-440-m30_9378",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka konštrukčná DIN 440 M22",
+            "slug": "podlozka-konstrukcna-din-440-m22_9380",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B zn M5",
+            "slug": "podlozka-pruzna-din-127b-zn-m5_11506",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M3",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m3_11508",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M5",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m5_11850",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M6",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m6_11851",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M14",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m14_11855",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M18",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m18_11857",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M20",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m20_11858",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M8",
+            "slug": "podlozka-vejarova-din-6798a-zn-m8_11785",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M14",
+            "slug": "podlozka-vejarova-din-6798a-zn-m14_11789",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M12",
+            "slug": "podlozka-vejarova-din-6798a-zn-m12_11788",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M16",
+            "slug": "podlozka-vejarova-din-6798a-zn-m16_11790",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M18",
+            "slug": "podlozka-vejarova-din-6798a-zn-m18_11791",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M20",
+            "slug": "podlozka-vejarova-din-6798a-zn-m20_11792",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M24",
+            "slug": "podlozka-vejarova-din-6798a-zn-m24_11793",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M4",
+            "slug": "podlozka-vejarova-din-6798a-zn-m4_11782",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M5",
+            "slug": "podlozka-vejarova-din-6798a-zn-m5_11783",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M6",
+            "slug": "podlozka-vejarova-din-6798a-zn-m6_11784",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M3",
+            "slug": "podlozka-vejarova-din-6798a-zn-m3_11510",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A zn M10",
+            "slug": "podlozka-vejarova-din-6798a-zn-m10_11787",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B nerez A2 M3",
+            "slug": "podlozka-pruzna-din-127b-nerez-a2-m3_11507",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B nerez A2 M4",
+            "slug": "podlozka-pruzna-din-127b-nerez-a2-m4_11750",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná DIN 127B nerez A2 M6",
+            "slug": "podlozka-pruzna-din-127b-nerez-a2-m6_11751",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 nerez A2 M6",
+            "slug": "podlozka-pruzna-uzka-din-7980-nerez-a2-m6_11509",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 nerez A2 M8",
+            "slug": "podlozka-pruzna-uzka-din-7980-nerez-a2-m8_11810",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 nerez A2 M12",
+            "slug": "podlozka-pruzna-uzka-din-7980-nerez-a2-m12_11812",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 nerez A2 M14",
+            "slug": "podlozka-pruzna-uzka-din-7980-nerez-a2-m14_11813",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 nerez A2 M16",
+            "slug": "podlozka-pruzna-uzka-din-7980-nerez-a2-m16_11814",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 nerez A2 M20",
+            "slug": "podlozka-pruzna-uzka-din-7980-nerez-a2-m20_11815",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A nerez A2 M3",
+            "slug": "podlozka-vejarova-din-6798a-nerez-a2-m3_11511",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A nerez A2 M4",
+            "slug": "podlozka-vejarova-din-6798a-nerez-a2-m4_11891",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A nerez A2 M5",
+            "slug": "podlozka-vejarova-din-6798a-nerez-a2-m5_11892",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A nerez A2 M6",
+            "slug": "podlozka-vejarova-din-6798a-nerez-a2-m6_11893",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka vejárová DIN 6798A nerez A2 M8",
+            "slug": "podlozka-vejarova-din-6798a-nerez-a2-m8_11894",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M7x16",
+            "slug": "podlozka-s-gumou-epdm-m7x16_11756",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M7x19",
+            "slug": "podlozka-s-gumou-epdm-m7x19_11757",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M7x22",
+            "slug": "podlozka-s-gumou-epdm-m7x22_11758",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka s gumou EPDM M7x25",
+            "slug": "podlozka-s-gumou-epdm-m7x25_11759",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pružná úzka DIN 7980 zn M8",
+            "slug": "podlozka-pruzna-uzka-din-7980-zn-m8_11852",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        },
+        {
+            "name": "Podložka pod nity DIN 9021 M5",
+            "slug": "podlozka-pod-nity-din-9021-m5_9382",
+            "category_id": 309,
+            "category_name": "Spojovaci A Kotviaci Material Podlozky",
+            "category_slug": "spojovaci-a-kotviaci-material-podlozky"
+        }
+    ]
+}

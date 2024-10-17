@@ -1,0 +1,54 @@
+{
+    "fetch_time": "2024-10-17T18:04:42.399024Z",
+    "products": [
+        {
+            "name": "SVX   Napínač lana pozinkovaný 120mm",
+            "slug": "napinac-lana-pozinkovany-120mm_4606",
+            "category_id": 445,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Plotove Napinace",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-plotove-napinace"
+        },
+        {
+            "name": "SVX   Napínač lana zelený 120mm",
+            "slug": "napinac-lana-zeleny-120-mm_4615",
+            "category_id": 445,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Plotove Napinace",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-plotove-napinace"
+        },
+        {
+            "name": "SVX   Napínač lana pozinkovaný 100mm",
+            "slug": "napinac-lana-pozinkovany-100mm_4605",
+            "category_id": 445,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Plotove Napinace",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-plotove-napinace"
+        },
+        {
+            "name": "SVX   Napínač lana zelený 100mm",
+            "slug": "napinac-lana-zeleny-100-mm_4614",
+            "category_id": 445,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Plotove Napinace",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-plotove-napinace"
+        },
+        {
+            "name": "Napínač lana zelený 100mm",
+            "slug": "napinac-lana-zeleny-100mm_1783",
+            "category_id": 445,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Plotove Napinace",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-plotove-napinace"
+        },
+        {
+            "name": "Napínač lana zelený 120mm",
+            "slug": "napinac-lana-zeleny-120mm_1788",
+            "category_id": 445,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Plotove Napinace",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-plotove-napinace"
+        },
+        {
+            "name": "None   Napínač lana pozinkovaný 100mm",
+            "slug": "napinac-lana-pozinkovany-100mm_4605_CZ",
+            "category_id": 445,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Plotove Napinace",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-plotove-napinace"
+        }
+    ]
+}

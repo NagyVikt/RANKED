@@ -1,0 +1,61 @@
+{
+    "fetch_time": "2024-10-17T18:17:55.500918Z",
+    "products": [
+        {
+            "name": "Brennenstuhl   Teleskopický statív TS 250",
+            "slug": "teleskopicky-stativ-ts-250-stativ_1097",
+            "category_id": 403,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stativy",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stativy"
+        },
+        {
+            "name": "Brennenstuhl   Dvojitý statívový LED reflektor JARO",
+            "slug": "dvojity-stativovy-led-reflektor-jaro-2x1950lm-39w_12564",
+            "category_id": 403,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stativy",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stativy"
+        },
+        {
+            "name": "Brennenstuhl   Trojnožkový LED reflektor JARO",
+            "slug": "trojnozkovy-led-reflektor-jaro-4400lm-50w-ip65_12571",
+            "category_id": 403,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stativy",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stativy"
+        },
+        {
+            "name": "Brennenstuhl   Trojnožkový LED reflektor JARO",
+            "slug": "trojnozkovy-led-reflektor-jaro-2650lm-30w-ip65_12572",
+            "category_id": 403,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stativy",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stativy"
+        },
+        {
+            "name": "Brennenstuhl   Trojnožkový LED reflektor JARO",
+            "slug": "trojnozkovy-led-reflektor-jaro-1950lm-195w-ip65_12573",
+            "category_id": 403,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stativy",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stativy"
+        },
+        {
+            "name": "Brennenstuhl   Magnetický držiak",
+            "slug": "magneticky-drziak-ip54_12715",
+            "category_id": 403,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stativy",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stativy"
+        },
+        {
+            "name": "Brennenstuhl   Teleskopický statív TS 170",
+            "slug": "teleskopicky-stativ-ts-170-stativ_1087",
+            "category_id": 403,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stativy",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stativy"
+        },
+        {
+            "name": "Brennenstuhl   Držiak LED reflektorov",
+            "slug": "drziak-led-reflektorov-stativ_1103",
+            "category_id": 403,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stativy",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stativy"
+        }
+    ]
+}

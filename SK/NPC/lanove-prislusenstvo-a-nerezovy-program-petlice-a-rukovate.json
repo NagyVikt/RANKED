@@ -1,0 +1,61 @@
+{
+    "fetch_time": "2024-10-17T18:05:11.864241Z",
+    "products": [
+        {
+            "name": "Rukoväť na bedňu zn 100mm",
+            "slug": "rukovat-na-bednu-zn-100mm_3055",
+            "category_id": 152,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Petlice A Rukovate",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-petlice-a-rukovate"
+        },
+        {
+            "name": "Rukoväť na bedňu zn 90mm",
+            "slug": "rukovat-na-bednu-zn-90mm_3042",
+            "category_id": 152,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Petlice A Rukovate",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-petlice-a-rukovate"
+        },
+        {
+            "name": "Petlica bezpečnostná zn 100mm",
+            "slug": "petlica-bezpecnostna-zn-100mm_3068",
+            "category_id": 152,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Petlice A Rukovate",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-petlice-a-rukovate"
+        },
+        {
+            "name": "Rukoväť na bedňu čierny lak 110mm",
+            "slug": "rukovat-na-bednu-cierny-lak-110mm_3065",
+            "category_id": 152,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Petlice A Rukovate",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-petlice-a-rukovate"
+        },
+        {
+            "name": "Rukoväť na bedňu čierny lak 90mm",
+            "slug": "rukovat-na-bednu-cierny-lak-90mm_3057",
+            "category_id": 152,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Petlice A Rukovate",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-petlice-a-rukovate"
+        },
+        {
+            "name": "Petlica bezpečnostná zn 120mm",
+            "slug": "petlica-bezpecnostna-zn-120mm_3074",
+            "category_id": 152,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Petlice A Rukovate",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-petlice-a-rukovate"
+        },
+        {
+            "name": "Petlica pozinkovaná 80mm",
+            "slug": "petlica-pozinkovana-80mm_3085",
+            "category_id": 152,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Petlice A Rukovate",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-petlice-a-rukovate"
+        },
+        {
+            "name": "Petlica pozinkovaná 100mm",
+            "slug": "petlica-pozinkovana-100mm_3093",
+            "category_id": 152,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Petlice A Rukovate",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-petlice-a-rukovate"
+        }
+    ]
+}

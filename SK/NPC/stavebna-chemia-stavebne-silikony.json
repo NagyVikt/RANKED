@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T18:16:46.438309Z",
+    "products": [
+        {
+            "name": "MASTERsil   Silikón neutrálny hnedá 315ml",
+            "slug": "silikon-neutralny-hnedy-mastersil-315-ml",
+            "category_id": 493,
+            "category_name": "Stavebna Chemia Stavebne Silikony",
+            "category_slug": "stavebna-chemia-stavebne-silikony"
+        },
+        {
+            "name": "Wolf swiss quality   Silikón neutrálny biely 290ml",
+            "slug": "silikon-neutralny-biely-wolf-290-ml_21196",
+            "category_id": 493,
+            "category_name": "Stavebna Chemia Stavebne Silikony",
+            "category_slug": "stavebna-chemia-stavebne-silikony"
+        },
+        {
+            "name": "MASTERsil   Silikón neutrálny šedá 315ml",
+            "slug": "silikon-neutralny-seda-mastersil-315-ml",
+            "category_id": 493,
+            "category_name": "Stavebna Chemia Stavebne Silikony",
+            "category_slug": "stavebna-chemia-stavebne-silikony"
+        },
+        {
+            "name": "Fischer   Silikón stavebný Biely 310ml",
+            "slug": "silikon-stavebny-biely-310ml_299",
+            "category_id": 493,
+            "category_name": "Stavebna Chemia Stavebne Silikony",
+            "category_slug": "stavebna-chemia-stavebne-silikony"
+        }
+    ]
+}

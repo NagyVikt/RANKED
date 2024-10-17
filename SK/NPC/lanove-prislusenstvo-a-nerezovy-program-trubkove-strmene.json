@@ -1,0 +1,47 @@
+{
+    "fetch_time": "2024-10-17T18:08:39.973128Z",
+    "products": [
+        {
+            "name": "SVX   Spona trubková zn 45-50mm",
+            "slug": "spona-trubkova-zn-45-50mm_5963",
+            "category_id": 135,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Trubkove Strmene",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-trubkove-strmene"
+        },
+        {
+            "name": "SVX   Spona trubková zn 80-90mm",
+            "slug": "spona-trubkova-zn-80-90mm_5966",
+            "category_id": 135,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Trubkove Strmene",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-trubkove-strmene"
+        },
+        {
+            "name": "SVX   Spona trubková zn 40-45mm",
+            "slug": "spona-trubkova-zn-40-45mm_5962",
+            "category_id": 135,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Trubkove Strmene",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-trubkove-strmene"
+        },
+        {
+            "name": "Spona trubková 80-90mm",
+            "slug": "spona-trubkova-80-90mm_306",
+            "category_id": 135,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Trubkove Strmene",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-trubkove-strmene"
+        },
+        {
+            "name": "Spona trubková 33-38mm",
+            "slug": "spona-trubkova-33-42mm_293",
+            "category_id": 135,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Trubkove Strmene",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-trubkove-strmene"
+        },
+        {
+            "name": "Spona trubková 47-52mm",
+            "slug": "spona-trubkova-47-56mm_302",
+            "category_id": 135,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Trubkove Strmene",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-trubkove-strmene"
+        }
+    ]
+}

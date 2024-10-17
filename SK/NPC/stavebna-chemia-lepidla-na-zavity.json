@@ -1,0 +1,54 @@
+{
+    "fetch_time": "2024-10-17T18:16:54.577289Z",
+    "products": [
+        {
+            "name": "LOCTITE   Lepidlo na závity vysokopevnostné 270-10ml",
+            "slug": "lepidlo-na-zavity-vysokopevnostne-270-10ml_13499",
+            "category_id": 490,
+            "category_name": "Stavebna Chemia Lepidla Na Zavity",
+            "category_slug": "stavebna-chemia-lepidla-na-zavity"
+        },
+        {
+            "name": "LOCTITE   Lepidlo na závity 243-10ml",
+            "slug": "lepidlo-na-zavity-243-loctite-243-10ml_12804",
+            "category_id": 490,
+            "category_name": "Stavebna Chemia Lepidla Na Zavity",
+            "category_slug": "stavebna-chemia-lepidla-na-zavity"
+        },
+        {
+            "name": "LOCTITE   Lepidlo na závity 222-10ml",
+            "slug": "lepidlo-na-zavity-222-10ml_12802",
+            "category_id": 490,
+            "category_name": "Stavebna Chemia Lepidla Na Zavity",
+            "category_slug": "stavebna-chemia-lepidla-na-zavity"
+        },
+        {
+            "name": "LOCTITE   Lepidlo na závity 222-50ml",
+            "slug": "lepidlo-na-zavity-222-50ml_12803",
+            "category_id": 490,
+            "category_name": "Stavebna Chemia Lepidla Na Zavity",
+            "category_slug": "stavebna-chemia-lepidla-na-zavity"
+        },
+        {
+            "name": "LOCTITE   Lepidlo na závity 603-10ml",
+            "slug": "lepidlo-na-zavity-603-10ml_13500",
+            "category_id": 490,
+            "category_name": "Stavebna Chemia Lepidla Na Zavity",
+            "category_slug": "stavebna-chemia-lepidla-na-zavity"
+        },
+        {
+            "name": "LOCTITE   Čistič SF 7063-150ml",
+            "slug": "cistic-sf-7063-150ml_13501",
+            "category_id": 490,
+            "category_name": "Stavebna Chemia Lepidla Na Zavity",
+            "category_slug": "stavebna-chemia-lepidla-na-zavity"
+        },
+        {
+            "name": "LOCTITE   Tesniaca niť 55-160m",
+            "slug": "tesniaca-nit-55-55160m_13502",
+            "category_id": 490,
+            "category_name": "Stavebna Chemia Lepidla Na Zavity",
+            "category_slug": "stavebna-chemia-lepidla-na-zavity"
+        }
+    ]
+}

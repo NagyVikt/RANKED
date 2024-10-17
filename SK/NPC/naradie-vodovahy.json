@@ -1,0 +1,117 @@
+{
+    "fetch_time": "2024-10-17T18:08:44.527323Z",
+    "products": [
+        {
+            "name": "KAPRO   Vodováha s magnetom 40cm",
+            "slug": "vodovaha-s-magnetom-40cm_12614",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha s magnetom 80cm",
+            "slug": "vodovaha-s-magnetom-80cm_12496",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha s magnetom 60cm",
+            "slug": "vodovaha-s-magnetom-60cm_12495",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha s magnetom 120cm",
+            "slug": "vodovaha-s-magnetom-120cm_12498",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha s magnetom 100cm",
+            "slug": "vodovaha-s-magnetom-100cm_12497",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha s magnetom 150cm",
+            "slug": "vodovaha-s-magnetom-150cm_12499",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha s magnetom 180cm",
+            "slug": "vodovaha-s-magnetom-180cm_12500",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha s magnetom 200cm",
+            "slug": "vodovaha-s-magnetom-200cm_12501",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha bez magnetu 40cm",
+            "slug": "vodovaha-bez-magnetu-40cm_12486",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha bez magnetu 60cm",
+            "slug": "vodovaha-bez-magnetu-60cm_12488",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha bez magnetu 80cm",
+            "slug": "vodovaha-bez-magnetu-80cm_12489",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha bez magnetu 100cm",
+            "slug": "vodovaha-bez-magnetu-100cm_12490",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha bez magnetu 120cm",
+            "slug": "vodovaha-bez-magnetu-120cm_12491",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha bez magnetu 150cm",
+            "slug": "vodovaha-bez-magnetu-150cm_12492",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha bez magnetu 180cm",
+            "slug": "vodovaha-bez-magnetu-180cm_12493",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        },
+        {
+            "name": "KAPRO   Vodováha bez magnetu 200cm",
+            "slug": "vodovaha-bez-magnetu-200cm_12494",
+            "category_id": 285,
+            "category_name": "Naradie Vodovahy",
+            "category_slug": "naradie-vodovahy"
+        }
+    ]
+}

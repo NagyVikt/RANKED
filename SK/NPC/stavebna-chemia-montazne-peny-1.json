@@ -1,0 +1,19 @@
+{
+    "fetch_time": "2024-10-17T18:17:00.160490Z",
+    "products": [
+        {
+            "name": "MASTERsil   Montážna (PUR) pena protipožiarna pištoľová 750ml",
+            "slug": "montazna-pur-pena-protipoziarna-pistolova-750ml_1283",
+            "category_id": 504,
+            "category_name": "Stavebna Chemia Montazne Peny 1",
+            "category_slug": "stavebna-chemia-montazne-peny-1"
+        },
+        {
+            "name": "MASTERsil   Pištoľová kanalizačná a studniarska PUR pena 750ml",
+            "slug": "pistolova-kanalizacna-a-studniarska-pur-pena-750ml_1294",
+            "category_id": 504,
+            "category_name": "Stavebna Chemia Montazne Peny 1",
+            "category_slug": "stavebna-chemia-montazne-peny-1"
+        }
+    ]
+}

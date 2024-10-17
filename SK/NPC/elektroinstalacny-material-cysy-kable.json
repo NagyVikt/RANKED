@@ -1,0 +1,103 @@
+{
+    "fetch_time": "2024-10-17T17:51:23.585006Z",
+    "products": [
+        {
+            "name": "Kábel CYSY 3Gx1,5",
+            "slug": "kabel-cysy-3gx15-3gx15mm_620",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 3Gx2,5",
+            "slug": "kabel-cysy-3gx25-3gx25_621",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 5Gx2,5",
+            "slug": "kabel-cysy-5gx25-5gx25mm_630",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 2Gx1,5",
+            "slug": "kabel-cysy-2gx15-2gx15mm_616",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 3Gx0,75",
+            "slug": "kabel-cysy-3gx075-3gx075mm_624",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 4Gx1,0",
+            "slug": "kabel-cysy-4gx10-4gx10mm_625",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 2Gx0,5",
+            "slug": "kabel-cysy-2gx05-2gx05mm_614",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 2Gx1,0",
+            "slug": "kabel-cysy-2gx10-2gx10mm_615",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 2Gx0,75",
+            "slug": "kabel-cysy-2gx075-2gx075mm_617",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 3Gx1,0",
+            "slug": "kabel-cysy-3gx10-3gx10mm_618",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 5Gx1,0",
+            "slug": "kabel-cysy-5gx10-5gx10mm_628",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 4Gx2,5",
+            "slug": "kabel-cysy-4gx25-4gx25_627",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 4Gx1,5",
+            "slug": "kabel-cysy-4gx15-4gx15mm_626",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        },
+        {
+            "name": "Kábel CYSY 5Gx1,5",
+            "slug": "kabel-cysy-5gx15-5gx15mm_629",
+            "category_id": 171,
+            "category_name": "Elektroinstalacny Material Cysy Kable",
+            "category_slug": "elektroinstalacny-material-cysy-kable"
+        }
+    ]
+}

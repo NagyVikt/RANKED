@@ -1,0 +1,40 @@
+{
+    "fetch_time": "2024-10-17T18:21:08.930394Z",
+    "products": [
+        {
+            "name": "Domax   Záves francúzsky ZF 120",
+            "slug": "zaves-francuzsky-zf-120-120x35_11125",
+            "category_id": 396,
+            "category_name": "Patky Uholniky A Kovania Francuzske",
+            "category_slug": "patky-uholniky-a-kovania-francuzske"
+        },
+        {
+            "name": "Domax   Záves francúzsky ZF 160",
+            "slug": "zaves-francuzsky-zf-160-160x33_11126",
+            "category_id": 396,
+            "category_name": "Patky Uholniky A Kovania Francuzske",
+            "category_slug": "patky-uholniky-a-kovania-francuzske"
+        },
+        {
+            "name": "Domax   Záves francúzsky ZF 200",
+            "slug": "zaves-francuzsky-zf-200-200x33_10997",
+            "category_id": 396,
+            "category_name": "Patky Uholniky A Kovania Francuzske",
+            "category_slug": "patky-uholniky-a-kovania-francuzske"
+        },
+        {
+            "name": "Domax   Záves francúzsky ZF 300",
+            "slug": "zaves-francuzsky-zf-300-300x38_10996",
+            "category_id": 396,
+            "category_name": "Patky Uholniky A Kovania Francuzske",
+            "category_slug": "patky-uholniky-a-kovania-francuzske"
+        },
+        {
+            "name": "Domax   Záves francúzsky ZF 250",
+            "slug": "zaves-francuzsky-zf-250-250x38_10853",
+            "category_id": 396,
+            "category_name": "Patky Uholniky A Kovania Francuzske",
+            "category_slug": "patky-uholniky-a-kovania-francuzske"
+        }
+    ]
+}

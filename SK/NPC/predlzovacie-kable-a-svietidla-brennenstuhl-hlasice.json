@@ -1,0 +1,54 @@
+{
+    "fetch_time": "2024-10-17T18:19:13.659441Z",
+    "products": [
+        {
+            "name": "Brennenstuhl   Detektor dymu RM L",
+            "slug": "detektor-dymu-rm-l-hlasic_827",
+            "category_id": 406,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Hlasice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-hlasice"
+        },
+        {
+            "name": "Brennenstuhl   Hlásič CM L 4050 ku krbom",
+            "slug": "hlasic-cm-l-4050-ku-krbom-hlasic_834",
+            "category_id": 406,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Hlasice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-hlasice"
+        },
+        {
+            "name": "Brennenstuhl   Infračervený pohybový hlásič PIR 180 antracit",
+            "slug": "infracerveny-pohybovy-hlasic-pir-180-antracit-senzor_970",
+            "category_id": 406,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Hlasice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-hlasice"
+        },
+        {
+            "name": "Brennenstuhl   Infračervený pohybový hlásič PIR 240 biely",
+            "slug": "infracerveny-pohybovy-hlasic-pir-240-biely-senzor_951",
+            "category_id": 406,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Hlasice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-hlasice"
+        },
+        {
+            "name": "Brennenstuhl   Infračervený pohybový hlásič PIR 180 biely",
+            "slug": "infracerveny-pohybovy-hlasic-pir-180-biely-senzor_972",
+            "category_id": 406,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Hlasice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-hlasice"
+        },
+        {
+            "name": "Brennenstuhl   Infračervený pohybový hlásič PIR 240 antracit",
+            "slug": "infracerveny-pohybovy-hlasic-pir-240-antracit-senzor_950",
+            "category_id": 406,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Hlasice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-hlasice"
+        },
+        {
+            "name": "Brennenstuhl   Detektor dymu s alarmom 85dB",
+            "slug": "detektor-dymu-s-alarmom-85db-hlasic_508",
+            "category_id": 406,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Hlasice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-hlasice"
+        }
+    ]
+}

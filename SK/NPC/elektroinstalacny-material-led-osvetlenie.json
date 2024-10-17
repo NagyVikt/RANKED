@@ -1,0 +1,215 @@
+{
+    "fetch_time": "2024-10-17T17:51:41.362937Z",
+    "products": [
+        {
+            "name": "Solight   Čelová LED lampa na batérie čierna 3W",
+            "slug": "celova-led-lampa-na-baterie-cierna-3w_13843",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor čierny 10W - neutrálna biela",
+            "slug": "led-smd-reflektor-cierny-10w-neutralna-biela-10w_4386",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor biely s čidlom 20W - neutrálna biela",
+            "slug": "led-smd-reflektor-biely-s-cidlom-20w-neutralna-biela-rsmdlfm20_12447",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor biely s čidlom 10W - neutrálna biela",
+            "slug": "led-smd-reflektor-biely-s-cidlom-10w-neutralna-biela-rsmdlfm10_12448",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED lampa na bicykel",
+            "slug": "led-lampa-na-bicykel-100lm-ip65_12683",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Čelová LED lampa so snímačom pohybu",
+            "slug": "celova-led-lampa-so-snimacom-pohybu_13842",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor čierny 20W - neutrálna biela",
+            "slug": "led-smd-reflektor-cierny-20w-neutralna-biela_4387",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor čierny 50W - neutrálna biela",
+            "slug": "led-smd-reflektor-cierny-50w-neutralna-biela_4388",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor čierny s čidlom 10W - neutrálna biela",
+            "slug": "led-smd-reflektor-cierny-s-cidlom-10w-neutralna-biela_4390",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor čierny s čidlom 20W - neutrálna biela",
+            "slug": "led-smd-reflektor-cierny-s-cidlom-20w-neutralna-biela_4394",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor čierny s čidlom 50W - neutrálna biela",
+            "slug": "led-smd-reflektor-cierny-s-cidlom-50w-neutralna-biela-50w_4395",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor biely 10W - neutrálna biela",
+            "slug": "led-smd-reflektor-biely-10w-neutralna-biela_4396",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor biely 50W - neutrálna biela",
+            "slug": "led-smd-reflektor-biely-50w-neutralna-biela_4398",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Akumulátorová ručná LED lampa 4,5W",
+            "slug": "akumulatorova-rucna-led-lampa-45w_4417",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Akumulátorová čelová LED lampa 5W",
+            "slug": "akumulatorova-celova-led-lampa-5w_4418",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Akumulátorová čelová LED lampa so snímačom pohybu 3W",
+            "slug": "akumulatorova-celova-led-lampa-so-snimacom-pohybu-3w_4462",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Čelová LED lampa na batérie 3W",
+            "slug": "celova-led-lampa-na-baterie-3w_4467",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Batériová lampa na bicykel 3W",
+            "slug": "bateriova-lampa-na-bicykel-3w_4583",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Nabíjateľná lampa na bicykel 3W",
+            "slug": "nabijatelna-lampa-na-bicykel-3w_4584",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Plastové chránené LED svietidlo - oválne",
+            "slug": "plastove-chranene-led-svietidlo-ovalne-6w_4585",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Plastové chránené LED svietidlo - oválne",
+            "slug": "plastove-chranene-led-svietidlo-ovalne-12w_4586",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Plastové chránené LED svietidlo - kruhové",
+            "slug": "plastove-chranene-led-svietidlo-kruhove-6w_4587",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Plastové chránené LED svietidlo - kruhové",
+            "slug": "plastove-chranene-led-svietidlo-kruhove-12w_4588",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Automobilové batériové LED svietidlo 1,5W",
+            "slug": "automobilove-bateriove-led-svietidlo-15w_4601",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED reflektor so solárnym panelom a snímačom pohybu",
+            "slug": "led-reflektor-so-solarnym-panelom-a-snimacom-pohybu",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Akumulátorová ručná LED lampa s reproduktorom Bluetooth",
+            "slug": "akumulatorova-rucna-led-lampa-s-reproduktorom-bluetooth",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Akumulátorový montážny LED reflektor s reproduktorom Bluetooth",
+            "slug": "akumulatorovy-montazny-led-reflektor-s-reproduktorom-bluetooth",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   Kempingová lampa",
+            "slug": "kempingova-lampa-stlcamp10w",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor čierny 100W - neutrálna biela",
+            "slug": "led-smd-reflektor-cierny-100w-neutralna-biela_4389",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        },
+        {
+            "name": "Tracon electric   LED SMD reflektor biely 20W - neutrálna biela",
+            "slug": "led-smd-reflektor-biely-20w-neutralna-biela_4397",
+            "category_id": 216,
+            "category_name": "Elektroinstalacny Material Led Osvetlenie",
+            "category_slug": "elektroinstalacny-material-led-osvetlenie"
+        }
+    ]
+}

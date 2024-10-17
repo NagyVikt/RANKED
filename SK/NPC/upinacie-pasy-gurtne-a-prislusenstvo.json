@@ -1,0 +1,1013 @@
+{
+    "fetch_time": "2024-10-17T18:16:44.064497Z",
+    "products": [
+        {
+            "name": "SVX   Pás na výrobu gurtní 35mm 3T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-35mm-3T",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Pás na výrobu gurtní 25mm 0,8T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-25mm-08t",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Pás na výrobu gurtní 25mm 1T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-25mm-1T",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 1T-4M",
+            "slug": "upinaci-pas-gurtna-4m-1t_2163",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 2T-4M",
+            "slug": "upinaci-pas-gurtna-4m-2t_2187",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 5T-8M",
+            "slug": "upinaci-pas-gurtna-8m-5t_2230",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 3T-6M",
+            "slug": "upinaci-pas-gurtna-6m-3t_2223",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielny rýchloupínací pás so sponou a voľným koncom žltý 6M",
+            "slug": "jednodielny-rychloupinaci-pas-so-sponou-a-volnym-koncom-zlty-6m-250kg_2266",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielny rýchloupínací pás so sponou a voľným koncom ARMY 4M",
+            "slug": "jednodielny-rychloupinaci-pas-so-sponou-a-volnym-koncom-army-4m250kg_20681",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 5T-10M",
+            "slug": "upinaci-pas-gurtna-10m-5t_2231",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 5T-12M",
+            "slug": "upinaci-pas-gurtna-12m-5t_2243",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielny rýchloupínací pás so sponou a voľným koncom čierny 8M",
+            "slug": "jednodielny-rychloupinaci-pas-so-sponou-a-volnym-koncom-cierny-8m-250kg_2272",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 1T-6M",
+            "slug": "upinaci-pas-gurtna-6m-1t_2172",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 3,5 m",
+            "slug": "pas-s-j-hakom-5t35m_20466",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 7,5 m",
+            "slug": "pas-s-j-hakom-5t75m_20468",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 2T-6M",
+            "slug": "jednodielna-gurtna-6m-2t_2311",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielny rýchloupínací pás so sponou a voľným koncom žltý 8M",
+            "slug": "jednodielny-rychloupinaci-pas-so-sponou-a-volnym-koncom-zlty-8m-250kg_2267",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Upínací pás na odťahovku s podložkami 4 T",
+            "slug": "upinaci-pas-na-odtahovku-s-podlozkami-4-t-4t35m50mm_21351",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ukotvovací bod pre prívesný vozík 10x9,5x2,5cm",
+            "slug": "ukotvovaci-bod-pre-privesny-vozik-stvorec_12612",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 2T-2M",
+            "slug": "upinaci-pas-gurtna-2m-2t_2178",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 5T-4M",
+            "slug": "upinaci-pas-gurtna-4m-5t_2227",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 1T-5M",
+            "slug": "upinaci-pas-gurtna-5m-1t_2169",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa na odťahovku s návlekom 4T",
+            "slug": "gurtna-na-odtahovku-s-navlekom-4t35m50mm_21355",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 3T-10M",
+            "slug": "upinaci-pas-gurtna-10m-3t_2226",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa na odťahovku 3 T",
+            "slug": "gurtna-na-odtahovku-3-t-3t3m35mm_21350",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 5,5 m",
+            "slug": "pas-s-j-hakom-5t55m_20467",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Yale   Samonavíjací upínací pás /gurtňa/ s navíjačom a hákmi 3M",
+            "slug": "samonavijaci-upinaci-pas-gurtna-s-navijacom-a-hakmi-3m-750dan-50mm_2282",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 3T-2M",
+            "slug": "upinaci-pas-gurtna-2m-3t_2209",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Yale   Samonavíjací upínací pás /gurtňa/ s navíjačom a hákmi 3M",
+            "slug": "samonavijaci-upinaci-pas-gurtna-s-navijacom-a-hakmi-3m-300dan-25mm_2285",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielny rýchloupínací pás so sponou a voľným koncom ARMY 6M",
+            "slug": "jednodielny-rychloupinaci-pas-so-sponou-a-volnym-koncom-army-6m250kg_20682",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás čierna 3T-6M",
+            "slug": "gurtna-upinaci-pas-cierna-6m-3t_2155",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochranný plastový roh TWARDY 220x150x130mm",
+            "slug": "ochranny-plastovy-roh-twardy-220x150x130mm_13559",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Popruh s račňou - protikus 1T",
+            "slug": "popruh-s-racnou-protikus-05m-1t_2333",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás ARMY 3T-10M",
+            "slug": "gurtna-upinaci-pas-army-10m3t_20675",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "J hák na gurtne 3T",
+            "slug": "j-hak-na-gurtne-3t_7149",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás ARMY 1T-4M",
+            "slug": "gurtna-upinaci-pas-army-4m1t_20670",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 2T-8M",
+            "slug": "jednodielna-gurtna-8m-2t_2315",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás ARMY 2T-6M",
+            "slug": "gurtna-upinaci-pas-army-6m2t_20672",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 7,5 m",
+            "slug": "pas-s-j-hakom-1t75m_20452",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 5T-4M",
+            "slug": "jednodielna-gurtna-4m-5t_2328",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás 10T 10M",
+            "slug": "gurtna-upinaci-pas-10t-10m",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 3T-6M",
+            "slug": "jednodielna-gurtna-6m-3t_2324",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "CONROP   Big bag 91x91x120cm",
+            "slug": "big-bag-91x91x120cm-1500-kg_20284",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás ARMY 5T-10M",
+            "slug": "gurtna-upinaci-pas-army-10m5t_20680",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Yale   Samonavíjací upínací pás /gurtňa/ s navíjačom a hákmi 1,8M",
+            "slug": "samonavijaci-upinaci-pas-gurtna-s-navijacom-a-hakmi-18m-750dan-50mm_2284",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielny rýchloupínací pás so sponou a voľným koncom ARMY 8M",
+            "slug": "jednodielny-rychloupinaci-pas-so-sponou-a-volnym-koncom-army-8m250kg_20683",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 3T-8M",
+            "slug": "jednodielna-gurtna-8m-3t_2326",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 2T-6M",
+            "slug": "gurtna-upinaci-pas-6m-2t_1890",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 3T-8M",
+            "slug": "upinaci-pas-gurtna-8m-3t_2224",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Upínací pás na odťahovku s podložkami 4 T",
+            "slug": "upinaci-pas-na-odtahovku-s-podlozkami-4-t-4t27m50mm_21352",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás čierna 3T-10M",
+            "slug": "gurtna-upinaci-pas-cierna-10m-3t_2156",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Popruh s račňou - protikus 5T",
+            "slug": "popruh-s-racnou-protikus-5t_2436",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "J hák na gurtne 1T",
+            "slug": "j-hak-na-gurtne-1t_7147",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 2T-10M",
+            "slug": "gurtna-upinaci-pas-10m-2t_1897",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 5T-4M",
+            "slug": "gurtna-upinaci-pas-4m-5t_1919",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Transportný pás 1T",
+            "slug": "transportny-pas_7143",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 9,5m",
+            "slug": "pas-s-j-hakom-5t95m_20469",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Popruh s račňou - protikus 2T",
+            "slug": "popruh-s-racnou-protikus-2t_2424",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "J hák na gurtne 5T",
+            "slug": "j-hak-na-gurtne-5t_7150",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochranný plastový roh červený 220x145x130mm",
+            "slug": "ochranny-plastovy-roh-cerveny-220x145x130_13470",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Transportná sieť",
+            "slug": "transportna-siet-09x12_7144",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 3T-8M",
+            "slug": "gurtna-upinaci-pas-8m-3t_1912",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 3T-4M",
+            "slug": "upinaci-pas-gurtna-4m-3t_2220",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa na odťahovku 3 T",
+            "slug": "gurtna-na-odtahovku-3-t-3t-3m-3hak-35mm_13452",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás ARMY 2T-10M",
+            "slug": "gurtna-upinaci-pas-army-10m2t_20673",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás ARMY 3T-6M",
+            "slug": "gurtna-upinaci-pas-army-6m3t_20674",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Kanister 5 L",
+            "slug": "kanister-5-l-cerveny_20309",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Zakladací klin pod kolesá 500 mm",
+            "slug": "zakladaci-klin-pod-kolesa-500-mm-500mm-35t-zlty_13451",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Transportná sieť",
+            "slug": "transportna-siet-18x24m_7145",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás 10T 12M",
+            "slug": "gurtna-upinaci-pas-10t-12m",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 5,5 m",
+            "slug": "pas-s-j-hakom-1t55m_20451",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 3,5 m",
+            "slug": "pas-s-j-hakom-3t35m_20464",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás 10T 12M",
+            "slug": "gurtna-upinaci-pas-10t-12m",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ukotvovací bod pre prívesný vozík 15,5x3,5cm",
+            "slug": "ukotvovaci-bod-pre-privesny-vozik-kruh_12613",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Zakladací klin pod kolesá 415 mm",
+            "slug": "zakladaci-klin-pod-kolesa-415-mm-415mm-35t_13462",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Kanister 5 L",
+            "slug": "kanister-5-l-cierny_20308",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Kanister 10 L",
+            "slug": "kanister-10-l-cierny_20310",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Kanister 20 L",
+            "slug": "kanister-20-l-cierny_20311",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Kanister 20 L",
+            "slug": "kanister-20-l-cerveny_20312",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 3,5 m",
+            "slug": "pas-s-j-hakom-2t35m_20453",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 7,5 m",
+            "slug": "pas-s-j-hakom-2t75m_20454",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Pás s J hákom 7,5 m",
+            "slug": "pas-s-j-hakom-3t75m_20465",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "INOFIX   Chránič hrán do garáží 490x150x15mm",
+            "slug": "chranic-hran-do-garazi-490x150x15mm_20778",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "INOFIX   Kruhový chránič stĺpika 400x310x10mm",
+            "slug": "kruhovy-chranic-stpika-400x310x10mm_20779",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "INOFIX   Predný parkovací chránič 330x195x40mm",
+            "slug": "predny-parkovaci-chranic-330x195x40mm_20780",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "INOFIX   Ochrana bočných stien parkoviska 490x75x15mm",
+            "slug": "ochrana-bocnych-stien-parkoviska-490x75x15mm_20781",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "INOFIX   Ochrana na parkoviská - kotúč 2000x195x5mm",
+            "slug": "ochrana-na-parkoviska-kotuc-2000x195x5mm_20782",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Pás na výrobu gurtní 35mm 2T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-35mm-2t",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Pás na výrobu gurtní 50mm 5T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-50mm-5t",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochranný plastový roh XXL 215x140x130mm",
+            "slug": "ochranny-plastovy-roh-xxl-215x140x130mm_13469",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochrana pásu gumová 300x100x50mm",
+            "slug": "ochrana-pasu-gumova-300x100x50mm-priesvitna_13472",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochrana pásu 80x32x23mm",
+            "slug": "ochrana-pasu-80x32x23mm-cierna_13473",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochrana pásu 105x40x22mm",
+            "slug": "ochrana-pasu-105x40x22mm-cierna_13474",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Zakladací klin pod kolesá 225 mm",
+            "slug": "zakladaci-klin-pod-kolesa-225-mm-225mm-16t-cierny_13456",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochranný plastový roh 110x40x70mm",
+            "slug": "ochranny-plastovy-roh-110x40x70mm-cierny_13457",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Zakladací klin pod kolesá 225 mm",
+            "slug": "zakladaci-klin-pod-kolesa-225-mm-225mm-2t-biely_13463",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochranný plastový roh 100x140x80mm",
+            "slug": "ochranny-plastovy-roh-100x140x80mm_13466",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochranný plastový roh 200x150x110mm",
+            "slug": "ochranny-plastovy-roh-200x150x110mm_13467",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochrana pásu gumová 290x100x50mm",
+            "slug": "ochrana-pasu-gumova-290x100x50mm-cierna_13471",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 1T-4M",
+            "slug": "jednodielna-gurtna-4m-1t_2302",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 1T-6M",
+            "slug": "jednodielna-gurtna-6m-1t_2305",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 1T-8M",
+            "slug": "jednodielna-gurtna-8m-1t_2306",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 3T-4M",
+            "slug": "jednodielna-gurtna-4m-3t_2318",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 5T-6M",
+            "slug": "jednodielna-gurtna-6m-5t_2329",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 5T-8M",
+            "slug": "jednodielna-gurtna-8m-5t_2331",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Popruh s račňou - protikus 3T",
+            "slug": "popruh-s-racnou-protikus-3t_2429",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "J hák na gurtne 2T",
+            "slug": "j-hak-na-gurtne-2t_7148",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "CONROP   Big bag 85x85x95cm",
+            "slug": "big-bag-85x85x95cm_20285",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "CONROP   Big bag s násypkou 95x95x160cm",
+            "slug": "big-bag-s-nasypkou-95x95x160cm_20286",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "CONROP   Big bag 70x70x75cm",
+            "slug": "big-bag-70x70x75cm_20287",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielny rýchloupínací pás so sponou a voľným koncom čierny 6M",
+            "slug": "jednodielny-rychloupinaci-pas-so-sponou-a-volnym-koncom-cierny-6m-250kg_2271",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 5T-8M",
+            "slug": "gurtna-upinaci-pas-8m-5t_1927",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 5T-10M",
+            "slug": "gurtna-upinaci-pas-10m-5t_1929",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás čierna 2T-6M",
+            "slug": "gurtna-upinaci-pas-cierna-6m-2t_2152",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás čierna 2T-10M",
+            "slug": "gurtna-upinaci-pas-cierna-10m-2t_2153",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás čierna 5T-6M",
+            "slug": "gurtna-upinaci-pas-cierna-6m-5t_2157",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás čierna 5T-10M",
+            "slug": "gurtna-upinaci-pas-cierna-10m-5t_2159",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa ERGO 5T-10M",
+            "slug": "upinaci-pas-gurtna-ergo-10m-5t_2237",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás ERGO 5T-10M",
+            "slug": "gurtna-upinaci-pas-ergo-10m-5t_2138",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa na odťahovku s návlekom 3T",
+            "slug": "gurtna-na-odtahovku-s-navlekom-3t35m50mm_21354",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás ARMY 5T-6M",
+            "slug": "gurtna-upinaci-pas-army-6m5t_20679",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 1T-8M",
+            "slug": "upinaci-pas-gurtna-8m-1t_2174",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 5T-12M",
+            "slug": "gurtna-upinaci-pas-12m-5t_1933",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Jednodielna gurtňa 2T-4M",
+            "slug": "jednodielna-gurtna-4m-2t_2307",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 1T-4M",
+            "slug": "gurtna-upinaci-pas-4m-1t_1844",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 1T-6M",
+            "slug": "gurtna-upinaci-pas-6m-1t_1856",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 1T-8M",
+            "slug": "gurtna-upinaci-pas-8m-1t_1858",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 2T-2M",
+            "slug": "gurtna-upinaci-pas-2m-2t_1860",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 2T-4M",
+            "slug": "gurtna-upinaci-pas-4m-2t_1886",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 2T-8M",
+            "slug": "gurtna-upinaci-pas-8m-2t_1894",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 3T-2M",
+            "slug": "gurtna-upinaci-pas-2m-3t_1902",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 3T-4M",
+            "slug": "gurtna-upinaci-pas-4m-3t_1906",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 3T-6M",
+            "slug": "gurtna-upinaci-pas-6m-3t_1909",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 3T-10M",
+            "slug": "gurtna-upinaci-pas-10m-3t_1914",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 5T-6M",
+            "slug": "gurtna-upinaci-pas-6m-5t_1925",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 2T-8M",
+            "slug": "upinaci-pas-gurtna-8m-2t_2191",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 2T-10M",
+            "slug": "upinaci-pas-gurtna-10m-2t_2200",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 5T-6M",
+            "slug": "upinaci-pas-gurtna-6m-5t_2229",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás 10T 6M",
+            "slug": "gurtna-upinaci-pas-10t-6m",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás 10T 8M",
+            "slug": "gurtna-upinaci-pas-10t-8m",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Gurtňa - Upínací pás 10T 4M",
+            "slug": "gurtna-upinaci-pas-10t-4m",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Gurtňa - Upínací pás 1T-5M",
+            "slug": "gurtna-upinaci-pas-5m-1t_1851",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "SVX   Upínací pás - Gurtňa 2T-6M",
+            "slug": "upinaci-pas-gurtna-6m-2t_2189",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        },
+        {
+            "name": "Ochranný plastový roh 215x140x135mm",
+            "slug": "ochranny-plastovy-roh-215x140x135mm_13468",
+            "category_id": 89,
+            "category_name": "Upínacie pásy - gurtne a príslušenstvo",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo"
+        }
+    ]
+}

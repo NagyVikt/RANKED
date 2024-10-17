@@ -1,0 +1,26 @@
+{
+    "fetch_time": "2024-10-17T18:21:02.586544Z",
+    "products": [
+        {
+            "name": "Delta Plus   Skrutkovacia karabína 16mm 5ks",
+            "slug": "skrutkovacia-karabina-16mm-5ks-16mm_7379",
+            "category_id": 339,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Spojovacie Elementy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-spojovacie-elementy"
+        },
+        {
+            "name": "Delta Plus   Karabína AM018 17mm",
+            "slug": "karabina-am018-17mm-17mm_7376",
+            "category_id": 339,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Spojovacie Elementy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-spojovacie-elementy"
+        },
+        {
+            "name": "Delta Plus   Karabína AM027 58mm",
+            "slug": "karabina-am027-58mm_7377",
+            "category_id": 339,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Spojovacie Elementy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-spojovacie-elementy"
+        }
+    ]
+}

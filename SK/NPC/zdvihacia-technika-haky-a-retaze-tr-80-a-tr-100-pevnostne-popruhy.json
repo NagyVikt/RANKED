@@ -1,0 +1,61 @@
+{
+    "fetch_time": "2024-10-17T18:13:21.191342Z",
+    "products": [
+        {
+            "name": "SVX   Pevnostný popruh 60mm",
+            "slug": "pevnostny-popruh-60mm_6770",
+            "category_id": 455,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Pevnostne Popruhy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-pevnostne-popruhy"
+        },
+        {
+            "name": "SVX   Pevnostný popruh 90mm",
+            "slug": "pevnostny-popruh-90mm_6771",
+            "category_id": 455,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Pevnostne Popruhy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-pevnostne-popruhy"
+        },
+        {
+            "name": "SVX   Pevnostný popruh 30mm",
+            "slug": "pevnostny-popruh-30mm_6769",
+            "category_id": 455,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Pevnostne Popruhy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-pevnostne-popruhy"
+        },
+        {
+            "name": "SVX   Pevnostný popruh 120mm",
+            "slug": "pevnostny-popruh-120mm_6772",
+            "category_id": 455,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Pevnostne Popruhy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-pevnostne-popruhy"
+        },
+        {
+            "name": "SVX   Pevnostný popruh 150mm",
+            "slug": "pevnostny-popruh-150mm_6773",
+            "category_id": 455,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Pevnostne Popruhy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-pevnostne-popruhy"
+        },
+        {
+            "name": "SVX   Pevnostný popruh 180mm",
+            "slug": "pevnostny-popruh-180mm_20840",
+            "category_id": 455,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Pevnostne Popruhy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-pevnostne-popruhy"
+        },
+        {
+            "name": "SVX   Pevnostný popruh 240mm",
+            "slug": "pevnostny-popruh-240mm_20841",
+            "category_id": 455,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Pevnostne Popruhy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-pevnostne-popruhy"
+        },
+        {
+            "name": "SVX   Pevnostný popruh 300mm",
+            "slug": "pevnostny-popruh-300mm_20842",
+            "category_id": 455,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Pevnostne Popruhy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-pevnostne-popruhy"
+        }
+    ]
+}

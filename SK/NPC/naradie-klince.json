@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T18:08:44.103119Z",
+    "products": [
+        {
+            "name": "RAWLPLUG   Nastreľovacie klince na páske do pištole pre SC40II-2,7x17mm",
+            "slug": "nastrelovacie-klince-na-paske-do-pistole-pre-sc40ii-27x17mm_6274",
+            "category_id": 294,
+            "category_name": "Naradie Klince",
+            "category_slug": "naradie-klince"
+        },
+        {
+            "name": "RAWLPLUG   Nastreľovacie klince čierne na páske 2,8x63mm",
+            "slug": "nastrelovacie-klince-cierne-na-paske-28x63-ww90ch-plyn_20431",
+            "category_id": 294,
+            "category_name": "Naradie Klince",
+            "category_slug": "naradie-klince"
+        },
+        {
+            "name": "RAWLPLUG   Nastreľovacie klince čierne na páske 2,8x75mm",
+            "slug": "nastrelovacie-klince-cierne-na-paske-28x75-ww90ch-plyn_20432",
+            "category_id": 294,
+            "category_name": "Naradie Klince",
+            "category_slug": "naradie-klince"
+        },
+        {
+            "name": "RAWLPLUG   Nastreľovacie klince čierne na páske 3,1x75mm",
+            "slug": "nastrelovacie-klince-cierne-na-paske-31x75-ww90ch-plyn_20433",
+            "category_id": 294,
+            "category_name": "Naradie Klince",
+            "category_slug": "naradie-klince"
+        }
+    ]
+}

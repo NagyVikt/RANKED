@@ -1,0 +1,75 @@
+{
+    "fetch_time": "2024-10-17T18:16:46.183941Z",
+    "products": [
+        {
+            "name": "Tracon electric   Samovulkanizačná páska 10mx25mm",
+            "slug": "samovulkanizacna-paska-10mx25mm_1719",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        },
+        {
+            "name": "Tracon electric   Páska textilná 25mx25mm",
+            "slug": "paska-textilna-25mx25mm_1717",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        },
+        {
+            "name": "Ciret   ALU páska samolepiaca 50mm-50m",
+            "slug": "alu-paska-samolepiaca-50mm_1639",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        },
+        {
+            "name": "Ciret   Páska metalizovaná 50mm-50m",
+            "slug": "paska-metalizovana-50mm_1644",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        },
+        {
+            "name": "Ciret   Páska výstražná 60mm-30m",
+            "slug": "paska-vystrazna-60mm_1657",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        },
+        {
+            "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx25mm",
+            "slug": "protismykova-oznacovacia-paska-zlto-cierna-5mx25mm_4599",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        },
+        {
+            "name": "Tracon electric   Samovulkanizačná páska 10mx19mm",
+            "slug": "samovulkanizacna-paska-10mx19mm_1718",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        },
+        {
+            "name": "Tracon electric   Samovulkanizačná páska 10mx38mm",
+            "slug": "samovulkanizacna-paska-10mx38mm_1720",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        },
+        {
+            "name": "Tracon electric   Špeciálna textilná páska 50mx50mm",
+            "slug": "specialna-textilna-paska-50mx50mm_4133",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        },
+        {
+            "name": "Tracon electric   Protišmyková označovacia páska žlto-čierna 5mx50mm",
+            "slug": "protismykova-oznacovacia-paska-zlto-cierna-5mx50mm_2717",
+            "category_id": 485,
+            "category_name": "Stavebna Chemia Specialne Lepiace Pasky",
+            "category_slug": "stavebna-chemia-specialne-lepiace-pasky"
+        }
+    ]
+}

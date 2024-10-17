@@ -1,0 +1,1895 @@
+{
+    "fetch_time": "2024-10-17T18:21:23.779757Z",
+    "products": [
+        {
+            "name": "Skrutka DIN 7504P TEX 3,9x22mm",
+            "slug": "skrutka-din-7504p-tex-39x22-mm_10449",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,9x19mm",
+            "slug": "skrutka-din-7504p-tex-39x19-mm_10448",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x25mm",
+            "slug": "skrutka-din-7504k-tex-55x25-mm_10537",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 2,9x13mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-29x13-mm_11594",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,9x32mm",
+            "slug": "skrutka-din-7504n-tex-39x32-mm_10573",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,2x13mm",
+            "slug": "skrutka-din-7504p-tex-42x13-mm_10455",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 2,9x13mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-29x13-mm_11595",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x25mm",
+            "slug": "skrutka-din-7504k-tex-48x25-mm_10480",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x38mm",
+            "slug": "skrutka-din-7504k-tex-55x38-mm_10539",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x19mm",
+            "slug": "skrutka-din-7504k-tex-63x19-mm_10547",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 2,2x4,5mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-22x45-mm_11960",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 2,9x25mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-29x25-mm_11964",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,5x9,5mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-35x95-mm_11975",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 6,3x13mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-63x13-mm_12016",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 6,3x16mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-63x16-mm_12017",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 2,9x6,5mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-29x65-mm_12033",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,5x13mm",
+            "slug": "skrutka-din-7504n-tex-35x13-mm_10276",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,5x19mm",
+            "slug": "skrutka-din-7504n-tex-35x19-mm_10566",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,5x9,5mm",
+            "slug": "skrutka-din-7504n-tex-35x95-mm_10567",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,2x13mm",
+            "slug": "skrutka-din-7504n-tex-42x13-mm_10575",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,2x19mm",
+            "slug": "skrutka-din-7504n-tex-42x19-mm_10577",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,2x32mm",
+            "slug": "skrutka-din-7504n-tex-42x32-mm_10579",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,2x45mm",
+            "slug": "skrutka-din-7504n-tex-42x45-mm_10581",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x13mm",
+            "slug": "skrutka-din-7504n-tex-48x13-mm_10583",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x19mm",
+            "slug": "skrutka-din-7504n-tex-48x19-mm_10585",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x32mm",
+            "slug": "skrutka-din-7504n-tex-48x32-mm_10588",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,9x32mm",
+            "slug": "skrutka-din-7504p-tex-39x32-mm_10451",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C nerez A2 4,2x16mm",
+            "slug": "skrutka-do-plechu-din-7981c-nerez-a2-42x16-mm_12301",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,5x25mm",
+            "slug": "skrutka-din-7504k-tex-35x25-mm_10459",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,2x45mm",
+            "slug": "skrutka-din-7504k-tex-42x45-mm_10473",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 2,9x9,5mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-29x95-mm_11958",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x120mm",
+            "slug": "skrutka-din-7504p-tex-48x120-mm_10511",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x25mm",
+            "slug": "skrutka-din-7504p-tex-55x25-mm_10512",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x32mm",
+            "slug": "skrutka-din-7504p-tex-55x32-mm_10513",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x38mm",
+            "slug": "skrutka-din-7504p-tex-55x38-mm_10514",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x45mm",
+            "slug": "skrutka-din-7504p-tex-55x45-mm_10515",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x50mm",
+            "slug": "skrutka-din-7504p-tex-55x50-mm_10516",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x60mm",
+            "slug": "skrutka-din-7504p-tex-55x60-mm_10517",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x70mm",
+            "slug": "skrutka-din-7504p-tex-55x70-mm_10518",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x80mm",
+            "slug": "skrutka-din-7504p-tex-55x80-mm_10519",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x25mm",
+            "slug": "skrutka-din-7504p-tex-63x25-mm_10532",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x32mm",
+            "slug": "skrutka-din-7504p-tex-63x32-mm_10533",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x38mm",
+            "slug": "skrutka-din-7504p-tex-63x38-mm_10534",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x45mm",
+            "slug": "skrutka-din-7504p-tex-63x45-mm_10535",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x50mm",
+            "slug": "skrutka-din-7504p-tex-63x50-mm_10536",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,5x13mm",
+            "slug": "skrutka-din-7504k-tex-35x13-mm_10440",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,5x16mm",
+            "slug": "skrutka-din-7504k-tex-35x16-mm_10457",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,5x19mm",
+            "slug": "skrutka-din-7504k-tex-35x19-mm_10458",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,5x19mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-35x19-mm_11971",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,5x22mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-35x22-mm_11972",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,5x25mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-35x25-mm_11973",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,5x32mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-35x32-mm_11974",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,9x16mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-39x16-mm_11977",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,9x22mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-39x22-mm_11979",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,9x25mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-39x25-mm_11980",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,9x32mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-39x32-mm_11981",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,9x38mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-39x38-mm_11982",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,9x45mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-39x45-mm_11983",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,9x9,5mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-39x95-mm_11984",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x16mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x16-mm_11986",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x19mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x19-mm_11987",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x22mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x22-mm_11988",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x25mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x25-mm_11989",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x32mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x32-mm_11990",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x38mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x38-mm_11991",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x45mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x45-mm_11992",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x50mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x50-mm_11993",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x60mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x60-mm_11994",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x70mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x70-mm_11995",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,8x13mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-48x13-mm_11996",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,8x16mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-48x16-mm_11997",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,8x19mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-48x19-mm_11998",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x100mm",
+            "slug": "skrutka-din-7504k-tex-48x100-mm_10526",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x120mm",
+            "slug": "skrutka-din-7504k-tex-48x120-mm_10528",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x16mm",
+            "slug": "skrutka-din-7504k-tex-55x16-mm_10529",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x19mm",
+            "slug": "skrutka-din-7504k-tex-55x19-mm_10530",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x22mm",
+            "slug": "skrutka-din-7504k-tex-55x22-mm_10531",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x32mm",
+            "slug": "skrutka-din-7504k-tex-55x32-mm_10538",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x45mm",
+            "slug": "skrutka-din-7504k-tex-55x45-mm_10540",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x60mm",
+            "slug": "skrutka-din-7504k-tex-55x60-mm_10542",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x70mm",
+            "slug": "skrutka-din-7504k-tex-55x70-mm_10543",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x80mm",
+            "slug": "skrutka-din-7504k-tex-55x80-mm_10544",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x90mm",
+            "slug": "skrutka-din-7504k-tex-55x90-mm_10545",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x22mm",
+            "slug": "skrutka-din-7504k-tex-63x22-mm_10548",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x25mm",
+            "slug": "skrutka-din-7504k-tex-63x25-mm_10549",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x32mm",
+            "slug": "skrutka-din-7504k-tex-63x32-mm_10550",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x38mm",
+            "slug": "skrutka-din-7504k-tex-63x38-mm_10551",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x45mm",
+            "slug": "skrutka-din-7504k-tex-63x45-mm_10552",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x50mm",
+            "slug": "skrutka-din-7504k-tex-63x50-mm_10553",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x60mm",
+            "slug": "skrutka-din-7504k-tex-63x60-mm_10554",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x70mm",
+            "slug": "skrutka-din-7504k-tex-63x70-mm_10555",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x80mm",
+            "slug": "skrutka-din-7504k-tex-63x80-mm_10556",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x90mm",
+            "slug": "skrutka-din-7504k-tex-63x90-mm_10557",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x100mm",
+            "slug": "skrutka-din-7504k-tex-63x100-mm_10558",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x120mm",
+            "slug": "skrutka-din-7504k-tex-63x120-mm_10559",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x130mm",
+            "slug": "skrutka-din-7504k-tex-63x130-mm_10560",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C nerez A2 2,9x22mm",
+            "slug": "skrutka-do-plechu-din-7981c-nerez-a2-29x22-mm_12302",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C nerez A2 5,5x32mm",
+            "slug": "skrutka-do-plechu-din-7981c-nerez-a2-55x32-mm_12303",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,8x25mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-48x25-mm_12061",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 2,9x16mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-29x16-mm_12028",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 2,9x19mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-29x19-mm_12029",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 2,9x22mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-29x22-mm_12030",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 2,9x25mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-29x25-mm_12031",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 2,9x32mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-29x32-mm_12032",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,5x9,5mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-35x95-mm_12034",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,5x13mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-35x13-mm_12035",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,5x16mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-35x16-mm_12036",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,5x19mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-35x19-mm_12037",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,8x32mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-48x32-mm_12062",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,5x25mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-35x25-mm_12039",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,9x13mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-39x13-mm_12040",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,9x16mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-39x16-mm_12041",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,9x19mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-39x19-mm_12042",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,9x22mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-39x22-mm_12043",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,9x25mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-39x25-mm_12044",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,9x32mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-39x32-mm_12045",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,9x38mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-39x38-mm_12046",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 3,9x9,5mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-39x95-mm_12048",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,2x9,5mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-42x95-mm_12049",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,2x13mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-42x13-mm_12050",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,2x16mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-42x16-mm_12051",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,2x19mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-42x19-mm_12052",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,2x22mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-42x22-mm_12053",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,2x25mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-42x25-mm_12054",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,2x32mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-42x32-mm_12055",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,2x45mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-42x45-mm_12056",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,8x13mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-48x13-mm_12057",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,8x16mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-48x16-mm_12058",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,8x19mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-48x19-mm_12059",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,8x22mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-48x22-mm_12060",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,8x38mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-48x38-mm_12063",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,8x45mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-48x45-mm_12064",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 4,8x50mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-48x50-mm_12065",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 5,5x19mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-55x19-mm_12066",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 5,5x22mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-55x22-mm_12067",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 5,5x25mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-55x25-mm_12068",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 5,5x32mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-55x32-mm_12069",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 5,5x38mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-55x38-mm_12070",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 5,5x45mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-55x45-mm_12071",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 5,5x50mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-55x50-mm_12072",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 6,3x19mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-63x19-mm_12073",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 6,3x22mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-63x22-mm_12074",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 6,3x25mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-63x25-mm_12075",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 6,3x32mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-63x32-mm_12076",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 6,3x45mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-63x45-mm_12077",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 6,3x50mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-63x50-mm_12078",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7982C zn 6,3x60mm",
+            "slug": "skrutka-do-plechu-din-7982c-zn-63x60-mm_12079",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x120mm",
+            "slug": "skrutka-din-7504p-tex-48x120-mm_10511",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x25mm",
+            "slug": "skrutka-din-7504p-tex-55x25-mm_10512",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x32mm",
+            "slug": "skrutka-din-7504p-tex-55x32-mm_10513",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x38mm",
+            "slug": "skrutka-din-7504p-tex-55x38-mm_10514",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x45mm",
+            "slug": "skrutka-din-7504p-tex-55x45-mm_10515",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x50mm",
+            "slug": "skrutka-din-7504p-tex-55x50-mm_10516",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x60mm",
+            "slug": "skrutka-din-7504p-tex-55x60-mm_10517",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x70mm",
+            "slug": "skrutka-din-7504p-tex-55x70-mm_10518",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 5,5x80mm",
+            "slug": "skrutka-din-7504p-tex-55x80-mm_10519",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x25mm",
+            "slug": "skrutka-din-7504p-tex-63x25-mm_10532",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x32mm",
+            "slug": "skrutka-din-7504p-tex-63x32-mm_10533",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x38mm",
+            "slug": "skrutka-din-7504p-tex-63x38-mm_10534",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x45mm",
+            "slug": "skrutka-din-7504p-tex-63x45-mm_10535",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 6,3x50mm",
+            "slug": "skrutka-din-7504p-tex-63x50-mm_10536",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,5x13mm",
+            "slug": "skrutka-din-7504k-tex-35x13-mm_10440",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,5x16mm",
+            "slug": "skrutka-din-7504k-tex-35x16-mm_10457",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,5x19mm",
+            "slug": "skrutka-din-7504k-tex-35x19-mm_10458",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,9x13mm",
+            "slug": "skrutka-din-7504k-tex-39x13-mm_10460",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,9x16mm",
+            "slug": "skrutka-din-7504k-tex-39x16-mm_10461",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,9x19mm",
+            "slug": "skrutka-din-7504k-tex-39x19-mm_10463",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,9x22mm",
+            "slug": "skrutka-din-7504k-tex-39x22-mm_10464",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 3,9x25mm",
+            "slug": "skrutka-din-7504k-tex-39x25-mm_10465",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,2x13mm",
+            "slug": "skrutka-din-7504k-tex-42x13-mm_10466",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,2x16mm",
+            "slug": "skrutka-din-7504k-tex-42x16-mm_10467",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,2x19mm",
+            "slug": "skrutka-din-7504k-tex-42x19-mm_10468",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,2x22mm",
+            "slug": "skrutka-din-7504k-tex-42x22-mm_10469",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,2x25mm",
+            "slug": "skrutka-din-7504k-tex-42x25-mm_10470",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,2x32mm",
+            "slug": "skrutka-din-7504k-tex-42x32-mm_10471",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,2x38mm",
+            "slug": "skrutka-din-7504k-tex-42x38-mm_10472",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,2x50mm",
+            "slug": "skrutka-din-7504k-tex-42x50-mm_10474",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x13mm",
+            "slug": "skrutka-din-7504k-tex-48x13-mm_10475",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x16mm",
+            "slug": "skrutka-din-7504k-tex-48x16-mm_10476",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x19mm",
+            "slug": "skrutka-din-7504k-tex-48x19-mm_10477",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x22mm",
+            "slug": "skrutka-din-7504k-tex-48x22-mm_10478",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x38mm",
+            "slug": "skrutka-din-7504k-tex-48x38-mm_10482",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x45mm",
+            "slug": "skrutka-din-7504k-tex-48x45-mm_10520",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x50mm",
+            "slug": "skrutka-din-7504k-tex-48x50-mm_10521",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x60mm",
+            "slug": "skrutka-din-7504k-tex-48x60-mm_10522",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x70mm",
+            "slug": "skrutka-din-7504k-tex-48x70-mm_10523",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x80mm",
+            "slug": "skrutka-din-7504k-tex-48x80-mm_10524",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x90mm",
+            "slug": "skrutka-din-7504k-tex-48x90-mm_10525",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x100mm",
+            "slug": "skrutka-din-7504k-tex-48x100-mm_10526",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x120mm",
+            "slug": "skrutka-din-7504k-tex-48x120-mm_10528",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x16mm",
+            "slug": "skrutka-din-7504k-tex-55x16-mm_10529",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x19mm",
+            "slug": "skrutka-din-7504k-tex-55x19-mm_10530",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x22mm",
+            "slug": "skrutka-din-7504k-tex-55x22-mm_10531",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x32mm",
+            "slug": "skrutka-din-7504k-tex-55x32-mm_10538",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x45mm",
+            "slug": "skrutka-din-7504k-tex-55x45-mm_10540",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x60mm",
+            "slug": "skrutka-din-7504k-tex-55x60-mm_10542",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x70mm",
+            "slug": "skrutka-din-7504k-tex-55x70-mm_10543",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x80mm",
+            "slug": "skrutka-din-7504k-tex-55x80-mm_10544",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x90mm",
+            "slug": "skrutka-din-7504k-tex-55x90-mm_10545",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x22mm",
+            "slug": "skrutka-din-7504k-tex-63x22-mm_10548",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x25mm",
+            "slug": "skrutka-din-7504k-tex-63x25-mm_10549",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x32mm",
+            "slug": "skrutka-din-7504k-tex-63x32-mm_10550",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x38mm",
+            "slug": "skrutka-din-7504k-tex-63x38-mm_10551",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x45mm",
+            "slug": "skrutka-din-7504k-tex-63x45-mm_10552",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x50mm",
+            "slug": "skrutka-din-7504k-tex-63x50-mm_10553",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x60mm",
+            "slug": "skrutka-din-7504k-tex-63x60-mm_10554",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 6,3x70mm",
+            "slug": "skrutka-din-7504k-tex-63x70-mm_10555",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,5x16mm",
+            "slug": "skrutka-din-7504n-tex-35x16-mm_10565",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,9x13mm",
+            "slug": "skrutka-din-7504n-tex-39x13-mm_10568",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,9x16mm",
+            "slug": "skrutka-din-7504n-tex-39x16-mm_10569",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,9x19mm",
+            "slug": "skrutka-din-7504n-tex-39x19-mm_10570",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,9x22mm",
+            "slug": "skrutka-din-7504n-tex-39x22-mm_10571",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,9x25mm",
+            "slug": "skrutka-din-7504n-tex-39x25-mm_10572",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 3,9x9,5mm",
+            "slug": "skrutka-din-7504n-tex-39x95-mm_10574",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,2x16mm",
+            "slug": "skrutka-din-7504n-tex-42x16-mm_10576",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,2x25mm",
+            "slug": "skrutka-din-7504n-tex-42x25-mm_10578",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,2x38mm",
+            "slug": "skrutka-din-7504n-tex-42x38-mm_10580",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,2x50mm",
+            "slug": "skrutka-din-7504n-tex-42x50-mm_10582",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x16mm",
+            "slug": "skrutka-din-7504n-tex-48x16-mm_10584",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x22mm",
+            "slug": "skrutka-din-7504n-tex-48x22-mm_10586",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x25mm",
+            "slug": "skrutka-din-7504n-tex-48x25-mm_10587",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x38mm",
+            "slug": "skrutka-din-7504n-tex-48x38-mm_10589",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x45mm",
+            "slug": "skrutka-din-7504n-tex-48x45-mm_10590",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x50mm",
+            "slug": "skrutka-din-7504n-tex-48x50-mm_10591",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x60mm",
+            "slug": "skrutka-din-7504n-tex-48x60-mm_10592",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x70mm",
+            "slug": "skrutka-din-7504n-tex-48x70-mm_10593",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x80mm",
+            "slug": "skrutka-din-7504n-tex-48x80-mm_10594",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 4,8x90mm",
+            "slug": "skrutka-din-7504n-tex-48x90-mm_10595",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 5,5x19mm",
+            "slug": "skrutka-din-7504n-tex-55x19-mm_10596",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 5,5x25mm",
+            "slug": "skrutka-din-7504n-tex-55x25-mm_10598",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 5,5x38mm",
+            "slug": "skrutka-din-7504n-tex-55x38-mm_10600",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504N TEX 5,5x80mm",
+            "slug": "skrutka-din-7504n-tex-55x80-mm_10604",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,5x16mm",
+            "slug": "skrutka-din-7504p-tex-35x16-mm_10439",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,5x19mm",
+            "slug": "skrutka-din-7504p-tex-35x19-mm_10443",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,5x25mm",
+            "slug": "skrutka-din-7504p-tex-35x25-mm_10444",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,5x32mm",
+            "slug": "skrutka-din-7504p-tex-35x32-mm_10445",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,9x13mm",
+            "slug": "skrutka-din-7504p-tex-39x13-mm_10446",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,9x16mm",
+            "slug": "skrutka-din-7504p-tex-39x16-mm_10447",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,9x25mm",
+            "slug": "skrutka-din-7504p-tex-39x25-mm_10450",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,9x38mm",
+            "slug": "skrutka-din-7504p-tex-39x38-mm_10452",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,9x45mm",
+            "slug": "skrutka-din-7504p-tex-39x45-mm_10453",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 3,9x50mm",
+            "slug": "skrutka-din-7504p-tex-39x50-mm_10454",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,2x16mm",
+            "slug": "skrutka-din-7504p-tex-42x16-mm_10456",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,2x19mm",
+            "slug": "skrutka-din-7504p-tex-42x19-mm_10462",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,2x22mm",
+            "slug": "skrutka-din-7504p-tex-42x22-mm_10483",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,2x25mm",
+            "slug": "skrutka-din-7504p-tex-42x25-mm_10484",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,2x32mm",
+            "slug": "skrutka-din-7504p-tex-42x32-mm_10485",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,2x38mm",
+            "slug": "skrutka-din-7504p-tex-42x38-mm_10486",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,2x45mm",
+            "slug": "skrutka-din-7504p-tex-42x45-mm_10487",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,2x50mm",
+            "slug": "skrutka-din-7504p-tex-42x50-mm_10488",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x13mm",
+            "slug": "skrutka-din-7504p-tex-48x13-mm_10489",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x16mm",
+            "slug": "skrutka-din-7504p-tex-48x16-mm_10490",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x19mm",
+            "slug": "skrutka-din-7504p-tex-48x19-mm_10491",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x22mm",
+            "slug": "skrutka-din-7504p-tex-48x22-mm_10492",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x25mm",
+            "slug": "skrutka-din-7504p-tex-48x25-mm_10493",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x32mm",
+            "slug": "skrutka-din-7504p-tex-48x32-mm_10494",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x38mm",
+            "slug": "skrutka-din-7504p-tex-48x38-mm_10495",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x45mm",
+            "slug": "skrutka-din-7504p-tex-48x45-mm_10496",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x50mm",
+            "slug": "skrutka-din-7504p-tex-48x50-mm_10497",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x60mm",
+            "slug": "skrutka-din-7504p-tex-48x60-mm_10498",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x70mm",
+            "slug": "skrutka-din-7504p-tex-48x70-mm_10507",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x80mm",
+            "slug": "skrutka-din-7504p-tex-48x80-mm_10508",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x90mm",
+            "slug": "skrutka-din-7504p-tex-48x90-mm_10509",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504P TEX 4,8x100mm",
+            "slug": "skrutka-din-7504p-tex-48x100-mm_10510",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 3,9x19mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-39x19-mm_11978",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 4,8x32mm",
+            "slug": "skrutka-din-7504k-tex-48x32-mm_10481",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,2x13mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-42x13-mm_11985",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x50mm",
+            "slug": "skrutka-din-7504k-tex-55x50-mm_10541",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka DIN 7504K TEX 5,5x100mm",
+            "slug": "skrutka-din-7504k-tex-55x100-mm_10546",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        },
+        {
+            "name": "Skrutka do plechu DIN 7981C zn 4,8x32mm",
+            "slug": "skrutka-do-plechu-din-7981c-zn-48x32-mm_12001",
+            "category_id": 249,
+            "category_name": "Spojovaci A Kotviaci Material Skrutky Do Plechu",
+            "category_slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu"
+        }
+    ]
+}

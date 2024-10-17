@@ -1,0 +1,54 @@
+{
+    "fetch_time": "2024-10-17T18:16:45.777670Z",
+    "products": [
+        {
+            "name": "MASTERsil   Lepidlo na parozábrany 315ml",
+            "slug": "lepidlo-na-parozabrany-315ml_401",
+            "category_id": 497,
+            "category_name": "Stavebna Chemia Silikonove Lepidla",
+            "category_slug": "stavebna-chemia-silikonove-lepidla"
+        },
+        {
+            "name": "MASTERsil   Univerzálne montážne lepidlo biele 315ml",
+            "slug": "univerzalne-montazne-lepidlo-biele-315ml_720",
+            "category_id": 497,
+            "category_name": "Stavebna Chemia Silikonove Lepidla",
+            "category_slug": "stavebna-chemia-silikonove-lepidla"
+        },
+        {
+            "name": "MASTERsil   Lepidlo PU D4 medové 0,5kg",
+            "slug": "lepidlo-pu-d4-medove-05kg_726",
+            "category_id": 497,
+            "category_name": "Stavebna Chemia Silikonove Lepidla",
+            "category_slug": "stavebna-chemia-silikonove-lepidla"
+        },
+        {
+            "name": "MASTERsil   Akvarijné silikónové lepidlo transparenstné 315ml",
+            "slug": "akvarijne-silikonove-lepidlo-transparenstne-315ml_376",
+            "category_id": 497,
+            "category_name": "Stavebna Chemia Silikonove Lepidla",
+            "category_slug": "stavebna-chemia-silikonove-lepidla"
+        },
+        {
+            "name": "MASTERsil   Konštrukčné PU lepidlo béžové 315ml",
+            "slug": "konstrukcne-pu-lepidlo-bezove-315ml_706",
+            "category_id": 497,
+            "category_name": "Stavebna Chemia Silikonove Lepidla",
+            "category_slug": "stavebna-chemia-silikonove-lepidla"
+        },
+        {
+            "name": "MASTERsil   Lepidlo na zrkadlá biele 315ml",
+            "slug": "lepidlo-na-zrkadla-biele-315ml_398",
+            "category_id": 497,
+            "category_name": "Stavebna Chemia Silikonove Lepidla",
+            "category_slug": "stavebna-chemia-silikonove-lepidla"
+        },
+        {
+            "name": "MASTERsil   Univerzálna Vazelína 315ml",
+            "slug": "univerzalna-vazelina-315ml_766",
+            "category_id": 497,
+            "category_name": "Stavebna Chemia Silikonove Lepidla",
+            "category_slug": "stavebna-chemia-silikonove-lepidla"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "fetch_time": "2024-10-17T18:17:55.553278Z",
+    "products": [
+        {
+            "name": "Brennenstuhl   Detektor dymu a tepla",
+            "slug": "detektor-dymu-a-tepla-connect-wifi-wrhm01_21308",
+            "category_id": 431,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Smart Home Vyrobky",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-smart-home-vyrobky"
+        },
+        {
+            "name": "Brennenstuhl   Centrálna jednotka",
+            "slug": "centralna-jednotka-zigbee-gwy-cz01_21309",
+            "category_id": 431,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Smart Home Vyrobky",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-smart-home-vyrobky"
+        },
+        {
+            "name": "Brennenstuhl   Senzor teploty a vlhkosti",
+            "slug": "senzor-teploty-a-vlhkosti-connect-zigbee-tfs_21311",
+            "category_id": 431,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Smart Home Vyrobky",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-smart-home-vyrobky"
+        },
+        {
+            "name": "Brennenstuhl   Detektor pohybu",
+            "slug": "detektor-pohybu-connect-zigbee-bm_21312",
+            "category_id": 431,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Smart Home Vyrobky",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-smart-home-vyrobky"
+        },
+        {
+            "name": "Brennenstuhl   Diaľkový spínací set 3 zásuvky 1000W IP20 biely",
+            "slug": "dialkovy-spinaci-set-3-zasuvky-1000w-ip20-biely_8415",
+            "category_id": 431,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Smart Home Vyrobky",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-smart-home-vyrobky"
+        },
+        {
+            "name": "Brennenstuhl   Diaľkový spínací set 2 zásuvky 1000W IP44 čierny",
+            "slug": "dialkovy-spinaci-set-2-zasuvky-1000w-ip44-cierny_8416",
+            "category_id": 431,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Smart Home Vyrobky",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-smart-home-vyrobky"
+        },
+        {
+            "name": "Brennenstuhl   Snímač na dvere a okná",
+            "slug": "snimac-na-dvere-a-okna-connect-zigbee-tfk_21310",
+            "category_id": 431,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Smart Home Vyrobky",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-smart-home-vyrobky"
+        }
+    ]
+}

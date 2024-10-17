@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T18:17:55.918868Z",
+    "products": [
+        {
+            "name": "Brennenstuhl   Plochá zástrčka biela so sklopným krúžkom",
+            "slug": "plocha-zastrcka-biela-so-sklopnym-kruzkom-zastrcka_857",
+            "category_id": 408,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Zastrcky A Vidlice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-zastrcky-a-vidlice"
+        },
+        {
+            "name": "Brennenstuhl   Gumová zásuvka pre vysoké zaťaženie",
+            "slug": "gumova-zasuvka-pre-vysoke-zatazenie-zasuvka_853",
+            "category_id": 408,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Zastrcky A Vidlice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-zastrcky-a-vidlice"
+        },
+        {
+            "name": "Brennenstuhl   Plochá zástrčka čierna so sklopným krúžkom",
+            "slug": "plocha-zastrcka-cierna-so-sklopnym-kruzkom-zastrcka-c_855",
+            "category_id": 408,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Zastrcky A Vidlice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-zastrcky-a-vidlice"
+        },
+        {
+            "name": "Brennenstuhl   Gumová vidlica s ochranným kontaktom",
+            "slug": "gumova-vidlica-s-ochrannym-kontaktom-zastrcka_845",
+            "category_id": 408,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Zastrcky A Vidlice",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-zastrcky-a-vidlice"
+        }
+    ]
+}

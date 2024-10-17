@@ -1,0 +1,1272 @@
+{
+    "fetch_time": "2024-10-17T17:53:48.355829Z",
+    "products": [
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka žltá 1mm²",
+            "slug": "izolovana-kablova-dutinka-zlta-1mm2-l146mm_1988",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka modrá 2,5mm²",
+            "slug": "izolovana-kablova-dutinka-modra-25mm2-l152mm_1990",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka sivá 4mm²",
+            "slug": "izolovana-kablova-dutinka-siva-4mm2-l165mm_1991",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka čierna 6mm²",
+            "slug": "izolovana-kablova-dutinka-cierna-6mm2-l20mm_1992",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka sl. kosť 10mm²",
+            "slug": "izolovana-kablova-dutinka-sl-kost-10mm2-l215mm_1993",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu lisovacie káblové kolíky guľaté 4mm²",
+            "slug": "neizolovane-cu-lisovacie-kablove-koliky-gulate-4mm2-l20mm_2090",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie modré 2,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-modre-25mm2-m10_2352",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-cervene-15mm2-m5_2065",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolovaná Cu lisovacia spojka 6mm²",
+            "slug": "neizolovana-cu-lisovacia-spojka-6mm2-l15mm_2035",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Prechodka plastová",
+            "slug": "prechodka-plastova-pg-135_13416",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Radová svorka pre fázový (L) vodič 2,5mm²",
+            "slug": "radova-svorka-pre-fazovy-l-vodic-02-25mm2_2056",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolovaná Cu lisovacia spojka 10mm²",
+            "slug": "neizolovana-cu-lisovacia-spojka-10mm2-l15mm_2031",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolovaná Cu lisovacia spojka 1,5mm²",
+            "slug": "neizolovana-cu-lisovacia-spojka-15mm2-l12mm_2032",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolovaná Cu lisovacia spojka 16mm²",
+            "slug": "neizolovana-cu-lisovacia-spojka-16mm2-l21mm_2122",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Prechodka plastová",
+            "slug": "prechodka-plastova-pg-11_13415",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Radová svorka pre neutrálny (N) vodič 2,5mm²",
+            "slug": "radova-svorka-pre-neutralny-n-vodic-02-25mm2_2059",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Radová svorka pre ochranný (PE) vodič 2,5mm²",
+            "slug": "radova-svorka-pre-ochranny-pe-vodic-02-25mm2_2063",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Prechodka plastová",
+            "slug": "prechodka-plastova-pg-29_13419",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Prechodka plastová",
+            "slug": "prechodka-plastova-pg-42_13421",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka červená 1,5mm²",
+            "slug": "izolovana-kablova-dutinka-cervena-15mm2-l146mm_1989",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka zelená 16mm²",
+            "slug": "izolovana-kablova-dutinka-zelena-16mm2-l222mm_1994",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka hnedá 25mm²",
+            "slug": "izolovana-kablova-dutinka-hneda-25mm2-l29mm_1995",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Dvojitá izolovaná káblová dutinka červená 1mm²",
+            "slug": "dvojita-izolovana-kablova-dutinka-cervena-21mm2-l15mm_1996",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Dvojitá izolovaná káblová dutinka čierna 1,5mm²",
+            "slug": "dvojita-izolovana-kablova-dutinka-cierna-215mm2-l16mm_1997",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolovaná Cu lisovacia spojka 35mm²",
+            "slug": "neizolovana-cu-lisovacia-spojka-35mm2-l29mm_2126",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu-Al lisovacie spojky 25mm²",
+            "slug": "neizolovane-cu-al-lisovacie-spojky-1625mm2_2118",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu-Al lisovacie spojky 70mm²",
+            "slug": "neizolovane-cu-al-lisovacie-spojky-1670mm2_2119",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu-Al lisovacie spojky 50mm²",
+            "slug": "neizolovane-cu-al-lisovacie-spojky-3550mm2_2120",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu-Al lisovacie spojky 35mm²",
+            "slug": "neizolovane-cu-al-lisovacie-spojky-2535mm2_2121",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie červené 1,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-cervene-15mm2-m3_2022",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie červené 1,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-cervene-15mm2-m4_2024",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie červené 1,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-cervene-15mm2-m6_2026",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie červené 1,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-cervene-15mm2-m8_2027",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie modré 2,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-modre-25mm2-m4_2038",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie modré 2,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-modre-25mm2-m5_2039",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie modré 2,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-modre-25mm2-m6_2040",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie modré 2,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-modre-25mm2-m8_2041",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie žlté 6mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-zlte-6mm2-m10_2042",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie žlté 6mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-zlte-6mm2-m12_2043",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie žlté 6mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-zlte-6mm2-m5_2044",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie žlté 6mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-zlte-6mm2-m6_2045",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie žlté 6mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-zlte-6mm2-m8_2046",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie modré 16mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-modre-16mm2-m6_2047",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie modré 16mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-modre-16mm2-m10_2048",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie žlté 25mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-zlte-25mm2-m12_2071",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie žlté 25mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-zlte-25mm2-m10_2079",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie červené 10mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-cervene-10mm2-m12_2080",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie červené 10mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-cervene-10mm2-m8_2081",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-cervene-2805mm-15mm2_2104",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-cervene-6308mm-15mm2_2106",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-modre-4808mm-25mm2_2107",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-modre-6308mm-25mm2_2108",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-modre-2805mm-25mm2_2109",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-cervene-2805mm-15mm2_2112",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-cervene-48x05mm-15mm2_2113",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-cervene-6308mm-15mm2_2114",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-modre-4808mm-25mm2_2115",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché žlté 6mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-zlte-6308mm-6mm2_2116",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-modre-2805mm-25mm2_2391",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-cervene-6308mm-15mm2_2110",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-modre-6308mm-25mm2_2111",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-cervene-4808mm-15mm2_2392",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-modre-4808mm-25mm2_2393",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché žlté 6mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-zlte-6308mm-6mm2_2394",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie rozbočovače ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-rozbocovace-ploche-modre-6308mm-25mm2_2049",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie rozbočovače ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-rozbocovace-ploche-cervene-6308mm-15mm2_2553",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované lisovacie dutinky ploché 1mm²",
+            "slug": "neizolovane-lisovacie-dutinky-ploche-2805mm-05-1mm2_2173",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované lisovacie dutinky ploché 1mm²",
+            "slug": "neizolovane-lisovacie-dutinky-ploche-4805mm-05-1mm2_2183",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované lisovacie dutinky ploché - bočné pripojenie 2,5mm²",
+            "slug": "neizolovane-lisovacie-dutinky-ploche-bocne-pripojenie-7708mm-1-25mm2_2196",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu lisovacie kolíky ploché 1mm²",
+            "slug": "neizolovane-cu-lisovacie-koliky-ploche-2805mm-05-1mm2_2192",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu lisovacie kolíky ploché 1mm²",
+            "slug": "neizolovane-cu-lisovacie-koliky-ploche-4805mm-05-1mm2_2193",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu lisovacie kolíky ploché s poistkou 2,5mm²",
+            "slug": "neizolovane-cu-lisovacie-koliky-ploche-s-poistkou-6308mm-1-25mm2_2207",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu-sn rozbočovače ploché 2,5mm²",
+            "slug": "neizolovane-cu-sn-rozbocovace-ploche-6308mm-1-25mm2_2177",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu rozbočovače ploché 2,5mm²",
+            "slug": "neizolovane-cu-rozbocovace-ploche-6308mm-1-25mm2_2190",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované MS kolíky ploché 6,3x0,8mm/45°",
+            "slug": "neizolovane-ms-koliky-ploche-63x08mm-45_2074",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované MS kolíky ploché 6,3x0,8mm/90°",
+            "slug": "neizolovane-ms-koliky-ploche-63x08mm-90_2075",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované mosadzné lisovacie oko - 100ks 1mm²",
+            "slug": "neizolovane-mosadzne-lisovacie-oko-1-25mm2-m4_1961",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované mosadzné lisovacie oko - 100ks 2,5mm²",
+            "slug": "neizolovane-mosadzne-lisovacie-oko-1-25mm2-m6_2087",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované mosadzné lisovacie oko - 100ks 2,5mm²",
+            "slug": "neizolovane-mosadzne-lisovacie-oko-1-25mm2-m5_2089",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m5_1937",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 16mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-16mm2-m6_1942",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m6_1938",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m8_1939",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m10_1940",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m12_1941",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 16mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-16mm2-m8_1943",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 16mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-16mm2-m10_1944",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 16mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-16mm2-m12_1945",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 25mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-25-mm2-m10_1946",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 25mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-25-mm2-m-12_1947",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 35mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-35mm2-m10_1948",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 35mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-35mm2-m12_1949",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 1,5mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-15mm2-m4_1950",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 1,5mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-15mm2-m5_1951",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 1,5mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-15mm2-m6_1952",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 2,5mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-25mm2-m6_1953",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Dvojnásobná radová svorka pre fázový (L) vodič 4mm²",
+            "slug": "dvojnasobna-radova-svorka-pre-fazovy-l-vodic-02-4mm2_2712",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Radová svorka pre neutrálny (N) vodič 4mm²",
+            "slug": "radova-svorka-pre-neutralny-n-vodic-02-4mm2_2057",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Radová svorka pre neutrálny (N) vodič 10mm²",
+            "slug": "radova-svorka-pre-neutralny-n-vodic-05-10mm2_2058",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Radová svorka pre ochranný (PE) vodič 4mm²",
+            "slug": "radova-svorka-pre-ochranny-pe-vodic-02-4mm2_2060",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Radová svorka pre ochranný (PE) vodič 6mm²",
+            "slug": "radova-svorka-pre-ochranny-pe-vodic-02-6mm2_2061",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Radová svorka pre ochranný (PE) vodič 10mm²",
+            "slug": "radova-svorka-pre-ochranny-pe-vodic-05-10mm2_2062",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché žlté 6mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-zlte-6308mm-6mm2_2102",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-cervene-48x05mm-15mm2_2105",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-cervene-2805mm-15mm2_2104",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-cervene-6308mm-15mm2_2106",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-modre-4808mm-25mm2_2107",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-modre-6308mm-25mm2_2108",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-modre-2805mm-25mm2_2109",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-cervene-2805mm-15mm2_2112",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-cervene-48x05mm-15mm2_2113",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché červené 1,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-cervene-6308mm-15mm2_2114",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-modre-4808mm-25mm2_2115",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché žlté 6mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-zlte-6308mm-6mm2_2116",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-dutinky-ploche-modre-2805mm-25mm2_2391",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-cervene-6308mm-15mm2_2110",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-modre-6308mm-25mm2_2111",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-cervene-4808mm-15mm2_2392",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-modre-4808mm-25mm2_2393",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie kolíky ploché žlté 6mm²",
+            "slug": "izolovane-cu-lisovacie-koliky-ploche-zlte-6308mm-6mm2_2394",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie rozbočovače ploché modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-rozbocovace-ploche-modre-6308mm-25mm2_2049",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie rozbočovače ploché červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-rozbocovace-ploche-cervene-6308mm-15mm2_2553",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované lisovacie dutinky ploché 1mm²",
+            "slug": "neizolovane-lisovacie-dutinky-ploche-2805mm-05-1mm2_2173",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované lisovacie dutinky ploché 1mm²",
+            "slug": "neizolovane-lisovacie-dutinky-ploche-4805mm-05-1mm2_2183",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované lisovacie dutinky ploché - bočné pripojenie 2,5mm²",
+            "slug": "neizolovane-lisovacie-dutinky-ploche-bocne-pripojenie-7708mm-1-25mm2_2196",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu lisovacie kolíky ploché 1mm²",
+            "slug": "neizolovane-cu-lisovacie-koliky-ploche-2805mm-05-1mm2_2192",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu lisovacie kolíky ploché 1mm²",
+            "slug": "neizolovane-cu-lisovacie-koliky-ploche-4805mm-05-1mm2_2193",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu lisovacie kolíky ploché s poistkou 2,5mm²",
+            "slug": "neizolovane-cu-lisovacie-koliky-ploche-s-poistkou-6308mm-1-25mm2_2207",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu-sn rozbočovače ploché 2,5mm²",
+            "slug": "neizolovane-cu-sn-rozbocovace-ploche-6308mm-1-25mm2_2177",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu rozbočovače ploché 2,5mm²",
+            "slug": "neizolovane-cu-rozbocovace-ploche-6308mm-1-25mm2_2190",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované MS kolíky ploché 6,3x0,8mm/45°",
+            "slug": "neizolovane-ms-koliky-ploche-63x08mm-45_2074",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované MS kolíky ploché 6,3x0,8mm/90°",
+            "slug": "neizolovane-ms-koliky-ploche-63x08mm-90_2075",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované mosadzné lisovacie oko - 100ks 1mm²",
+            "slug": "neizolovane-mosadzne-lisovacie-oko-1-25mm2-m4_1961",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované mosadzné lisovacie oko - 100ks 2,5mm²",
+            "slug": "neizolovane-mosadzne-lisovacie-oko-1-25mm2-m6_2087",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované mosadzné lisovacie oko - 100ks 2,5mm²",
+            "slug": "neizolovane-mosadzne-lisovacie-oko-1-25mm2-m5_2089",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m5_1937",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 16mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-16mm2-m6_1942",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m6_1938",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m8_1939",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m10_1940",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 10mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-10mm2-m12_1941",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 16mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-16mm2-m8_1943",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 16mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-16mm2-m10_1944",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované CU káblové oká lisovacie 16mm²",
+            "slug": "neizolovane-cu-kablove-oka-lisovacie-16mm2-m12_1945",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie červené 10mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-cervene-10mm2-m10_2575",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie modré 16mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-modre-16mm2-m8_2706",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-cervene-15mm2-m3_2064",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-cervene-15mm2-m6_2066",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-modre-25mm2-m3_2068",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-modre-25mm2-m5_2069",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-modre-25mm2-m6_2070",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice žlté 6mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-zlte-6mm2-m4_2072",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice žlté 6mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-zlte-6mm2-m6_2073",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-modre-25mm2-m4_2388",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice žlté 6mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-zlte-6mm2-m3_2389",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice žlté 6mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-zlte-6mm2-m5_2390",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie banániky červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-bananiky-cervene-15mm2-l226mm_2129",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie banániky modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-bananiky-modre-25mm2-l22mm_2131",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie banániky žlté 6mm²",
+            "slug": "izolovane-cu-lisovacie-bananiky-zlte-6mm2-l243mm_2133",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie konektory červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-konektory-cervene-15mm2-l211mm_2130",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie konektory modré 2,5mm²",
+            "slug": "izolovane-cu-lisovacie-konektory-modre-25mm2-l23mm_2132",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie konektory žlté 6mm²",
+            "slug": "izolovane-cu-lisovacie-konektory-zlte-6mm2-l25mm_2134",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná Cu lisovacia spojka červená 1,5mm²",
+            "slug": "izolovana-cu-lisovacia-spojka-cervena-15mm2-l25mm_2028",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná Cu lisovacia spojka modrá 2,5mm²",
+            "slug": "izolovana-cu-lisovacia-spojka-modra-25mm2-l25mm_2029",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná Cu lisovacia spojka žltá 6mm²",
+            "slug": "izolovana-cu-lisovacia-spojka-zlta-6mm2-l27mm_2030",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Zmršťovacia lisovacia spojka modrá 2,5mm²",
+            "slug": "zmrstovacia-lisovacia-spojka-modra-25mm2-l366mm_2077",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Zmršťovacia lisovacia spojka žltá 4mm²",
+            "slug": "zmrstovacia-lisovacia-spojka-zlta-4mm2-l42mm_2078",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka oranžová 0,5mm²",
+            "slug": "izolovana-kablova-dutinka-oranzova-05mm2-l14mm_1986",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolovaná káblová dutinka biela 0,75mm²",
+            "slug": "izolovana-kablova-dutinka-biela-075mm2-l146mm_1987",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Prechodka plastová",
+            "slug": "prechodka-plastova-pg-36_13420",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Prechodka plastová",
+            "slug": "prechodka-plastova-pg-16_13417",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Prechodka plastová",
+            "slug": "prechodka-plastova-pg-21_13418",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Prechodka plastová",
+            "slug": "prechodka-plastova-pg-7_13422",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované Cu lisovacie kolíky ploché 1,5mm²",
+            "slug": "neizolovane-cu-lisovacie-koliky-ploche-6308mm-075-15mm2_2185",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované mosadzné lisovacie oko - 100ks 4mm²",
+            "slug": "neizolovane-mosadzne-lisovacie-oko-25-4mm2-m8_2086",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Zmršťovacia lisovacia spojka červená 1,5mm²",
+            "slug": "zmrstovacia-lisovacia-spojka-cervena-15mm2-l37mm_2076",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Celoizolované Cu lisovacie dutinky ploché modré 2,5mm²",
+            "slug": "celoizolovane-cu-lisovacie-dutinky-ploche-modre-6308mm-25mm2_2117",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Neizolované lisovacie dutinky ploché 2,5mm²",
+            "slug": "neizolovane-lisovacie-dutinky-ploche-6308mm-1-25mm2_2184",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu káblové oká lisovacie červené 1,5mm²",
+            "slug": "izolovane-cu-kablove-oka-lisovacie-cervene-15mm2-m5_2025",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Izolované Cu lisovacie vidlice červené 1,5mm²",
+            "slug": "izolovane-cu-lisovacie-vidlice-cervene-15mm2-m4_2387",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        },
+        {
+            "name": "Tracon electric   Prechodka plastová",
+            "slug": "prechodka-plastova-pg-9_13423",
+            "category_id": 179,
+            "category_name": "Elektroinstalacny Material Spajanie Vodicov",
+            "category_slug": "elektroinstalacny-material-spajanie-vodicov"
+        }
+    ]
+}

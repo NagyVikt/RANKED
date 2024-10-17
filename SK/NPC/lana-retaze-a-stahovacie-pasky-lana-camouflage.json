@@ -1,0 +1,26 @@
+{
+    "fetch_time": "2024-10-17T17:51:30.129997Z",
+    "products": [
+        {
+            "name": "Lanex   Polypropylénová šnúra pletená bez jadra CAMOUFLAGE 20m 6mm",
+            "slug": "polypropylenova-snura-pletena-bez-jadra-camouflage-20m-6mm_1816",
+            "category_id": 234,
+            "category_name": "Lana Retaze A Stahovacie Pasky Lana Camouflage",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-lana-camouflage"
+        },
+        {
+            "name": "Lanex   Polypropylénová šnúra pletená bez jadra CAMOUFLAGE 20m 8mm",
+            "slug": "polypropylenova-snura-pletena-bez-jadra-camouflage-20m-8mm_1818",
+            "category_id": 234,
+            "category_name": "Lana Retaze A Stahovacie Pasky Lana Camouflage",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-lana-camouflage"
+        },
+        {
+            "name": "Lanex   Polypropylénová šnúra pletená bez jadra CAMOUFLAGE 20m 4mm",
+            "slug": "polypropylenova-snura-pletena-bez-jadra-camouflage-20m-4mm_1811",
+            "category_id": 234,
+            "category_name": "Lana Retaze A Stahovacie Pasky Lana Camouflage",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-lana-camouflage"
+        }
+    ]
+}

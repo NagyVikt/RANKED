@@ -1,0 +1,26 @@
+{
+    "fetch_time": "2024-10-17T18:00:28.064178Z",
+    "products": [
+        {
+            "name": "Karabína PANIK otočná Ni 26x120mm",
+            "slug": "karabina-panik-otocna-ni-26x120mm_869",
+            "category_id": 144,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny Panik",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-panik"
+        },
+        {
+            "name": "Karabína PANIK s pevným okom Ni 13x102mm",
+            "slug": "karabina-panik-s-pevnym-okom-ni-13x102mm_867",
+            "category_id": 144,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny Panik",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-panik"
+        },
+        {
+            "name": "Karabína PANIK tvar D Ni 26x105mm",
+            "slug": "karabina-panik-tvar-d-ni-26x105mm_863",
+            "category_id": 144,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny Panik",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-panik"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "fetch_time": "2024-10-17T17:51:33.044037Z",
+    "products": [
+        {
+            "name": "Podpera vedenia PV15 BR",
+            "slug": "podpera-vedenia-pv15-br-pv15-br-b_20097",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Podpera vedenia PV17",
+            "slug": "podpera-vedenia-pv17-pv17_20098",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Podpera vedenia PV22",
+            "slug": "podpera-vedenia-pv22-pv22-bramac_20100",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Podpera vedenia PV22",
+            "slug": "podpera-vedenia-pv22-pv22-rovna_20105",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Podpera vedenia PV23",
+            "slug": "podpera-vedenia-pv23-pv23-rovna_20103",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Podpera vedenia PV23",
+            "slug": "podpera-vedenia-pv23-pv23-tocena_20104",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Svorka spojovacia SR03 B",
+            "slug": "svorka-spojovacia-sr03-b-gulatinapasovina_20116",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Svorka odkvapová SO",
+            "slug": "svorka-odkvapova-so-velka_20118",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Svorka odkvapová SO",
+            "slug": "svorka-odkvapova-so-mala_20117",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Svorka spojovacia SR02",
+            "slug": "svorka-spojovacia-sr02-paspas_20119",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Svorka SJ01",
+            "slug": "svorka-sj01_20121",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Svorka SZ",
+            "slug": "svorka-sz-skusobna_20126",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        },
+        {
+            "name": "Svorka spojovacia SP1",
+            "slug": "svorka-spojovacia-sp1_20120",
+            "category_id": 218,
+            "category_name": "Elektroinstalacny Material Podpery Drziaky Svorky",
+            "category_slug": "elektroinstalacny-material-podpery-drziaky-svorky"
+        }
+    ]
+}

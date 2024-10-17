@@ -1,0 +1,537 @@
+{
+    "fetch_time": "2024-10-17T18:05:41.977988Z",
+    "products": [
+        {
+            "name": "SVX   Nerezová lanová svorka DIN 741 3 mm",
+            "slug": "nerezova-lanova-svorka-din-741-3mm_5415",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Nerezová lanová svorka DIN 741 4 mm",
+            "slug": "nerezova-lanova-svorka-din-741-4mm_6988",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Nerezová lanová svorka DIN 741 5 mm",
+            "slug": "nerezova-lanova-svorka-din-741-5mm_5416",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Nerezová lanová svorka DIN 741 2 mm",
+            "slug": "nerezova-lanova-svorka-din-741-2mm_5413",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka SIMPLEX AISI316 4 mm",
+            "slug": "lanova-nerezova-svorka-simplex-aisi316-4mm_5489",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 4 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-4mm_5424",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka SIMPLEX AISI316 3 mm",
+            "slug": "lanova-nerezova-svorka-simplex-aisi316-3mm_5487",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka DUPLEX AISI316 4 mm",
+            "slug": "lanova-nerezova-svorka-duplex-aisi316-4mm_5479",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Nerezová lanová svorka DIN 741 6 mm",
+            "slug": "nerezova-lanova-svorka-din-741-6mm_5418",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia medená DIN 3093 3 mm",
+            "slug": "objimka-lisovacia-medena-din-3093-3-mm_10791",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 4 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-4mm_3250",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 5 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-5mm_5425",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia DIN 3093A 1 mm",
+            "slug": "objimka-lisovacia-din-3093a-1-mm_10757",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 3 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-3mm_3296",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 6 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-6mm_5426",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka SIMPLEX AISI316 8 mm",
+            "slug": "nerezova-lanova-svorka-simplex-aisi316-8mm_3276",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Nerezová lanová svorka DIN 741 10 mm",
+            "slug": "nerezova-lanova-svorka-din-741-10mm_5420",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka SIMPLEX AISI316 5 mm",
+            "slug": "lanova-nerezova-svorka-simplex-aisi316-5mm_5490",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia DIN 3093A 5 mm",
+            "slug": "objimka-lisovacia-din-3093a-5-mm_10788",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia DIN 3093A 3 mm",
+            "slug": "objimka-lisovacia-din-3093a-3-mm_10786",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia medená DIN 3093 2 mm",
+            "slug": "objimka-lisovacia-medena-din-3093-2-mm_10790",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 8 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-8mm_3254",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka DUPLEX AISI316 3 mm",
+            "slug": "lanova-nerezova-svorka-duplex-aisi316-3mm_5478",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 3 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-3mm_3249",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DUPLEX AISI316 6 mm",
+            "slug": "nerezova-lanova-svorka-duplex-aisi316-6mm_3284",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Nerezová lanová svorka DIN 741 8 mm",
+            "slug": "nerezova-lanova-svorka-din-741-8mm_5419",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka DUPLEX AISI316 5 mm",
+            "slug": "lanova-nerezova-svorka-duplex-aisi316-5mm_5480",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia DIN 3093A 6 mm",
+            "slug": "objimka-lisovacia-din-3093a-6-mm_10789",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 10 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-10mm_5428",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka SIMPLEX AISI316 6 mm",
+            "slug": "nerezova-lanova-svorka-simplex-aisi316-6mm_3275",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 6 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-6mm_3300",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka DUPLEX AISI316 6 mm",
+            "slug": "lanova-nerezova-svorka-duplex-aisi316-6mm_5481",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia medená DIN 3093 1,5 mm",
+            "slug": "objimka-lisovacia-medena-din-3093-15-mm_10758",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia DIN 3093A 1,5 mm",
+            "slug": "objimka-lisovacia-din-3093a-15-mm_10785",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia DIN 3093A 4 mm",
+            "slug": "objimka-lisovacia-din-3093a-4-mm_10787",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Objímka lisovacia medená DIN 3093 4 mm",
+            "slug": "objimka-lisovacia-medena-din-3093-4-mm_10792",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 14 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-14mm_5430",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 16 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-16mm_5431",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 18 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-18mm_5432",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 20 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-20mm_5433",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka DUPLEX AISI316 8 mm",
+            "slug": "lanova-nerezova-svorka-duplex-aisi316-8mm_5482",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka SIMPLEX AISI316 8 mm",
+            "slug": "lanova-nerezova-svorka-simplex-aisi316-8mm_5495",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 18 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-18mm_3260",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 4 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-4mm_6989",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 2 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-2mm_3247",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 5 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-5mm_3252",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 6 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-6mm_3253",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 10 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-10mm_3255",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 12 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-12mm_3257",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 14 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-14mm_3258",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 16 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-16mm_3259",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Lanová očnica nerezová AISI316 20 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-20mm_3261",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka SIMPLEX AISI316 2 mm",
+            "slug": "nerezova-lanova-svorka-simplex-aisi316-2mm_3265",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka SIMPLEX AISI316 3 mm",
+            "slug": "nerezova-lanova-svorka-simplex-aisi316-3mm_3271",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka SIMPLEX AISI316 4 mm",
+            "slug": "nerezova-lanova-svorka-simplex-aisi316-4mm_3272",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka SIMPLEX AISI316 5 mm",
+            "slug": "nerezova-lanova-svorka-simplex-aisi316-5mm_3273",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DUPLEX AISI316 2 mm",
+            "slug": "nerezova-lanova-svorka-duplex-aisi316-2mm_3278",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DUPLEX AISI316 3 mm",
+            "slug": "nerezova-lanova-svorka-duplex-aisi316-3mm_3281",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DUPLEX AISI316 4 mm",
+            "slug": "nerezova-lanova-svorka-duplex-aisi316-4mm_3282",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DUPLEX AISI316 5 mm",
+            "slug": "nerezova-lanova-svorka-duplex-aisi316-5mm_3283",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DUPLEX AISI316 8 mm",
+            "slug": "nerezova-lanova-svorka-duplex-aisi316-8mm_3285",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 2 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-2mm_3290",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 5 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-5mm_3298",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 8 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-8mm_3301",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 10 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-10mm_3302",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 12 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-12mm_3303",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 16 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-16mm_3305",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "Nerezová lanová svorka DIN 741 A4 20 mm",
+            "slug": "nerezova-lanova-svorka-din-741-a4-20mm_3308",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Nerezová lanová svorka DIN 741 12 mm",
+            "slug": "nerezova-lanova-svorka-din-741-12mm_5421",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka SIMPLEX AISI316 2 mm",
+            "slug": "lanova-nerezova-svorka-simplex-aisi316-2mm_5486",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka SIMPLEX AISI316 6 mm",
+            "slug": "lanova-nerezova-svorka-simplex-aisi316-6mm_5493",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová nerezová svorka DUPLEX AISI316 2 mm",
+            "slug": "lanova-nerezova-svorka-duplex-aisi316-2mm_5471",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 2 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-2mm_5422",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 3 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-3mm_5423",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 8 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-8mm_5427",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        },
+        {
+            "name": "SVX   Lanová očnica nerezová AISI316 A4 12 mm",
+            "slug": "lanova-ocnica-nerezova-aisi316-a4-12mm_5429",
+            "category_id": 271,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Lanove Prislusenstvo",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-lanove-prislusenstvo"
+        }
+    ]
+}

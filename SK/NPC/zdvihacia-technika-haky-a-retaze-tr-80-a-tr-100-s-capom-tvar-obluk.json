@@ -1,0 +1,236 @@
+{
+    "fetch_time": "2024-10-17T18:13:52.586549Z",
+    "products": [
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 2T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-2t_3962",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 3,25T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-325t_3969",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 1T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-1t_3960",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 4,75T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-475t_3971",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 1,5T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-15-t_3961",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 6,5T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-65-t_3839",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 0,75T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-075t_3959",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 17T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-17t_3983",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 8,5T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-85t_3976",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 9,5T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-95t_3979",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 1T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-1-t_3808",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 0,5T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-05t_3958",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 13,5T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-135t_3982",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 25T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-25t_3986",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 12T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-12t_3980",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 35T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-35t_3988",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 0,75T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-075-t_3833",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 1,5T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-15t_3834",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 2T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-2-t_3835",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 3,25T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-325-t_3837",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 4,75T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-475-t_3838",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 8,5T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-85-t_3840",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 9,5T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-95-t_3841",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 12T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-12-t_3842",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 13,5T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-135-t_3843",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 17T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-17-t_3845",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 25T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-25-t_3847",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 35T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-35-t_3849",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 55T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-55-t_3851",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 6,5T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-65t_3973",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 55T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-55t_3991",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "SVX   Strmeň pevnostný Tvar Oblúk s čapom 0,33T",
+            "slug": "strmen-pevnostny-tvar-obluk-s-capom-033t_7211",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        },
+        {
+            "name": "Pevnostný strmeň Tvar Oblúk s čapom 0,5T",
+            "slug": "pevnostny-strmen-tvar-obluk-s-capom-05-t_3832",
+            "category_id": 327,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 S Capom Tvar Obluk",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-s-capom-tvar-obluk"
+        }
+    ]
+}

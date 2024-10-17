@@ -1,0 +1,26 @@
+{
+    "fetch_time": "2024-10-17T17:51:18.262458Z",
+    "products": [
+        {
+            "name": "Kábel H05RR-F 3x1,5",
+            "slug": "kabel-h05rr-f-3x15-3x15mm_632",
+            "category_id": 178,
+            "category_name": "Elektroinstalacny Material Gumove Kable",
+            "category_slug": "elektroinstalacny-material-gumove-kable"
+        },
+        {
+            "name": "Kábel H05RR-F 3x1,0",
+            "slug": "kabel-h05rr-f-3x10-3x10mm_631",
+            "category_id": 178,
+            "category_name": "Elektroinstalacny Material Gumove Kable",
+            "category_slug": "elektroinstalacny-material-gumove-kable"
+        },
+        {
+            "name": "Kábel H05RR-F 3x2,5",
+            "slug": "kabel-h05rr-f-3x25-3x25mm_633",
+            "category_id": 178,
+            "category_name": "Elektroinstalacny Material Gumove Kable",
+            "category_slug": "elektroinstalacny-material-gumove-kable"
+        }
+    ]
+}

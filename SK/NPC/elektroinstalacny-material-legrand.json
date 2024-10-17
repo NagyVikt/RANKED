@@ -1,0 +1,726 @@
+{
+    "fetch_time": "2024-10-17T17:52:32.741775Z",
+    "products": [
+        {
+            "name": "LEGRAND   Valena 1 rámik biely",
+            "slug": "valena-1-ramik-biely-82x82x11mm_3547",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 1-zásuvka biela",
+            "slug": "valena-1-zasuvka-biela-71x71x40mm_3346",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 1 rámik béžový",
+            "slug": "valena-1-ramik-bezovy-82x82x11mm_3221",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.6 biely",
+            "slug": "valena-vypinac-c-6-biely-71x71x37mm_3377",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena záslepka biela",
+            "slug": "valena-zaslepka-biela_3546",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE 1 rámik biely",
+            "slug": "valena-life-1-ramik-biely-86x86x10mm_3196",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.5 biely",
+            "slug": "valena-vypinac-c-5-biely-71x71x37mm_3375",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé dvojzásuvka biela",
+            "slug": "niloe-dvojzasuvka-biela-86x104x44mm_2929",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.1 biely",
+            "slug": "valena-vypinac-c-1-biely-71x71x37mm_3373",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé vypínač č.1 biely",
+            "slug": "niloe-vypinac-c-1-biely-70x70x40mm_2802",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE 2 rámik biely",
+            "slug": "valena-life-2-ramik-biely-157x86x10mm_3197",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé vypínač č.6 biely",
+            "slug": "niloe-vypinac-c-6-biely-70x70x40mm_2816",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE 1-zásuvka biela",
+            "slug": "valena-life-1-zasuvka-biela-747x747x40mm_3192",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 1-zásuvka béžová",
+            "slug": "valena-1-zasuvka-bezova-71x71x40mm_3350",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE vypínač č.1 biely podsvietený",
+            "slug": "valena-life-vypinac-c-1-biely-podsvieteny-747x747x41mm_3568",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena dvojzásuvka biela",
+            "slug": "valena-dvojzasuvka-biela-82x122x53mm_3226",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE vypínač č.7 biely",
+            "slug": "valena-life-vypinac-c-7-biely-747x747x422mm_3152",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač žalúziový biely - tlačidlo",
+            "slug": "valena-vypinac-zaluziovy-biely-tlacidlo_3401",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé vypínač č.6+6 biely",
+            "slug": "niloe-vypinac-c-66-biely-758x758x455mm_2825",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé vypínač č.7 biely",
+            "slug": "niloe-vypinac-c-7-biely-758x758x455mm_2836",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE vypínač č.5 biely",
+            "slug": "valena-life-vypinac-c-5-biely-747x747x41mm_3143",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.6+6 biely",
+            "slug": "valena-vypinac-c-66-biely-71x71x37mm_3381",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.1 podsvietený biely",
+            "slug": "valena-vypinac-c-1-podsvieteny-biely-71x71x37mm_3385",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 2 rámik biely",
+            "slug": "valena-2-ramik-biely-82x82x11mm_3548",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE vypínač č.6 biely s podsvietením",
+            "slug": "valena-life-vypinac-c-6-biely-s-podsvietenim-747x747x41mm_3567",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE vypínač č.6 IP44 biely",
+            "slug": "valena-life-vypinac-c-6-ip44-biely-747x747x41mm_3569",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé 1 rámik biely",
+            "slug": "niloe-1-ramik-biely-85x85x10mm_3040",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé 2 rámik biely",
+            "slug": "niloe-2-ramik-biely-155x85x10mm_3041",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé 5 rámik biely",
+            "slug": "niloe-5-ramik-biely-370x85x10mm_3048",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 3 rámik biely",
+            "slug": "valena-3-ramik-biely-82x82x11mm_3549",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé zásuvka biela",
+            "slug": "niloe-zasuvka-biela-70x70x40mm_2817",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena otočný stmievač biely",
+            "slug": "valena-otocny-stmievac-biely_3201",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena zásuvka s krytom IP44 béžová",
+            "slug": "valena-zasuvka-s-krytom-ip44-bezova-71x71x51mm_3206",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.1 béžový",
+            "slug": "valena-vypinac-c-1-bezovy-71x71x37mm_3215",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena TV-RD priebežná zásuvka biela",
+            "slug": "valena-tv-rd-priebezna-zasuvka-biela_3421",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 5 rámik biely",
+            "slug": "valena-5-ramik-biely-82x82x11mm_3551",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 3 krabica na omietku béžová",
+            "slug": "valena-3-krabica-na-omietku-bezova-232x89x40-mm_3553",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé otočný stmievač biely",
+            "slug": "niloe-otocny-stmievac-biely-76x76x55mm_3566",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé 3 rámik biely",
+            "slug": "niloe-3-ramik-biely-228x85x10mm_3043",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé 4 rámik biely",
+            "slug": "niloe-4-ramik-biely-298x85x10mm_3044",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé vypínač č.5 biely",
+            "slug": "niloe-vypinac-c-5-biely-70x70x40mm_2809",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé záslepka biela",
+            "slug": "niloe-zaslepka-biela_20044",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé tlačidlo 1/0 biela",
+            "slug": "niloe-tlacidlo-10-biela-758x758x455mm_2815",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé zásuvka TV+R+SAT biela priebežná",
+            "slug": "niloe-zasuvka-tvrsat-biela-priebezna-70x70x40mm_2819",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé vypínač č.6 podsvietený biely",
+            "slug": "niloe-vypinac-c-6-podsvieteny-biely-70x70x34mm_2901",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé vypínač č.6 biely IP44",
+            "slug": "niloe-vypinac-c-6-biely-ip44-70x70x47mm_2928",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE 1-zásuvka béžová",
+            "slug": "valena-life-1-zasuvka-bezova-747x747x40mm_3195",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé zásuvka biela s krytom IP44",
+            "slug": "niloe-zasuvka-biela-s-krytom-ip44-71x71x27mm_2930",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE tlačidlo biele",
+            "slug": "valena-life-tlacidlo-biele-747x747x415mm_3170",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE zásuvka dátová 1xRJ45 Cat5e FTP biela",
+            "slug": "valena-life-zasuvka-datova-1xrj45-cat5e-ftp-biela-757545mm_3175",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE zásuvka dátová 2xRJ45 Cat5e FTP biela",
+            "slug": "valena-life-zasuvka-datova-2xrj45-cat5e-ftp-biela-757540mm_3179",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE zásuvka TV biela koncová",
+            "slug": "valena-life-zasuvka-tv-biela-koncova_3181",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé tlačidlo 1/0 biela",
+            "slug": "niloe-tlacidlo-10-biela-758x758x455mm_2815",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé zásuvka TV+R+SAT biela priebežná",
+            "slug": "niloe-zasuvka-tvrsat-biela-priebezna-70x70x40mm_2819",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé vypínač č.6 podsvietený biely",
+            "slug": "niloe-vypinac-c-6-podsvieteny-biely-70x70x34mm_2901",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé vypínač č.6 biely IP44",
+            "slug": "niloe-vypinac-c-6-biely-ip44-70x70x47mm_2928",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE 1-zásuvka béžová",
+            "slug": "valena-life-1-zasuvka-bezova-747x747x40mm_3195",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé zásuvka biela s krytom IP44",
+            "slug": "niloe-zasuvka-biela-s-krytom-ip44-71x71x27mm_2930",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé záslepka biela",
+            "slug": "niloe-zaslepka-biela_20044",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE TV-RD-SAT koncová zásuvka biela",
+            "slug": "valena-life-tv-rd-sat-koncova-zasuvka-biela_3185",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE TV-RD-SAT priebežná zásuvka biela",
+            "slug": "valena-life-tv-rd-sat-priebezna-zasuvka-biela_3188",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE 1-zásuvka s krytom IP44 biela",
+            "slug": "valena-life-1-zasuvka-s-krytom-ip44-biela-782x782x46mm_3190",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE dvojzásuvka biela",
+            "slug": "valena-life-dvojzasuvka-biela-86x114x44mm_3194",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE 3 rámik biely",
+            "slug": "valena-life-3-ramik-biely-228x86x10mm_3198",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE 4 rámik biely",
+            "slug": "valena-life-4-ramik-biely-299x86x10mm_3199",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena LIFE 5 rámik biely",
+            "slug": "valena-life-5-ramik-biely-370x86x10mm_3200",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 4 rámik béžový",
+            "slug": "valena-4-ramik-bezovy-295x82x11mm_3224",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.1 IP44 béžový",
+            "slug": "valena-vypinac-c-1-ip44-bezovy-71x71x37mm_3203",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena zásuvka dátová 2xRJ45 UTP béžová",
+            "slug": "valena-zasuvka-datova-2xrj45-utp-bezova_3207",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena zásuvka dátová 1xRJ45 UTP béžová",
+            "slug": "valena-zasuvka-datova-1xrj45-utp-bezova_3208",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.1 IP44 biely",
+            "slug": "valena-vypinac-c-1-ip44-biely-71x71x37mm_3210",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.6 IP44 biely",
+            "slug": "valena-vypinac-c-6-ip44-biely-71x71x37mm_3211",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena zásuvka s krytom IP44 biela",
+            "slug": "valena-zasuvka-s-krytom-ip44-biela-71x71x51mm_3212",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena zásuvka dátová 1xRJ45 UTP biela",
+            "slug": "valena-zasuvka-datova-1xrj45-utp-biela_3213",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena zásuvka dátová 2xRJ45 UTP biela",
+            "slug": "valena-zasuvka-datova-2xrj45-utp-biela_3214",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.5 béžový",
+            "slug": "valena-vypinac-c-5-bezovy-71x71x37mm_3216",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.6 béžový",
+            "slug": "valena-vypinac-c-6-bezovy-71x71x37mm_3217",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.7 béžový",
+            "slug": "valena-vypinac-c-7-bezovy-71x71x37mm_3218",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.6+6 béžový",
+            "slug": "valena-vypinac-c-66-bezovy-71x71x37mm_3219",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena TV-RD koncová zásuvka béžová",
+            "slug": "valena-tv-rd-koncova-zasuvka-bezova_3220",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 2 rámik béžový",
+            "slug": "valena-2-ramik-bezovy-153x82x11mm_3222",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 3 rámik béžový",
+            "slug": "valena-3-ramik-bezovy-224x82x11mm_3223",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 5 rámik béžový",
+            "slug": "valena-5-ramik-bezovy-366x82x11mm_3225",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.7 biely",
+            "slug": "valena-vypinac-c-7-biely-71x71x37mm_3380",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena tlačidlo č.1/0 biela",
+            "slug": "valena-tlacidlo-c-10-biela-71x71x37mm_3393",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena TV-RD koncová zásuvka biela",
+            "slug": "valena-tv-rd-koncova-zasuvka-biela_3415",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena TV-RD-SAT koncová zásuvka biela",
+            "slug": "valena-tv-rd-sat-koncova-zasuvka-biela_3431",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena TV-RD-SAT priebežná zásuvka biela",
+            "slug": "valena-tv-rd-sat-priebezna-zasuvka-biela_3436",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 4 rámik biely",
+            "slug": "valena-4-ramik-biely-82x82x11mm_3550",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 2 krabica na omietku béžová",
+            "slug": "valena-2-krabica-na-omietku-bezova-161x89x40mm_3552",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 1 krabica na omietku biela",
+            "slug": "valena-1-krabica-na-omietku-biela-89x89x40mm_3554",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 2 krabica na omietku biela",
+            "slug": "valena-2-krabica-na-omietku-biela-161x89x40mm_3555",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena 3 krabica na omietku biela",
+            "slug": "valena-3-krabica-na-omietku-biela-232x89x40mm_3556",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.6 IP44 béžový",
+            "slug": "valena-vypinac-c-6-ip44-bezovy-71x71x37mm_3557",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač žalúziový biely - spínač",
+            "slug": "valena-vypinac-zaluziovy-biely-spinac_3559",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena vypínač č.1 podsvietený béžový",
+            "slug": "valena-vypinac-c-1-podsvieteny-bezovy-71x71x37mm_3560",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé žalúziový vypínač biely",
+            "slug": "niloe-zaluziovy-vypinac-biely_3564",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Mosaic 1-zásuvka hliník",
+            "slug": "mosaic-1-zasuvka-hlinik-45x45x35mm_3570",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Pop-up krabica - matný hliník - 4 modul",
+            "slug": "pop-up-krabica-matny-hlinik-4-modul-1425x120x5mm_3571",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé zásuvka dátová 1xRJ45 kategórie 6 UTP biela",
+            "slug": "niloe-zasuvka-datova-1xrj45-kategorie-6-utp-biela_3029",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé zásuvka dátová 2xRJ45 kategórie 6 UTP biela",
+            "slug": "niloe-zasuvka-datova-2xrj45-kategorie-6-utp-biela_3032",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Niloé Krabica biela 1P",
+            "slug": "niloe-krabica-biela-1p-885x885x40mm_3037",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        },
+        {
+            "name": "LEGRAND   Valena dvojzásuvka béžová",
+            "slug": "valena-dvojzasuvka-bezova-82x122x53mm_3227",
+            "category_id": 185,
+            "category_name": "Elektroinstalacny Material Legrand",
+            "category_slug": "elektroinstalacny-material-legrand"
+        }
+    ]
+}

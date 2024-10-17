@@ -1,0 +1,19 @@
+{
+    "fetch_time": "2024-10-17T18:15:09.435957Z",
+    "products": [
+        {
+            "name": "Fischer   Statický zmiešavač pre chemické malty",
+            "slug": "staticky-zmiesavac-pre-chemicke-malty-univerzalny_129",
+            "category_id": 500,
+            "category_name": "Stavebna Chemia Zmiesace A Kefky",
+            "category_slug": "stavebna-chemia-zmiesace-a-kefky"
+        },
+        {
+            "name": "Fischer   Kefka na čistenie otvorov pred montážou",
+            "slug": "kefka-na-cistenie-otvorov-pred-montazou-univerzalny_181",
+            "category_id": 500,
+            "category_name": "Stavebna Chemia Zmiesace A Kefky",
+            "category_slug": "stavebna-chemia-zmiesace-a-kefky"
+        }
+    ]
+}

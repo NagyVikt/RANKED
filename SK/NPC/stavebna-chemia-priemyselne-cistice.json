@@ -1,0 +1,68 @@
+{
+    "fetch_time": "2024-10-17T18:16:45.777502Z",
+    "products": [
+        {
+            "name": "MASTERsil   Pohlcovač pachov 1L",
+            "slug": "pohlcovac-pachov-1l_784",
+            "category_id": 483,
+            "category_name": "Stavebna Chemia Priemyselne Cistice",
+            "category_slug": "stavebna-chemia-priemyselne-cistice"
+        },
+        {
+            "name": "MASTERsil   Silný čistič odpadov 1kg",
+            "slug": "silny-cistic-odpadov-1kg_780",
+            "category_id": 483,
+            "category_name": "Stavebna Chemia Priemyselne Cistice",
+            "category_slug": "stavebna-chemia-priemyselne-cistice"
+        },
+        {
+            "name": "MASTERsil   Odstraňovač vodného kameňa 1kg",
+            "slug": "odstranovac-vodneho-kamena-1kg_778",
+            "category_id": 483,
+            "category_name": "Stavebna Chemia Priemyselne Cistice",
+            "category_slug": "stavebna-chemia-priemyselne-cistice"
+        },
+        {
+            "name": "MASTERsil   Čistič Citrus 400ml",
+            "slug": "cistic-citrus-400ml_20444",
+            "category_id": 483,
+            "category_name": "Stavebna Chemia Priemyselne Cistice",
+            "category_slug": "stavebna-chemia-priemyselne-cistice"
+        },
+        {
+            "name": "MASTERsil   Čistič krbových skiel MR 750ml",
+            "slug": "cistic-krbovych-skiel-mr-750ml_793",
+            "category_id": 483,
+            "category_name": "Stavebna Chemia Priemyselne Cistice",
+            "category_slug": "stavebna-chemia-priemyselne-cistice"
+        },
+        {
+            "name": "MASTERsil   Čistič mastných povrchov 750ml",
+            "slug": "cistic-mastnych-povrchov-750ml_800",
+            "category_id": 483,
+            "category_name": "Stavebna Chemia Priemyselne Cistice",
+            "category_slug": "stavebna-chemia-priemyselne-cistice"
+        },
+        {
+            "name": "MASTERsil   Čistič kúpeľní 750ml",
+            "slug": "cistic-kupelni-750ml_805",
+            "category_id": 483,
+            "category_name": "Stavebna Chemia Priemyselne Cistice",
+            "category_slug": "stavebna-chemia-priemyselne-cistice"
+        },
+        {
+            "name": "MASTERsil   Čistič škár 750ml",
+            "slug": "cistic-skar-750ml_806",
+            "category_id": 483,
+            "category_name": "Stavebna Chemia Priemyselne Cistice",
+            "category_slug": "stavebna-chemia-priemyselne-cistice"
+        },
+        {
+            "name": "MASTERsil   Čistič okien 750ml",
+            "slug": "cistic-okien-750ml_820",
+            "category_id": 483,
+            "category_name": "Stavebna Chemia Priemyselne Cistice",
+            "category_slug": "stavebna-chemia-priemyselne-cistice"
+        }
+    ]
+}
