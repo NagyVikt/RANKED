@@ -4826,3 +4826,236 @@
 2024-10-17 18:27:06,511 - INFO - Fetching page 35 of category 'Reťazové a textilné úväzky'
 2024-10-17 18:27:06,612 - INFO - Fetching page 31 of category 'Spojovací a kotviaci materiál'
 2024-10-17 18:27:10,425 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=61
+2024-10-17 18:27:10,570 - INFO - Fetching page 62 of category 'Náradie'
+2024-10-17 18:27:11,284 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=77
+2024-10-17 18:27:11,408 - INFO - Fetching page 78 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:27:22,355 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=35
+2024-10-17 18:27:22,468 - INFO - Fetching page 36 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:27:22,628 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=31
+2024-10-17 18:27:22,799 - INFO - Fetching page 32 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:27:25,105 - INFO - Successfully fetched https://www.svx.sk/ochranne-pracovne-prostriedky-delta-plus-ochrana-tela/?p=18
+2024-10-17 18:27:25,320 - INFO - Fetching page 19 of category 'Ochranne Pracovne Prostriedky Delta Plus Ochrana Tela'
+2024-10-17 18:27:32,186 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=78
+2024-10-17 18:27:32,392 - INFO - Fetching page 79 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:27:36,274 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material-spojovaci-material/?p=31
+2024-10-17 18:27:36,392 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=62
+2024-10-17 18:27:36,465 - INFO - Fetching page 32 of category 'Spojovaci A Kotviaci Material Spojovaci Material'
+2024-10-17 18:27:36,523 - INFO - Fetching page 63 of category 'Náradie'
+2024-10-17 18:27:38,525 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=32
+2024-10-17 18:27:38,652 - INFO - Fetching page 33 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:27:41,245 - INFO - Successfully fetched https://www.svx.sk/ochranne-pracovne-prostriedky-delta-plus-ochrana-tela/?p=19
+2024-10-17 18:27:41,394 - INFO - Fetching page 20 of category 'Ochranne Pracovne Prostriedky Delta Plus Ochrana Tela'
+2024-10-17 18:27:48,258 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=79
+2024-10-17 18:27:48,274 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=36
+2024-10-17 18:27:48,383 - INFO - Fetching page 80 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:27:48,477 - INFO - Fetching page 37 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:27:52,559 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=63
+2024-10-17 18:27:52,806 - INFO - Fetching page 64 of category 'Náradie'
+2024-10-17 18:27:54,372 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=33
+2024-10-17 18:27:54,567 - INFO - Fetching page 34 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:27:57,251 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material-spojovaci-material/?p=32
+2024-10-17 18:27:57,493 - INFO - Fetching page 33 of category 'Spojovaci A Kotviaci Material Spojovaci Material'
+2024-10-17 18:28:04,231 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=37
+2024-10-17 18:28:04,361 - INFO - Fetching page 38 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:28:07,082 - INFO - Successfully fetched https://www.svx.sk/ochranne-pracovne-prostriedky-delta-plus-ochrana-tela/?p=20
+2024-10-17 18:28:07,249 - INFO - Fetching page 21 of category 'Ochranne Pracovne Prostriedky Delta Plus Ochrana Tela'
+2024-10-17 18:28:09,225 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=80
+2024-10-17 18:28:09,349 - INFO - Fetching page 81 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:28:10,567 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=34
+2024-10-17 18:28:10,683 - INFO - Fetching page 35 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:28:18,989 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=64
+2024-10-17 18:28:19,105 - INFO - Fetching page 65 of category 'Náradie'
+2024-10-17 18:28:20,369 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=38
+2024-10-17 18:28:20,490 - INFO - Fetching page 39 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:28:23,033 - INFO - Successfully fetched https://www.svx.sk/ochranne-pracovne-prostriedky-delta-plus-ochrana-tela/?p=21
+2024-10-17 18:28:23,209 - INFO - Fetching page 22 of category 'Ochranne Pracovne Prostriedky Delta Plus Ochrana Tela'
+2024-10-17 18:28:25,115 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=81
+2024-10-17 18:28:25,358 - INFO - Fetching page 82 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:28:31,504 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=35
+2024-10-17 18:28:31,635 - INFO - Fetching page 36 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:28:34,849 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=65
+2024-10-17 18:28:35,026 - INFO - Fetching page 66 of category 'Náradie'
+2024-10-17 18:28:38,935 - INFO - Successfully fetched https://www.svx.sk/ochranne-pracovne-prostriedky-delta-plus-ochrana-tela/?p=22
+2024-10-17 18:28:39,073 - INFO - Fetching page 23 of category 'Ochranne Pracovne Prostriedky Delta Plus Ochrana Tela'
+2024-10-17 18:28:41,102 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=82
+2024-10-17 18:28:41,237 - INFO - Fetching page 83 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:28:41,787 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=39
+2024-10-17 18:28:42,005 - INFO - Fetching page 40 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:28:50,737 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=66
+2024-10-17 18:28:50,870 - INFO - Fetching page 67 of category 'Náradie'
+2024-10-17 18:28:52,305 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=36
+2024-10-17 18:28:52,506 - INFO - Fetching page 37 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:28:53,744 - ERROR - Error fetching https://www.svx.sk/spojovaci-a-kotviaci-material-spojovaci-material/?p=33: 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=4ce5d066b1d682c4fe042f95ef56fdc5&url=https%3A%2F%2Fwww.svx.sk%2Fspojovaci-a-kotviaci-material-spojovaci-material%2F%3Fp%3D33&render=true&device_type=desktop&wait_for_selector=.product-card-wrapper
+2024-10-17 18:28:53,744 - ERROR - An error occurred while scraping category 'Spojovaci A Kotviaci Material Spojovaci Material': 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=4ce5d066b1d682c4fe042f95ef56fdc5&url=https%3A%2F%2Fwww.svx.sk%2Fspojovaci-a-kotviaci-material-spojovaci-material%2F%3Fp%3D33&render=true&device_type=desktop&wait_for_selector=.product-card-wrapper
+2024-10-17 18:28:55,191 - INFO - Successfully fetched https://www.svx.sk/ochranne-pracovne-prostriedky-delta-plus-ochrana-tela/?p=23
+2024-10-17 18:28:55,394 - INFO - Fetching page 24 of category 'Ochranne Pracovne Prostriedky Delta Plus Ochrana Tela'
+2024-10-17 18:29:02,962 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=40
+2024-10-17 18:29:03,131 - INFO - Fetching page 41 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:29:06,979 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=83
+2024-10-17 18:29:07,162 - INFO - Fetching page 84 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:29:08,159 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=37
+2024-10-17 18:29:08,259 - INFO - Fetching page 38 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:29:11,155 - INFO - Successfully fetched https://www.svx.sk/ochranne-pracovne-prostriedky-delta-plus-ochrana-tela/?p=24
+2024-10-17 18:29:11,307 - INFO - Fetching page 25 of category 'Ochranne Pracovne Prostriedky Delta Plus Ochrana Tela'
+2024-10-17 18:29:18,978 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=41
+2024-10-17 18:29:19,200 - INFO - Fetching page 42 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:29:23,994 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=38
+2024-10-17 18:29:24,142 - INFO - Fetching page 39 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:29:26,720 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=67
+2024-10-17 18:29:26,861 - INFO - Fetching page 68 of category 'Náradie'
+2024-10-17 18:29:27,884 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=84
+2024-10-17 18:29:27,994 - INFO - Fetching page 85 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:29:35,350 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=42
+2024-10-17 18:29:35,482 - INFO - Fetching page 43 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:29:39,873 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=39
+2024-10-17 18:29:40,099 - INFO - Fetching page 40 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:29:42,466 - INFO - Successfully fetched https://www.svx.sk/ochranne-pracovne-prostriedky-delta-plus-ochrana-tela/?p=25
+2024-10-17 18:29:42,687 - INFO - Fetching page 26 of category 'Ochranne Pracovne Prostriedky Delta Plus Ochrana Tela'
+2024-10-17 18:29:42,832 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=68
+2024-10-17 18:29:43,089 - INFO - Fetching page 69 of category 'Náradie'
+2024-10-17 18:29:43,744 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=85
+2024-10-17 18:29:43,883 - INFO - Fetching page 86 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:29:56,232 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=43
+2024-10-17 18:29:56,369 - INFO - Fetching page 44 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:29:59,160 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=69
+2024-10-17 18:29:59,283 - INFO - Fetching page 70 of category 'Náradie'
+2024-10-17 18:29:59,624 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=86
+2024-10-17 18:29:59,797 - INFO - Fetching page 87 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:30:00,942 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=40
+2024-10-17 18:30:01,075 - INFO - Fetching page 41 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:30:03,413 - INFO - Successfully fetched https://www.svx.sk/ochranne-pracovne-prostriedky-delta-plus-ochrana-tela/?p=26
+2024-10-17 18:30:03,612 - INFO - Total products found in category 'Ochranne Pracovne Prostriedky Delta Plus Ochrana Tela': 617
+2024-10-17 18:30:03,614 - INFO - Total products scraped: 617
+2024-10-17 18:30:03,621 - INFO - Products saved to ochranne-pracovne-prostriedky-delta-plus-ochrana-tela.json with fetch time 2024-10-17T18:30:03.615806Z.
+2024-10-17 18:30:17,220 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=44
+2024-10-17 18:30:17,463 - INFO - Fetching page 45 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:30:19,953 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=70
+2024-10-17 18:30:20,085 - INFO - Fetching page 71 of category 'Náradie'
+2024-10-17 18:30:20,643 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=87
+2024-10-17 18:30:20,783 - INFO - Fetching page 88 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:30:21,895 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=41
+2024-10-17 18:30:22,075 - INFO - Fetching page 42 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:30:31,494 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=88
+2024-10-17 18:30:31,617 - INFO - Fetching page 89 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:30:33,241 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=45
+2024-10-17 18:30:33,383 - INFO - Fetching page 46 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:30:35,897 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=71
+2024-10-17 18:30:36,106 - INFO - Fetching page 72 of category 'Náradie'
+2024-10-17 18:30:42,885 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=42
+2024-10-17 18:30:43,026 - INFO - Fetching page 43 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:30:49,174 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=46
+2024-10-17 18:30:49,375 - INFO - Fetching page 47 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:30:51,828 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=72
+2024-10-17 18:30:51,945 - INFO - Fetching page 73 of category 'Náradie'
+2024-10-17 18:30:52,413 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=89
+2024-10-17 18:30:52,637 - INFO - Fetching page 90 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:31:02,852 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=73
+2024-10-17 18:31:03,080 - INFO - Fetching page 74 of category 'Náradie'
+2024-10-17 18:31:06,311 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=47
+2024-10-17 18:31:06,437 - INFO - Fetching page 48 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:31:08,791 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=43
+2024-10-17 18:31:08,926 - INFO - Fetching page 44 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:31:18,917 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=90
+2024-10-17 18:31:19,055 - INFO - Fetching page 91 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:31:22,531 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=48
+2024-10-17 18:31:22,634 - INFO - Fetching page 49 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:31:28,997 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=74
+2024-10-17 18:31:29,138 - INFO - Fetching page 75 of category 'Náradie'
+2024-10-17 18:31:29,664 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=44
+2024-10-17 18:31:29,857 - INFO - Fetching page 45 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:31:34,753 - INFO - Successfully fetched https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=91
+2024-10-17 18:31:34,947 - INFO - Fetching page 92 of category 'Lanové príslušenstvo a nerezový program'
+2024-10-17 18:31:38,338 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=49
+2024-10-17 18:31:38,593 - INFO - Fetching page 50 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:31:45,717 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=45
+2024-10-17 18:31:45,869 - INFO - Fetching page 46 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:31:49,970 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=75
+2024-10-17 18:31:50,106 - INFO - Fetching page 76 of category 'Náradie'
+2024-10-17 18:31:59,437 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=50
+2024-10-17 18:31:59,574 - INFO - Fetching page 51 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:32:06,125 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=76
+2024-10-17 18:32:06,401 - INFO - Fetching page 77 of category 'Náradie'
+2024-10-17 18:32:11,692 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=46
+2024-10-17 18:32:11,802 - INFO - Fetching page 47 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:32:15,210 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=51
+2024-10-17 18:32:15,323 - INFO - Fetching page 52 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:32:22,565 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=77
+2024-10-17 18:32:22,693 - INFO - Fetching page 78 of category 'Náradie'
+2024-10-17 18:32:27,670 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=47
+2024-10-17 18:32:27,903 - INFO - Fetching page 48 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:32:31,193 - ERROR - Error fetching https://www.svx.sk/lanove-prislusenstvo-a-nerezovy-program/?p=92: 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=4ce5d066b1d682c4fe042f95ef56fdc5&url=https%3A%2F%2Fwww.svx.sk%2Flanove-prislusenstvo-a-nerezovy-program%2F%3Fp%3D92&render=true&device_type=desktop&wait_for_selector=.product-card-wrapper
+2024-10-17 18:32:31,193 - ERROR - An error occurred while scraping category 'Lanové príslušenstvo a nerezový program': 500 Server Error: Internal Server Error for url: http://api.scraperapi.com/?api_key=4ce5d066b1d682c4fe042f95ef56fdc5&url=https%3A%2F%2Fwww.svx.sk%2Flanove-prislusenstvo-a-nerezovy-program%2F%3Fp%3D92&render=true&device_type=desktop&wait_for_selector=.product-card-wrapper
+2024-10-17 18:32:31,299 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=52
+2024-10-17 18:32:31,491 - INFO - Fetching page 53 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:32:38,603 - INFO - Successfully fetched https://www.svx.sk/naradie/?p=78
+2024-10-17 18:32:38,693 - INFO - Total products found in category 'Náradie': 1852
+2024-10-17 18:32:38,694 - INFO - Total products scraped: 1852
+2024-10-17 18:32:38,704 - INFO - Products saved to naradie.json with fetch time 2024-10-17T18:32:38.694861Z.
+2024-10-17 18:32:38,719 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=48
+2024-10-17 18:32:38,839 - INFO - Fetching page 49 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:32:47,565 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=53
+2024-10-17 18:32:47,698 - INFO - Fetching page 54 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:32:49,616 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=49
+2024-10-17 18:32:49,735 - INFO - Fetching page 50 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:33:03,758 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=54
+2024-10-17 18:33:03,945 - INFO - Fetching page 55 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:33:18,438 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=50
+2024-10-17 18:33:18,620 - INFO - Fetching page 51 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:33:24,829 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=55
+2024-10-17 18:33:24,952 - INFO - Fetching page 56 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:33:39,319 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=51
+2024-10-17 18:33:39,462 - INFO - Fetching page 52 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:33:40,889 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=56
+2024-10-17 18:33:41,031 - INFO - Fetching page 57 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:33:55,322 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=52
+2024-10-17 18:33:55,516 - INFO - Fetching page 53 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:34:01,775 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=57
+2024-10-17 18:34:02,012 - INFO - Fetching page 58 of category 'Reťazové a textilné úväzky'
+2024-10-17 18:34:16,523 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=53
+2024-10-17 18:34:16,650 - INFO - Fetching page 54 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:34:22,852 - INFO - Successfully fetched https://www.svx.sk/retazove-a-textilne-uvazky/?p=58
+2024-10-17 18:34:22,962 - INFO - Total products found in category 'Reťazové a textilné úväzky': 1382
+2024-10-17 18:34:22,963 - INFO - Total products scraped: 1382
+2024-10-17 18:34:22,972 - INFO - Products saved to retazove-a-textilne-uvazky.json with fetch time 2024-10-17T18:34:22.963961Z.
+2024-10-17 18:34:32,644 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=54
+2024-10-17 18:34:32,769 - INFO - Fetching page 55 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:34:48,465 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=55
+2024-10-17 18:34:48,675 - INFO - Fetching page 56 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:35:04,394 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=56
+2024-10-17 18:35:04,564 - INFO - Fetching page 57 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:35:20,340 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=57
+2024-10-17 18:35:20,468 - INFO - Fetching page 58 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:35:41,428 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=58
+2024-10-17 18:35:41,637 - INFO - Fetching page 59 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:36:02,784 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=59
+2024-10-17 18:36:02,929 - INFO - Fetching page 60 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:36:39,486 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=60
+2024-10-17 18:36:39,678 - INFO - Fetching page 61 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:36:55,810 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=61
+2024-10-17 18:36:55,963 - INFO - Fetching page 62 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:37:16,842 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=62
+2024-10-17 18:37:16,972 - INFO - Fetching page 63 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:37:33,112 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=63
+2024-10-17 18:37:33,313 - INFO - Fetching page 64 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:37:54,058 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=64
+2024-10-17 18:37:54,182 - INFO - Fetching page 65 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:38:14,920 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=65
+2024-10-17 18:38:15,142 - INFO - Fetching page 66 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:38:41,103 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=66
+2024-10-17 18:38:41,231 - INFO - Fetching page 67 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:39:12,082 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=67
+2024-10-17 18:39:12,214 - INFO - Fetching page 68 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:39:28,360 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=68
+2024-10-17 18:39:28,627 - INFO - Fetching page 69 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:39:44,375 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=69
+2024-10-17 18:39:44,508 - INFO - Fetching page 70 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:40:15,431 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=70
+2024-10-17 18:40:15,582 - INFO - Fetching page 71 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:40:36,409 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=71
+2024-10-17 18:40:36,608 - INFO - Fetching page 72 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:41:02,429 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=72
+2024-10-17 18:41:02,600 - INFO - Fetching page 73 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:41:23,476 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=73
+2024-10-17 18:41:23,688 - INFO - Fetching page 74 of category 'Spojovací a kotviaci materiál'
+2024-10-17 18:41:44,568 - INFO - Successfully fetched https://www.svx.sk/spojovaci-a-kotviaci-material/?p=74
+2024-10-17 18:41:44,686 - INFO - Fetching page 75 of category 'Spojovací a kotviaci materiál'
