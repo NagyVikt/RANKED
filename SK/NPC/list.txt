@@ -1,3 +1,7 @@
+python product_scraper.py --category_slug "ochranne-pracovne-prostriedky-delta-plus-kotviace-zariadenia-systemy-na-udrziavanie-pracovnej-polohy" --categories "filtered_categories.json" --output "ochranne-pracovne-prostriedky-delta-plus-kotviace-zariadenia-systemy-na-udrziavanie-pracovnej-polohy.json"
+
+
+
 
 "domacnost-a-drogeria"
   "domacnost-a-drogeria-5-tycove-susiaky"
@@ -194,7 +198,10 @@
   "ochranne-pracovne-prostriedky-delta-plus"
   "ochranne-pracovne-prostriedky-delta-plus-ciapky-kukly-siltovky-rukavice"
   "ochranne-pracovne-prostriedky-delta-plus-dazd"
-  "CUCC-dealt-kotviace-zariadenia-systemy-na-udrziavanie-pracovnej-polohy"
+  "ochranne-pracovne-prostriedky-delta-plus-kotviace-zariadenia-systemy-na-udrziavanie-pracovnej-polohy"
+
+
+
   "ochranne-pracovne-prostriedky-delta-plus-ochrana-dychacich-ciest"
   "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
   "ochranne-pracovne-prostriedky-delta-plus-ochrana-lebky"
@@ -373,8 +380,16 @@
   "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-lanove-haky"
   "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-lesnicky-program"
   "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-nahradne-diely"
-  "CUCC-nahradne-diely-pre-samozaistovacie-haky"
-  "CUCC-nahradne-diely-pre-spojovacie-clanky"
+
+python product_scraper.py --category_slug  "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-nahradne-diely-pre-samozaistovacie-haky" --categories "filtered_categories.json" --output  "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-nahradne-diely-pre-samozaistovacie-haky.json"
+
+
+  "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-nahradne-diely-pre-samozaistovacie-haky"
+python product_scraper.py --category_slug "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-nahradne-diely-pre-spojovacie-clanky" --categories "filtered_categories.json" --output 
+  "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-nahradne-diely-pre-spojovacie-clanky.json"
+
+
+  "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-nahradne-diely-pre-spojovacie-clanky"
 
 
 
