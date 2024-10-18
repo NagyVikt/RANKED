@@ -1,0 +1,54 @@
+{
+    "fetch_time": "2024-10-17T18:00:24.247627Z",
+    "products": [
+        {
+            "name": "Karabína s krúžkom zn 8mm",
+            "slug": "karabina-s-kruzkom-zn-8x80mm_889",
+            "category_id": 130,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny S Kruzkom",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-s-kruzkom"
+        },
+        {
+            "name": "Karabína s krúžkom zn 10mm",
+            "slug": "karabina-s-kruzkom-zn-10x100mm_891",
+            "category_id": 130,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny S Kruzkom",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-s-kruzkom"
+        },
+        {
+            "name": "Karabína s krúžkom zn 6mm",
+            "slug": "karabina-s-kruzkom-zn-6x60mm_887",
+            "category_id": 130,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny S Kruzkom",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-s-kruzkom"
+        },
+        {
+            "name": "Karabína s krúžkom zn 5mm",
+            "slug": "karabina-s-kruzkom-zn-5x50mm_886",
+            "category_id": 130,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny S Kruzkom",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-s-kruzkom"
+        },
+        {
+            "name": "Karabína s krúžkom zn 7mm",
+            "slug": "karabina-s-kruzkom-zn-7x70mm_888",
+            "category_id": 130,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny S Kruzkom",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-s-kruzkom"
+        },
+        {
+            "name": "Karabína s krúžkom zn 4mm",
+            "slug": "karabina-s-kruzkom-zn-4x40mm_884",
+            "category_id": 130,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny S Kruzkom",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-s-kruzkom"
+        },
+        {
+            "name": "Karabína s krúžkom zn 9mm",
+            "slug": "karabina-s-kruzkom-zn-9x90mm_890",
+            "category_id": 130,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Karabiny S Kruzkom",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-karabiny-s-kruzkom"
+        }
+    ]
+}

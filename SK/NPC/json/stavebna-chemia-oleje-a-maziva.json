@@ -1,0 +1,40 @@
+{
+    "fetch_time": "2024-10-17T18:16:45.601200Z",
+    "products": [
+        {
+            "name": "WD 40 company   Univerzálne mazivo WD 40-200ml",
+            "slug": "univerzalne-mazivo-wd-40-200-ml_12705",
+            "category_id": 486,
+            "category_name": "Stavebna Chemia Oleje A Maziva",
+            "category_slug": "stavebna-chemia-oleje-a-maziva"
+        },
+        {
+            "name": "WD 40 company   Univerzálne mazivo WD 40-450ml",
+            "slug": "univerzalne-mazivo-wd-40-450-ml_12708",
+            "category_id": 486,
+            "category_name": "Stavebna Chemia Oleje A Maziva",
+            "category_slug": "stavebna-chemia-oleje-a-maziva"
+        },
+        {
+            "name": "WD 40 company   Univerzálne mazivo WD 40-100ml",
+            "slug": "univerzalne-mazivo-wd-40-100-ml_12700",
+            "category_id": 486,
+            "category_name": "Stavebna Chemia Oleje A Maziva",
+            "category_slug": "stavebna-chemia-oleje-a-maziva"
+        },
+        {
+            "name": "WD 40 company   Univerzálne mazivo WD 40-250ml",
+            "slug": "univerzalne-mazivo-wd-40-250-ml_12706",
+            "category_id": 486,
+            "category_name": "Stavebna Chemia Oleje A Maziva",
+            "category_slug": "stavebna-chemia-oleje-a-maziva"
+        },
+        {
+            "name": "WD 40 company   Univerzálne mazivo WD 40-400ml",
+            "slug": "univerzalne-mazivo-wd-40-400-ml_12707",
+            "category_id": 486,
+            "category_name": "Stavebna Chemia Oleje A Maziva",
+            "category_slug": "stavebna-chemia-oleje-a-maziva"
+        }
+    ]
+}

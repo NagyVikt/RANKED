@@ -1,0 +1,257 @@
+{
+    "fetch_time": "2024-10-17T18:10:02.095880Z",
+    "products": [
+        {
+            "name": "FORTUM   Kliešte cvikacie káblové 200 mm",
+            "slug": "klieste-cvikacie-kablove-200-mm-vde200mm-fortum_19484",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte cvikacie káblové 160 mm",
+            "slug": "klieste-cvikacie-kablove-160-mm-vde160mm-fortum_19483",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte polguľaté priame 160 mm",
+            "slug": "klieste-polgulate-priame-160-mm-160mm-vde-1000v-extol_19481",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte polguľaté priame 160 mm",
+            "slug": "klieste-polgulate-priame-160-mm-160mm-extol_19496",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte kombinované 160 mm",
+            "slug": "klieste-kombinovane-160-mm-160mm-vde-extol_19478",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Nožnice na plech pravé 255 mm",
+            "slug": "noznice-na-plech-prave-255-mm-255-mm-extol_19500",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte cvikacie bočné 190 mm",
+            "slug": "klieste-cvikacie-bocne-190-mm-190mm-extol_19499",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Hasák kovaný 320 mm",
+            "slug": "hasak-kovany-320-mm-320mm-extol_19504",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Nožnice na plech ľavé 255 mm",
+            "slug": "noznice-na-plech-lave-255-mm-255mm-extol_19501",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte polguľaté zahnuté 160 mm",
+            "slug": "klieste-polgulate-zahnute-160-mm-160mm-vde-1000v-extol_19482",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte segerové priame, vonkajšie",
+            "slug": "klieste-segerove-priame-vonkajsie-240mm-fortum_19470",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte segerové priame, vonkajšie",
+            "slug": "klieste-segerove-priame-vonkajsie-180mm-fortum_19469",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte segerové priame, vonkajšie",
+            "slug": "klieste-segerove-priame-vonkajsie-140mm-fortum_19468",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte kombinované 200 mm",
+            "slug": "klieste-kombinovane-200-mm-200mm-vde-extol_19479",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte cvikacie bočné 160 mm",
+            "slug": "klieste-cvikacie-bocne-160-mm-160mm-vde-extol_19480",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte kombinované 160 mm",
+            "slug": "klieste-kombinovane-160-mm-160mm-fortum_19485",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte polguľaté priame 160 mm",
+            "slug": "klieste-polgulate-priame-160-mm-160mm-fortum_19486",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte cvikacie bočné 100 mm",
+            "slug": "klieste-cvikacie-bocne-100-mm-100mm-fortum_19487",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte cvikacie bočné zosilnené 200 mm",
+            "slug": "klieste-cvikacie-bocne-zosilnene-200-mm-200mm-fortum_19490",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte polguľaté zahnuté 200 mm",
+            "slug": "klieste-polgulate-zahnute-200-mm-200mm-fortum_19492",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte kombinované 160 mm",
+            "slug": "klieste-kombinovane-160-mm-160mm-extol_19493",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte kombinované 180 mm",
+            "slug": "klieste-kombinovane-180-mm-180mm-extol_19494",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte kombinované 200 mm",
+            "slug": "klieste-kombinovane-200-mm-200mm-extol_19495",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte cvikacie bočné 125 mm",
+            "slug": "klieste-cvikacie-bocne-125-mm-125mm-fortum_19488",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte cvikacie bočné 150 mm",
+            "slug": "klieste-cvikacie-bocne-150-mm-150mm-fortum_19489",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte polguľaté zahnuté 160 mm",
+            "slug": "klieste-polgulate-zahnute-160-mm-160mm-fortum_19491",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte polguľaté zahnuté 160 mm",
+            "slug": "klieste-polgulate-zahnute-160-mm-160mm-extol_19497",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Hasák kovaný 420 mm",
+            "slug": "hasak-kovany-420-mm-420mm-extol_19505",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte segerové zahnuté, vonkajšie 240mm",
+            "slug": "klieste-segerove-zahnute-vonkajsie-240mm-fortum_19476",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte segerové zahnuté, vonkajšie 180mm",
+            "slug": "klieste-segerove-zahnute-vonkajsie-180mm-fortum_19475",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte segerové zahnuté, vonkajšie 140mm",
+            "slug": "klieste-segerove-zahnute-vonkajsie-140mm-fortum_19474",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte segerové zahnuté, vnútorné 240mm",
+            "slug": "klieste-segerove-zahnute-vnutorne-240mm_19473",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte segerové zahnuté, vnútorné 180mm",
+            "slug": "klieste-segerove-zahnute-vnutorne-180mm-fortum_19472",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "FORTUM   Kliešte segerové zahnuté, vnútorné 140mm",
+            "slug": "klieste-segerove-zahnute-vnutorne-140mm-fortum_19471",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Kliešte cvikacie bočné 160 mm",
+            "slug": "klieste-cvikacie-bocne-160-mm-160mm-extol_19498",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        },
+        {
+            "name": "EXTOL   Nožnice na plech rovné 255 mm",
+            "slug": "noznice-na-plech-rovne-255-mm-255mm-extol_19502",
+            "category_id": 315,
+            "category_name": "Naradie Klieste A Noznice",
+            "category_slug": "naradie-klieste-a-noznice"
+        }
+    ]
+}

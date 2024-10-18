@@ -1,0 +1,26 @@
+{
+    "fetch_time": "2024-10-17T18:20:10.418588Z",
+    "products": [
+        {
+            "name": "Domax   Záves trojuholníkový ozdobný ZTO 150",
+            "slug": "zaves-trojuholnikovy-ozdobny-zto-150-150x45x185_11025",
+            "category_id": 369,
+            "category_name": "Patky Uholniky A Kovania Ozdobne",
+            "category_slug": "patky-uholniky-a-kovania-ozdobne"
+        },
+        {
+            "name": "Domax   Záves trojuholníkový ozdobný ZTO 200",
+            "slug": "zaves-trojuholnikovy-ozdobny-zto-200-200x50x190-mm_11049",
+            "category_id": 369,
+            "category_name": "Patky Uholniky A Kovania Ozdobne",
+            "category_slug": "patky-uholniky-a-kovania-ozdobne"
+        },
+        {
+            "name": "Domax   Záves trojuholníkový ozdobný ZTO 125",
+            "slug": "zaves-trojuholnikovy-ozdobny-zto-125-125x40x160-mm_11050",
+            "category_id": 369,
+            "category_name": "Patky Uholniky A Kovania Ozdobne",
+            "category_slug": "patky-uholniky-a-kovania-ozdobne"
+        }
+    ]
+}

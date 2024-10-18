@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T18:15:10.215083Z",
+    "products": [
+        {
+            "name": "CONROP   Big bag 91x91x120cm",
+            "slug": "big-bag-91x91x120cm-1500-kg_20284",
+            "category_id": 472,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Big Bagy",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-big-bagy"
+        },
+        {
+            "name": "CONROP   Big bag 85x85x95cm",
+            "slug": "big-bag-85x85x95cm_20285",
+            "category_id": 472,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Big Bagy",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-big-bagy"
+        },
+        {
+            "name": "CONROP   Big bag s násypkou 95x95x160cm",
+            "slug": "big-bag-s-nasypkou-95x95x160cm_20286",
+            "category_id": 472,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Big Bagy",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-big-bagy"
+        },
+        {
+            "name": "CONROP   Big bag 70x70x75cm",
+            "slug": "big-bag-70x70x75cm_20287",
+            "category_id": 472,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Big Bagy",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-big-bagy"
+        }
+    ]
+}

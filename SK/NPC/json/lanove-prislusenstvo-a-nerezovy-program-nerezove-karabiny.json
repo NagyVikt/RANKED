@@ -1,0 +1,264 @@
+{
+    "fetch_time": "2024-10-17T18:04:52.891438Z",
+    "products": [
+        {
+            "name": "Nerezová karabína DIN 5299C A4 4 mm",
+            "slug": "nerezova-karabina-din-5299c-a4-4x40mm_3314",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína DIN 5299C A4 6 mm",
+            "slug": "nerezova-karabina-din-5299c-a4-6x60mm_3322",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína otočná A4 80 mm",
+            "slug": "nerezova-karabina-otocna-a4-80x16-mm_10781",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína DIN 5299C A4 5 mm",
+            "slug": "nerezova-karabina-din-5299c-a4-5x50mm_3321",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína DIN 5299C A4 7 mm",
+            "slug": "nerezova-karabina-din-5299c-a4-7x70mm_3324",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína s maticou A4 4 mm",
+            "slug": "nerezova-karabina-s-maticou-a4-4mm_3513",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína s maticou A4 8 mm",
+            "slug": "nerezova-karabina-s-maticou-a4-8mm_3522",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína DIN 5299C A4 8 mm",
+            "slug": "nerezova-karabina-din-5299c-a4-8x80mm_3325",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína s maticou A4 6 mm",
+            "slug": "nerezova-karabina-s-maticou-a4-6mm_3518",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína obojstranná 102 mm",
+            "slug": "nerezova-karabina-obojstranna-102-mm_10756",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "SVX   Nerezová karabína DIN 5299C 12 mm",
+            "slug": "nerezova-karabina-din-5299c-12x140mm_5411",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "SVX   Nerezová karabína DIN 5299C 11 mm",
+            "slug": "nerezova-karabina-din-5299c-11x120mm_5409",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína s maticou A4 7 mm",
+            "slug": "nerezova-karabina-s-maticou-a4-7mm_3521",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína otočná A4 113 mm",
+            "slug": "nerezova-karabina-otocna-a4-113x32-mm_10784",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína otočná A4 104 mm",
+            "slug": "nerezova-karabina-otocna-a4-104x26-mm_10783",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína otočná A4 90 mm",
+            "slug": "nerezova-karabina-otocna-a4-90x20-mm_10782",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "SVX   Nerezová karabína DIN 5299C 10 mm",
+            "slug": "nerezova-karabina-din-5299c-10x100mm_5408",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "SVX   Nerezová karabína DIN 5299C 9 mm",
+            "slug": "nerezova-karabina-din-5299c-9x90mm_5406",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "SVX   Nerezová karabína DIN 5299C 8 mm",
+            "slug": "nerezova-karabina-din-5299c-8x80mm_5405",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "SVX   Nerezová karabína DIN 5299C 7 mm",
+            "slug": "nerezova-karabina-din-5299c-7x70mm_5404",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "SVX   Nerezová karabína DIN 5299C 6 mm",
+            "slug": "nerezova-karabina-din-5299c-6x60mm_5403",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "SVX   Nerezová karabína DIN 5299C 5 mm",
+            "slug": "nerezova-karabina-din-5299c-5x50mm_5401",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "SVX   Nerezová karabína DIN 5299C 4 mm",
+            "slug": "nerezova-karabina-din-5299c-4x40mm_5400",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína DIN 5299C A4 12 mm",
+            "slug": "nerezova-karabina-din-5299c-a4-12x140mm_3331",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína DIN 5299C A4 11 mm",
+            "slug": "nerezova-karabina-din-5299c-a4-11x120mm_3330",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína DIN 5299C A4 10 mm",
+            "slug": "nerezova-karabina-din-5299c-a4-10x100mm_3328",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína DIN 5299C A4 9 mm",
+            "slug": "nerezova-karabina-din-5299c-a4-9x90mm_3327",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína otočná A4 70 mm",
+            "slug": "nerezova-karabina-otocna-a4-70x13-mm_10755",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína simplex A2 30 mm",
+            "slug": "nerezova-karabina-simplex-a2-30mm_3411",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína simplex A2 40 mm",
+            "slug": "nerezova-karabina-simplex-a2-40mm_3422",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína simplex A2 50 mm",
+            "slug": "nerezova-karabina-simplex-a2-50mm_3423",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína simplex A2 60 mm",
+            "slug": "nerezova-karabina-simplex-a2-60mm_3427",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína s maticou A4 3,5 mm",
+            "slug": "nerezova-karabina-s-maticou-a4-35mm_3509",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína s maticou A4 5 mm",
+            "slug": "nerezova-karabina-s-maticou-a4-5mm_3515",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína s maticou A4 9 mm",
+            "slug": "nerezova-karabina-s-maticou-a4-9mm_3523",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína s maticou A4 10 mm",
+            "slug": "nerezova-karabina-s-maticou-a4-10mm_3525",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        },
+        {
+            "name": "Nerezová karabína s maticou A4 12 mm",
+            "slug": "nerezova-karabina-s-maticou-a4-12mm_3526",
+            "category_id": 168,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-karabiny"
+        }
+    ]
+}

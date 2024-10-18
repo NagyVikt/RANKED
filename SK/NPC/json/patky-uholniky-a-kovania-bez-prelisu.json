@@ -1,0 +1,264 @@
+{
+    "fetch_time": "2024-10-17T18:21:24.292782Z",
+    "products": [
+        {
+            "name": "SVX   Uholník KM3 60x60x40x2mm",
+            "slug": "uholnik-km3-60x60x40x2_6253",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "SVX   Uholník KM4 60x60x60x2mm",
+            "slug": "uholnik-km4-60x60x60x2_6257",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "SVX   Uholník KM8 80x80x60x2mm",
+            "slug": "uholnik-km8-80x80x60x2_6277",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník bez prelisu KL 3 50x150x35mm",
+            "slug": "uholnik-bez-prelisu-kl-3-50x150x35_10824",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KL 5 105x105x90mm",
+            "slug": "uholnik-kl-5-105x105x90_602",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "SVX   Uholník KM7 80x80x40x2mm",
+            "slug": "uholnik-km7-80x80x40x2_6276",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "SVX   Uholník KM9 80x80x80x2mm",
+            "slug": "uholnik-km9-80x80x80x2_6282",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "SVX   Uholník KM1 40x40x40x2mm",
+            "slug": "uholnik-km1-40x40x40x2_6249",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Uholník zosilnený 100x100x20mm",
+            "slug": "uholnik-zosilneny-100x100x20-mm_11596",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "SVX   Uholník KM2 40x40x60x2mm",
+            "slug": "uholnik-km2-40x40x60x2_6252",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník kotevný KK 2 300x40x40mm",
+            "slug": "uholnik-kotevny-kk-2-300x40x40_10829",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KS 2 široký 40x40x40x2mm",
+            "slug": "uholnik-ks-2-siroky-40x40x40x2-mm_11146",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Uholník zosilnený 150x150x20mm",
+            "slug": "uholnik-zosilneny-150x150x20-mm_11598",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KL 1 50x50x35mm",
+            "slug": "uholnik-kl-1-50x50x35_11062",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "SVX   Uholník KM5 60x60x80x2mm",
+            "slug": "uholnik-km5-60x60x80x2_6258",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "SVX   Uholník KM6 60x60x100x2mm",
+            "slug": "uholnik-km6-60x60x100x2_6259",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "SVX   Uholník KM10 80x80x100x2mm",
+            "slug": "uholnik-km10-80x80x100x2_6287",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KLR 4 100x100x35mm",
+            "slug": "uholnik-klr-4-100x100x35-mm_11086",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KS 1 široký 30x30x30x2mm",
+            "slug": "uholnik-ks-1-siroky-30x30x30x2-mm_10830",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KW 6 125x125x20mm",
+            "slug": "uholnik-kw-6-125x125x20_589",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KL 2 70x70x55mm",
+            "slug": "uholnik-kl-2-70x70x55_11022",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KW 1 25x25x17x2mm",
+            "slug": "uholnik-kw-1-25x25x17x2_10827",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník trámový KB 1 100x75x30mm",
+            "slug": "uholnik-tramovy-kb-1-100x75x30-mm_10828",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KL 4 90x90x65mm",
+            "slug": "uholnik-kl-4-90x90x65_11021",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KW 3 52x52x17x2mm",
+            "slug": "uholnik-kw-3-52x52x17x2_11143",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník kotevný KK 3 400x40x40mm",
+            "slug": "uholnik-kotevny-kk-3-400x40x40_11016",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník kotevný KK 1 200x40x40mm",
+            "slug": "uholnik-kotevny-kk-1-200x40x40_11017",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KL 6 102x102x35mm",
+            "slug": "uholnik-kl-6-102x102x35_11061",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KLR 3 90x90x65mm",
+            "slug": "uholnik-klr-3-90x90x65-mm_11099",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KW 5 100x100x20mm",
+            "slug": "uholnik-kw-5-100x100x20_11107",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník trámový KB 2 120x80x35mm",
+            "slug": "uholnik-tramovy-kb-1-120x80x35-mm_11123",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KW 4 75x75x17x2mm",
+            "slug": "uholnik-kw-4-75x75x17x2_11144",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KW 2 42x42x17x2mm",
+            "slug": "uholnik-kw-2-42x42x17x2_11145",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Uholník zosilnený 125x125x20mm",
+            "slug": "uholnik-zosilneny-125x125x20-mm_11597",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Uholník zosilnený 75x75x20mm",
+            "slug": "uholnik-zosilneny-75x75x20-mm_11396",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník trámový KB 3 180x120x40mm",
+            "slug": "uholnik-tramovy-kb-3-180x120x40-mm_11124",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        },
+        {
+            "name": "Domax   Uholník KW 7 150x150x25mm",
+            "slug": "uholnik-kw7-150x150x25_11106",
+            "category_id": 351,
+            "category_name": "Patky Uholniky A Kovania Bez Prelisu",
+            "category_slug": "patky-uholniky-a-kovania-bez-prelisu"
+        }
+    ]
+}

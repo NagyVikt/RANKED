@@ -1,0 +1,75 @@
+{
+    "fetch_time": "2024-10-17T18:17:55.899543Z",
+    "products": [
+        {
+            "name": "Brennenstuhl   Predlžovací kábel, 5 zásuviek s vypínačom, žlto/čierny 2m",
+            "slug": "predlzovaci-kabel-5-zasuviek-s-vypinacom-zltocierny-2m_206",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel červený 10m",
+            "slug": "predlzovaci-kabel-cerveny-10m_159",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel stavebný 4zásuvky-5m",
+            "slug": "predlzovaci-kabel-stavebny-5m_118",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel červený 25m",
+            "slug": "predlzovaci-kabel-cerveny-25m_166",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel gumový čierny 10m",
+            "slug": "predlzovaci-kabel-gumovy-cierny-10m_169",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel gumový čierny 25m",
+            "slug": "predlzovaci-kabel-gumovy-cierny-25m_175",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel BREMAXX  oranžový, IP44 10m",
+            "slug": "predlzovaci-kabel-bremaxx-oranzovy-ip44-10m_517",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel BREMAXX oranžový, IP44 25m",
+            "slug": "predlzovaci-kabel-bremaxx-oranzovy-ip44-25m_518",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        },
+        {
+            "name": "Brennenstuhl   Stavebný kábel  s blokom PowerBlock 10m",
+            "slug": "stavebny-kabel-s-blokom-powerblock-10m_825",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        },
+        {
+            "name": "Brennenstuhl   Kompaktný elektrický rozvádzač 1m",
+            "slug": "kompaktny-elektricky-rozvadzac-1m_511",
+            "category_id": 436,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Stavebne",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-stavebne"
+        }
+    ]
+}

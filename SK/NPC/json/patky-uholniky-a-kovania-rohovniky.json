@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T18:20:16.042311Z",
+    "products": [
+        {
+            "name": "Domax   Rohovník NAD 1 150x150x25mm",
+            "slug": "rohovnik-nad-1-150x150x25_11024",
+            "category_id": 376,
+            "category_name": "Patky Uholniky A Kovania Rohovniky",
+            "category_slug": "patky-uholniky-a-kovania-rohovniky"
+        },
+        {
+            "name": "Domax   Rohovník NAD 8 100x100x15mm",
+            "slug": "rohovnik-nad-8-100x100x15-mm_11085",
+            "category_id": 376,
+            "category_name": "Patky Uholniky A Kovania Rohovniky",
+            "category_slug": "patky-uholniky-a-kovania-rohovniky"
+        },
+        {
+            "name": "Domax   Rohovník NAD 4 300x300x40mm",
+            "slug": "rohovnik-nad-4-300x300x40-mm_11048",
+            "category_id": 376,
+            "category_name": "Patky Uholniky A Kovania Rohovniky",
+            "category_slug": "patky-uholniky-a-kovania-rohovniky"
+        },
+        {
+            "name": "Domax   Rohovník NAD 2 200x200x30mm",
+            "slug": "rohovnik-nad-2-200x200x30-mm_11047",
+            "category_id": 376,
+            "category_name": "Patky Uholniky A Kovania Rohovniky",
+            "category_slug": "patky-uholniky-a-kovania-rohovniky"
+        }
+    ]
+}

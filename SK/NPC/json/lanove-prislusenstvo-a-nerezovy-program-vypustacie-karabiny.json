@@ -1,0 +1,348 @@
+{
+    "fetch_time": "2024-10-17T18:09:17.278449Z",
+    "products": [
+        {
+            "name": "Karabína na kľúče s oválnou hlavou poniklovaná 13x73mm",
+            "slug": "karabina-na-kluce-s-ovalnou-hlavou-poniklovana-13x73mm_711",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína na kľúče s oválnou hlavou poniklovaná 13x79mm",
+            "slug": "karabina-na-kluce-s-ovalnou-hlavou-poniklovana-13x79mm_8424",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína vypúšťacia poniklovaná 13x65mm",
+            "slug": "karabina-vypustacia-poniklovana-13x65mm_799",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína na kľúče s oválnou hlavou poniklovaná 16x78mm",
+            "slug": "karabina-na-kluce-s-ovalnou-hlavou-poniklovana-16x78mm_723",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína na kľúče s oválnou hlavou poniklovaná 16x84mm",
+            "slug": "karabina-na-kluce-s-ovalnou-hlavou-poniklovana-16x84mm_8425",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína otočná s prelisom D Ni 80x20mm",
+            "slug": "karabina-otocna-s-prelisom-d-ni-80x20mm_859",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína obojstranná Ni 88mm",
+            "slug": "karabina-obojstranna-ni-88mm_579",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína vypúšťacia poniklovaná 20x70mm",
+            "slug": "karabina-vypustacia-poniklovana-20x70mm_801",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná dúhová 46x10mm",
+            "slug": "karabina-otocna-duhova-46mm_20657",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína na kľúče s oválnou hlavou poniklovaná 20x90mm",
+            "slug": "karabina-na-kluce-s-ovalnou-hlavou-poniklovana-20x90mm_8427",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX   Karabína vypúšťacia Ni 10x60mm",
+            "slug": "karabina-vypustacia-ni-10x60mm_5215",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína otočná s prelisom D Ni 80x26mm",
+            "slug": "karabina-otocna-s-prelisom-d-ni-80x26mm_862",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína na kľúče s oválnou hlavou poniklovaná 26x93mm",
+            "slug": "karabina-na-kluce-s-ovalnou-hlavou-poniklovana-26x93mm_725",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína popruhová Ni 26mm",
+            "slug": "karabina-popruhova-ni-26mm_856",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína popruhová Ni 20mm",
+            "slug": "karabina-popruhova-ni-20mm_846",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína vypúšťacia čierna 64x25mm",
+            "slug": "karabina-vypustacia-cierna-25x64mm_20665",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína vypúšťacia čierna 16x61mm",
+            "slug": "karabina-vypustacia-cierna-16x61mm_20652",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína vodítková - čierna 70x20mm",
+            "slug": "karabina-voditkova-cierna-70x20-mm_21049",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína vodítková - poniklovaná 52x16mm",
+            "slug": "karabina-voditkova-poniklovana-52x16-mm_21036",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína vodítková - čierna 52x16mm",
+            "slug": "karabina-voditkova-cierna-52x16-mm_21035",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná s prelisom čierna 84x25mm",
+            "slug": "karabina-otocna-s-prelisom-cierna-84x25mm_20721",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína zdobená s poistkou - čierna 88x20mm",
+            "slug": "karabina-zdobena-s-poistkou-cierna-88x20mm",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná s prelisom čierna 82x20mm",
+            "slug": "karabina-otocna-s-prelisom-cierna-82x11mm_20720",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná s prelisom dúhová 80x25mm",
+            "slug": "karabina-otocna-s-prelisom-duhova-80x25mm_20678",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná s prelisom čierna 50x10mm",
+            "slug": "karabina-otocna-s-prelisom-cierna-50x10mm_20677",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína vypúšťacia dúhová 61x13mm",
+            "slug": "karabina-vypustacia-duhova-13x61mm_20668",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína vypúšťacia dúhová 59x20mm",
+            "slug": "karabina-vypustacia-duhova-20x59mm_20669",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná s prelisom čierna 80x25mm",
+            "slug": "karabina-otocna-s-prelisom-cierna-80x25mm_20667",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína vypúšťacia čierna 59x20mm",
+            "slug": "karabina-vypustacia-cierna-20x59mm_20664",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína vypúšťacia čierna 45x10mm",
+            "slug": "karabina-vypustacia-cierna-10x45mm_20663",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná dúhová 81x20mm",
+            "slug": "karabina-otocna-duhova-81mm_32702",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná dúhová 67x20mm",
+            "slug": "karabina-otocna-duhova-67mm_20662",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná dúhová 81x25mm",
+            "slug": "karabina-otocna-duhova-81mm_20661",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná dúhová 53x13mm",
+            "slug": "karabina-otocna-duhova-52mm_20660",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná dúhová 42x20mm",
+            "slug": "karabina-otocna-duhova-42mm_20659",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná dúhová 90x20mm",
+            "slug": "karabina-otocna-duhova-90mm_20658",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná čierna 66x19mm",
+            "slug": "karabina-otocna-cierna-66mm_20656",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná čierna 53x13mm",
+            "slug": "karabina-otocna-cierna-53mm_20655",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná čierna 42x20mm",
+            "slug": "karabina-otocna-cierna-42mm_20654",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná čierna 76x20mm",
+            "slug": "karabina-otocna-cierna-76mm",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná čierna 80x20mm",
+            "slug": "karabina-otocna-cierna-80mm_20653",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX hardware   Karabína otočná čierna 55x10mm",
+            "slug": "karabina-otocna-cierna-55mm_20648",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína na kľúče s oválnou hlavou poniklovaná 25x87mm",
+            "slug": "karabina-na-kluce-s-ovalnou-hlavou-poniklovana-25x87mm_8428",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína na kľúče s oválnou hlavou poniklovaná 20x88mm",
+            "slug": "karabina-na-kluce-s-ovalnou-hlavou-poniklovana-20x88mm_8426",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX   Karabína vypúšťacia Ni 20x70mm",
+            "slug": "karabina-vypustacia-ni-20x70mm_5217",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX   Karabína vypúšťacia Ni 13x65mm",
+            "slug": "karabina-vypustacia-ni-13x65mm_5216",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína vypúšťacia poniklovaná 10x60mm",
+            "slug": "karabina-vypustacia-poniklovana-10x60mm_796",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "Karabína na kľúče s oválnou hlavou poniklovaná 20x82mm",
+            "slug": "karabina-na-kluce-s-ovalnou-hlavou-poniklovana-20x82mm_724",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        },
+        {
+            "name": "SVX   Karabína obojstranná poniklovaná 88mm",
+            "slug": "karabina-obojstranna-poniklovana-88mm_5197",
+            "category_id": 125,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Vypustacie Karabiny",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-vypustacie-karabiny"
+        }
+    ]
+}

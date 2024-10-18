@@ -1,0 +1,47 @@
+{
+    "fetch_time": "2024-10-17T18:19:08.087036Z",
+    "products": [
+        {
+            "name": "SVX   Tieniaca sieť zelená 95%  - dĺžka 10m - výška 2m",
+            "slug": "tieniaca-siet-zelena-95-2m10m_13811",
+            "category_id": 438,
+            "category_name": "Pletiva Zelene Siete",
+            "category_slug": "pletiva-zelene-siete"
+        },
+        {
+            "name": "SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 2m",
+            "slug": "tieniaca-siet-zelena-90-2-m-10-m_10797",
+            "category_id": 438,
+            "category_name": "Pletiva Zelene Siete",
+            "category_slug": "pletiva-zelene-siete"
+        },
+        {
+            "name": "SVX   Tieniaca sieť zelená 90% - dĺžka 10m - výška 1m",
+            "slug": "tieniaca-siet-zelena-90-1-m-10-m_10760",
+            "category_id": 438,
+            "category_name": "Pletiva Zelene Siete",
+            "category_slug": "pletiva-zelene-siete"
+        },
+        {
+            "name": "SVX   Tieniaca sieť zelená 90% - dĺžka 25m - výška 1m",
+            "slug": "tieniaca-siet-zelena-90-1-m-25-m_10796",
+            "category_id": 438,
+            "category_name": "Pletiva Zelene Siete",
+            "category_slug": "pletiva-zelene-siete"
+        },
+        {
+            "name": "SVX   Tieniaca sieť zelená 95% - dĺžka 10m - výška 1m",
+            "slug": "tieniaca-siet-zelena-95-1m-10m_13735",
+            "category_id": 438,
+            "category_name": "Pletiva Zelene Siete",
+            "category_slug": "pletiva-zelene-siete"
+        },
+        {
+            "name": "SVX   Tieniaca sieť zelená 95%  - dĺžka 25m - výška 1m",
+            "slug": "tieniaca-siet-zelena-95-1m25m_13812",
+            "category_id": 438,
+            "category_name": "Pletiva Zelene Siete",
+            "category_slug": "pletiva-zelene-siete"
+        }
+    ]
+}

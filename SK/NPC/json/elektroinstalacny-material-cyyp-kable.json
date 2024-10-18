@@ -1,0 +1,40 @@
+{
+    "fetch_time": "2024-10-17T17:51:01.071376Z",
+    "products": [
+        {
+            "name": "Kábel CYYP-O 3x1,5",
+            "slug": "kabel-cyyp-o-3x15-3x15mm_609",
+            "category_id": 182,
+            "category_name": "Elektroinstalacny Material Cyyp Kable",
+            "category_slug": "elektroinstalacny-material-cyyp-kable"
+        },
+        {
+            "name": "Kábel CYYP 2Bx2,5",
+            "slug": "kabel-cyyp-2bx25-2bx25mm_612",
+            "category_id": 182,
+            "category_name": "Elektroinstalacny Material Cyyp Kable",
+            "category_slug": "elektroinstalacny-material-cyyp-kable"
+        },
+        {
+            "name": "Kábel CYYP 2Bx1,5",
+            "slug": "kabel-cyyp-2bx15-2bx15mm_611",
+            "category_id": 182,
+            "category_name": "Elektroinstalacny Material Cyyp Kable",
+            "category_slug": "elektroinstalacny-material-cyyp-kable"
+        },
+        {
+            "name": "Kábel CYYP-J 3x1,5",
+            "slug": "kabel-cyyp-j-3x15-3x15mm_607",
+            "category_id": 182,
+            "category_name": "Elektroinstalacny Material Cyyp Kable",
+            "category_slug": "elektroinstalacny-material-cyyp-kable"
+        },
+        {
+            "name": "Kábel CYYP-J 3x2,5",
+            "slug": "kabel-cyyp-j-3x25-3x25mm_608",
+            "category_id": 182,
+            "category_name": "Elektroinstalacny Material Cyyp Kable",
+            "category_slug": "elektroinstalacny-material-cyyp-kable"
+        }
+    ]
+}

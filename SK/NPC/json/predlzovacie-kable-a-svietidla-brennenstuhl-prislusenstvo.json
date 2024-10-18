@@ -1,0 +1,26 @@
+{
+    "fetch_time": "2024-10-17T18:17:54.836606Z",
+    "products": [
+        {
+            "name": "Brennenstuhl   Montážna objímka E27",
+            "slug": "montazna-objimka-e27-e27_1407",
+            "category_id": 418,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Prislusenstvo",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-prislusenstvo"
+        },
+        {
+            "name": "Brennenstuhl   Safe-Box BIG",
+            "slug": "safe-box-big-puzdro_826",
+            "category_id": 418,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Prislusenstvo",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-prislusenstvo"
+        },
+        {
+            "name": "Brennenstuhl   Špirálová ochrana na káble - biela",
+            "slug": "spiralova-ochrana-na-kable-biela-chranic_1381",
+            "category_id": 418,
+            "category_name": "Predlzovacie Kable A Svietidla Brennenstuhl Prislusenstvo",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl-prislusenstvo"
+        }
+    ]
+}

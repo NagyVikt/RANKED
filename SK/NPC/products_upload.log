@@ -1,0 +1,6 @@
+2024-10-18 12:42:05,842 - INFO - Starting to upload products from woccomer_products_updated.json to WooCommerce...
+2024-10-18 12:42:05,843 - ERROR - Failed to read products from woccomer_products_updated.json. Error: [Errno 2] No such file or directory: 'woccomer_products_updated.json'
+2024-10-18 12:42:05,843 - WARNING - No products to upload. Exiting.
+2024-10-18 12:42:19,228 - INFO - Starting to upload products from woccommerce_products_updated.json to WooCommerce...
+2024-10-18 12:42:19,228 - ERROR - Failed to read products from woccommerce_products_updated.json. Error: [Errno 2] No such file or directory: 'woccommerce_products_updated.json'
+2024-10-18 12:42:19,229 - WARNING - No products to upload. Exiting.

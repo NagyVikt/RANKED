@@ -1,0 +1,26 @@
+{
+    "fetch_time": "2024-10-17T18:08:36.093032Z",
+    "products": [
+        {
+            "name": "RENOST   Koliesko CPB",
+            "slug": "koliesko-cpb-h6240080_11564",
+            "category_id": 432,
+            "category_name": "Naradie Transportne",
+            "category_slug": "naradie-transportne"
+        },
+        {
+            "name": "RENOST   Koliesko CPB",
+            "slug": "koliesko-cpb-h6340090_11565",
+            "category_id": 432,
+            "category_name": "Naradie Transportne",
+            "category_slug": "naradie-transportne"
+        },
+        {
+            "name": "RENOST   Koliesko CPB",
+            "slug": "koliesko-cpb-h62400841_11566",
+            "category_id": 432,
+            "category_name": "Naradie Transportne",
+            "category_slug": "naradie-transportne"
+        }
+    ]
+}

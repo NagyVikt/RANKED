@@ -1,0 +1,390 @@
+{
+    "fetch_time": "2024-10-17T18:18:24.806785Z",
+    "products": [
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M12x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m12x1000_12084",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M16x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m16x1000_12104",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M10x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m10x1000_11585",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M6x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m6x1000_12082",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M8x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m8x1000_12083",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M14x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m14x1000_12085",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M20x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m20x1000_12088",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M10x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m10x1000_12101",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M24x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m24x1000_12089",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M20x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m20x1000_12106",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M27x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m27x1000_12090",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M22x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m22x1000_13835",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M18x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m18x1000_12087",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M8x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m8x1000_12100",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M14x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m14x1000_12103",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M12x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m12x1000_12102",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M4x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m4x1000_11587",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M5x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m5x1000_12098",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M30x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m30x1000_12091",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M6x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m6x1000_12099",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M30x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m30x1000_12108",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M16x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m16x1000_12086",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M4x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m4x1000_12080",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M5x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m5x1000_12081",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M3x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m3x1000_11589",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M6x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m6x1000_12117",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M10x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m10x1000_12119",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M6x2000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m6x2000_11588",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M18x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m18x1000_12105",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M8x2000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m8x2000_12109",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M10x2000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m10x2000_12110",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M12x2000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m12x2000_12111",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M14x2000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m14x2000_12112",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M16x2000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m16x2000_12113",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M20x2000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m20x2000_12114",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M27x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m27x1000_13836",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M36x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m36x1000_13838",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M36x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m36x1000_13841",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 10.9 zn M6x1000",
+            "slug": "zavitova-tyc-din-975-10-9-zn-m6x1000_11586",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 10.9 zn M8x1000",
+            "slug": "zavitova-tyc-din-975-10-9-zn-m8x1000_12092",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 10.9 zn M10x1000",
+            "slug": "zavitova-tyc-din-975-10-9-zn-m10x1000_12093",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 10.9 zn M12x1000",
+            "slug": "zavitova-tyc-din-975-10-9-zn-m12x1000_12094",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 10.9 zn M14x1000",
+            "slug": "zavitova-tyc-din-975-10-9-zn-m14x1000_12095",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 10.9 zn M16x1000",
+            "slug": "zavitova-tyc-din-975-10-9-zn-m16x1000_12096",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M4x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m4x1000_12115",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M5x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m5x1000_12116",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M8x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m8x1000_12118",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M12x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m12x1000_12120",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M14x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m14x1000_12121",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M16x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m16x1000_12122",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 nerez A4 M20x1000",
+            "slug": "zavitova-tyc-din-975-nerez-a4-m20x1000_12123",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M33x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m33x1000_13837",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 4.8 zn M24x1000",
+            "slug": "zavitova-tyc-din-975-4-8-zn-m24x1000_12107",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M33x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m33x1000_13840",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        },
+        {
+            "name": "Závitová tyč DIN 975 8.8 zn M22x1000",
+            "slug": "zavitova-tyc-din-975-8-8-zn-m22x1000_13839",
+            "category_id": 306,
+            "category_name": "Spojovaci A Kotviaci Material Zavitove Tyce Din 975",
+            "category_slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975"
+        }
+    ]
+}

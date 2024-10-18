@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T18:19:11.864380Z",
+    "products": [
+        {
+            "name": "Domax   Závora pevná WCZ 250 250x200mm",
+            "slug": "zavora-pevna-wcz-250-250x200-mm_11128",
+            "category_id": 392,
+            "category_name": "Patky Uholniky A Kovania Zavory",
+            "category_slug": "patky-uholniky-a-kovania-zavory"
+        },
+        {
+            "name": "Domax   Závora pevná WCZ 150 200x200mm",
+            "slug": "zavora-pevna-wcz-150-200x200-mm_11127",
+            "category_id": 392,
+            "category_name": "Patky Uholniky A Kovania Zavory",
+            "category_slug": "patky-uholniky-a-kovania-zavory"
+        },
+        {
+            "name": "Domax   Závora bránová WBR 440 180x70mm",
+            "slug": "zavora-branova-wbr-440-wbr-440_10848",
+            "category_id": 392,
+            "category_name": "Patky Uholniky A Kovania Zavory",
+            "category_slug": "patky-uholniky-a-kovania-zavory"
+        },
+        {
+            "name": "Domax   Závora záhradná WOG 80 80x60mm",
+            "slug": "zavora-zahradna-wog-80-80x60_10847",
+            "category_id": 392,
+            "category_name": "Patky Uholniky A Kovania Zavory",
+            "category_slug": "patky-uholniky-a-kovania-zavory"
+        }
+    ]
+}

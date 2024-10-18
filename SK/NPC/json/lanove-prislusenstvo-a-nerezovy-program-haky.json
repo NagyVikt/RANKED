@@ -1,0 +1,677 @@
+{
+    "fetch_time": "2024-10-17T18:01:36.483323Z",
+    "products": [
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 30mm",
+            "slug": "hak-s-vrutom-pozinkovany-30mm_4634",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák stropný s vrutom zn 60mm",
+            "slug": "hak-stropny-s-vrutom-zn-60mm_2475",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák stropný s vrutom zn 80mm",
+            "slug": "hak-stropny-s-vrutom-zn-80mm_2477",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 40mm",
+            "slug": "hak-s-vrutom-pozinkovany-40mm_4636",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 25mm",
+            "slug": "hak-s-vrutom-zn-25mm_2418",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M6x50",
+            "slug": "hak-so-zavitom-pozinkovany-m6x50_5147",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 20mm",
+            "slug": "hak-s-vrutom-pozinkovany-20mm_4629",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M4x40",
+            "slug": "hak-so-zavitom-pozinkovany-m4x40_5143",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 50mm",
+            "slug": "hak-s-vrutom-pozinkovany-50mm_4637",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom-biely lak 25mm",
+            "slug": "hak-s-vrutom-biely-lak-25mm_2441",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák stropný s vrutom pozinkovaný 120mm",
+            "slug": "hak-stropny-s-vrutom-pozinkovany-120mm_4656",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 16mm",
+            "slug": "hak-s-vrutom-pozinkovany-16mm_4626",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M6x60",
+            "slug": "hak-so-zavitom-zn-m6x60_2468",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 60mm",
+            "slug": "hak-s-vrutom-zn-60mm_2431",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák stropný s vrutom pozinkovaný 100mm",
+            "slug": "hak-stropny-s-vrutom-pozinkovany-100mm_4655",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák prádlový s vrutom pozinkovaný 50mm",
+            "slug": "hak-pradlovy-s-vrutom-pozinkovany-50mm_5112",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Ms 30mm",
+            "slug": "hak-s-vrutom-ms-30mm_2410",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Ms 40mm",
+            "slug": "hak-s-vrutom-ms-40mm_2411",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák prádlový s vrutom pozinkovaný 100mm",
+            "slug": "hak-pradlovy-s-vrutom-pozinkovany-100mm_5115",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák prádlový s vrutom pozinkovaný 65mm",
+            "slug": "hak-pradlovy-s-vrutom-pozinkovany-65mm_5113",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M5x50",
+            "slug": "hak-so-zavitom-zn-m5x50_2454",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom-biely lak 40mm",
+            "slug": "hak-s-vrutom-biely-lak-40mm_2444",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 80mm",
+            "slug": "hak-s-vrutom-pozinkovany-80mm_4644",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s límcom a hmoždinou 10x60mm",
+            "slug": "hak-s-limcom-a-hmozdinou-10x60mm_5132",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M5x60",
+            "slug": "hak-so-zavitom-pozinkovany-m5x60_5146",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák stropný s vrutom pozinkovaný 80mm",
+            "slug": "hak-stropny-s-vrutom-pozinkovany-80mm_4654",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák stropný s vrutom pozinkovaný 160mm",
+            "slug": "hak-stropny-s-vrutom-pozinkovany-160mm_4658",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák stropný s vrutom pozinkovaný 140mm",
+            "slug": "hak-stropny-s-vrutom-pozinkovany-140mm_4657",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Ms 20mm",
+            "slug": "hak-s-vrutom-ms-20mm_2407",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Ms 25mm",
+            "slug": "hak-s-vrutom-ms-25mm_2409",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M6x80",
+            "slug": "hak-so-zavitom-pozinkovany-m6x80_5149",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Ms 60mm",
+            "slug": "hak-s-vrutom-ms-60mm_2414",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák rozperný s okom pozinkovaný 80mm",
+            "slug": "hak-rozperny-s-okom-pozinkovany-80mm_5117",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák rozperný s okom pozinkovaný 200mm",
+            "slug": "hak-rozperny-s-okom-pozinkovany-200mm_5123",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 100mm",
+            "slug": "hak-s-vrutom-pozinkovany-100mm_4645",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák prádlový s vrutom pozinkovaný 80mm",
+            "slug": "hak-pradlovy-s-vrutom-pozinkovany-80mm_5114",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M8x100",
+            "slug": "hak-so-zavitom-pozinkovany-m8x100_5152",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M8x80",
+            "slug": "hak-so-zavitom-pozinkovany-m8x80_5151",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M8x60",
+            "slug": "hak-so-zavitom-zn-m8x60_13440",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák rozperný s okom pozinkovaný 120mm",
+            "slug": "hak-rozperny-s-okom-pozinkovany-120mm_5120",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák rozperný s okom pozinkovaný 100mm",
+            "slug": "hak-rozperny-s-okom-pozinkovany-100mm_5118",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák rozperný s okom pozinkovaný 300mm",
+            "slug": "hak-rozperny-s-okom-pozinkovany-300mm_5127",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M10x150",
+            "slug": "hak-so-zavitom-pozinkovany-m10x150_20446",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Ms 50mm",
+            "slug": "hak-s-vrutom-ms-50mm_2413",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák rozperný s okom pozinkovaný 50mm",
+            "slug": "hak-rozperny-s-okom-pozinkovany-50mm_5116",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák rozperný s okom pozinkovaný 140mm",
+            "slug": "hak-rozperny-s-okom-pozinkovany-140mm_5121",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s límcom a hmoždinou 8x50mm",
+            "slug": "hak-s-limcom-a-hmozdinou-8x50mm_5131",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s límcom a hmoždinou 6x35mm",
+            "slug": "hak-s-limcom-a-hmozdinou-6x35mm_5129",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s límcom a hmoždinkou 10x60mm",
+            "slug": "hak-s-limcom-a-hmozdinkou-10x60-mm_2886",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s límcom a hmoždinkou 8x50mm",
+            "slug": "hak-s-limcom-a-hmozdinkou-8x50mm_2884",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s límcom a hmoždinkou 6x35mm",
+            "slug": "hak-s-limcom-a-hmozdinkou-6x35mm_2871",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák rozperný s okom pozinkovaný 250mm",
+            "slug": "hak-rozperny-s-okom-pozinkovany-250mm_5125",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M4x50",
+            "slug": "hak-so-zavitom-pozinkovany-m4x50_5144",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M5x50",
+            "slug": "hak-so-zavitom-pozinkovany-m5x50_5145",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M6x60",
+            "slug": "hak-so-zavitom-pozinkovany-m6x60_5148",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák prádlový s vrutom zn 50mm",
+            "slug": "hak-pradlovy-s-vrutom-zn-50mm_2317",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom-biely lak 60mm",
+            "slug": "hak-s-vrutom-biely-lak-60mm_6768",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák prádlový s vrutom zn 65mm",
+            "slug": "hak-pradlovy-s-vrutom-zn-65mm_2395",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák prádlový s vrutom zn 100mm",
+            "slug": "hak-pradlovy-s-vrutom-zn-100mm_2397",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák prádlový s vrutom zn 80mm",
+            "slug": "hak-pradlovy-s-vrutom-zn-80mm_2396",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák rozperný s okom Zn 50mm",
+            "slug": "hak-rozperny-s-okom-zn-50mm_2398",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák rozperný s okom Zn 80mm",
+            "slug": "hak-rozperny-s-okom-zn-80mm_2400",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák rozperný s okom Zn 100mm",
+            "slug": "hak-rozperny-s-okom-zn-100mm_2401",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák rozperný s okom Zn 120mm",
+            "slug": "hak-rozperny-s-okom-zn-120mm_2402",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák rozperný s okom Zn 140mm",
+            "slug": "hak-rozperny-s-okom-zn-140mm_2403",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák rozperný s okom Zn 200mm",
+            "slug": "hak-rozperny-s-okom-zn-200mm_2404",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák rozperný s okom Zn 250mm",
+            "slug": "hak-rozperny-s-okom-zn-250mm_2405",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák rozperný s okom Zn 300mm",
+            "slug": "hak-rozperny-s-okom-zn-300mm_2406",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Ms 70mm",
+            "slug": "hak-s-vrutom-ms-70mm_2415",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 16mm",
+            "slug": "hak-s-vrutom-zn-16mm_2416",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 20mm",
+            "slug": "hak-s-vrutom-zn-20mm_2417",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 30mm",
+            "slug": "hak-s-vrutom-zn-30mm_2419",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 40mm",
+            "slug": "hak-s-vrutom-zn-40mm_2428",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 50mm",
+            "slug": "hak-s-vrutom-zn-50mm_2430",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 70mm",
+            "slug": "hak-s-vrutom-zn-70mm_2433",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 80mm",
+            "slug": "hak-s-vrutom-zn-80mm_2435",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom Zn 100mm",
+            "slug": "hak-s-vrutom-zn-100mm_2438",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M4x40",
+            "slug": "hak-so-zavitom-zn-m4x40_2448",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M4x50",
+            "slug": "hak-so-zavitom-zn-m4x50_2450",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M5x60",
+            "slug": "hak-so-zavitom-zn-m5x60_2459",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M6x50",
+            "slug": "hak-so-zavitom-zn-m6x50_2460",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M8x80",
+            "slug": "hak-so-zavitom-zn-m8x80_2470",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M8x100",
+            "slug": "hak-so-zavitom-zn-m8x100_2471",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák so závitom Zn M8x150",
+            "slug": "hak-so-zavitom-zn-m8x150_2473",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák stropný s vrutom zn 100mm",
+            "slug": "hak-stropny-s-vrutom-zn-100mm_2478",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák stropný s vrutom zn 120mm",
+            "slug": "hak-stropny-s-vrutom-zn-120mm_2480",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák stropný s vrutom zn 140mm",
+            "slug": "hak-stropny-s-vrutom-zn-140mm_2481",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák stropný s vrutom zn 160mm",
+            "slug": "hak-stropny-s-vrutom-zn-160mm_2482",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 25mm",
+            "slug": "hak-s-vrutom-pozinkovany-25mm_4633",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 60mm",
+            "slug": "hak-s-vrutom-pozinkovany-60mm_4639",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák s vrutom pozinkovaný 70mm",
+            "slug": "hak-s-vrutom-pozinkovany-70mm_4641",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák stropný s vrutom pozinkovaný 60mm",
+            "slug": "hak-stropny-s-vrutom-pozinkovany-60mm_4653",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M10x100",
+            "slug": "hak-so-zavitom-pozinkovany-m10x100_20445",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom-biely lak 30mm",
+            "slug": "hak-s-vrutom-biely-lak-30mm_2443",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "Hák s vrutom-biely lak 50mm",
+            "slug": "hak-s-vrutom-biely-lak-50mm_2446",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        },
+        {
+            "name": "SVX   Hák so závitom pozinkovaný M8x150",
+            "slug": "hak-so-zavitom-pozinkovany-m8x150_5153",
+            "category_id": 199,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Haky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-haky"
+        }
+    ]
+}

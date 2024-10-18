@@ -1,0 +1,1475 @@
+{
+    "fetch_time": "2024-10-17T18:21:44.770973Z",
+    "products": [
+        {
+            "name": "Brennenstuhl   Cestovný adaptér GB 6,5x5cm",
+            "slug": "cestovny-adapter-gb-adapter_798",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Cestovná zástrčka DE + Vidlica Čína/Austrália",
+            "slug": "cestovna-zastrcka-de-vidlica-cinaaustralia-adapter_1367",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovačka montovateľná BREMOUNTA 4 zásuvky s vypínačom čierna bez kábla",
+            "slug": "predlzovacka-montovatelna-bremounta-4-zasuvky-s-vypinacom-cierna-bez-kabla-bez-kabla_691",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana do zásuvky 230/16 A",
+            "slug": "prepatova-ochrana-do-zasuvky-23016-a-zasuvka_150",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   WiFi LED reflektor Duo Strahler WFD",
+            "slug": "wifi-led-reflektor-duo-strahler-wfd-3500lm-ip54_12552",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Akumulátorový LED AKU reflektor",
+            "slug": "akumulatorovy-led-aku-reflektor-10w-sh-1000-ma-1000lm-ip54_20129",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Cestovná zástrčka  DE + Vidlica Taliansko",
+            "slug": "cestovna-zastrcka-de-vidlica-taliansko-adapter_1371",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel BREMOUNTA 4-zásuvkový s vypínačom, biely 1,5m",
+            "slug": "predlzovaci-kabel-bremounta-4-zasuvkovy-s-vypinacom-biely-15m_1259",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný prúdový chránič k bazénom a na kosenie BDI-S 2 30",
+            "slug": "mobilny-prudovy-chranic-k-bazenom-a-na-kosenie-bdi-s-2-30-chranic_823",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Plochá zástrčka biela so sklopným krúžkom",
+            "slug": "plocha-zastrcka-biela-so-sklopnym-kruzkom-zastrcka_857",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Cestovná zástrčka  DE + Vidlica Južná Afrika",
+            "slug": "cestovna-zastrcka-de-vidlica-juzna-afrika-adapter_1368",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Cestovný adaptér Austrália, Čína 7x5cm",
+            "slug": "cestovny-adapter-australia-cina-adapter_802",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED baterka LuxPremium Akku-Fokus-LED TL600AF",
+            "slug": "led-baterka-luxpremium-akku-fokus-led-tl600af-630lm_999",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Eco-LED laserové svietidlo 8xLED",
+            "slug": "eco-led-laserove-svietidlo-8xled-45lm_405",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   5 zásuviek 3m 3G1,5 Predlžovací kábel 16A biely s vypínačom",
+            "slug": "5-zasuviek-3m-3g15-predlzovaci-kabel-16a-biely-s-vypinacom-3m_1466",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovačka montovateľná BREMOUNTA 4 zásuvky s vypínačom biela bez kábla",
+            "slug": "predlzovacka-montovatelna-bremounta-4-zasuvky-s-vypinacom-biela-bez-kabla-bez-kabla_690",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Káblový box Vario-Line čierny 10m",
+            "slug": "kablovy-box-vario-line-cierny-10m_1383",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   4 LED akumulátorové ručné svietidlo",
+            "slug": "4-led-akumulatorove-rucne-svietidlo-220lm_610",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   3 zásuvky 3m 3G1,5 Predlžovací kábel 16A biely s vypínačom",
+            "slug": "3-zasuvky-3m-3g15-predlzovaci-kabel-16a-biely-s-vypinacom-3m_1439",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný LED reflektor batériový CL",
+            "slug": "mobilny-led-reflektor-bateriovy-cl-950lm-ip65_12561",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel montovateľná Bremounta, čierna 3m",
+            "slug": "predlzovaci-kabel-montovatelna-bremounta-cierna-3m_783",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Bremounta, montovateľný, biely 3m",
+            "slug": "predlzovaci-kabel-bremounta-montovatelny-biely-3m_779",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel PRIMERA 10 zásuviek 16A strieborný 2m",
+            "slug": "predlzovaci-kabel-primera-10-zasuviek-16a-strieborny-2m_211",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana 6-zásuvková, antracit 3m",
+            "slug": "prepatova-ochrana-6-zasuvkova-antracit-3m_1167",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Garant SK káblový bubon prázdny Ø 290 mm",
+            "slug": "garant-sk-kablovy-bubon-prazdny-290-mm-290mm_8819",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Cestovná zástrčka  DE + Vidlica USA-Japonsko",
+            "slug": "cestovna-zastrcka-de-vidlica-usa-japonsko-adapter_1375",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LuxPremium LED AKU senzorová čelová lampa SL 400 AF",
+            "slug": "luxpremium-led-aku-senzorova-celova-lampa-sl-400-af-celovka-400lm_1066",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana PROFESIONAL 60KA 3m - 4-zásuvková",
+            "slug": "prepatova-ochrana-profesional-60ka-3m-4-zasuvkova-3m_1122",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Samonavíjací bubon 10m",
+            "slug": "samonavijaci-bubon-10m-10m_527",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED nabíjateľná ručná lampa PL 200 AC",
+            "slug": "led-nabijatelna-rucna-lampa-pl200a-200lm_981",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Office-Line 6-zásuvkový čierny 3m",
+            "slug": "predlzovaci-kabel-office-line-6-zasuvkovy-cierny-3m_2335",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne 10m",
+            "slug": "predlzovaci-kabel-na-bubne-10m_127",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Cestovný adaptér / zástrčkový adaptér EÚ na Veľkú Britániu 7x5cm",
+            "slug": "cestovny-adapter-zastrckovy-adapter-eu-na-velku-britaniu-adapter_1364",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel s plochou zástrčkou 3m",
+            "slug": "predlzovaci-kabel-s-plochou-zastrckou-3m-3m_1427",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED akumulátorová ručná lampa HL 1000 A",
+            "slug": "led-akumulatorova-rucna-lampa-hl-1000-a-1000lm_684",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný nabíjateľný LED reflektor RUFUS 3000 MA",
+            "slug": "mobilny-nabijatelny-led-reflektor-rufus-3000-ma-3000lm_868",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný LED Hybridný reflektor DARGO",
+            "slug": "mobilny-led-hybridny-reflektor-dargo-4900lm_861",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Časové spínacie hodiny MZ 20",
+            "slug": "casove-spinacie-hodiny-mz-20-merac_461",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Teleskopický statív TS 250",
+            "slug": "teleskopicky-stativ-ts-250-stativ_1097",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Solárne LED svetlo so snímačom PIR",
+            "slug": "solarne-led-svetlo-so-snimacom-pir-solarne-350lm_1382",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   5 zásuviek 5m 3G1,5 Predlžovací kábel 16A biely s vypínačom",
+            "slug": "5-zasuviek-5m-3g15-predlzovaci-kabel-16a-biely-s-vypinacom-5m_1469",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   3 zásuvky 5m 3G1,5 Predlžovací kábel 16A biely s vypínačom",
+            "slug": "3-zasuvky-5m-3g15-predlzovaci-kabel-16a-biely-s-vypinacom-5m_1444",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   WiFi LED reflektor Strahler WF - bez senzoru",
+            "slug": "wifi-led-reflektor-strahler-wf-bez-senzoru-2400lm-ip54_12556",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   WiFi LED reflektor Strahler WF",
+            "slug": "wifi-led-reflektor-strahler-wf-2400lm-ip54_12643",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana Eco-line 1,5m",
+            "slug": "prepatova-ochrana-eco-line-15m_765",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana Office-Line 4 zásuvková čierna 1,8m",
+            "slug": "prepatova-ochrana-office-line-4-zasuvkova-cierna-18m_1147",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne 25m",
+            "slug": "predlzovaci-kabel-na-bubne-25m_212",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne stavebný 25m",
+            "slug": "predlzovaci-kabel-na-bubne-stavebny-25m_486",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne stavebný 50m",
+            "slug": "predlzovaci-kabel-na-bubne-stavebny-50m_497",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Cestovný adaptér USA, Japonsko 6,5x4,8cm",
+            "slug": "cestovny-adapter-usa-japonsko-adapter_804",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný prúdový chránič k bazénom a na kosenie BDI-A 30",
+            "slug": "mobilny-prudovy-chranic-k-bazenom-a-na-kosenie-bdi-a-30-chranic_821",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED dielenské svetlo WL552 570 lm s 5m káblom a euro zástrčkou",
+            "slug": "led-nabijatelna-rucna-lampa-pl200a-200lm_981-copy-32606",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED ručná lampa s akumulátorom HL 200 A",
+            "slug": "led-rucna-lampa-s-akumulatorom-hl-200-a-250lm_687",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Detektor dymu RM L",
+            "slug": "detektor-dymu-rm-l-hlasic_827",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Hlásič CM L 4050 ku krbom",
+            "slug": "hlasic-cm-l-4050-ku-krbom-hlasic_834",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Gumová zásuvka pre vysoké zaťaženie",
+            "slug": "gumova-zasuvka-pre-vysoke-zatazenie-zasuvka_853",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Plochá zástrčka čierna so sklopným krúžkom",
+            "slug": "plocha-zastrcka-cierna-so-sklopnym-kruzkom-zastrcka-c_855",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Comfort-Line digitálny časovač",
+            "slug": "comfort-line-digitalny-casovac-ip20_7214",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED Bezpečnostná lampa so senzorom s pohybovým PIR detektorom",
+            "slug": "led-bezpecnostna-lampa-so-senzorom-s-pohybovym-pir-detektorom-orientacne_1072",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Touch Me lampa LED s pohybovým PIR detektorom a vypínačom",
+            "slug": "touch-me-lampa-led-s-pohybovym-pir-detektorom-a-vypinacom-orientacne_1075",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana Protect-Line 60KA 3m - 6 zásuvková",
+            "slug": "prepatova-ochrana-protect-line-60ka-3m-6-zasuvkova_12555",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Montážna objímka E27",
+            "slug": "montazna-objimka-e27-e27_1407",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   4 zásuvky 5m 3G1,5 Predlžovací kábel 16A biely s vypínačom",
+            "slug": "4-zasuvky-5m-3g15-predlzovaci-kabel-16a-biely-s-vypinacom-5m_1462",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   4 zásuvky 5m 3G1,5 Predlžovací kábel 16A biely",
+            "slug": "4-zasuvky-5m-3g15-predlzovaci-kabel-16a-biely-5m_1491",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Párty svetlá  pre vonkajšie použitie s 10 svietidlami E27",
+            "slug": "party-svetla-pre-vonkajsie-pouzitie-s-10-svietidlami-e27-e27_973",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel 6-zásuvkový, Premium-Alu-Line s USB nabíjačkou 3m",
+            "slug": "predlzovaci-kabel-6-zasuvkovy-premium-alu-line-s-usb-nabijackou-3m_1175",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana Super-Solid SCHUKO 2,5m",
+            "slug": "prepatova-ochrana-super-solid-schuko-25-m_11847",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Super-Solid 3G1,5 13.500 A strieborný 2,5m",
+            "slug": "predlzovaci-kabel-super-solid-3g15-13-500-a-strieborny-25m_506",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel, 5 zásuviek s vypínačom, žlto/čierny 2m",
+            "slug": "predlzovaci-kabel-5-zasuviek-s-vypinacom-zltocierny-2m_206",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne 50m",
+            "slug": "predlzovaci-kabel-na-bubne-50m_240",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne Bremaxx sivý 25m",
+            "slug": "predlzovaci-kabel-na-bubne-bremaxx-sivy-25m_558",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Bubon na vzduchovú hadicu Standard 20m",
+            "slug": "bubon-na-vzduchovu-hadicu-standard-20m_836",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Akumulátorová LED ručná lampa SANSA 400 A",
+            "slug": "akumulatorova-led-rucna-lampa-sansa-400-a-400lm_680",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel červený 10m",
+            "slug": "predlzovaci-kabel-cerveny-10m_159",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED Akumulátorová lampa s klipom",
+            "slug": "led-akumulatorova-lampa-s-klipom-150lm_559",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Ecolor 5 zásuviek čierna/červená 1,5m",
+            "slug": "predlzovaci-kabel-ecolor-5-zasuviek-ciernacervena-15m_694",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LuxPremium LED vrecková lampa THL 300",
+            "slug": "luxpremium-led-vreckova-lampa-thl-300-360lm_1064",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED baterka LuxPremium LED AKU Fokus TL400",
+            "slug": "led-baterka-luxpremium-led-aku-fokus-tl400-430lm_1002",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED baterka LuxPremium Akku-Fokus-LED TL300AF",
+            "slug": "led-baterka-luxpremium-akku-fokus-led-tl300af-350lm_1005",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   WiFi LED reflektor Duo Strahler WFD bez senzoru",
+            "slug": "wifi-led-reflektor-duo-strahler-wfd-bez-senzoru-3500lm-ip54_12554",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný LED reflektor batériový MULTI",
+            "slug": "mobilny-led-reflektor-bateriovy-multi-4500lm-ip65_12557",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný LED reflektor Hybrid MULTI",
+            "slug": "mobilny-led-reflektor-hybrid-multi-6200lm-ip65_12558",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný LED reflektor AKU Strahler X",
+            "slug": "mobilny-led-reflektor-aku-strahler-x-3800lm-ip55_12559",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný LED reflektor AKU Strahler CL",
+            "slug": "mobilny-led-reflektor-aku-strahler-cl-3800lm-ip65_12562",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Dvojitý statívový LED reflektor JARO",
+            "slug": "dvojity-stativovy-led-reflektor-jaro-2x1950lm-39w_12564",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Trojnožkový LED reflektor JARO",
+            "slug": "trojnozkovy-led-reflektor-jaro-4400lm-50w-ip65_12571",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Trojnožkový LED reflektor JARO",
+            "slug": "trojnozkovy-led-reflektor-jaro-2650lm-30w-ip65_12572",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Trojnožkový LED reflektor JARO",
+            "slug": "trojnozkovy-led-reflektor-jaro-1950lm-195w-ip65_12573",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Magnetický držiak",
+            "slug": "magneticky-drziak-ip54_12715",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný 360° LED reflektor",
+            "slug": "mobilny-360-led-reflektor-5400lm-ip54_20077",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný LED reflektor 30W EL",
+            "slug": "mobilny-led-reflektor-30w-el-2050-m-2700lm-6500k-ip65_20127",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Reflektor LED - ručné svietidlo",
+            "slug": "reflektor-led-rucne-svietidlo-multi-rucne-hl-300011402160lm-ip54_20150",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný nabíjateľný LED reflektor RUFUS 1500 MA",
+            "slug": "mobilny-nabijatelny-led-reflektor-rufus-1500-ma-1500lm_20163",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Reflektor LED batériový",
+            "slug": "reflektor-led-bateriovy-multi-3000-ma-3150lm-ip65_20165",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Solárna nástenná LED lampa",
+            "slug": "solarna-nastenna-led-lampa-sol-wave-800-68-w-800-lm_20166",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED žiarovka WiFi vintage E27",
+            "slug": "led-ziarovka-wifi-vintage-e27-470lm-49wgula_21301",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED žiarovka WiFi vintage E27",
+            "slug": "led-ziarovka-wifi-vintage-e27-470lm-49w-hruska_21303",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED žiarovka smart E14",
+            "slug": "led-ziarovka-smart-e14-sviecka-400-430lm-55w_21305",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED žiarovka smart GU10",
+            "slug": "led-ziarovka-smart-gu10-326lm-45w_21306",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Detektor dymu a tepla",
+            "slug": "detektor-dymu-a-tepla-connect-wifi-wrhm01_21308",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Centrálna jednotka",
+            "slug": "centralna-jednotka-zigbee-gwy-cz01_21309",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Senzor teploty a vlhkosti",
+            "slug": "senzor-teploty-a-vlhkosti-connect-zigbee-tfs_21311",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Detektor pohybu",
+            "slug": "detektor-pohybu-connect-zigbee-bm_21312",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Solárny LED reflektor s pohybovým PIR detektorom biely",
+            "slug": "solarny-led-reflektor-s-pohybovym-pir-detektorom-biely-solarne-400lm_940",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Solárny LED reflektor s pohybovým PIR detektorom antracit",
+            "slug": "solarny-led-reflektor-s-pohybovym-pir-detektorom-antracit-solarne-400lm_931",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED reflektor AL 1000",
+            "slug": "led-reflektor-al-1000-10w_915",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Infračervený pohybový hlásič PIR 240 biely",
+            "slug": "infracerveny-pohybovy-hlasic-pir-240-biely-senzor_951",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Infračervený pohybový hlásič PIR 180 biely",
+            "slug": "infracerveny-pohybovy-hlasic-pir-180-biely-senzor_972",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Solárna lampa na osvetlenie chodníka",
+            "slug": "solarna-lampa-na-osvetlenie-chodnika-solarne-91lm_949",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Solárne LED nástenné svetlo s pohybovým PIR detektorom šedobiele",
+            "slug": "solarne-led-nastenne-svetlo-s-pohybovym-pir-detektorom-sedobiele-solarne-85lm_948",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED akumulátorová ručná lampa HL500A",
+            "slug": "led-akumulatorova-rucna-lampa-hl500a-500lm_976",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED akumulátorová ručná lampa HL700AT",
+            "slug": "led-akumulatorova-rucna-lampa-hl700at-700lm_975",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Infračervený pohybový hlásič PIR 240 antracit",
+            "slug": "infracerveny-pohybovy-hlasic-pir-240-antracit-senzor_950",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LuxPremium akumulátorová LED čelová lampa",
+            "slug": "luxpremium-akumulatorova-led-celova-lampa-celovka-250lm_452",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   SMD LED univerzálne svietidlo HL DB43 MH",
+            "slug": "smd-led-univerzalne-svietidlo-hl-db43-mh-200lm_686",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Káblový bubon Standard BT Pro",
+            "slug": "kablovy-bubon-standard-bt-pro-40m_688",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prenosný LED reflektor TORAN",
+            "slug": "prenosny-led-reflektor-toran-5000lm_737",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mechanický časový spínač",
+            "slug": "mechanicky-casovy-spinac-merac_797",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Samonavíjací bubon 20m",
+            "slug": "samonavijaci-bubon-20m-20m_812",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Safe-Box BIG",
+            "slug": "safe-box-big-puzdro_826",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Gumová vidlica s ochranným kontaktom",
+            "slug": "gumova-vidlica-s-ochrannym-kontaktom-zastrcka_845",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný nabíjateľný LED reflektor RUFUS 3020 MA s farebným podaním",
+            "slug": "mobilny-nabijatelny-led-reflektor-rufus-3020-ma-s-farebnym-podanim-2700lm_865",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný nabíjateľný LED reflektor RUFUS 3010 MA",
+            "slug": "mobilny-nabijatelny-led-reflektor-rufus-3010-ma-3000lm_866",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Infračervený pohybový hlásič PIR 180 antracit",
+            "slug": "infracerveny-pohybovy-hlasic-pir-180-antracit-senzor_970",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED baterka LuxPremium Akku-LED TL1200AF",
+            "slug": "led-baterka-luxpremium-akku-led-tl1200af-1250lm_992",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED baterka LuxPremium Akku-LED TL800AF",
+            "slug": "led-baterka-luxpremium-akku-led-tl800af-860lm_995",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Stolová zásuvka čierna 3-násobná 3m",
+            "slug": "stolova-zasuvka-cierna-3-nasobna-3m-3m_7215",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Diaľkový spínací set 3 zásuvky 1000W IP20 biely",
+            "slug": "dialkovy-spinaci-set-3-zasuvky-1000w-ip20-biely_8415",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Diaľkový spínací set 2 zásuvky 1000W IP44 čierny",
+            "slug": "dialkovy-spinaci-set-2-zasuvky-1000w-ip44-cierny_8416",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Orientačné svetlo s LED a súmrakovým spínačom",
+            "slug": "orientacne-svetlo-s-led-a-sumrakovym-spinacom-orientacne_1085",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Orientačné svetlo s LED súmrakovým spínačom",
+            "slug": "orientacne-svetlo-s-led-sumrakovym-spinacom-orientacne_1084",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Teleskopický statív TS 170",
+            "slug": "teleskopicky-stativ-ts-170-stativ_1087",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Držiak LED reflektorov",
+            "slug": "drziak-led-reflektorov-stativ_1103",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Slim LED reflektor Mobil 80W",
+            "slug": "slim-led-reflektor-mobil-80w-6700lm_1117",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný Akku LED reflektor BLUMO",
+            "slug": "mobilny-akku-led-reflektor-blumo-3000lm_1222",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Špirálová ochrana na káble - biela",
+            "slug": "spiralova-ochrana-na-kable-biela-chranic_1381",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Uhlová spojka pre karavan 3polóvá",
+            "slug": "uhlova-spojka-pre-karavan-3polova-spojka_1425",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel s plochou zástrčkou 5m",
+            "slug": "predlzovaci-kabel-s-plochou-zastrckou-5m-5m_1428",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   3 zásuvky 3m 3G1,5 Predlžovací kábel 16A biely",
+            "slug": "3-zasuvky-3m-3g15-predlzovaci-kabel-16a-biely-3m_1434",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   4 zásuvky 3m 3G1,5 Predlžovací kábel 16A biely s vypínačom",
+            "slug": "4-zasuvky-3m-3g15-predlzovaci-kabel-16a-biely-s-vypinacom-3m_1452",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   5 zásuviek 5m 3G1,5 Predlžovací kábel 16A biely",
+            "slug": "5-zasuviek-5m-3g15-predlzovaci-kabel-16a-biely-5m_1476",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   5 zásuviek 3m 3G1,5 Predlžovací kábel 16A biely",
+            "slug": "5-zasuviek-3m-3g15-predlzovaci-kabel-16a-biely-3m_1487",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   4 zásuvky 3m 3G1,5 Predlžovací kábel 16A biely",
+            "slug": "4-zasuvky-3m-3g15-predlzovaci-kabel-16a-biely-3m_1496",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED reflektor AL 2050",
+            "slug": "led-nastenne-svietidlo-al-2000-20w_916",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED reflektor AL 3000",
+            "slug": "led-nastenne-svietidlo-al-3000-30w_919",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED reflektor s infračerveným pohybovým snímačom",
+            "slug": "led-nastenne-svietidlo-s-infracervenym-pohybovym-snimacom-30w_913",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED reflektor s infračerveným pohybovým snímačom",
+            "slug": "led-nastenne-svietidlo-s-infracervenym-pohybovym-snimacom-10w_877",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LuxPremium LED čelová lampa na behanie",
+            "slug": "luxpremium-led-celova-lampa-na-behanie-celovka-100lm_402",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Reflektor LED naklápací",
+            "slug": "reflektor-led-naklapaci-lufos-ip44-3x-c-baterie-30s-210lm_20168",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED žiarovka WiFi vintage E27",
+            "slug": "led-ziarovka-wifi-vintage-e27-470lm-49w-standard_21302",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED žiarovka smart E27",
+            "slug": "led-ziarovka-smart-e27-sb-810-860lm-9w_21304",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Stolová zásuvka 1-násobná, plochá 3m",
+            "slug": "stolova-zasuvka-1-nasobna-plocha-3m_7212",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Eco-Line, čierna 1,5m",
+            "slug": "predlzovaci-kabel-eco-line-cierna-15m_785",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Eco-Line 1,5m",
+            "slug": "predlzovaci-kabel-eco-line-15m_790",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Eco-Line, svetlo sivá 1,5m",
+            "slug": "predlzovaci-kabel-eco-line-svetlo-siva-15m_794",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Eco-Line biela SCHUKO 1,5m",
+            "slug": "predlzovaci-kabel-eco-line-biela-schuko-15m_11839",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Eco-Line biela SCHUKO 3m",
+            "slug": "predlzovaci-kabel-eco-line-biela-schuko-3m_11840",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Eco-Line biela SCHUKO 5m",
+            "slug": "predlzovaci-kabel-eco-line-biela-schuko-5m_11841",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel Ecolor 3 zásuvky čierna/červená 1,5m",
+            "slug": "predlzovaci-kabel-ecolor-3-zasuvky-ciernacervena-15m_693",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Inovatívna stolová zásuvka Tower Power s USB-nabíjačkou 2m",
+            "slug": "inovativna-stolova-zasuvka-tower-power-s-usb-nabijackou-2m_408",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Inovatívna stolová zásuvka Tower Power 3 zásuvky 2m",
+            "slug": "inovativna-stolova-zasuvka-tower-power-3-zasuvky-2m_515",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel 4-zásuvkový s vypínačom Alu-Line 1,8m",
+            "slug": "predlzovaci-kabel-4-zasuvkovy-s-vypinacom-alu-line-18m_1214",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel 4-zásuvkový Premium-Line 3m",
+            "slug": "predlzovaci-kabel-4-zasuvkovy-premium-line-3m_1227",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel 6-zásuvkový s vypínačom čierna 3m",
+            "slug": "predlzovaci-kabel-6-zasuvkovy-s-vypinacom-cierna-3m_1230",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel 6-zásuvkový s vypínačom biely 3m",
+            "slug": "predlzovaci-kabel-6-zasuvkovy-s-vypinacom-biely-3m_1238",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel 6-zásuvkový s vypínačom čierny 1,5m",
+            "slug": "predlzovaci-kabel-6-zasuvkovy-s-vypinacom-cierny-15m_1268",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel 6-zásuvkový bez vypínača čierny 1,5m",
+            "slug": "predlzovaci-kabel-6-zasuvkovy-bez-vypinaca-cierny-15m_1279",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel 6-zásuvkový Premium-Line SCHUKO 3m",
+            "slug": "predlzovaci-kabel-6-zasuvkovy-premium-line-schuko-3m_11844",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel PRIMERA 8 zásuviek 16A strieborný SCHUKO 2m",
+            "slug": "predlzovaci-kabel-primera-8-zasuviek-16a-strieborny-schuko-2m_11843",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel 8-zásuvkový s vypínačom 3m",
+            "slug": "predlzovaci-kabel-8-zasuvkovy-s-vypinacom-3m_1233",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel PRIMERA 10 zásuviek 16A SCHUKO 2m",
+            "slug": "predlzovaci-kabel-primera-10-zasuviek-16a-schuko-2m_11842",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana Eco-Line, šedá s vypínačom 1,5m",
+            "slug": "prepatova-ochrana-eco-line-seda-s-vypinacom-15m_135",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana Super-Solid 2,5m",
+            "slug": "prepatova-ochrana-super-solid-25m_761",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana Office-Line 6 zásuvková čierna 3m",
+            "slug": "prepatova-ochrana-office-line-6-zasuvkova-cierna-3m_1156",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Prepäťová ochrana 6-zásuvková, čierna 3m",
+            "slug": "prepatova-ochrana-6-zasuvkova-cierna-3m_1164",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel stavebný 4zásuvky-5m",
+            "slug": "predlzovaci-kabel-stavebny-5m_118",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne BREMAXX modrý 25m",
+            "slug": "predlzovaci-kabel-na-bubne-bremaxx-modry-25m_695",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel červený 25m",
+            "slug": "predlzovaci-kabel-cerveny-25m_166",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel gumový čierny 10m",
+            "slug": "predlzovaci-kabel-gumovy-cierny-10m_169",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel gumový čierny 25m",
+            "slug": "predlzovaci-kabel-gumovy-cierny-25m_175",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne záhradný 25m",
+            "slug": "predlzovaci-kabel-na-bubne-zahradny-25m_466",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne záhradný 50m",
+            "slug": "predlzovaci-kabel-na-bubne-zahradny-50m_471",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel BREMAXX  oranžový, IP44 10m",
+            "slug": "predlzovaci-kabel-bremaxx-oranzovy-ip44-10m_517",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel BREMAXX oranžový, IP44 25m",
+            "slug": "predlzovaci-kabel-bremaxx-oranzovy-ip44-25m_518",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne SUPER-SOLID 25m",
+            "slug": "predlzovaci-kabel-na-bubne-super-solid-25m_521",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne, modrý 15m",
+            "slug": "predlzovaci-kabel-na-bubne-modry-15m_526",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne SUPER-SOLID 33m",
+            "slug": "predlzovaci-kabel-na-bubne-super-solid-33m_529",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne BREMAXX 40m",
+            "slug": "predlzovaci-kabel-na-bubne-bremaxx-40m_545",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne so zásuvkami 25m",
+            "slug": "predlzovaci-kabel-na-bubne-so-zasuvkami-25m_708",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne s vozíkom 30m",
+            "slug": "predlzovaci-kabel-na-bubne-s-vozikom-30m_816",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Stavebný kábel  s blokom PowerBlock 10m",
+            "slug": "stavebny-kabel-s-blokom-powerblock-10m_825",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Kompaktný elektrický rozvádzač 1m",
+            "slug": "kompaktny-elektricky-rozvadzac-1m_511",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Káblový box Vario-Line modrá/čierna 10m",
+            "slug": "kablovy-box-vario-line-modracierna-10m_1385",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Káblový box čierny 3m",
+            "slug": "kablovy-box-cierny-3m_1390",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Predlžovací kábel na bubne 40m",
+            "slug": "predlzovaci-kabel-na-bubne-40m_819",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Elektrický rozvádzač CEE 1-2m",
+            "slug": "elektricky-rozvadzac-cee-1-2m_840",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Rozvodnica pre remeselnú a priemyselnú sféru so zemným bodcom IP44 10m",
+            "slug": "rozvodnica-pre-remeselnu-a-priemyselnu-sferu-so-zemnym-bodcom-ip44-10m_509",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Kompaktný malý elektrický rozvádzač 2m",
+            "slug": "kompaktny-maly-elektricky-rozvadzac-2m_824",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Elektrický rozvádzač CEE 2-2m",
+            "slug": "elektricky-rozvadzac-cee-2-2m_838",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Adaptér CEE 400V,16A/CZ 1,5m",
+            "slug": "adapter-cee-400v16acz-15m_1413",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Rozvodnica pre priemyselnú sféru so zemným bodcom IP44 1,4m",
+            "slug": "rozvodnica-pre-priemyselnu-sferu-so-zemnym-bodcom-ip44-14m_19948",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Svetová cestovná zástrčka 7-Adaptérov 10A",
+            "slug": "svetova-cestovna-zastrcka-7-adapterov-adapter_1362",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Cestovný adaptér USA/Euro 5x5cm",
+            "slug": "cestovny-adapter-usaeuro-adapter_1379",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný LED reflektor 50W EL",
+            "slug": "mobilny-led-reflektor-50w-el-el-4050-m-4500lm-6500k-ip65_20128",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Mobilný LED akumulátorový reflektor PF 1000 MA",
+            "slug": "mobilny-led-akumulatorovy-reflektor-pf-1000-ma-1000lm_870",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   LED reflektor s infračerveným pohybovým snímačom",
+            "slug": "led-nastenne-svietidlo-s-infracervenym-pohybovym-snimacom-20w_911",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   3 zásuvky 5m 3G1,5 Predlžovací kábel 16A biely",
+            "slug": "3-zasuvky-5m-3g15-predlzovaci-kabel-16a-biely-5m_1601",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Solárne LED nástenné svetlo s pohybovým PIR detektorom čierna",
+            "slug": "solarne-led-nastenne-svetlo-s-pohybovym-pir-detektorom-cierna-solarne-85lm_945",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Detektor dymu s alarmom 85dB",
+            "slug": "detektor-dymu-s-alarmom-85db-hlasic_508",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        },
+        {
+            "name": "Brennenstuhl   Snímač na dvere a okná",
+            "slug": "snimac-na-dvere-a-okna-connect-zigbee-tfk_21310",
+            "category_id": 93,
+            "category_name": "Predlžovacie káble a svietidlá Brennenstuhl",
+            "category_slug": "predlzovacie-kable-a-svietidla-brennenstuhl"
+        }
+    ]
+}

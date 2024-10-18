@@ -1,0 +1,19 @@
+{
+    "fetch_time": "2024-10-17T18:20:10.983128Z",
+    "products": [
+        {
+            "name": "Domax   Podpera dverí ST 250",
+            "slug": "podpera-dveri-st-250-st-250_10856",
+            "category_id": 419,
+            "category_name": "Patky Uholniky A Kovania Podpery Dveri",
+            "category_slug": "patky-uholniky-a-kovania-podpery-dveri"
+        },
+        {
+            "name": "Domax   Podpera dverí ST 350",
+            "slug": "podpera-dveri-st-350-st-350_10846",
+            "category_id": 419,
+            "category_name": "Patky Uholniky A Kovania Podpery Dveri",
+            "category_slug": "patky-uholniky-a-kovania-podpery-dveri"
+        }
+    ]
+}

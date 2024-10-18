@@ -1,0 +1,47 @@
+{
+    "fetch_time": "2024-10-17T17:51:06.234580Z",
+    "products": [
+        {
+            "name": "MOTTEZ   Noha stola X",
+            "slug": "noha-stola-x-cierna-matna_21144",
+            "category_id": 261,
+            "category_name": "Domacnost A Drogeria Nohy Stola",
+            "category_slug": "domacnost-a-drogeria-nohy-stola"
+        },
+        {
+            "name": "MOTTEZ   Noha stola X",
+            "slug": "noha-stola-x-biela-matna_21145",
+            "category_id": 261,
+            "category_name": "Domacnost A Drogeria Nohy Stola",
+            "category_slug": "domacnost-a-drogeria-nohy-stola"
+        },
+        {
+            "name": "MOTTEZ   Noha stola obdĺžnik",
+            "slug": "noha-stola-obdznik-cierna-matna_21146",
+            "category_id": 261,
+            "category_name": "Domacnost A Drogeria Nohy Stola",
+            "category_slug": "domacnost-a-drogeria-nohy-stola"
+        },
+        {
+            "name": "MOTTEZ   Noha stola obdĺžnik",
+            "slug": "noha-stola-obdznik-cierna-matna-velka_21147",
+            "category_id": 261,
+            "category_name": "Domacnost A Drogeria Nohy Stola",
+            "category_slug": "domacnost-a-drogeria-nohy-stola"
+        },
+        {
+            "name": "MOTTEZ   Noha stola lichobežník",
+            "slug": "noha-stola-lichobeznik-cierna-matna-mala_21148",
+            "category_id": 261,
+            "category_name": "Domacnost A Drogeria Nohy Stola",
+            "category_slug": "domacnost-a-drogeria-nohy-stola"
+        },
+        {
+            "name": "MOTTEZ   Noha stola lichobežník",
+            "slug": "noha-stola-lichobeznik-cierna-matna-velka_21149",
+            "category_id": 261,
+            "category_name": "Domacnost A Drogeria Nohy Stola",
+            "category_slug": "domacnost-a-drogeria-nohy-stola"
+        }
+    ]
+}

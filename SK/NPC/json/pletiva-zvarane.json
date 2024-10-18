@@ -1,0 +1,61 @@
+{
+    "fetch_time": "2024-10-17T18:19:03.417984Z",
+    "products": [
+        {
+            "name": "SVX   Zváraná sieť ZN",
+            "slug": "zvarana-siet-zn-25m-6x6_20313",
+            "category_id": 437,
+            "category_name": "Pletiva Zvarane",
+            "category_slug": "pletiva-zvarane"
+        },
+        {
+            "name": "SVX   Zváraná sieť ZN",
+            "slug": "zvarana-siet-zn-25m-10x10mm_20314",
+            "category_id": 437,
+            "category_name": "Pletiva Zvarane",
+            "category_slug": "pletiva-zvarane"
+        },
+        {
+            "name": "SVX   Zváraná sieť ZN",
+            "slug": "zvarana-siet-zn-25m-13x13mm_20315",
+            "category_id": 437,
+            "category_name": "Pletiva Zvarane",
+            "category_slug": "pletiva-zvarane"
+        },
+        {
+            "name": "SVX   Zváraná sieť ZN",
+            "slug": "zvarana-siet-zn-25m-19x19mm_20317",
+            "category_id": 437,
+            "category_name": "Pletiva Zvarane",
+            "category_slug": "pletiva-zvarane"
+        },
+        {
+            "name": "SVX   Zváraná sieť PVC",
+            "slug": "zvarana-siet-pvc-25m-127x127mm_20319",
+            "category_id": 437,
+            "category_name": "Pletiva Zvarane",
+            "category_slug": "pletiva-zvarane"
+        },
+        {
+            "name": "SVX   Zváraná sieť PVC",
+            "slug": "zvarana-siet-pvc-25m-16x16mm_20320",
+            "category_id": 437,
+            "category_name": "Pletiva Zvarane",
+            "category_slug": "pletiva-zvarane"
+        },
+        {
+            "name": "SVX   Zváraná sieť ZN",
+            "slug": "zvarana-siet-zn-25m-254x254mm_20318",
+            "category_id": 437,
+            "category_name": "Pletiva Zvarane",
+            "category_slug": "pletiva-zvarane"
+        },
+        {
+            "name": "SVX   Zváraná sieť ZN",
+            "slug": "zvarana-siet-zn-25m-16x16mm_20316",
+            "category_id": 437,
+            "category_name": "Pletiva Zvarane",
+            "category_slug": "pletiva-zvarane"
+        }
+    ]
+}

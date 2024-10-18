@@ -1,0 +1,236 @@
+{
+    "fetch_time": "2024-10-17T18:00:36.476185Z",
+    "products": [
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M8",
+            "slug": "zavesna-matica-din-582-pozinkovana-m8_4792",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M10",
+            "slug": "zavesna-matica-din-582-pozinkovana-m10_4795",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M6",
+            "slug": "zavesna-matica-din-582-pozinkovana-m6_4791",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M16",
+            "slug": "zavesna-matica-din-582-pozinkovana-m16_4799",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M12",
+            "slug": "zavesna-matica-din-582-pozinkovana-m12_4796",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M18",
+            "slug": "zavesna-matica-din-582-pozinkovana-m18_4800",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M14",
+            "slug": "zavesna-matica-din-582-pozinkovana-m14_4797",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M20",
+            "slug": "zavesna-matica-din-582-pozinkovana-m20_4801",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M22",
+            "slug": "zavesna-matica-din-582-pozinkovana-m22_4802",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M24",
+            "slug": "zavesna-matica-din-582-pozinkovana-m24_4803",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M18",
+            "slug": "zavesna-matica-din-582-zn-m18_958",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M14",
+            "slug": "zavesna-matica-din-582-zn-m14_956",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M27",
+            "slug": "zavesna-matica-din-582-zn-m27_962",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M20",
+            "slug": "zavesna-matica-din-582-zn-m20_959",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M22",
+            "slug": "zavesna-matica-din-582-zn-m22_960",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M27",
+            "slug": "zavesna-matica-din-582-pozinkovana-m27_4805",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M30",
+            "slug": "zavesna-matica-din-582-pozinkovana-m30_4806",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M33",
+            "slug": "zavesna-matica-din-582-pozinkovana-m33_4807",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M36",
+            "slug": "zavesna-matica-din-582-pozinkovana-m36_4808",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M42",
+            "slug": "zavesna-matica-din-582-pozinkovana-m42_4809",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M48",
+            "slug": "zavesna-matica-din-582-pozinkovana-m48_4810",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "SVX   Závesná matica DIN 582 pozinkovaná M56",
+            "slug": "zavesna-matica-din-582-pozinkovana-m56_4811",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M12",
+            "slug": "zavesna-matica-din-582-zn-m12_954",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M10",
+            "slug": "zavesna-matica-din-582-zn-m10_953",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M42",
+            "slug": "zavesna-matica-din-582-zn-m42_968",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M48",
+            "slug": "zavesna-matica-din-582-zn-m48_971",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M36",
+            "slug": "zavesna-matica-din-582-zn-m36_966",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M30",
+            "slug": "zavesna-matica-din-582-zn-m30_963",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M16",
+            "slug": "zavesna-matica-din-582-zn-m16_957",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M24",
+            "slug": "zavesna-matica-din-582-zn-m24_961",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M33",
+            "slug": "zavesna-matica-din-582-zn-m33_965",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M8",
+            "slug": "zavesna-matica-din-582-zn-m8_952",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        },
+        {
+            "name": "Závesná matica DIN 582 zn M6",
+            "slug": "zavesna-matica-din-582-zn-m6_947",
+            "category_id": 141,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Din 582 Zavesne Matice",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-din-582-zavesne-matice"
+        }
+    ]
+}

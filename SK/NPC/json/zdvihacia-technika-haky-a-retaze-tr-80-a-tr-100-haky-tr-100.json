@@ -1,0 +1,355 @@
+{
+    "fetch_time": "2024-10-17T18:16:51.506211Z",
+    "products": [
+        {
+            "name": "SVX   Hák s vidlicou HV tr 100 13mm",
+            "slug": "hak-s-vidlicou-hv-tr-100-13mm_6340",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "SVX   Hák s vidlicou HV tr 100 6mm",
+            "slug": "hak-s-vidlicou-hv-tr-100-6mm_6334",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "SVX   Hák s vidlicou HV tr 100 16mm",
+            "slug": "hak-s-vidlicou-hv-tr-100-16mm_6341",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "SVX   Hák s okom HO tr 100 8mm",
+            "slug": "hak-s-okom-ho-tr-100-8mm_6320",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 6mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-6mm_6580",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 8mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-8mm_6581",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 10mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-10mm_6582",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 13mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-13mm_6583",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 16mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-16mm_6584",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 20mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-20mm_6585",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 6mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-6mm_6586",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 8mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-8mm_6587",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 10mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-10mm_6588",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 13mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-13mm_6589",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 16mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-16mm_6590",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 6mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-6mm_6597",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 8mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-8mm_6598",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 10mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-10mm_6599",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 13mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-13mm_6600",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 16mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-16mm_6601",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací otočný hák tr 100 oranžový 6mm",
+            "slug": "samozaistovaci-otocny-hak-tr-100-oranzovy-6mm_6602",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací otočný hák tr 100 oranžový 8mm",
+            "slug": "samozaistovaci-otocny-hak-tr-100-oranzovy-8mm_6603",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací otočný hák tr 100 oranžový 10mm",
+            "slug": "samozaistovaci-otocny-hak-tr-100-oranzovy-10mm_6604",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací otočný hák tr 100 oranžový 13mm",
+            "slug": "samozaistovaci-otocny-hak-tr-100-oranzovy-13mm_6605",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 6mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-6mm_6580",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 8mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-8mm_6581",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 10mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-10mm_6582",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 13mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-13mm_6583",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 16mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-16mm_6584",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s okom tr 100 oranžový 20mm",
+            "slug": "zlievarensky-hak-s-okom-tr-100-oranzovy-20mm_6585",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 6mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-6mm_6586",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 8mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-8mm_6587",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 10mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-10mm_6588",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 13mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-13mm_6589",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Zlievarenský hák s vidlicou tr 100 oranžový 16mm",
+            "slug": "zlievarensky-hak-s-vidlicou-tr-100-oranzovy-16mm_6590",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 6mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-6mm_6597",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 8mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-8mm_6598",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 10mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-10mm_6599",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 13mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-13mm_6600",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák na reťaz s vidlicou tr 100 oranžový 16mm",
+            "slug": "samozaistovaci-hak-na-retaz-s-vidlicou-tr-100-oranzovy-16mm_6601",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací otočný hák tr 100 oranžový 6mm",
+            "slug": "samozaistovaci-otocny-hak-tr-100-oranzovy-6mm_6602",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací otočný hák tr 100 oranžový 8mm",
+            "slug": "samozaistovaci-otocny-hak-tr-100-oranzovy-8mm_6603",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací otočný hák tr 100 oranžový 10mm",
+            "slug": "samozaistovaci-otocny-hak-tr-100-oranzovy-10mm_6604",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací otočný hák tr 100 oranžový 13mm",
+            "slug": "samozaistovaci-otocny-hak-tr-100-oranzovy-13mm_6605",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací otočný hák tr 100 oranžový 16mm",
+            "slug": "samozaistovaci-otocny-hak-tr-100-oranzovy-16mm_6606",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák s okom tr 100 oranžový 6mm",
+            "slug": "samozaistovaci-hak-s-okom-tr-100-oranzovy-6mm_6607",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák s okom tr 100 oranžový 8mm",
+            "slug": "samozaistovaci-hak-s-okom-tr-100-oranzovy-8mm_6608",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák s okom tr 100 oranžový 10mm",
+            "slug": "samozaistovaci-hak-s-okom-tr-100-oranzovy-10mm_6609",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák s okom tr 100 oranžový 13mm",
+            "slug": "samozaistovaci-hak-s-okom-tr-100-oranzovy-13mm_6610",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        },
+        {
+            "name": "Samozaisťovací hák s okom tr 100 oranžový 16mm",
+            "slug": "samozaistovaci-hak-s-okom-tr-100-oranzovy-16mm_6611",
+            "category_id": 458,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Haky Tr 100",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-haky-tr-100"
+        }
+    ]
+}

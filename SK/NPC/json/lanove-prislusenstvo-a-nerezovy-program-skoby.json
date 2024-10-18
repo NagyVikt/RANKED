@@ -1,0 +1,684 @@
+{
+    "fetch_time": "2024-10-17T18:06:03.491676Z",
+    "products": [
+        {
+            "name": "Skoba s vrutom Zn 30mm",
+            "slug": "skoba-s-vrutom-zn-30mm_2750",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Zn 60mm",
+            "slug": "skoba-s-vrutom-zn-60mm_2754",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Zn 40mm",
+            "slug": "skoba-s-vrutom-zn-40mm_2751",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Zn 50mm",
+            "slug": "skoba-s-vrutom-zn-50mm_2752",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Zn 80mm",
+            "slug": "skoba-s-vrutom-zn-80mm_2755",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s vrutom 25mm",
+            "slug": "skoba-s-vrutom-25-mm_8430",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s plochou drážkou pozinkovaná 40mm",
+            "slug": "skoba-s-plochou-drazkou-pozinkovana-40mm_20713",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s krížovou drážkou pozinkovaná 80mm",
+            "slug": "skoba-s-krizovou-drazkou-pozinkovana-80mm_5747",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s vrutom 100mm",
+            "slug": "skoba-s-vrutom-100-mm_8436",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Obrtlík pozinkovaný 50mm",
+            "slug": "obrtlik-pozinkovany-50mm_5611",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s krížovou drážkou pozinkovaná 65mm",
+            "slug": "skoba-s-krizovou-drazkou-pozinkovana-65mm_5746",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Obrtlík Zn 30mm",
+            "slug": "obrtlik-zn-30mm_2488",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s krížovou drážkou pozinkovaná 50mm",
+            "slug": "skoba-s-krizovou-drazkou-pozinkovana-50mm_5745",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s vrutom 20mm",
+            "slug": "skoba-s-vrutom-20-mm_8429",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M4x50",
+            "slug": "skoba-so-zavitom-pozinkovana-m4x50mm_5751",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Obrtlík pozinkovaný 40mm",
+            "slug": "obrtlik-pozinkovany-40mm_5608",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s krížovou drážkou pozinkovaná 40mm",
+            "slug": "skoba-s-krizovou-drazkou-pozinkovana-40mm_5744",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba zatĺkacia Zn 80mm",
+            "slug": "skoba-zatkacia-zn-80mm_2783",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom biely lak 40mm",
+            "slug": "skoba-s-vrutom-biely-lak-40mm_2742",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M5x60",
+            "slug": "skoba-so-zavitom-pozinkovana-m5x60mm_5757",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s límcom a hmoždinou 10x60mm",
+            "slug": "skoba-s-limcom-a-hmozdinou-10x60mm_5138",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s límcom a hmoždinou 8x50mm",
+            "slug": "skoba-s-limcom-a-hmozdinou-8x50mm_5137",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s plochou drážkou pozinkovaná 80mm",
+            "slug": "skoba-s-plochou-drazkou-pozinkovana-80mm_20716",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba zatĺkacia Zn 50mm",
+            "slug": "skoba-zatkacia-zn-50mm_2780",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s krížovou drážkou pozinkovaná 100mm",
+            "slug": "skoba-s-krizovou-drazkou-pozinkovana-100mm_5748",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba zatĺkacia Zn 60mm",
+            "slug": "skoba-zatkacia-zn-60mm_2782",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M10x100",
+            "slug": "skoba-so-zavitom-pozinkovana-m10x100mm_5767",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Obrtlík pozinkovaný 20mm",
+            "slug": "obrtlik-pozinkovany-20mm_5606",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s krížovou drážkou Zn 40mm",
+            "slug": "skoba-s-krizovou-drazkou-zn-40mm_2720",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba zatĺkacia Zn 40mm",
+            "slug": "skoba-zatkacia-zn-40mm_2779",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s plochou drážkou pozinkovaná 50mm",
+            "slug": "skoba-s-plochou-drazkou-pozinkovana-50mm_20714",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba zatĺkacia Zn 30mm",
+            "slug": "skoba-zatkacia-zn-30mm_2777",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M8x80",
+            "slug": "skoba-so-zavitom-pozinkovana-m8x80mm_5764",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s plochou drážkou pozinkovaná 150mm",
+            "slug": "skoba-s-plochou-drazkou-pozinkovana-150mm_20719",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M8x60",
+            "slug": "skoba-so-zavitom-pozinkovana-m8x60mm_5763",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s límcom a hmoždinou 6x35mm",
+            "slug": "skoba-s-limcom-a-hmozdinou-6x35mm_5136",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M6x60",
+            "slug": "skoba-so-zavitom-pozinkovana-m6x60mm_5760",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M10x150",
+            "slug": "skoba-so-zavitom-pozinkovana-m10x150mm_5768",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s límcom a hmoždinkou 10x60mm",
+            "slug": "skoba-s-limcom-a-hmozdinkou-10x60mm_2903",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s límcom a hmoždinkou 8x50mm",
+            "slug": "skoba-s-limcom-a-hmozdinkou-8x50mm_2900",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s límcom a hmoždinkou 6x35mm",
+            "slug": "skoba-s-limcom-a-hmozdinkou-6x35mm_2896",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M4x40",
+            "slug": "skoba-so-zavitom-pozinkovana-m4x40mm_5750",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M4x60",
+            "slug": "skoba-so-zavitom-pozinkovana-m4x60mm_5752",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M5x40",
+            "slug": "skoba-so-zavitom-pozinkovana-m5x40mm_5753",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M5x50",
+            "slug": "skoba-so-zavitom-pozinkovana-m5x50mm_5755",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M6x50",
+            "slug": "skoba-so-zavitom-pozinkovana-m6x50mm_5758",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M6x80",
+            "slug": "skoba-so-zavitom-pozinkovana-m6x80mm_5762",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M8x100",
+            "slug": "skoba-so-zavitom-pozinkovana-m8x100mm_5765",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M5x40",
+            "slug": "skoba-so-zavitom-pozinkovana-m5x40mm_5753",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M5x50",
+            "slug": "skoba-so-zavitom-pozinkovana-m5x50mm_5755",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M6x50",
+            "slug": "skoba-so-zavitom-pozinkovana-m6x50mm_5758",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M6x80",
+            "slug": "skoba-so-zavitom-pozinkovana-m6x80mm_5762",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M8x100",
+            "slug": "skoba-so-zavitom-pozinkovana-m8x100mm_5765",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba so závitom pozinkovaná M8x150",
+            "slug": "skoba-so-zavitom-pozinkovana-m8x150mm_5766",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Obrtlík Zn 20mm",
+            "slug": "obrtlik-zn-20mm_2484",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Obrtlík Zn 40mm",
+            "slug": "obrtlik-zn-40mm_2490",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Obrtlík Zn 50mm",
+            "slug": "obrtlik-zn-50mm_2491",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s krížovou drážkou Zn 50mm",
+            "slug": "skoba-s-krizovou-drazkou-zn-50mm_2721",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s krížovou drážkou Zn 80mm",
+            "slug": "skoba-s-krizovou-drazkou-zn-80mm_2724",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s krížovou drážkou Zn 100mm",
+            "slug": "skoba-s-krizovou-drazkou-zn-100mm_2725",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Ms 25mm",
+            "slug": "skoba-s-vrutom-ms-25mm_2726",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Ms 40mm",
+            "slug": "skoba-s-vrutom-ms-40mm_2731",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Ms 50mm",
+            "slug": "skoba-s-vrutom-ms-50mm_2732",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Ms 80mm",
+            "slug": "skoba-s-vrutom-ms-80mm_2734",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom biely lak 25mm",
+            "slug": "skoba-s-vrutom-biely-lak-25mm_2738",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom biely lak 30mm",
+            "slug": "skoba-s-vrutom-biely-lak-30mm_2740",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom biely lak 50mm",
+            "slug": "skoba-s-vrutom-biely-lak-50mm_2743",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Zn 100mm",
+            "slug": "skoba-s-vrutom-zn-100mm_2756",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M4x40",
+            "slug": "skoba-so-zavitom-zn-m4x40mm_2758",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M4x50",
+            "slug": "skoba-so-zavitom-zn-m4x50mm_2761",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M4x60",
+            "slug": "skoba-so-zavitom-zn-m4x60mm_2763",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M5x40",
+            "slug": "skoba-so-zavitom-zn-m5x40mm_2764",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M8x80",
+            "slug": "skoba-so-zavitom-zn-m8x80mm_2772",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M8x100",
+            "slug": "skoba-so-zavitom-zn-m8x100mm_2773",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M8x150",
+            "slug": "skoba-so-zavitom-zn-m8x150mm_2774",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M10x100",
+            "slug": "skoba-so-zavitom-zn-m10x100mm_2775",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M10x150",
+            "slug": "skoba-so-zavitom-zn-m10x150mm_2776",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba zatĺkacia Zn 100mm",
+            "slug": "skoba-zatkacia-zn-100mm_2784",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba zatĺkacia guľatá Zn 50mm",
+            "slug": "skoba-zatkacia-gulata-zn-50mm_2786",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba zatĺkacia guľatá Zn 70mm",
+            "slug": "skoba-zatkacia-gulata-zn-70mm_2788",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Obrtlík pozinkovaný 30mm",
+            "slug": "obrtlik-pozinkovany-30mm_5607",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s vrutom 30mm",
+            "slug": "skoba-s-vrutom-30-mm_8431",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s vrutom 40mm",
+            "slug": "skoba-s-vrutom-40-mm_8432",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s vrutom 50mm",
+            "slug": "skoba-s-vrutom-50-mm_8433",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s vrutom 60mm",
+            "slug": "skoba-s-vrutom-60-mm_8434",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s vrutom 80mm",
+            "slug": "skoba-s-vrutom-80-mm_8435",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s plochou drážkou pozinkovaná 30mm",
+            "slug": "skoba-s-plochou-drazkou-pozinkovana-30mm_20712",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s plochou drážkou pozinkovaná 60mm",
+            "slug": "skoba-s-plochou-drazkou-pozinkovana-60mm_20715",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s plochou drážkou pozinkovaná 100mm",
+            "slug": "skoba-s-plochou-drazkou-pozinkovana-100mm_20717",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "SVX   Skoba s plochou drážkou pozinkovaná 120mm",
+            "slug": "skoba-s-plochou-drazkou-pozinkovana-120mm_20718",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Ms 100mm",
+            "slug": "skoba-s-vrutom-ms-100mm_2735",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Zn 20mm",
+            "slug": "skoba-s-vrutom-zn-20mm_2744",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Ms 60mm",
+            "slug": "skoba-s-vrutom-ms-60mm_2733",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Zn 25mm",
+            "slug": "skoba-s-vrutom-zn-25mm_2749",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s vrutom Ms 30mm",
+            "slug": "skoba-s-vrutom-ms-30mm_2729",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba s krížovou drážkou Zn 65mm",
+            "slug": "skoba-s-krizovou-drazkou-zn-65mm_2723",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        },
+        {
+            "name": "Skoba so závitom Zn M6x60",
+            "slug": "skoba-so-zavitom-zn-m6x60mm_2768",
+            "category_id": 284,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Skoby",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-skoby"
+        }
+    ]
+}

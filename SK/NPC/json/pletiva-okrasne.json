@@ -1,0 +1,19 @@
+{
+    "fetch_time": "2024-10-17T18:18:57.226439Z",
+    "products": [
+        {
+            "name": "SVX   Okrasné pletivo PVC",
+            "slug": "okrasne-pletivo-pvc-65cm_20282",
+            "category_id": 448,
+            "category_name": "Pletiva Okrasne",
+            "category_slug": "pletiva-okrasne"
+        },
+        {
+            "name": "SVX   Okrasné pletivo PVC",
+            "slug": "okrasne-pletivo-pvc-95cm_20283",
+            "category_id": 448,
+            "category_name": "Pletiva Okrasne",
+            "category_slug": "pletiva-okrasne"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T18:04:46.506899Z",
+    "products": [
+        {
+            "name": "Nerezový obrtlík oko oko A4 M6",
+            "slug": "nerezovy-obrtlik-oko-oko-a4-m6_3498",
+            "category_id": 278,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Otocne Prvky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-otocne-prvky"
+        },
+        {
+            "name": "Nerezový obrtlík oko oko A4 M10",
+            "slug": "nerezovy-obrtlik-oko-oko-a4-m10_3502",
+            "category_id": 278,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Otocne Prvky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-otocne-prvky"
+        },
+        {
+            "name": "Nerezový obrtlík oko oko A4 M5",
+            "slug": "nerezovy-obrtlik-oko-oko-a4-m5_3482",
+            "category_id": 278,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Otocne Prvky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-otocne-prvky"
+        },
+        {
+            "name": "Nerezový obrtlík oko oko A4 M8",
+            "slug": "nerezovy-obrtlik-oko-oko-a4-m8_3501",
+            "category_id": 278,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Nerezove Otocne Prvky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-nerezove-otocne-prvky"
+        }
+    ]
+}

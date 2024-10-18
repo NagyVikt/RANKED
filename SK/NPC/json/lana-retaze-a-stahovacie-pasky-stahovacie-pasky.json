@@ -1,0 +1,656 @@
+{
+    "fetch_time": "2024-10-17T18:01:18.135485Z",
+    "products": [
+        {
+            "name": "SVX   Sťahovacia páska čierna 3,6x150mm",
+            "slug": "stahovacia-paska-cierna-36x150mm_2624",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 4,8x370mm",
+            "slug": "stahovacia-paska-cierna-48x370mm_2644",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 4,8x280mm",
+            "slug": "stahovacia-paska-cierna-48x280mm_2638",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 4,8x200mm",
+            "slug": "stahovacia-paska-cierna-48x200mm_2633",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 2,5x100mm",
+            "slug": "stahovacia-paska-cierna-25x100mm_2601",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 4,8x250mm",
+            "slug": "stahovacia-paska-cierna-48x250mm_2636",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 7,6x300mm",
+            "slug": "stahovacia-paska-cierna-76x300mm_2667",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 4,8x200mm",
+            "slug": "stahovacia-paska-biela-48x200mm_2748",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 2,5x200mm",
+            "slug": "stahovacia-paska-cierna-25x200mm_2614",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 4,8x370mm",
+            "slug": "stahovacia-paska-biela-48x370mm_2759",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 2,5x200mm",
+            "slug": "stahovacia-paska-biela-25x200mm_2737",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 3,6x300mm",
+            "slug": "stahovacia-paska-cierna-36x300mm_2628",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 7,6x450mm",
+            "slug": "stahovacia-paska-cierna-76x450mm_2671",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 4,8x150mm",
+            "slug": "stahovacia-paska-biela-48x150mm_2747",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 7,6x370mm",
+            "slug": "stahovacia-paska-cierna-76x370mm_11428",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 3,6x200mm",
+            "slug": "stahovacia-paska-biela-36x200mm_2741",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 4,8x150mm",
+            "slug": "stahovacia-paska-cierna-48x150mm_2632",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 3,6x300mm",
+            "slug": "stahovacia-paska-biela-36x300mm_2745",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 3,6x150mm",
+            "slug": "stahovacia-paska-biela-36x150mm_2739",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 3,6x370mm",
+            "slug": "stahovacia-paska-cierna-36x370mm_2631",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 7,6x540mm",
+            "slug": "stahovacia-paska-cierna-76x540mm_2675",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 4,8x450mm",
+            "slug": "stahovacia-paska-cierna-48x450mm_2647",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 2,5x150mm",
+            "slug": "stahovacia-paska-cierna-25x150mm_2613",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 2,5x120mm",
+            "slug": "stahovacia-paska-cierna-25x120mm_2608",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 7,6x300mm",
+            "slug": "stahovacia-paska-biela-76x300mm_2771",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 3,6x200mm",
+            "slug": "stahovacia-paska-cierna-36x200mm_2626",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 4,8x280mm",
+            "slug": "stahovacia-paska-biela-48x280mm_2757",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 2,5x80mm",
+            "slug": "stahovacia-paska-cierna-25x80mm_2591",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 4,8x250mm",
+            "slug": "stahovacia-paska-biela-48x250mm_2753",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 50ks 4,8x450mm",
+            "slug": "stahovacia-paska-cierna-50ks-48x450mm_2800",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 50ks 7,6x540mm",
+            "slug": "stahovacia-paska-cierna-50ks-76x540mm_2833",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 7,6x200mm",
+            "slug": "stahovacia-paska-biela-76x200mm_2762",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 50ks 7,6x450mm",
+            "slug": "stahovacia-paska-biela-50ks-76x450mm_2795",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 50ks 7,6x300mm",
+            "slug": "stahovacia-paska-biela-50ks-76x300mm_2793",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 7,6x540mm",
+            "slug": "stahovacia-paska-biela-76x540mm_2785",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 2,5x80mm",
+            "slug": "stahovacia-paska-biela-25x80mm_2727",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 20ks 8,8x800mm",
+            "slug": "stahovacia-paska-cierna-20ks-88x800mm_2842",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 7,6x370mm",
+            "slug": "stahovacia-paska-biela-76x370mm_2778",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 50ks 7,6x200mm",
+            "slug": "stahovacia-paska-biela-50ks-76x200mm_2792",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna biela 10mm",
+            "slug": "kabelazna-prichytka-ovalna-biela-10mm_6629",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna biela 9mm",
+            "slug": "kabelazna-prichytka-ovalna-biela-9mm_6627",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna čierna 12mm",
+            "slug": "kabelazna-prichytka-ovalna-cierna-12mm_2868",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna biela 12mm",
+            "slug": "kabelazna-prichytka-ovalna-biela-12mm_6631",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna čierna 10mm",
+            "slug": "kabelazna-prichytka-ovalna-cierna-10mm_2867",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna čierna 5mm",
+            "slug": "kabelazna-prichytka-ovalna-cierna-5mm_2860",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna čierna 7mm",
+            "slug": "kabelazna-prichytka-ovalna-cierna-7mm_2863",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna čierna 9mm",
+            "slug": "kabelazna-prichytka-ovalna-cierna-9mm_2866",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna biela 7mm",
+            "slug": "kabelazna-prichytka-ovalna-biela-7mm_6622",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna čierna 4mm",
+            "slug": "kabelazna-prichytka-ovalna-cierna-4mm_2859",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna čierna 6mm",
+            "slug": "kabelazna-prichytka-ovalna-cierna-6mm_2862",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna čierna 8mm",
+            "slug": "kabelazna-prichytka-ovalna-cierna-8mm_2864",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna čierna 7-12mm",
+            "slug": "kabelazna-prichytka-ovalna-cierna-7-12mm",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna biela 5-7mm",
+            "slug": "kabelazna-prichytka-ovalna-biela-5-7mm_12567",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka štvorcová biela 10mm",
+            "slug": "kabelazna-prichytka-stvorcova-biela-10mm_6636",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka štvorcová biela 9mm",
+            "slug": "kabelazna-prichytka-stvorcova-biela-9mm_6635",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka štvorcová biela 8mm",
+            "slug": "kabelazna-prichytka-stvorcova-biela-8mm_6632",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka štvorcová čierna 7mm",
+            "slug": "kabelazna-prichytka-stvorcova-cierna-6mm",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna biela 5mm",
+            "slug": "kabelazna-prichytka-ovalna-biela-5mm_6620",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna biela 6mm",
+            "slug": "kabelazna-prichytka-ovalna-biela-6mm_6621",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna biela 4mm",
+            "slug": "kabelazna-prichytka-ovalna-biela-4mm_6617",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka oválna biela 8mm",
+            "slug": "kabelazna-prichytka-ovalna-biela-8mm_6624",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "Kabelážna príchytka štvorcová biela 7mm",
+            "slug": "kabelazna-prichytka-stvorcova-biela-7mm_6618",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska zelená 4,8x450mm",
+            "slug": "stahovacia-paska-zelena-48x450mm_2857",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska zelená 3,6x200mm",
+            "slug": "stahovacia-paska-zelena-36x200mm_2853",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 50ks 7,6x450mm",
+            "slug": "stahovacia-paska-cierna-50ks-76x450mm_2826",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 50ks 7,6x370mm",
+            "slug": "stahovacia-paska-cierna-50ks-76x370mm_2823",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 50ks 7,6x300mm",
+            "slug": "stahovacia-paska-cierna-50ks-76x300mm_2822",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 50ks 3,6x370mm",
+            "slug": "stahovacia-paska-cierna-50ks-36x370mm_2799",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 20ks 8,8x800mm",
+            "slug": "stahovacia-paska-biela-20ks-88x800mm_2798",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 50ks 7,6x540mm",
+            "slug": "stahovacia-paska-biela-50ks-76x540mm_2796",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 50ks 7,6x370mm",
+            "slug": "stahovacia-paska-biela-50ks-76x370mm_2794",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 50ks 4,8x450mm",
+            "slug": "stahovacia-paska-biela-50ks-48x450mm_2790",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 50ks 3,6x370mm",
+            "slug": "stahovacia-paska-biela-50ks-36x370mm_2789",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 8,8x800mm",
+            "slug": "stahovacia-paska-biela-88x800mm_2787",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 7,6x450mm",
+            "slug": "stahovacia-paska-biela-76x450mm_2781",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 4,8x450mm",
+            "slug": "stahovacia-paska-biela-48x450mm_2760",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 3,6x370mm",
+            "slug": "stahovacia-paska-biela-36x370mm_2746",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 2,5x120mm",
+            "slug": "stahovacia-paska-biela-25x120mm_2730",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 2,5x100mm",
+            "slug": "stahovacia-paska-biela-25x100mm_2728",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 8,8x800mm",
+            "slug": "stahovacia-paska-cierna-88x800mm_2722",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 7,6x200mm",
+            "slug": "stahovacia-paska-cierna-76x200mm_2665",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska biela 2,5x150mm",
+            "slug": "stahovacia-paska-biela-25x150mm_2736",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska čierna 50ks 7,6x200mm",
+            "slug": "stahovacia-paska-cierna-50ks-76x200mm_2801",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Označovací štítok s páskou čierny - 3,6x220mm",
+            "slug": "oznacovaci-stitok-s-paskou-cierny-36x220mm",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska na skrutku 3,6x100 mm",
+            "slug": "stahovacia-paska-na-skrutku-36x100",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska na skrutku 3,6x200 mm",
+            "slug": "stahovacia-paska-na-skrutku-36x200",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska na skrutku 4,3x220 mm",
+            "slug": "stahovacia-paska-na-skrutku-43x220-mm",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska na skrutku 4,5x400 mm",
+            "slug": "stahovacia-paska-na-skrutku-45x400-mm",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska na skrutku 7,6x380 mm",
+            "slug": "stahovacia-paska-na-skrutku-76x380-mm",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Označovací štítok s páskou biely - 3,6x220mm",
+            "slug": "oznacovaci-stitok-s-paskou-biely-36x220mm",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacia páska na skrutku 4,5x300 mm",
+            "slug": "stahovacia-paska-na-skrutku-45x300-mm",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Špirála - ochrana na káble biela 20mm/3m",
+            "slug": "spirala-ochrana-na-kable-biela",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        },
+        {
+            "name": "SVX   Sťahovacie pásky SET 4,8x450/3,6x200 mm",
+            "slug": "stahovacie-pasky-set-300ks_20887",
+            "category_id": 250,
+            "category_name": "Lana Retaze A Stahovacie Pasky Stahovacie Pasky",
+            "category_slug": "lana-retaze-a-stahovacie-pasky-stahovacie-pasky"
+        }
+    ]
+}

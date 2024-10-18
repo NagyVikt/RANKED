@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T18:08:32.523345Z",
+    "products": [
+        {
+            "name": "Záves na nosník M8",
+            "slug": "zaves-na-nosnik-m8_2259",
+            "category_id": 229,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Zavesy Na Nosniky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-zavesy-na-nosniky"
+        },
+        {
+            "name": "Záves na nosník M12",
+            "slug": "zaves-na-nosnik-m12_2263",
+            "category_id": 229,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Zavesy Na Nosniky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-zavesy-na-nosniky"
+        },
+        {
+            "name": "Záves na nosník M10",
+            "slug": "zaves-na-nosnik-m10_2262",
+            "category_id": 229,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Zavesy Na Nosniky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-zavesy-na-nosniky"
+        },
+        {
+            "name": "Fischer   Svorka nosníková TKR 21-42mm",
+            "slug": "svorka-nosnikova-tkr-tkr21-42_21048",
+            "category_id": 229,
+            "category_name": "Lanove Prislusenstvo A Nerezovy Program Zavesy Na Nosniky",
+            "category_slug": "lanove-prislusenstvo-a-nerezovy-program-zavesy-na-nosniky"
+        }
+    ]
+}

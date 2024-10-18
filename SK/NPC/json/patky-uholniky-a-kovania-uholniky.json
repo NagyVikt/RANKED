@@ -1,0 +1,635 @@
+{
+    "fetch_time": "2024-10-17T18:20:08.267631Z",
+    "products": [
+        {
+            "name": "SVX   Uholník KM3 60x60x40x2mm",
+            "slug": "uholnik-km3-60x60x40x2_6253",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP1 50x50x15mm",
+            "slug": "uholnik-uzky-up1-50x50x15-mm_11542",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník KM4 60x60x60x2mm",
+            "slug": "uholnik-km4-60x60x60x2_6257",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník KM8 80x80x60x2mm",
+            "slug": "uholnik-km8-80x80x60x2_6277",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom - čierny 10ks 90x90x65x2,5mm",
+            "slug": "uholnik-s-prelisom-cierny-90x90x65",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP2 25x25x15mm",
+            "slug": "uholnik-uzky-up2-25x25x15-mm_11392",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník bez prelisu KL 3 50x150x35mm",
+            "slug": "uholnik-bez-prelisu-kl-3-50x150x35_10824",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom - čierny 10ks 60x60x45x2mm",
+            "slug": "uholnik-s-prelisom-cierny-60x60x45",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KL 5 105x105x90mm",
+            "slug": "uholnik-kl-5-105x105x90_602",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom KP 90x90x65mm",
+            "slug": "uholnik-s-prelisom-kp-90x90x65_6290",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom KP 70x70x55mm",
+            "slug": "uholnik-s-prelisom-kp-70x70x55_584",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník KM7 80x80x40x2mm",
+            "slug": "uholnik-km7-80x80x40x2_6276",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník KM9 80x80x80x2mm",
+            "slug": "uholnik-km9-80x80x80x2_6282",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník nastaviteľný KRD 1 50x55mm",
+            "slug": "uholnik-nastavitelny-krd-1-50x55_10831",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník KM1 40x40x40x2mm",
+            "slug": "uholnik-km1-40x40x40x2_6249",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom - čierny 10ks 50x50x35x2mm",
+            "slug": "uholnik-s-prelisom-cierny-50x50x35",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom KP 60x60x45mm",
+            "slug": "uholnik-s-prelisom-kp-60x60x45_9029",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom KP 105x105x90mm",
+            "slug": "uholnik-s-prelisom-kp-105x105x90_6293",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník s prelisom KP 145x145x90mm",
+            "slug": "uholnik-s-prelisom-kp-145x145x90_10821",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník zosilnený 100x100x20mm",
+            "slug": "uholnik-zosilneny-100x100x20-mm_11596",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník nastaviteľný KRD 4 120x55mm",
+            "slug": "uholnik-nastavitelny-krd-4-120x55-mm_11079",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom - čierny 10ks 105x105x90x2,5mm",
+            "slug": "uholnik-s-prelisom-cierny-105x105x90",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník KM2 40x40x60x2mm",
+            "slug": "uholnik-km2-40x40x60x2_6252",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 1 40x80mm",
+            "slug": "dierovany-plech-pp-1-40x80x2_10835",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník kotevný KK 2 300x40x40mm",
+            "slug": "uholnik-kotevny-kk-2-300x40x40_10829",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KS 2 široký 40x40x40x2mm",
+            "slug": "uholnik-ks-2-siroky-40x40x40x2-mm_11146",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník krokvový LK 1 32x170mm",
+            "slug": "uholnik-krokvovy-lk-1-32x170-mm_11072",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 2 40x100mm",
+            "slug": "dierovany-plech-pp-2-40x100x2_592",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník zosilnený 150x150x20mm",
+            "slug": "uholnik-zosilneny-150x150x20-mm_11598",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 8 60x240mm",
+            "slug": "dierovany-plech-pp-8-60x240x2_10839",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 3 40x120mm",
+            "slug": "dierovany-plech-pp-3-40x120x2_10833",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 9 80x200mm",
+            "slug": "dierovany-plech-pp-9-80x200x2_10840",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KL 1 50x50x35mm",
+            "slug": "uholnik-kl-1-50x50x35_11062",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 5 60x140mm",
+            "slug": "dierovany-plech-pp-5-60x140x2_10836",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník krokvový LK 2 32x170mm",
+            "slug": "uholnik-krokvovy-lk-2-32x170-mm_11070",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 11 80x300mm",
+            "slug": "dierovany-plech-pp-11-80x300x2_10842",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník nastaviteľný KRD 2 70x55mm",
+            "slug": "uholnik-nastavitelny-krd-2-70x55-mm_11097",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník krokvový LK 3 32x210mm",
+            "slug": "uholnik-krokvovy-lk-3-32x210-mm_11071",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP2 20x20x15mm",
+            "slug": "uholnik-uzky-up2-20x20x15-mm_11391",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom - čierny 10ks 70x70x55x2,5mm",
+            "slug": "uholnik-s-prelisom-cierny-70x70x55",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník KM5 60x60x80x2mm",
+            "slug": "uholnik-km5-60x60x80x2_6258",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník KM6 60x60x100x2mm",
+            "slug": "uholnik-km6-60x60x100x2_6259",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník s prelisom KP 50x50x35mm",
+            "slug": "uholnik-s-prelisom-kp-50x50x35_9027",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "SVX   Uholník KM10 80x80x100x2mm",
+            "slug": "uholnik-km10-80x80x100x2_6287",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 4 40x160mm",
+            "slug": "dierovany-plech-pp-4-40x160x2_10834",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KLR 4 100x100x35mm",
+            "slug": "uholnik-klr-4-100x100x35-mm_11086",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník nastaviteľný KRD 3 80x55mm",
+            "slug": "uholnik-nastavitelny-krd-3-80x55mm_11098",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník nastaviteľný KRD 5 60x30mm",
+            "slug": "uholnik-nastavitelny-krd-5-60x30-mm_11076",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník krokvový LK 4 32x210mm",
+            "slug": "uholnik-krokvovy-lk-4-32x210-mm_11074",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník krokvový LK 7 32x290mm",
+            "slug": "uholnik-krokvovy-lk-7-32x290-mm_11073",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP2 15x15x15mm",
+            "slug": "uholnik-uzky-up2-15x15x15-mm_11390",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP2 30x30x15mm",
+            "slug": "uholnik-uzky-up2-30x30x15-mm_11393",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP2 60x60x15mm",
+            "slug": "uholnik-uzky-up2-60x60x15-mm_11394",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP1 20x20x15mm",
+            "slug": "uholnik-uzky-up1-20x20x15-mm_11395",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník zosilnený 75x75x20mm",
+            "slug": "uholnik-zosilneny-75x75x20-mm_11396",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP1 25x25x15mm",
+            "slug": "uholnik-uzky-up1-25x25x15-mm_11539",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP1 30x30x15mm",
+            "slug": "uholnik-uzky-up1-30x30x15-mm_11540",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP1 40x40x15mm",
+            "slug": "uholnik-uzky-up1-40x40x15-mm_11541",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP1 70x70x15mm",
+            "slug": "uholnik-uzky-up1-70x70x15-mm_11543",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP1 100x100x15mm",
+            "slug": "uholnik-uzky-up1-100x100x15-mm_11544",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník zosilnený 125x125x20mm",
+            "slug": "uholnik-zosilneny-125x125x20-mm_11597",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Uholník úzky ÚP1 60x60x15mm",
+            "slug": "uholnik-uzky-up1-60x60x15-mm_13386",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník s prelisom KP 90x55x50mm",
+            "slug": "uholnik-s-prelisom-kp-90x55x50_10823",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KL 2 70x70x55mm",
+            "slug": "uholnik-kl-2-70x70x55_11022",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KW 1 25x25x17x2mm",
+            "slug": "uholnik-kw-1-25x25x17x2_10827",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník trámový KB 1 100x75x30mm",
+            "slug": "uholnik-tramovy-kb-1-100x75x30-mm_10828",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KL 4 90x90x65mm",
+            "slug": "uholnik-kl-4-90x90x65_11021",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KW 3 52x52x17x2mm",
+            "slug": "uholnik-kw-3-52x52x17x2_11143",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 6 60x160mm",
+            "slug": "dierovany-plech-pp-6-60x160x2_10837",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 7 60x200mm",
+            "slug": "dierovany-plech-pp-7-60x200x2_10838",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KW 6 125x125x20mm",
+            "slug": "uholnik-kw-6-125x125x20_589",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KS 1 široký 30x30x30x2mm",
+            "slug": "uholnik-ks-1-siroky-30x30x30x2-mm_10830",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník kotevný KK 3 400x40x40mm",
+            "slug": "uholnik-kotevny-kk-3-400x40x40_11016",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník kotevný KK 1 200x40x40mm",
+            "slug": "uholnik-kotevny-kk-1-200x40x40_11017",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 21 120x300mm",
+            "slug": "dierovany-plech-pp-21-120x300x2_11018",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 18 120x200mm",
+            "slug": "dierovany-plech-pp-18-120x200x2_11019",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 92 60x1200mm",
+            "slug": "dierovany-plech-pp-92-60x1200x2_11020",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník do betónu LB4 75x50x50mm",
+            "slug": "uholnik-do-betonu-lb4-75x50x50_11034",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník do betónu LB2 100x75x60mm",
+            "slug": "uholnik-do-betonu-lb2-100x75x60-mm_11035",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KL 6 102x102x35mm",
+            "slug": "uholnik-kl-6-102x102x35_11061",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník s prelisom KP 140x140x65mm",
+            "slug": "uholnik-s-prelisom-kp-140x140x65_11063",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník s prelisom KP 145x70x90mm",
+            "slug": "uholnik-s-prelisom-kp-145x70x90_11064",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KLR 3 90x90x65mm",
+            "slug": "uholnik-klr-3-90x90x65-mm_11099",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KW 5 100x100x20mm",
+            "slug": "uholnik-kw-5-100x100x20_11107",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník trámový KB 2 120x80x35mm",
+            "slug": "uholnik-tramovy-kb-1-120x80x35-mm_11123",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KW 4 75x75x17x2mm",
+            "slug": "uholnik-kw-4-75x75x17x2_11144",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KW 2 42x42x17x2mm",
+            "slug": "uholnik-kw-2-42x42x17x2_11145",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Dierovaný plech PP 10 80x240mm",
+            "slug": "dierovany-plech-pp-10-80x240x2_10841",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník trámový KB 3 180x120x40mm",
+            "slug": "uholnik-tramovy-kb-3-180x120x40-mm_11124",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        },
+        {
+            "name": "Domax   Uholník KW 7 150x150x25mm",
+            "slug": "uholnik-kw7-150x150x25_11106",
+            "category_id": 354,
+            "category_name": "Patky Uholniky A Kovania Uholniky",
+            "category_slug": "patky-uholniky-a-kovania-uholniky"
+        }
+    ]
+}

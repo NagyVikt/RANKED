@@ -1,0 +1,26 @@
+{
+    "fetch_time": "2024-10-17T18:20:24.184772Z",
+    "products": [
+        {
+            "name": "Ozubená podložka - buldog zn 95x36mm",
+            "slug": "ozubena-podlozka-buldog-zn-95x36-mm_11532",
+            "category_id": 429,
+            "category_name": "Patky Uholniky A Kovania Ozubene Podlozky",
+            "category_slug": "patky-uholniky-a-kovania-ozubene-podlozky"
+        },
+        {
+            "name": "Ozubená podložka - buldog zn 75x26mm",
+            "slug": "ozubena-podlozka-buldog-zn-75x26-mm_11531",
+            "category_id": 429,
+            "category_name": "Patky Uholniky A Kovania Ozubene Podlozky",
+            "category_slug": "patky-uholniky-a-kovania-ozubene-podlozky"
+        },
+        {
+            "name": "Ozubená podložka - buldog zn 50x17mm",
+            "slug": "ozubena-podlozka-buldog-zn-50x17-mm_11398",
+            "category_id": 429,
+            "category_name": "Patky Uholniky A Kovania Ozubene Podlozky",
+            "category_slug": "patky-uholniky-a-kovania-ozubene-podlozky"
+        }
+    ]
+}

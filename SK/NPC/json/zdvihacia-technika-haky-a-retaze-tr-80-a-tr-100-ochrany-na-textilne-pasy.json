@@ -1,0 +1,376 @@
+{
+    "fetch_time": "2024-10-17T18:13:29.590236Z",
+    "products": [
+        {
+            "name": "SVX   Textilná ochrana na pásy 610mm",
+            "slug": "textilna-ochrana-na-pasy-610mm_6703",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "SVX   Textilná ochrana na pásy 490mm",
+            "slug": "textilna-ochrana-na-pasy-490mm_6702",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov jednostranná 30 mm",
+            "slug": "ochrana-textilnych-pasov-jednostranna-30-mm-pu-sc1-030-30mm_8904",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov jednostranná 60 mm",
+            "slug": "ochrana-textilnych-pasov-jednostranna-60-mm-pu-sc1-060-60mm_8905",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov jednostranná 90 mm",
+            "slug": "ochrana-textilnych-pasov-jednostranna-90-mm-pu-sc1-090-90mm_8906",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov jednostranná 120 mm",
+            "slug": "ochrana-textilnych-pasov-jednostranna-120-mm-pu-sc1-120-120mm_8907",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov jednostranná 150 mm",
+            "slug": "ochrana-textilnych-pasov-jednostranna-150-mm-pu-sc1-150-150mm_8908",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov jednostranná 180 mm",
+            "slug": "ochrana-textilnych-pasov-jednostranna-180-mm-pu-sc1-180-180mm_8909",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov jednostranná 240 mm",
+            "slug": "ochrana-textilnych-pasov-jednostranna-240-mm-pu-sc1-240-240mm_8910",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov jednostranná 300 mm",
+            "slug": "ochrana-textilnych-pasov-jednostranna-300-mm-pu-sc1-300-300mm_8911",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov obojstranná 30 mm",
+            "slug": "ochrana-textilnych-pasov-obojstranna-30-mm-pu-sc2-030-30mm_8912",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov obojstranná 60 mm",
+            "slug": "ochrana-textilnych-pasov-obojstranna-60-mm-pu-sc2-060-60mm_8913",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov obojstranná 90 mm",
+            "slug": "ochrana-textilnych-pasov-obojstranna-90-mm-pu-sc2-090-90mm_8914",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov obojstranná 120 mm",
+            "slug": "ochrana-textilnych-pasov-obojstranna-120-mm-pu-sc2-120-120mm_8915",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov obojstranná 150 mm",
+            "slug": "ochrana-textilnych-pasov-obojstranna-150-mm-pu-sc2-150-150mm_8916",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov obojstranná 180 mm",
+            "slug": "ochrana-textilnych-pasov-obojstranna-180-mm-pu-sc2-180-180mm_8917",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov obojstranná 240 mm",
+            "slug": "ochrana-textilnych-pasov-obojstranna-240-mm-pu-sc2-240-240mm_8918",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Ochrana textilných pásov obojstranná 300 mm",
+            "slug": "ochrana-textilnych-pasov-obojstranna-300-mm-pu-sc2-300-300mm_8919",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Polyuretánová rohová ochrana 30 mm",
+            "slug": "polyuretanova-rohova-ochrana-30-mm-pu-ksw-30-30mm_8920",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Polyuretánová rohová ochrana 50 mm",
+            "slug": "polyuretanova-rohova-ochrana-50-mm-pu-ksw-50-50mm_8921",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Rohová ochrana s magnetmi 300mm",
+            "slug": "rohova-ochrana-s-magnetmi-300mm-pu-kse-300-mag-300mm_8927",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Rohová ochrana bez magnetu 300mm",
+            "slug": "rohova-ochrana-bez-magnetu-300mm-pu-kse-300-300mm_8933",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Jednostranný ochranný poťah 30mm",
+            "slug": "jednostranny-ochranny-potah-30mm-pu-fb1-030-30mm_8934",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Jednostranný ochranný poťah 60mm",
+            "slug": "jednostranny-ochranny-potah-60mm-pu-fb1-060-60mm_8935",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Jednostranný ochranný poťah 90mm",
+            "slug": "jednostranny-ochranny-potah-90mm-pu-fb1-090-90mm_8936",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Jednostranný ochranný poťah 120mm",
+            "slug": "jednostranny-ochranny-potah-120mm-pu-fb1-120-120mm_8937",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Jednostranný ochranný poťah 150mm",
+            "slug": "jednostranny-ochranny-potah-150mm-pu-fb1-150-150mm_8938",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Jednostranný ochranný poťah 180mm",
+            "slug": "jednostranny-ochranny-potah-180mm-pu-fb1-180-180mm_8939",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Jednostranný ochranný poťah 240mm",
+            "slug": "jednostranny-ochranny-potah-240mm-pu-fb1-240-240mm_8940",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Jednostranný ochranný poťah 300mm",
+            "slug": "jednostranny-ochranny-potah-300mm-pu-fb1-300-300mm_8941",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Obojstranný ochranný poťah 30mm",
+            "slug": "obojstranny-ochranny-potah-30mm-pu-fb2-030-30mm_8942",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Obojstranný ochranný poťah 60mm",
+            "slug": "obojstranny-ochranny-potah-60mm-pu-fb2-060-60mm_8943",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Obojstranný ochranný poťah 90mm",
+            "slug": "obojstranny-ochranny-potah-90mm-pu-fb2-090-90mm_8944",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Obojstranný ochranný poťah 120mm",
+            "slug": "obojstranny-ochranny-potah-120mm-pu-fb2-120-120mm_8945",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Obojstranný ochranný poťah 150mm",
+            "slug": "obojstranny-ochranny-potah-150mm-pu-fb2-150-150mm_8946",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Obojstranný ochranný poťah 180mm",
+            "slug": "obojstranny-ochranny-potah-180mm-pu-fb2-180-180mm_8947",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Obojstranný ochranný poťah 240mm",
+            "slug": "obojstranny-ochranny-potah-240mm-pu-fb2-240-240mm_8948",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Obojstranný ochranný poťah 300mm",
+            "slug": "obojstranny-ochranny-potah-300mm-pu-fb2-300-300mm_8949",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 140mm",
+            "slug": "textilna-ochrana-na-pasy-50mm_6675",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 250mm",
+            "slug": "textilna-ochrana-na-pasy-100mm_6692",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 160mm",
+            "slug": "textilna-ochrana-na-pasy-60mm_6690",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 200mm",
+            "slug": "textilna-ochrana-na-pasy-80mm_6691",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 300mm",
+            "slug": "textilna-ochrana-na-pasy-120mm_6693",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Rohová ochrana s magnetmi 60mm",
+            "slug": "rohova-ochrana-s-magnetmi-60mm-pu-kse-065-mag-60mm-zelena_8922",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Rohová ochrana bez magnetu 60mm",
+            "slug": "rohova-ochrana-bez-magnetu-60mm-pu-kse-065-60mm-zelena_8928",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Rohová ochrana s magnetmi 90mm",
+            "slug": "rohova-ochrana-s-magnetmi-90mm-pu-kse100-mag-90mm_8923",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Rohová ochrana bez magnetu 90mm",
+            "slug": "rohova-ochrana-bez-magnetu-90mm-pu-kse-100-90mm_8929",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Yale   Rohová ochrana s magnetmi 120mm",
+            "slug": "rohova-ochrana-s-magnetmi-120mm-pu-kse-125-mag-120mm_8924",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 140mm",
+            "slug": "textilna-ochrana-na-pasy-50mm_6675",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 250mm",
+            "slug": "textilna-ochrana-na-pasy-100mm_6692",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 160mm",
+            "slug": "textilna-ochrana-na-pasy-60mm_6690",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 200mm",
+            "slug": "textilna-ochrana-na-pasy-80mm_6691",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        },
+        {
+            "name": "Textilná ochrana na pásy 300mm",
+            "slug": "textilna-ochrana-na-pasy-120mm_6693",
+            "category_id": 321,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Ochrany Na Textilne Pasy",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-ochrany-na-textilne-pasy"
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "fetch_time": "2024-10-17T18:08:55.908971Z",
+    "products": [
+        {
+            "name": "SVXtools   Sada vyrezávačov - diamant",
+            "slug": "sada-vyrezavacov-diamant-6-8-10-20-35-50-68-mm_21321",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Kľúče oko - vidlica, 15-dielna sada",
+            "slug": "kluce-oko-vidlica-15-dielna-sada-15-dielna-proxxon_12806",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   Kľúče oko - vidlica, 8-dielna sada",
+            "slug": "kluce-oko-vidlica-8-dielna-sada-8ks-cr-v-7-19mm_12800",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada zástrčných hlavíc so šesťhranom",
+            "slug": "sada-zastrcnych-hlavic-so-sesthranom-18-dielna_20109",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   Vrtáky vykružovacie korunkové 15-dielna sada",
+            "slug": "vrtaky-vykruzovacie-korunkove-15-dielna-sada-15ks-extol_19524",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "SVXtools   Sada vyrezávačov - diamant (6-12mm)",
+            "slug": "sada-vyrezavacov-diamant-6-8-10-12mm_21342",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "SVXtools   Sada vyrezávačov - diamant (20-68mm)",
+            "slug": "sada-vyrezavacov-diamant-20-35-45-55-68-mm_21322",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   Kľúče oko - vidlica, 9-dielna sada",
+            "slug": "kluce-oko-vidlica-9-dielna-sada-9-dielna-sada-extol-premium_12808",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Kľúče vidlicové , 8-dielna sada",
+            "slug": "kluce-vidlicove-8-dielna-sada-8-dielna-proxxon_12805",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Kľúče očkové , 8-dielna sada",
+            "slug": "kluce-ockove-8-dielna-sada-6-22-8-dielna-sada_12807",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   Kľúče vidlicové , 8-dielna sada",
+            "slug": "kluce-vidlicove-8-dielna-sada-8-dielna-sada-6-22mm_12801",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada nástrčných kľúčov 3/8",
+            "slug": "sada-nastrcnych-klucov-38-24-dielna_20151",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada nástrčných a zástrčných hlavíc",
+            "slug": "sada-nastrcnych-a-zastrcnych-hlavic-29-dielna_20108",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada račňových kľúčov",
+            "slug": "sada-racnovych-klucov-7-dielna_20110",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada skrutkovačov",
+            "slug": "sada-skrutkovacov-13-dielna-micro-driver_20152",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Skrutkovače 6-dielna sada",
+            "slug": "skrutkovace-6-dielna-sada-6xtx_20153",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Skrutkovače 6-dielna sada PL/PZ",
+            "slug": "skrutkovace-6-dielna-sada-plpz-4xpl-2xpz_20161",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Skrutkovače 6-dielna sada PL/PH",
+            "slug": "skrutkovace-6-dielna-sada-plph-4xpl2xph_20162",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada náradia",
+            "slug": "sada-naradia-47-dielna_20195",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada nástrčných kľúčov 1/2",
+            "slug": "sada-nastrcnych-klucov-12-3-dielna_20205",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Skrutkovač aku - sada",
+            "slug": "skrutkovac-aku-sada-14-bity_20280",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   L-kľúče imbus sada 9 ks",
+            "slug": "l-kluce-imbus-sada-9-ks_12794",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   L-kľúče imbus sada 9 ks - predĺžené",
+            "slug": "l-kluce-imbus-sada-9-ks-predzene_12795",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   L-kľúče imbus sada 9 ks",
+            "slug": "l-kluce-imbus-sada-9-ks-cr-v-9-dielna_12796",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "FORTUM   L-kľúče imbus zástrčné - sada 9 ks",
+            "slug": "l-kluce-imbus-zastrcne-sada-9-ks_12797",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   Bimetalové korunky 12-dielna sada",
+            "slug": "bimetalove-korunky-12-dielna-sada-extol_19526",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   Závitníky a závitové očká 32-dielna sada",
+            "slug": "zavitniky-a-zavitove-ocka-32-dielna-sada-hss-extol_19522",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "KNIPEX   Skrutkovače izolované 6-dielna sada",
+            "slug": "skrutkovace-izolovane-6-dielna-sada-vde-6-dielna-knipex_19520",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   Závitové očká 9-dielna sada",
+            "slug": "zavitove-ocka-9-dielna-sada-m3-m12-extol_19521",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   Závitníky 21-dielna sada",
+            "slug": "zavitniky-21-dielna-sada-hss-m3-4-5-6-8-10-12-extol_19523",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "EXTOL   Vrtáky vykružovacie korunkové 17-dielna sada",
+            "slug": "vrtaky-vykruzovacie-korunkove-17-dielna-sada-17ks-extol_19525",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada nástrčných kľúčov a bitov 1/4\" - 1/2\"",
+            "slug": "sada-nastrcnych-klucov-a-bitov-14-12-56-dielna-14-12_12740",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada nástrčných kľúčov a bitov 1/4\"",
+            "slug": "sada-nastrcnych-klucov-a-bitov-14-36-dielna-14_12739",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada nástrčných kľúčov a bitov 1/2\"",
+            "slug": "sada-nastrcnych-klucov-a-bitov-12-18-dielna-12_12738",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada nástrčných kľúčov 1/2\"",
+            "slug": "sada-nastrcnych-klucov-12-29-dielna-12_12762",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Skrutkovače izolované 6-dielna sada",
+            "slug": "skrutkovace-izolovane-6-dielna-sada-vde-plph-6ks-proxxon_12809",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada bitov a hlavíc s račňovým kľúčom",
+            "slug": "sada-bitov-a-hlavic-s-racnovym-kluuom-54-dielna_20196",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "STREND PRO PREMIUM   Sada vyrezávačov Premium - DCB11S5 - diamant (20-72mm)",
+            "slug": "sada-vyrezavacov-premium-dcb11s5-diamant-20-35-45-55-72-mm_12432",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "STREND PRO PREMIUM   Sada vyrezávačov Premium - DCB11S5 - diamant (20-68mm)",
+            "slug": "sada-vyrezavacov-premium-dcb11s5-diamant-20-35-45-55-68-mm_12434",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "STREND PRO PREMIUM   Sada vyrezávačov Premium - DCB11S2 - diamant (6-12mm)",
+            "slug": "sada-vyrezavacov-premium-dcb11s2-diamant-6-8-10-12-mm_12433",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "STREND PRO PREMIUM   Sada vyrezávačov Premium - diamant (6-12mm)",
+            "slug": "sada-vyrezavacov-premium-diamant-6-8-10-12mm-6mm_20583",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada hlavíc s račňou 1/4´´",
+            "slug": "sada-hlavic-s-racnou-14-32-dielna_20970",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "PROXXON   Sada bitov 75 dielna 1/4\"",
+            "slug": "sada-bitov-75-dielna-14-75-dielna_13335",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "SVXtools   Sada vyrezávačov - diamant (20-72mm)",
+            "slug": "sada-vyrezavacov-diamant-20-35-45-55-72mm_21343",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        },
+        {
+            "name": "SVXtools   Bimetalové korunky 12-dielna sada",
+            "slug": "bimetalove-korunky-12-dielna-sada-svxtools_21361",
+            "category_id": 367,
+            "category_name": "Naradie Sady",
+            "category_slug": "naradie-sady"
+        }
+    ]
+}

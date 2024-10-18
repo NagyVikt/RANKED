@@ -1,0 +1,502 @@
+{
+    "fetch_time": "2024-10-17T18:22:29.518565Z",
+    "products": [
+        {
+            "name": "Delta Plus   Zátky do uší CONICCO 200",
+            "slug": "zatky-do-usi-conicco-200-uni_6445",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare GOOGLE GALERAS číre",
+            "slug": "pracovne-okuliare-google-galeras-cire-uni_19633",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare KILIMANDJARO CLEAR",
+            "slug": "pracovne-okuliare-kilimandjaro-clear-uni_6846",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba ZIRCON1 oranžová",
+            "slug": "bezpecnostna-prilba-zircon1-oranzova-uni_6310",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba ZIRCON1 biela",
+            "slug": "bezpecnostna-prilba-zircon1-biela-uni_6313",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba ZIRCON1 modrá",
+            "slug": "bezpecnostna-prilba-zircon1-modra-uni_6308",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba ZIRCON1 sivá",
+            "slug": "bezpecnostna-prilba-zircon1-siva-uni_6314",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba ZIRCON1 červená",
+            "slug": "bezpecnostna-prilba-zircon1-cervena-uni_6312",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare EGON LIGHT MIRROR",
+            "slug": "pracovne-okuliare-egon-light-mirror-uni_6813",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare BRAVA2 CLEAR",
+            "slug": "pracovne-okuliare-brava2-clear-uni_6824",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare HELIUM2 hnedé",
+            "slug": "pracovne-okuliare-helium2-hnede-uni_12502",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Polomaska JUPITER M6400 M/L",
+            "slug": "polomaska-jupiter-m6400-ml_6843",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba ZIRCON1 žltá",
+            "slug": "bezpecnostna-prilba-zircon1-zlta-uni_6309",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Zváračská kukla CASOUD3",
+            "slug": "zvaracska-kukla-casoud3_9260",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare BRAVA2 SMOKE",
+            "slug": "pracovne-okuliare-brava2-smoke-uni_6829",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Filtre M6000E PREP2",
+            "slug": "filtre-m6000e-prep2-uni_6882",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Ochranný štít VISORG",
+            "slug": "ochranny-stit-visorg-uni_6327",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare BRAVA2 MIRROR",
+            "slug": "pracovne-okuliare-brava2-mirror-uni_6833",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare PACAYA CLEAR",
+            "slug": "pracovne-okuliare-pacaya-clear-uni_6836",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Slnečné zváračské okuliare PACAYA T5",
+            "slug": "slnecne-zvaracske-okuliare-pacaya-t5-uni_6844",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare RIMFIRE CLEAR",
+            "slug": "pracovne-okuliare-rimfire-clear-uni_6875",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba DIAMONDVI žltá",
+            "slug": "bezpecnostna-prilba-diamondvi-zlta-uni_11885",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Filtre M6000 P3",
+            "slug": "filtre-m6000-p3-uni_6879",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Filtre M6000E ABEK1",
+            "slug": "filtre-m6000e-abek1-uni_6877",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare EGON SMOKE",
+            "slug": "pracovne-okuliare-egon-smoke-uni_6810",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare BRAVA2 žlté",
+            "slug": "pracovne-okuliare-brava2-zlte-uni_11912",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba GRANITE PEAK žltá",
+            "slug": "bezpecnostna-prilba-granite-peak-zlta-uni_6316",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba GRANITE PEAK modrá",
+            "slug": "bezpecnostna-prilba-granite-peak-modra-uni_6317",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba GRANITE PEAK biela",
+            "slug": "bezpecnostna-prilba-granite-peak-biela-uni_6319",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Ochranný štít BALBI2",
+            "slug": "ochranny-stit-balbi2-uni_6321",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Chrániče sluchu MAGNY COURS2",
+            "slug": "chranice-sluchu-magny-cours2-uni_6344",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Chrániče sluchu MAGNY HELMET2 N na prilbu",
+            "slug": "chranice-sluchu-magny-helmet2-n-na-prilbu-uni_6352",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare MILO CLEAR",
+            "slug": "pracovne-okuliare-milo-clear-uni_6835",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare KILIMANDJARO SMOKE",
+            "slug": "pracovne-okuliare-kilimandjaro-smoke-uni_6851",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare MEIA CLEAR",
+            "slug": "pracovne-okuliare-meia-clear-uni_6855",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Polomaska JUPITER M6200",
+            "slug": "polomaska-jupiter-m6200-uni_6856",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare MEIA SMOKE",
+            "slug": "pracovne-okuliare-meia-smoke-uni_6857",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné zváračské okuliare LIPARI2 T5",
+            "slug": "pracovne-zvaracske-okuliare-lipari2-t5-uni_6858",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Polomaska JUPITER M6100",
+            "slug": "polomaska-jupiter-m6100-uni_6864",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Filtre M6000E A2",
+            "slug": "filtre-m6000e-a2-uni_6872",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Zváračské  okuliare TOBA3",
+            "slug": "zvaracske-okuliare-toba3-uni_6904",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare FUEGO",
+            "slug": "pracovne-okuliare-fuego-uni_6869",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare RIMFIRE MIRROR",
+            "slug": "pracovne-okuliare-rimfire-mirror-uni_6876",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare BLOW2 MIRROR",
+            "slug": "pracovne-okuliare-blow2-mirror-uni_6878",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare BLOW2 LIGHT MIRROR",
+            "slug": "pracovne-okuliare-blow2-light-mirror-uni_6880",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Filtre M6000 P2",
+            "slug": "filtre-m6000-p2-uni_6881",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Filtre M9000E AX",
+            "slug": "filtre-m9000e-ax-uni_6883",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Respirátor M1200",
+            "slug": "respirator-m1200-uni_6894",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka VERONA Modrá",
+            "slug": "siltovka-verona-modra-uni_7098",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka VERONA Sivá",
+            "slug": "siltovka-verona-siva-uni_7105",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka VERONA Čierna",
+            "slug": "siltovka-verona-cierna-uni_7106",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka VERONA Červená",
+            "slug": "siltovka-verona-cervena-uni_7107",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Chrániče sluchu INTERLIGHT",
+            "slug": "chranice-sluchu-interlight-uni_11859",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba DIAMONDVI biela",
+            "slug": "bezpecnostna-prilba-diamondvi-biela-uni_11883",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba DIAMONDVI modrá",
+            "slug": "bezpecnostna-prilba-diamondvi-modra-uni_11884",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba DIAMONDVI oranžová",
+            "slug": "bezpecnostna-prilba-diamondvi-oranzova-uni_11886",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Polomaska SPRAY KIT M6400 M/L",
+            "slug": "polomaska-spray-kit-m6400-ml_6827",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka AIR COLTAN Modrá 5cm",
+            "slug": "siltovka-air-coltan-modra-5cm-uni_7081",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Zátky do uší CONIC 200",
+            "slug": "zatky-do-usi-conic-200-uni_6442",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Zátky do uší CONIC 500",
+            "slug": "zatky-do-usi-conic-500-uni_6444",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka AIR COLTAN Modrá 7cm",
+            "slug": "siltovka-air-coltan-modra-7cm-uni_7086",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka AIR COLTAN Čierna 5cm",
+            "slug": "siltovka-air-coltan-cierna-5cm-uni_7095",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka AIR COLTAN Čierna 3cm",
+            "slug": "siltovka-air-coltan-cierna-3cm-uni_7094",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka AIR COLTAN Čierna 7cm",
+            "slug": "siltovka-air-coltan-cierna-7cm-uni_7092",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka AIR COLTAN Fluorescenčno Sivá 7cm",
+            "slug": "siltovka-air-coltan-fluorescencno-siva-7cm-uni_7089",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka AIR COLTAN Sivá 3cm",
+            "slug": "siltovka-air-coltan-siva-3cm-uni_7088",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Šiltovka AIR COLTAN Sivá 7cm",
+            "slug": "siltovka-air-coltan-siva-7cm-uni_7087",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Bezpečnostná prilba ZIRCON1 zelená",
+            "slug": "bezpecnostna-prilba-zircon1-zelena-uni_6306",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare HEKLA2",
+            "slug": "pracovne-okuliare-hekla2-uni_6822",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare MEIA žlté",
+            "slug": "pracovne-okuliare-meia-zlte-uni_11913",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        },
+        {
+            "name": "Delta Plus   Pracovné okuliare EGON CLEAR",
+            "slug": "pracovne-okuliare-egon-clear-uni_6806",
+            "category_id": 442,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Ochrana Hlavy",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy"
+        }
+    ]
+}

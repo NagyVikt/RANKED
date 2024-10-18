@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T17:51:09.047693Z",
+    "products": [
+        {
+            "name": "SEZ   Zásuvka vstavaná IEN 1653",
+            "slug": "zasuvka-vstavana-ien-1653_2348",
+            "category_id": 173,
+            "category_name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+            "category_slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+        },
+        {
+            "name": "SEZ   Zásuvka vstavaná IEN 3243",
+            "slug": "zasuvka-vstavana-ien-3243_2344",
+            "category_id": 173,
+            "category_name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+            "category_slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+        },
+        {
+            "name": "SEZ   Zásuvka vstavaná IEN 3253",
+            "slug": "zasuvka-vstavana-ien-3253_2345",
+            "category_id": 173,
+            "category_name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+            "category_slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+        },
+        {
+            "name": "SEZ   Zásuvka vstavaná IEN 1643",
+            "slug": "zasuvka-vstavana-ien-1643_2347",
+            "category_id": 173,
+            "category_name": "Elektroinstalacny Material Zasuvky Vstavane Sez",
+            "category_slug": "elektroinstalacny-material-zasuvky-vstavane-sez"
+        }
+    ]
+}

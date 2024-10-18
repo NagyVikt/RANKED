@@ -1,0 +1,40 @@
+{
+    "fetch_time": "2024-10-17T18:08:54.468648Z",
+    "products": [
+        {
+            "name": "EXTOL   Tanier unášací penový so suchým zipsom 115mm",
+            "slug": "tanier-unasaci-penovy-so-suchym-zipsom-115mm_12653",
+            "category_id": 443,
+            "category_name": "Naradie Unasacie Taniere",
+            "category_slug": "naradie-unasacie-taniere"
+        },
+        {
+            "name": "EXTOL   Tanier unášací penový so suchým zipsom 125mm",
+            "slug": "tanier-unasaci-penovy-so-suchym-zipsom-125mm_12654",
+            "category_id": 443,
+            "category_name": "Naradie Unasacie Taniere",
+            "category_slug": "naradie-unasacie-taniere"
+        },
+        {
+            "name": "EXTOL   Tanier unášací so suchým zipsom 150mm",
+            "slug": "tanier-unasaci-so-suchym-zipsom-150mm_12655",
+            "category_id": 443,
+            "category_name": "Naradie Unasacie Taniere",
+            "category_slug": "naradie-unasacie-taniere"
+        },
+        {
+            "name": "EXTOL   Tanier unášací so suchým zipsom 115mm",
+            "slug": "tanier-unasaci-so-suchym-zipsom-115mm_12657",
+            "category_id": 443,
+            "category_name": "Naradie Unasacie Taniere",
+            "category_slug": "naradie-unasacie-taniere"
+        },
+        {
+            "name": "EXTOL   Tanier unášací so suchým zipsom 125mm",
+            "slug": "tanier-unasaci-so-suchym-zipsom-125mm_12658",
+            "category_id": 443,
+            "category_name": "Naradie Unasacie Taniere",
+            "category_slug": "naradie-unasacie-taniere"
+        }
+    ]
+}

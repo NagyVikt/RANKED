@@ -1,0 +1,33 @@
+{
+    "fetch_time": "2024-10-17T18:15:59.948088Z",
+    "products": [
+        {
+            "name": "Pevnostný strmeň tvar D tr 80 červený 13mm",
+            "slug": "pevnostny-strmen-tvar-d-tr-80-cerveny-13mm_6255",
+            "category_id": 317,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Cervene Tvar D",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-cervene-tvar-d"
+        },
+        {
+            "name": "Pevnostný strmeň tvar D tr 80 červený 8mm",
+            "slug": "pevnostny-strmen-tvar-d-tr-80-cerveny-8mm_6250",
+            "category_id": 317,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Cervene Tvar D",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-cervene-tvar-d"
+        },
+        {
+            "name": "Pevnostný strmeň tvar D tr 80 červený 10mm",
+            "slug": "pevnostny-strmen-tvar-d-tr-80-cerveny-10mm_6254",
+            "category_id": 317,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Cervene Tvar D",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-cervene-tvar-d"
+        },
+        {
+            "name": "Pevnostný strmeň tvar D tr 80 červený 16mm",
+            "slug": "pevnostny-strmen-tvar-d-tr-80-cerveny-16mm_6256",
+            "category_id": 317,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Cervene Tvar D",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-cervene-tvar-d"
+        }
+    ]
+}

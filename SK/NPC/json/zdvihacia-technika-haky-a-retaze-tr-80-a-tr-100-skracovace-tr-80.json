@@ -1,0 +1,292 @@
+{
+    "fetch_time": "2024-10-17T18:14:22.511086Z",
+    "products": [
+        {
+            "name": "SVX   Skracovač na reťaz XVX s vidlicou tr 80 červený 6mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-6mm_5968",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač na reťaz XVX s vidlicou tr 80 červený 8mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-8mm_5984",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovací hák SOX s okom tr 80 červený 6mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-6-mm_6038",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač na reťaz XVX s vidlicou tr 80 červený 13mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-13mm_5988",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovací hák SOX s okom tr 80 červený 8mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-8-mm_6044",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač na reťaz XVX s vidlicou tr 80 červený 10mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-10mm_5987",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovací hák SOX s okom tr 80 červený 10mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-10-mm_6045",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač SRX na reťaz tr 80 červený 8mm",
+            "slug": "skracovac-srx-na-retaz-tr-80-cerveny-8mm_5194",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač vidlicový s poistkou tr 80 červený 8mm",
+            "slug": "skracovac-vidlicovy-s-poistkou-tr-80-cerveny-8mm_6130",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač vidlicový s poistkou tr 80 červený 16mm",
+            "slug": "skracovac-vidlicovy-s-poistkou-tr-80-cerveny-16mm_20018",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovací hák SOX s okom tr 80 červený 6mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-6mm_5914",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovací hák SOX s okom tr 80 červený 8mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-8mm_5922",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovací hák SOX s okom tr 80 červený 10mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-10mm_5923",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovací hák SOX s okom tr 80 červený 13mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-13mm_5925",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovací hák SOX s okom tr 80 červený 16mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-16mm_5929",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač na reťaz XVX s vidlicou tr 80 červený 16mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-16mm_5992",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač na reťaz XVX s vidlicou tr 80 červený 20mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-20mm_5994",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač na reťaz XVX s vidlicou tr 80 červený 6mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-6-mm_6003",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač na reťaz XVX s vidlicou tr 80 červený 8mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-8-mm_6010",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač na reťaz XVX s vidlicou tr 80 červený 10mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-10-mm_6011",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač na reťaz XVX s vidlicou tr 80 červený 13mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-13-mm_6012",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač na reťaz XVX s vidlicou tr 80 červený 16mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-16-mm_6013",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovací hák SOX s okom tr 80 červený 13mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-13-mm_6048",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovací hák SOX s okom tr 80 červený 16mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-16-mm_6050",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač na reťaz XVX s vidlicou tr 80 červený 10mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-10-mm_6011",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač na reťaz XVX s vidlicou tr 80 červený 13mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-13-mm_6012",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač na reťaz XVX s vidlicou tr 80 červený 16mm",
+            "slug": "skracovac-na-retaz-xvx-s-vidlicou-tr-80-cerveny-16-mm_6013",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovací hák SOX s okom tr 80 červený 13mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-13-mm_6048",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovací hák SOX s okom tr 80 červený 16mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-16-mm_6050",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovací hák SOX s okom tr 80 červený 20mm",
+            "slug": "skracovaci-hak-sox-s-okom-tr-80-cerveny-20mm_6051",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač vidlicový s poistkou tr 80 červený 6mm",
+            "slug": "skracovac-vidlicovy-s-poistkou-tr-80-cerveny-6mm_6129",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač vidlicový s poistkou tr 80 červený 13mm",
+            "slug": "skracovac-vidlicovy-s-poistkou-tr-80-cerveny-13mm_6132",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač s poistkou tr 80 červený 6mm",
+            "slug": "skracovac-s-poistkou-tr-80-cerveny-6mm_6270",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač s poistkou tr 80 červený 8mm",
+            "slug": "skracovac-s-poistkou-tr-80-cerveny-8mm_6281",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač s poistkou tr 80 červený 10mm",
+            "slug": "skracovac-s-poistkou-tr-80-cerveny-10mm_6284",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač s poistkou tr 80 červený 13mm",
+            "slug": "skracovac-s-poistkou-tr-80-cerveny-13mm_6285",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "SVX   Skracovač s poistkou tr 80 červený 16mm",
+            "slug": "skracovac-s-poistkou-tr-80-cerveny-16mm_6288",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač vidlicový s poistkou tr 80 červený 16mm",
+            "slug": "skracovac-vidlicovy-s-poistkou-tr-80-cerveny-16mm_20018",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač SRX na reťaz tr 80 červený 6mm",
+            "slug": "skracovac-srx-na-retaz-tr-80-cerveny-6mm_5191",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač SRX na reťaz tr 80 červený 10mm",
+            "slug": "skracovac-srx-na-retaz-tr-80-cerveny-10mm_5195",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        },
+        {
+            "name": "Skracovač SRX na reťaz tr 80 červený 13mm",
+            "slug": "skracovac-srx-na-retaz-tr-80-cerveny-13mm_5196",
+            "category_id": 460,
+            "category_name": "Zdvihacia Technika Haky A Retaze Tr 80 A Tr 100 Skracovace Tr 80",
+            "category_slug": "zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100-skracovace-tr-80"
+        }
+    ]
+}

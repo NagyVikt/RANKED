@@ -1,0 +1,1496 @@
+{
+    "fetch_time": "2024-10-17T18:23:36.451145Z",
+    "products": [
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH5 SPRING béžové XL",
+            "slug": "pracovne-nohavice-mach5-spring-bezove-xl_4495",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA sivé XXL",
+            "slug": "pracovne-nohavice-panostrpa-sive-xxl_3823",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Opasok Atoll",
+            "slug": "opasok-atoll-atoll_9040",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá S",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-s_3711",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá M",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-m_3729",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá L",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-l_3730",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá XL",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-xl_3731",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá XXL",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-xxl_3732",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá 3XL",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-3xl_3733",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá S",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-s_3755",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá XL",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-xl_3761",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá M",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-m_3759",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá L",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-l_3760",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá XXL",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-xxl_3763",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá 3XL",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-3xl_3765",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená S",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-s_3767",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená M",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-m_3776",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená L",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-l_3777",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená XL",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-xl_3780",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená XXL",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-xxl_3784",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená 3XL",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-3xl_3785",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré XS",
+            "slug": "pracovne-nohavice-panostrpa-modre-xs_3806",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré S",
+            "slug": "pracovne-nohavice-panostrpa-modre-s_3809",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré M",
+            "slug": "pracovne-nohavice-panostrpa-modre-m_3810",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky D-MACH sivé 3XL",
+            "slug": "pracovne-monterky-d-mach-sive-3xl_5468",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE tmavosivé M",
+            "slug": "pracovne-monterky-mach2-corporate-tmavosive-m_5472",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE tmavosivé L",
+            "slug": "pracovne-monterky-mach2-corporate-tmavosive-l_5473",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE tmavosivé XL",
+            "slug": "pracovne-monterky-mach2-corporate-tmavosive-xl_5474",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE tmavosivé XXL",
+            "slug": "pracovne-monterky-mach2-corporate-tmavosive-xxl_5475",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE tmavosivé 3XL",
+            "slug": "pracovne-monterky-mach2-corporate-tmavosive-3xl_5476",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE svetlosivé S",
+            "slug": "pracovne-monterky-mach2-corporate-svetlosive-s_5515",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE svetlosivé M",
+            "slug": "pracovne-monterky-mach2-corporate-svetlosive-m_5525",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE svetlosivé L",
+            "slug": "pracovne-monterky-mach2-corporate-svetlosive-l_5527",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE svetlosivé XL",
+            "slug": "pracovne-monterky-mach2-corporate-svetlosive-xl_5528",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE svetlosivé XXL",
+            "slug": "pracovne-monterky-mach2-corporate-svetlosive-xxl_5530",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE svetlosivé 3XL",
+            "slug": "pracovne-monterky-mach2-corporate-svetlosive-3xl_5531",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH čierne M",
+            "slug": "zateplene-pracovne-nohavice-d-mach-cierne-m_5550",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH čierne L",
+            "slug": "zateplene-pracovne-nohavice-d-mach-cierne-l_5552",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH čierne XL",
+            "slug": "zateplene-pracovne-nohavice-d-mach-cierne-xl_5553",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH čierne XXL",
+            "slug": "zateplene-pracovne-nohavice-d-mach-cierne-xxl_5555",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH čierne 3XL",
+            "slug": "zateplene-pracovne-nohavice-d-mach-cierne-3xl_5556",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH sivé S",
+            "slug": "zateplene-pracovne-nohavice-d-mach-sive-s_5563",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH sivé M",
+            "slug": "zateplene-pracovne-nohavice-d-mach-sive-m_5564",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH sivé L",
+            "slug": "zateplene-pracovne-nohavice-d-mach-sive-l_5565",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH sivé XL",
+            "slug": "zateplene-pracovne-nohavice-d-mach-sive-xl_5566",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH sivé XXL",
+            "slug": "zateplene-pracovne-nohavice-d-mach-sive-xxl_5567",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH sivé 3XL",
+            "slug": "zateplene-pracovne-nohavice-d-mach-sive-3xl_5568",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH2 CORPORATE modré L",
+            "slug": "pracovne-nohavice-mach2-corporate-modre-l_4232",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH2 CORPORATE modré XL",
+            "slug": "pracovne-nohavice-mach2-corporate-modre-xl_4234",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH2 CORPORATE modré XXL",
+            "slug": "pracovne-nohavice-mach2-corporate-modre-xxl_4235",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH2 CORPORATE modré 3XL",
+            "slug": "pracovne-nohavice-mach2-corporate-modre-3xl_4237",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE tmavosivá S",
+            "slug": "pracovna-bunda-mach2-corporate-tmavosiva-s_4254",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE tmavosivá M",
+            "slug": "pracovna-bunda-mach2-corporate-tmavosiva-m_4279",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE tmavosivá L",
+            "slug": "pracovna-bunda-mach2-corporate-tmavosiva-l_4280",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE tmavosivá XL",
+            "slug": "pracovna-bunda-mach2-corporate-tmavosiva-xl_4281",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE tmavosivá XXL",
+            "slug": "pracovna-bunda-mach2-corporate-tmavosiva-xxl_4282",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE tmavosivá 3XL",
+            "slug": "pracovna-bunda-mach2-corporate-tmavosiva-3xl_4283",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE svetlosivá S",
+            "slug": "pracovna-bunda-mach2-corporate-svetlosiva-s_4284",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE svetlosivá M",
+            "slug": "pracovna-bunda-mach2-corporate-svetlosiva-m_4285",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE svetlosivá L",
+            "slug": "pracovna-bunda-mach2-corporate-svetlosiva-l_4286",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE svetlosivá XL",
+            "slug": "pracovna-bunda-mach2-corporate-svetlosiva-xl_4287",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE svetlosivá XXL",
+            "slug": "pracovna-bunda-mach2-corporate-svetlosiva-xxl_4288",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda MACH2 CORPORATE svetlosivá 3XL",
+            "slug": "pracovna-bunda-mach2-corporate-svetlosiva-3xl_4289",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE modrá-oranžová XS",
+            "slug": "pracovna-bunda-panostyle-modra-oranzova-xs_4342",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE modrá-oranžová S",
+            "slug": "pracovna-bunda-panostyle-modra-oranzova-s_4446",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE modrá-oranžová M",
+            "slug": "pracovna-bunda-panostyle-modra-oranzova-m_4447",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE modrá-oranžová L",
+            "slug": "pracovna-bunda-panostyle-modra-oranzova-l_4448",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE modrá-oranžová XL",
+            "slug": "pracovna-bunda-panostyle-modra-oranzova-xl_4449",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE modrá-oranžová XXL",
+            "slug": "pracovna-bunda-panostyle-modra-oranzova-xxl_4450",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE modrá-oranžová 3XL",
+            "slug": "pracovna-bunda-panostyle-modra-oranzova-3xl_4451",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-oranžová XS",
+            "slug": "pracovna-bunda-panostyle-siva-oranzova-xs_4452",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-oranžová S",
+            "slug": "pracovna-bunda-panostyle-siva-oranzova-s_4453",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-oranžová M",
+            "slug": "pracovna-bunda-panostyle-siva-oranzova-m_4454",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-oranžová L",
+            "slug": "pracovna-bunda-panostyle-siva-oranzova-l_4455",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-oranžová XL",
+            "slug": "pracovna-bunda-panostyle-siva-oranzova-xl_4456",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-oranžová XXL",
+            "slug": "pracovna-bunda-panostyle-siva-oranzova-xxl_4457",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-oranžová 3XL",
+            "slug": "pracovna-bunda-panostyle-siva-oranzova-3xl_4458",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-zelená XS",
+            "slug": "pracovna-bunda-panostyle-siva-zelena-xs_4459",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-zelená S",
+            "slug": "pracovna-bunda-panostyle-siva-zelena-s_4460",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-zelená M",
+            "slug": "pracovna-bunda-panostyle-siva-zelena-m_4461",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-zelená L",
+            "slug": "pracovna-bunda-panostyle-siva-zelena-l_4463",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-zelená XL",
+            "slug": "pracovna-bunda-panostyle-siva-zelena-xl_4464",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-zelená XXL",
+            "slug": "pracovna-bunda-panostyle-siva-zelena-xxl_4465",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PANOSTYLE sivá-zelená 3XL",
+            "slug": "pracovna-bunda-panostyle-siva-zelena-3xl_4466",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH5 SPRING béžové S",
+            "slug": "pracovne-nohavice-mach5-spring-bezove-s_4491",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH5 SPRING béžové M",
+            "slug": "pracovne-nohavice-mach5-spring-bezove-m_4493",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH5 SPRING béžové L",
+            "slug": "pracovne-nohavice-mach5-spring-bezove-l_4494",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH5 SPRING béžové XXL",
+            "slug": "pracovne-nohavice-mach5-spring-bezove-xxl_4496",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice MACH5 SPRING béžové 3XL",
+            "slug": "pracovne-nohavice-mach5-spring-bezove-3xl_4497",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE modré S",
+            "slug": "pracovne-kratasy-panostyle-modre-s_4521",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE modré M",
+            "slug": "pracovne-kratasy-panostyle-modre-m_4525",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE modré L",
+            "slug": "pracovne-kratasy-panostyle-modre-l_4526",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE modré XL",
+            "slug": "pracovne-kratasy-panostyle-modre-xl_4528",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE modré XXL",
+            "slug": "pracovne-kratasy-panostyle-modre-xxl_4529",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE modré 3XL",
+            "slug": "pracovne-kratasy-panostyle-modre-3xl_4530",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE sivé S",
+            "slug": "pracovne-kratasy-panostyle-sive-s_4531",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE sivé M",
+            "slug": "pracovne-kratasy-panostyle-sive-m_4532",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE sivé L",
+            "slug": "pracovne-kratasy-panostyle-sive-l_4533",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE sivé XL",
+            "slug": "pracovne-kratasy-panostyle-sive-xl_4534",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE modrá M",
+            "slug": "pracovna-bunda-paligve-modra-m_4542",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE sivé XXL",
+            "slug": "pracovne-kratasy-panostyle-sive-xxl_4535",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné kraťasy PANOSTYLE sivé 3XL",
+            "slug": "pracovne-kratasy-panostyle-sive-3xl_4536",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE modrá S",
+            "slug": "pracovna-bunda-paligve-modra-s_4537",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE modrá L",
+            "slug": "pracovna-bunda-paligve-modra-l_4543",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE modrá 3XL",
+            "slug": "pracovna-bunda-paligve-modra-3xl_4546",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE sivá M",
+            "slug": "pracovna-bunda-paligve-siva-m_4549",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE sivá L",
+            "slug": "pracovna-bunda-paligve-siva-l_4550",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE sivá 3XL",
+            "slug": "pracovna-bunda-paligve-siva-3xl_4573",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré XS",
+            "slug": "pracovne-monterky-panostyle-modre-xs_4581",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré S",
+            "slug": "pracovne-monterky-panostyle-modre-s_4607",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré M",
+            "slug": "pracovne-monterky-panostyle-modre-m_4608",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré L",
+            "slug": "pracovne-monterky-panostyle-modre-l_4609",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré XL",
+            "slug": "pracovne-monterky-panostyle-modre-xl_4610",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré XXL",
+            "slug": "pracovne-monterky-panostyle-modre-xxl_4611",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré 3XL",
+            "slug": "pracovne-monterky-panostyle-modre-3xl_4612",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové XS",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-xs_4613",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové S",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-s_4616",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové M",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-m_4618",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové L",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-l_4619",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové XL",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-xl_4620",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové XXL",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-xxl_4621",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové 3XL",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-3xl_4622",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené XS",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-xs_4623",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené S",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-s_4624",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené M",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-m_4625",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené L",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-l_4627",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené XL",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-xl_4628",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené XXL",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-xxl_4630",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené 3XL",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-3xl_4631",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené XS",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-xs_4632",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené S",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-s_4635",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené M",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-m_4638",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené L",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-l_4640",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené XL",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-xl_4642",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené XXL",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-xxl_4643",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené 3XL",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-3xl_4646",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky D-MACH čierne S",
+            "slug": "pracovne-monterky-d-mach-cierne-s_4659",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky MACH2 CORPORATE tmavosivé S",
+            "slug": "pracovne-monterky-mach2-corporate-tmavosive-s_4771",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Zateplené pracovné nohavice D-MACH čierne S",
+            "slug": "zateplene-pracovne-nohavice-d-mach-cierne-s_4783",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Nákolenník ZIMA",
+            "slug": "nakolennik-zima-uni_7006",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   KOLENAČKY M2GEN",
+            "slug": "kolenacky-m2gen-uni_7011",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá S",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-s_3711",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá M",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-m_3729",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá L",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-l_3730",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá XL",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-xl_3731",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá XXL",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-xxl_3732",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice D-MACH sivá-žltá 3XL",
+            "slug": "pracovne-nohavice-d-mach-siva-zlta-3xl_3733",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá S",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-s_3755",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá XL",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-xl_3761",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá M",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-m_3759",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá L",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-l_3760",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá XXL",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-xxl_3763",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH sivá-žltá 3XL",
+            "slug": "pracovna-bunda-d-mach-siva-zlta-3xl_3765",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená S",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-s_3767",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená M",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-m_3776",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená L",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-l_3777",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená XL",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-xl_3780",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená XXL",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-xxl_3784",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda D-MACH čierna-červená 3XL",
+            "slug": "pracovna-bunda-d-mach-cierna-cervena-3xl_3785",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré XS",
+            "slug": "pracovne-nohavice-panostrpa-modre-xs_3806",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré S",
+            "slug": "pracovne-nohavice-panostrpa-modre-s_3809",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré M",
+            "slug": "pracovne-nohavice-panostrpa-modre-m_3810",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré L",
+            "slug": "pracovne-nohavice-panostrpa-modre-l_3811",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré XL",
+            "slug": "pracovne-nohavice-panostrpa-modre-xl_3812",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré XXL",
+            "slug": "pracovne-nohavice-panostrpa-modre-xxl_3813",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA modré 3XL",
+            "slug": "pracovne-nohavice-panostrpa-modre-3xl_3814",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA sivé XS",
+            "slug": "pracovne-nohavice-panostrpa-sive-xs_3815",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice PANOSTRPA sivé S",
+            "slug": "pracovne-nohavice-panostrpa-sive-s_3819",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré S",
+            "slug": "pracovne-monterky-panostyle-modre-s_4607",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré M",
+            "slug": "pracovne-monterky-panostyle-modre-m_4608",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré L",
+            "slug": "pracovne-monterky-panostyle-modre-l_4609",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré XL",
+            "slug": "pracovne-monterky-panostyle-modre-xl_4610",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré XXL",
+            "slug": "pracovne-monterky-panostyle-modre-xxl_4611",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE modré 3XL",
+            "slug": "pracovne-monterky-panostyle-modre-3xl_4612",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové XS",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-xs_4613",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové S",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-s_4616",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové M",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-m_4618",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové L",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-l_4619",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové XL",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-xl_4620",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové XXL",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-xxl_4621",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-oranžové 3XL",
+            "slug": "pracovne-monterky-panostyle-sive-oranzove-3xl_4622",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené XS",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-xs_4623",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené S",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-s_4624",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené M",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-m_4625",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené L",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-l_4627",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené XL",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-xl_4628",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené XXL",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-xxl_4630",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE sivé-zelené 3XL",
+            "slug": "pracovne-monterky-panostyle-sive-zelene-3xl_4631",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené XS",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-xs_4632",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené S",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-s_4635",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené M",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-m_4638",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené L",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-l_4640",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené XL",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-xl_4642",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené XXL",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-xxl_4643",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné monterky PANOSTYLE hnedé-zelené 3XL",
+            "slug": "pracovne-monterky-panostyle-hnede-zelene-3xl_4646",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná blúza sivá XXL",
+            "slug": "pracovna-bluza-siva-xxl_11561",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda AREN oranžovo-sivá M",
+            "slug": "pracovna-bunda-aren-oranzovo-siva-m_11860",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda AREN oranžovo-sivá L",
+            "slug": "pracovna-bunda-aren-oranzovo-siva-l_11861",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda AREN oranžovo-sivá XL",
+            "slug": "pracovna-bunda-aren-oranzovo-siva-xl_11862",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda AREN oranžovo-sivá XXL",
+            "slug": "pracovna-bunda-aren-oranzovo-siva-xxl_11863",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda NORTHWOOD3 modrá L",
+            "slug": "pracovna-bunda-northwood3-modra-l_11870",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda NORTHWOOD3 modrá XL",
+            "slug": "pracovna-bunda-northwood3-modra-xl_11871",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda NORTHWOOD3 modrá XXL",
+            "slug": "pracovna-bunda-northwood3-modra-xxl_11872",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice M2PA3 béžové L",
+            "slug": "pracovne-nohavice-m2pa3-bezove-l_12505",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice M2PA3 béžové M",
+            "slug": "pracovne-nohavice-m2pa3-bezove-m_12506",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovné nohavice M2PA3 béžové XL",
+            "slug": "pracovne-nohavice-m2pa3-bezove-xl_12507",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Ľadvinový pás CEINT04 XL",
+            "slug": "ladvinovy-pas-ceint04-xl_7035",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Ľadvinový pás CEINT04 M",
+            "slug": "ladvinovy-pas-ceint04-m_7028",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Ľadvinový pás CEINT04 L",
+            "slug": "ladvinovy-pas-ceint04-l_7033",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE modrá XXL",
+            "slug": "pracovna-bunda-paligve-modra-xxl_4545",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE sivá S",
+            "slug": "pracovna-bunda-paligve-siva-s_4548",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE sivá XL",
+            "slug": "pracovna-bunda-paligve-siva-xl_4554",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        },
+        {
+            "name": "Delta Plus   Pracovná bunda PALIGVE sivá XXL",
+            "slug": "pracovna-bunda-paligve-siva-xxl_4571",
+            "category_id": 366,
+            "category_name": "Ochranne Pracovne Prostriedky Delta Plus Pracovne Oblecenie",
+            "category_slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie"
+        }
+    ]
+}

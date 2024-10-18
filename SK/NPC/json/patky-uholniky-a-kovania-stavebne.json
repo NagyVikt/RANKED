@@ -1,0 +1,19 @@
+{
+    "fetch_time": "2024-10-17T18:20:12.182051Z",
+    "products": [
+        {
+            "name": "Domax   Záves stavebný ozdobný ZO 80",
+            "slug": "zaves-stavebny-ozdobny-zo-80-80x63-mm_11077",
+            "category_id": 381,
+            "category_name": "Patky Uholniky A Kovania Stavebne",
+            "category_slug": "patky-uholniky-a-kovania-stavebne"
+        },
+        {
+            "name": "Domax   Záves stavebný ozdobný ZO 100",
+            "slug": "zaves-stavebny-ozdobny-zo-100-100x105-mm_11039",
+            "category_id": 381,
+            "category_name": "Patky Uholniky A Kovania Stavebne",
+            "category_slug": "patky-uholniky-a-kovania-stavebne"
+        }
+    ]
+}

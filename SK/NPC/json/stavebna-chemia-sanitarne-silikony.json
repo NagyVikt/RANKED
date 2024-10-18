@@ -1,0 +1,40 @@
+{
+    "fetch_time": "2024-10-17T18:16:56.354826Z",
+    "products": [
+        {
+            "name": "MASTERsil   Silikón sanitárny šedá 315ml",
+            "slug": "silikon-sanitarny-seda-mastersil-315-ml",
+            "category_id": 491,
+            "category_name": "Stavebna Chemia Sanitarne Silikony",
+            "category_slug": "stavebna-chemia-sanitarne-silikony"
+        },
+        {
+            "name": "MASTERsil   Silikón sanitárny manhattan 315ml",
+            "slug": "silikon-sanitarny-manhattan-mastersil-315-ml",
+            "category_id": 491,
+            "category_name": "Stavebna Chemia Sanitarne Silikony",
+            "category_slug": "stavebna-chemia-sanitarne-silikony"
+        },
+        {
+            "name": "MASTERsil   Silikón sanitárny bahama 315ml",
+            "slug": "silikon-sanitarny-bahama-mastersil-315-ml",
+            "category_id": 491,
+            "category_name": "Stavebna Chemia Sanitarne Silikony",
+            "category_slug": "stavebna-chemia-sanitarne-silikony"
+        },
+        {
+            "name": "MASTERsil   Silikón sanitárny hnedý 315ml",
+            "slug": "silikon-sanitarny-hnedy-mastersil-315-ml",
+            "category_id": 491,
+            "category_name": "Stavebna Chemia Sanitarne Silikony",
+            "category_slug": "stavebna-chemia-sanitarne-silikony"
+        },
+        {
+            "name": "MASTERsil   Silikón sanitárny čierny 315ml",
+            "slug": "silikon-sanitarny-cierny-mastersil-315-ml",
+            "category_id": 491,
+            "category_name": "Stavebna Chemia Sanitarne Silikony",
+            "category_slug": "stavebna-chemia-sanitarne-silikony"
+        }
+    ]
+}

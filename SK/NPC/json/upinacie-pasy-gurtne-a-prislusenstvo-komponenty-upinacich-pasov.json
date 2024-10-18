@@ -1,0 +1,173 @@
+{
+    "fetch_time": "2024-10-17T18:14:59.282246Z",
+    "products": [
+        {
+            "name": "SVX   Pás na výrobu gurtní 35mm 3T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-35mm-3T",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "SVX   Pás na výrobu gurtní 25mm 0,8T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-25mm-08t",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "SVX   Pás na výrobu gurtní 25mm 1T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-25mm-1T",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 3,5 m",
+            "slug": "pas-s-j-hakom-5t35m_20466",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 7,5 m",
+            "slug": "pas-s-j-hakom-5t75m_20468",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 5,5 m",
+            "slug": "pas-s-j-hakom-5t55m_20467",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "SVX   Popruh s račňou - protikus 1T",
+            "slug": "popruh-s-racnou-protikus-05m-1t_2333",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "J hák na gurtne 3T",
+            "slug": "j-hak-na-gurtne-3t_7149",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 7,5 m",
+            "slug": "pas-s-j-hakom-1t75m_20452",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "SVX   Popruh s račňou - protikus 5T",
+            "slug": "popruh-s-racnou-protikus-5t_2436",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "J hák na gurtne 1T",
+            "slug": "j-hak-na-gurtne-1t_7147",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 9,5m",
+            "slug": "pas-s-j-hakom-5t95m_20469",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "SVX   Popruh s račňou - protikus 2T",
+            "slug": "popruh-s-racnou-protikus-2t_2424",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "J hák na gurtne 5T",
+            "slug": "j-hak-na-gurtne-5t_7150",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 5,5 m",
+            "slug": "pas-s-j-hakom-1t55m_20451",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 3,5 m",
+            "slug": "pas-s-j-hakom-3t35m_20464",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 40 m",
+            "slug": "pas-s-j-hakom-5t40m_20472",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "SVX   Popruh s račňou - protikus 3T",
+            "slug": "popruh-s-racnou-protikus-3t_2429",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "SVX   Pás na výrobu gurtní 35mm 2T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-35mm-2t",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "SVX   Pás na výrobu gurtní 50mm 5T - 100m",
+            "slug": "pas-na-vyrobu-gurtni-50mm-5t",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "J hák na gurtne 2T",
+            "slug": "j-hak-na-gurtne-2t_7148",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 3,5 m",
+            "slug": "pas-s-j-hakom-2t35m_20453",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 7,5 m",
+            "slug": "pas-s-j-hakom-2t75m_20454",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        },
+        {
+            "name": "Pás s J hákom 7,5 m",
+            "slug": "pas-s-j-hakom-3t75m_20465",
+            "category_id": 469,
+            "category_name": "Upinacie Pasy Gurtne A Prislusenstvo Komponenty Upinacich Pasov",
+            "category_slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov"
+        }
+    ]
+}
