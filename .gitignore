@@ -6,3 +6,4 @@ config/
 venv/
 RENDSZER/config.py
 myenv/
+SK/NPC/products_upload.log
