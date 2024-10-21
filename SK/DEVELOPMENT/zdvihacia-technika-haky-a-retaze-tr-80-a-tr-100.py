@@ -231,7 +231,7 @@ def create_main_category_json(category_data, output_file):
 
 def main():
     # Define the main category data
-    main_category_url = "https://kdtech.sk/shop/?filter_cat=zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100"
+    main_category_url = "https://www.svx.sk/zdvihacia-technika-haky-a-retaze-tr-80-a-tr-100"
 
     # Start scraping from the main category
     print("Starting to scrape categories and subcategories...")
