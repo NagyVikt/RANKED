@@ -1,8 +1,1147 @@
 {
-    "id": 544,
-    "slug": "?filter_cat=naradie",
-    "name": "Shop",
+    "id": 97,
+    "slug": "naradie",
+    "name": "Náradie",
     "img": "",
-    "link": "https://kdtech.sk/shop/?filter_cat=?filter_cat=naradie",
-    "subcategories": []
+    "link": "https://kdtech.sk/shop/?filter_cat=naradie",
+    "subcategories": [
+        {
+            "id": 447,
+            "slug": "naradie-svxtools",
+            "name": "SVXtools",
+            "img": "https://www.svx.sk/media/categories/category_2167.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools",
+            "subcategories": []
+        },
+        {
+            "id": 291,
+            "slug": "naradie-elektricke-naradie",
+            "name": "Elektrické náradie",
+            "img": "https://www.svx.sk/media/categories/4b5dbcddd70597887fd8c775c802359286f3137e/hl.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-elektricke-naradie",
+            "subcategories": [
+                {
+                    "id": 545,
+                    "slug": "naradie-elektricke-naradie-procraft",
+                    "name": "Procraft",
+                    "img": "https://www.svx.sk/media/categories/a02e2211e02ff4a78605e8172bf9caf901a42e28/Untitled_design.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-elektricke-naradie-procraft",
+                    "subcategories": [
+                        {
+                            "id": 547,
+                            "slug": "elektricke-naradie-procraft-aku-naradie",
+                            "name": "Aku náradie",
+                            "img": "https://www.svx.sk/media/categories/6082365c712d71a4a55d0b3d1321819cc32d2791/1.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=elektricke-naradie-procraft-aku-naradie",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 555,
+                            "slug": "elektricke-naradie-procraft-elektricke-naradie",
+                            "name": "Elektrické náradie",
+                            "img": "https://www.svx.sk/media/categories/88cf85c9cb42ba55744c0fce47acc5d130275d72/hl..jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=elektricke-naradie-procraft-elektricke-naradie",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 557,
+                            "slug": "elektricke-naradi-procraft-prislusenstvo",
+                            "name": "Príslušenstvo",
+                            "img": "https://www.svx.sk/media/categories/90ff116b268de67569cf6d873953dd3901e06940/hl..jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=elektricke-naradi-procraft-prislusenstvo",
+                            "subcategories": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 325,
+            "slug": "naradie-rucne-naradie",
+            "name": "Ručné náradie",
+            "img": "https://www.svx.sk/media/categories/category_1933.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-rucne-naradie",
+            "subcategories": [
+                {
+                    "id": 413,
+                    "slug": "naradie-naradie-pre-elektrikarov",
+                    "name": "Náradie pre elektrikárov",
+                    "img": "https://www.svx.sk/media/categories/category_1387.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-naradie-pre-elektrikarov",
+                    "subcategories": [
+                        {
+                            "id": 568,
+                            "slug": "naradie-klieste-pre-elektrikarov",
+                            "name": "Kliešte pre elektrikárov",
+                            "img": "https://www.svx.sk/media/categories/category_1388.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-klieste-pre-elektrikarov",
+                            "subcategories": [
+                                {
+                                    "id": 573,
+                                    "slug": "naradie-klieste-lisovacie",
+                                    "name": "Kliešte lisovacie",
+                                    "img": "https://www.svx.sk/media/categories/category_1389.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-klieste-lisovacie",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 580,
+                                    "slug": "naradie-klieste-odizolovacie",
+                                    "name": "Kliešte odizolovacie",
+                                    "img": "https://www.svx.sk/media/categories/category_1390.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-klieste-odizolovacie",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 587,
+                                    "slug": "naradie-klieste-pre-telekomunikacnu-techniku",
+                                    "name": "Kliešte pre telekomunikačnú techniku",
+                                    "img": "https://www.svx.sk/media/categories/category_1391.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-klieste-pre-telekomunikacnu-techniku",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 593,
+                            "slug": "naradie-skusacky-napatia",
+                            "name": "Skúšačky napätia",
+                            "img": "https://www.svx.sk/media/categories/category_1961.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-skusacky-napatia",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 411,
+                    "slug": "naradie-olamovacie-noze",
+                    "name": "Olamovacie nože",
+                    "img": "https://www.svx.sk/media/categories/category_1882.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-olamovacie-noze",
+                    "subcategories": [
+                        {
+                            "id": 604,
+                            "slug": "naradie-noze",
+                            "name": "Nože",
+                            "img": "https://www.svx.sk/media/categories/category_1991.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-noze",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 615,
+                            "slug": "naradie-nahradne-cepele",
+                            "name": "Náhradné čepele",
+                            "img": "https://www.svx.sk/media/categories/category_1992.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-nahradne-cepele",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 622,
+                            "slug": "naradie-skrabky",
+                            "name": "Škrabky",
+                            "img": "https://www.svx.sk/media/categories/category_1993.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-skrabky",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 275,
+                    "slug": "naradie-metre-a-pasma",
+                    "name": "Metre a pásma",
+                    "img": "https://www.svx.sk/media/categories/category_1910.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-metre-a-pasma",
+                    "subcategories": []
+                },
+                {
+                    "id": 362,
+                    "slug": "naradie-skrutkovace",
+                    "name": "Skrutkovače",
+                    "img": "https://www.svx.sk/media/categories/category_1915.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-skrutkovace",
+                    "subcategories": [
+                        {
+                            "id": 633,
+                            "slug": "naradie-krizove-ph",
+                            "name": "Krížové PH skrutkovače",
+                            "img": "https://www.svx.sk/media/categories/category_1916.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-krizove-ph",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 640,
+                            "slug": "naradie-krizove-pz",
+                            "name": "Krížové PZ skrutkovače",
+                            "img": "https://www.svx.sk/media/categories/category_1917.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-krizove-pz",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 648,
+                            "slug": "naradie-torx-ttx",
+                            "name": "TORX skrutkovače TTX",
+                            "img": "https://www.svx.sk/media/categories/category_1918.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-torx-ttx",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 652,
+                            "slug": "naradie-ploche",
+                            "name": "Ploché skrutkovače",
+                            "img": "https://www.svx.sk/media/categories/category_1919.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-ploche",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 658,
+                            "slug": "naradie-izolovane-ph",
+                            "name": "Izolované PH skrutkovače",
+                            "img": "https://www.svx.sk/media/categories/category_1920.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-izolovane-ph",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 665,
+                            "slug": "naradie-izolovane-ploche",
+                            "name": "Izolované ploché skrutkovače",
+                            "img": "https://www.svx.sk/media/categories/category_1921.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-izolovane-ploche",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 668,
+                            "slug": "naradie-imbus-hx",
+                            "name": "Imbus HX skrutkovače",
+                            "img": "https://www.svx.sk/media/categories/category_1922.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-imbus-hx",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 401,
+                    "slug": "naradie-kluce",
+                    "name": "Kľúče",
+                    "img": "https://www.svx.sk/media/categories/category_1934.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-kluce",
+                    "subcategories": [
+                        {
+                            "id": 674,
+                            "slug": "naradie-oko-vidlicove-vidlicove-ockove",
+                            "name": "Oko - vidlicové / vidlicové / očkové kľúče",
+                            "img": "https://www.svx.sk/media/categories/category_1949.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-oko-vidlicove-vidlicove-ockove",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 680,
+                            "slug": "naradie-rurkove",
+                            "name": "Rúrkové kľúče",
+                            "img": "https://www.svx.sk/media/categories/category_1950.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-rurkove",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 684,
+                            "slug": "naradie-l-kluce-imbus",
+                            "name": "L-kľúče IMBUS",
+                            "img": "https://www.svx.sk/media/categories/category_1951.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-l-kluce-imbus",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 688,
+                            "slug": "naradie-nastavitelne",
+                            "name": "Nastaviteľné vidlicové",
+                            "img": "https://www.svx.sk/media/categories/category_2054.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-nastavitelne",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 315,
+                    "slug": "naradie-klieste-a-noznice",
+                    "name": "Kliešte a nožnice",
+                    "img": "https://www.svx.sk/media/categories/category_2027.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-klieste-a-noznice",
+                    "subcategories": []
+                },
+                {
+                    "id": 316,
+                    "slug": "naradie-klieste-knipex",
+                    "name": "Kliešte KNIPEX",
+                    "img": "https://www.svx.sk/media/categories/category_1976.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-klieste-knipex",
+                    "subcategories": []
+                },
+                {
+                    "id": 700,
+                    "slug": "naradie-racne-hlavice-prislusenstvo",
+                    "name": "Račne, hlavice, príslušenstvo",
+                    "img": "https://www.svx.sk/media/categories/category_2056.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-racne-hlavice-prislusenstvo",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 307,
+            "slug": "naradie-stavebne-naradie",
+            "name": "Stavebné náradie",
+            "img": "https://www.svx.sk/media/categories/category_1323.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-stavebne-naradie",
+            "subcategories": [
+                {
+                    "id": 704,
+                    "slug": "naradie-naradie-pre-murarov-a-obkladacov",
+                    "name": "Náradie pre murárov a obkladačov",
+                    "img": "https://www.svx.sk/media/categories/category_1324.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-naradie-pre-murarov-a-obkladacov",
+                    "subcategories": [
+                        {
+                            "id": 711,
+                            "slug": "naradie-murarske-lyzice-a-naberacky",
+                            "name": "Murárske lyžice a naberačky",
+                            "img": "https://www.svx.sk/media/categories/category_1325.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-murarske-lyzice-a-naberacky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 719,
+                            "slug": "naradie-murarske-hladidla",
+                            "name": "Murárske hladidlá",
+                            "img": "https://www.svx.sk/media/categories/category_1326.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-murarske-hladidla",
+                            "subcategories": [
+                                {
+                                    "id": 724,
+                                    "slug": "naradie-hladidla-plastove",
+                                    "name": "Hladidlá plastové",
+                                    "img": "https://www.svx.sk/media/categories/category_1346.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-hladidla-plastove",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 729,
+                                    "slug": "naradie-hladidla-kovove",
+                                    "name": "Hladidlá kovové",
+                                    "img": "https://www.svx.sk/media/categories/category_1347.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-hladidla-kovove",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 735,
+                                    "slug": "naradie-hladidla-s-hubkou",
+                                    "name": "Hladidlá s hubkou",
+                                    "img": "https://www.svx.sk/media/categories/category_1348.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-hladidla-s-hubkou",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 738,
+                                    "slug": "naradie-hladidla-s-gumou",
+                                    "name": "Hladidlá s gumou",
+                                    "img": "https://www.svx.sk/media/categories/category_1349.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-hladidla-s-gumou",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 742,
+                            "slug": "naradie-murarske-skrabaky-a-skrabky",
+                            "name": "Murárske škrabáky a škrabky",
+                            "img": "https://www.svx.sk/media/categories/category_1328.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-murarske-skrabaky-a-skrabky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 746,
+                            "slug": "naradie-murarske-spachtle-a-stierky",
+                            "name": "Murárske špachtle a stierky",
+                            "img": "https://www.svx.sk/media/categories/category_1329.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-murarske-spachtle-a-stierky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 750,
+                            "slug": "naradie-stavebne-vedra",
+                            "name": "Stavebné vedrá",
+                            "img": "https://www.svx.sk/media/categories/category_1330.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-stavebne-vedra",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 754,
+                            "slug": "naradie-miesadla",
+                            "name": "Miešadlá",
+                            "img": "https://www.svx.sk/media/categories/category_1331.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-miesadla",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 758,
+                            "slug": "naradie-hubky-a-misky",
+                            "name": "Hubky a misky",
+                            "img": "https://www.svx.sk/media/categories/category_1334.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-hubky-a-misky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 761,
+                            "slug": "naradie-distancne-kriziky-a-spony",
+                            "name": "Distančné krížiky a spony",
+                            "img": "https://www.svx.sk/media/categories/category_1359.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-distancne-kriziky-a-spony",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 764,
+                    "slug": "naradie-maliarske-naradie",
+                    "name": "Maliarske náradie",
+                    "img": "https://www.svx.sk/media/categories/category_1335.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-maliarske-naradie",
+                    "subcategories": [
+                        {
+                            "id": 771,
+                            "slug": "naradie-maliarske-stetce",
+                            "name": "Maliarske štetce",
+                            "img": "https://www.svx.sk/media/categories/category_1336.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-maliarske-stetce",
+                            "subcategories": [
+                                {
+                                    "id": 778,
+                                    "slug": "naradie-stetce-univerzalne",
+                                    "name": "Štetce univerzálne",
+                                    "img": "https://www.svx.sk/media/categories/category_1350.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-stetce-univerzalne",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 783,
+                                    "slug": "naradie-stetce-na-moridla",
+                                    "name": "Štetce na moridlá",
+                                    "img": "https://www.svx.sk/media/categories/category_1353.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-stetce-na-moridla",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 787,
+                                    "slug": "naradie-stetce-na-vodou-rieditelne-farby-a-laky",
+                                    "name": "Štetce na vodou riediteľné farby a laky",
+                                    "img": "https://www.svx.sk/media/categories/category_1352.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-stetce-na-vodou-rieditelne-farby-a-laky",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 790,
+                            "slug": "naradie-maliarske-valceky",
+                            "name": "Maliarske valčeky",
+                            "img": "https://www.svx.sk/media/categories/category_1337.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-maliarske-valceky",
+                            "subcategories": [
+                                {
+                                    "id": 796,
+                                    "slug": "naradie-valceky-univerzalne",
+                                    "name": "Valčeky univerzálne",
+                                    "img": "https://www.svx.sk/media/categories/category_1354.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-valceky-univerzalne",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 798,
+                                    "slug": "naradie-valceky-lakovacie",
+                                    "name": "Valčeky lakovacie",
+                                    "img": "https://www.svx.sk/media/categories/category_1356.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-valceky-lakovacie",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 802,
+                                    "slug": "naradie-valceky-maliarske",
+                                    "name": "Valčeky maliarske",
+                                    "img": "https://www.svx.sk/media/categories/category_1357.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-valceky-maliarske",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 807,
+                                    "slug": "naradie-valceky-midi",
+                                    "name": "Valčeky MIDI",
+                                    "img": "https://www.svx.sk/media/categories/category_1358.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-valceky-midi",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 813,
+                            "slug": "naradie-nivelacne-valceky",
+                            "name": "Nivelačné valčeky",
+                            "img": "https://www.svx.sk/media/categories/category_1339.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-nivelacne-valceky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 814,
+                            "slug": "naradie-maliarske-prislusenstvo",
+                            "name": "Maliarske príslušenstvo",
+                            "img": "https://www.svx.sk/media/categories/category_1338.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-maliarske-prislusenstvo",
+                            "subcategories": [
+                                {
+                                    "id": 817,
+                                    "slug": "naradie-stieracie-mriezky",
+                                    "name": "Stieracie mriežky",
+                                    "img": "https://www.svx.sk/media/categories/category_1342.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-stieracie-mriezky",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 824,
+                                    "slug": "naradie-drziaky-valcekov",
+                                    "name": "Držiaky valčekov",
+                                    "img": "https://www.svx.sk/media/categories/category_1343.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-drziaky-valcekov",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 828,
+                                    "slug": "naradie-vanicky-na-farbu",
+                                    "name": "Vaničky na farbu",
+                                    "img": "https://www.svx.sk/media/categories/category_1345.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-vanicky-na-farbu",
+                                    "subcategories": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 335,
+            "slug": "naradie-zahradne-naradie",
+            "name": "Záhradné náradie",
+            "img": "https://www.svx.sk/media/categories/category_1393.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-zahradne-naradie",
+            "subcategories": [
+                {
+                    "id": 359,
+                    "slug": "naradie-drziaky",
+                    "name": "Držiaky",
+                    "img": "https://www.svx.sk/media/categories/category_2131.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-drziaky",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 308,
+            "slug": "naradie-boxy-na-naradie",
+            "name": "Boxy na náradie",
+            "img": "https://www.svx.sk/media/categories/category_1392.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-boxy-na-naradie",
+            "subcategories": []
+        },
+        {
+            "id": 394,
+            "slug": "naradie-krycie-plachty",
+            "name": "Krycie plachty",
+            "img": "https://www.svx.sk/media/categories/category_1928.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-krycie-plachty",
+            "subcategories": [
+                {
+                    "id": 841,
+                    "slug": "naradie-krycie-plachty-65-g-m2",
+                    "name": "65 g/m²",
+                    "img": "https://www.svx.sk/media/categories/af3aec132613b4444236b050ae7bce29a2b7d0b4/plachty_100g_DB_10x15_kopie_2.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-krycie-plachty-65-g-m2",
+                    "subcategories": []
+                },
+                {
+                    "id": 845,
+                    "slug": "naradie-krycie-plachty-100-g-m2",
+                    "name": "100 g/m²",
+                    "img": "https://www.svx.sk/media/categories/2bfb8fc82e70a357ed170085473c85c30df138b0/plachty_100g_DB_10x15.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-krycie-plachty-100-g-m2",
+                    "subcategories": []
+                },
+                {
+                    "id": 851,
+                    "slug": "naradie-krycie-plachty-200-g-m2",
+                    "name": "200 g/m²",
+                    "img": "https://www.svx.sk/media/categories/7f06f0d61798bf52671bb7389b6e27acc9558174/plachty_100g_DB_10x15_kopie.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-krycie-plachty-200-g-m2",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 367,
+            "slug": "naradie-sady",
+            "name": "Sady",
+            "img": "https://www.svx.sk/media/categories/category_1932.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-sady",
+            "subcategories": []
+        },
+        {
+            "id": 305,
+            "slug": "naradie-pistole",
+            "name": "Pištole",
+            "img": "https://www.svx.sk/media/categories/category_1376.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-pistole",
+            "subcategories": [
+                {
+                    "id": 857,
+                    "slug": "naradie-pistole-na-silikony-a-pur-peny",
+                    "name": "Pištole na silikóny a PUR peny",
+                    "img": "https://www.svx.sk/media/categories/category_1402.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-pistole-na-silikony-a-pur-peny",
+                    "subcategories": []
+                },
+                {
+                    "id": 860,
+                    "slug": "naradie-nastrelovacie-pistole",
+                    "name": "Nastrelovacie pištole",
+                    "img": "https://www.svx.sk/media/categories/category_1408.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-nastrelovacie-pistole",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 292,
+            "slug": "naradie-prislusenstvo",
+            "name": "Príslušenstvo",
+            "img": "https://www.svx.sk/media/categories/category_1377.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-prislusenstvo",
+            "subcategories": [
+                {
+                    "id": 290,
+                    "slug": "naradie-vrtaky",
+                    "name": "Vrtáky",
+                    "img": "https://www.svx.sk/media/categories/category_1378.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-vrtaky",
+                    "subcategories": [
+                        {
+                            "id": 869,
+                            "slug": "naradie-sady-vrtakov",
+                            "name": "Sady vrtákov",
+                            "img": "https://www.svx.sk/media/categories/category_1379.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-sady-vrtakov",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 872,
+                            "slug": "naradie-vrtaky-do-roznych-materialov",
+                            "name": "Vrtáky do rôznych materiálov",
+                            "img": "https://www.svx.sk/media/categories/category_1380.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-vrtaky-do-roznych-materialov",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 873,
+                            "slug": "naradie-vrtaky-do-keramiky",
+                            "name": "Vrtáky do keramiky",
+                            "img": "https://www.svx.sk/media/categories/category_1381.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-vrtaky-do-keramiky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 878,
+                            "slug": "naradie-vrtaky-do-betonu",
+                            "name": "Vrtáky do betónu",
+                            "img": "https://www.svx.sk/media/categories/category_1963.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-vrtaky-do-betonu",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 882,
+                            "slug": "naradie-vrtaky-do-zeleza",
+                            "name": "Vrtáky do železa",
+                            "img": "https://www.svx.sk/media/categories/category_1397.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-vrtaky-do-zeleza",
+                            "subcategories": [
+                                {
+                                    "id": 887,
+                                    "slug": "naradie-hss",
+                                    "name": "HSS",
+                                    "img": "https://www.svx.sk/media/categories/category_2019.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-hss",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 891,
+                                    "slug": "naradie-hss-rn",
+                                    "name": "HSS RN",
+                                    "img": "https://www.svx.sk/media/categories/category_2020.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-hss-rn",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 893,
+                            "slug": "naradie-vrtaky-do-dreva",
+                            "name": "Vrtáky do dreva",
+                            "img": "https://www.svx.sk/media/categories/category_2017.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-vrtaky-do-dreva",
+                            "subcategories": [
+                                {
+                                    "id": 896,
+                                    "slug": "naradie-spiralove",
+                                    "name": "Špirálové",
+                                    "img": "https://www.svx.sk/media/categories/category_2021.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-spiralove",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 900,
+                                    "slug": "naradie-hadovite",
+                                    "name": "Hadovité",
+                                    "img": "https://www.svx.sk/media/categories/category_2022.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-hadovite",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 903,
+                                    "slug": "naradie-ploche-1",
+                                    "name": "Ploché",
+                                    "img": "https://www.svx.sk/media/categories/category_2023.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-ploche-1",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 906,
+                                    "slug": "naradie-sukovniky",
+                                    "name": "Sukovníky",
+                                    "img": "https://www.svx.sk/media/categories/category_2024.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-sukovniky",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 909,
+                            "slug": "naradie-korunkove-vrtaky",
+                            "name": "Korunkové vrtáky",
+                            "img": "https://www.svx.sk/media/categories/category_1906.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-korunkove-vrtaky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 911,
+                            "slug": "naradie-zahlbniky",
+                            "name": "Záhlbníky",
+                            "img": "https://www.svx.sk/media/categories/category_1382.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-zahlbniky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 913,
+                            "slug": "naradie-vytahovace-skrutiek",
+                            "name": "Vyťahovače skrutiek",
+                            "img": "https://www.svx.sk/media/categories/category_1383.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-vytahovace-skrutiek",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 914,
+                            "slug": "naradie-zavitniky",
+                            "name": "Závitníky",
+                            "img": "https://www.svx.sk/media/categories/category_2018.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-zavitniky",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 289,
+                    "slug": "naradie-vykruzovacie-diamantove-vrtaky",
+                    "name": "Vykružovacie diamantové vrtáky",
+                    "img": "https://www.svx.sk/media/categories/category_1395.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-vykruzovacie-diamantove-vrtaky",
+                    "subcategories": []
+                },
+                {
+                    "id": 295,
+                    "slug": "naradie-vykruzovacie-bimetalove-korunky",
+                    "name": "Vykružovacie bimetalové korunky",
+                    "img": "https://www.svx.sk/media/categories/category_1396.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-vykruzovacie-bimetalove-korunky",
+                    "subcategories": []
+                },
+                {
+                    "id": 319,
+                    "slug": "naradie-rezne-materialy",
+                    "name": "Rezné materiály",
+                    "img": "https://www.svx.sk/media/categories/category_1801.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-rezne-materialy",
+                    "subcategories": [
+                        {
+                            "id": 916,
+                            "slug": "naradie-rezne-kotuce",
+                            "name": "Rezné kotúče",
+                            "img": "https://www.svx.sk/media/categories/category_2000.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-rezne-kotuce",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 917,
+                            "slug": "naradie-diamantove-kotuce",
+                            "name": "Diamantové kotúče",
+                            "img": "https://www.svx.sk/media/categories/category_2001.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-diamantove-kotuce",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 294,
+                    "slug": "naradie-klince",
+                    "name": "Klince",
+                    "img": "https://www.svx.sk/media/categories/category_1406.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-klince",
+                    "subcategories": [
+                        {
+                            "id": 920,
+                            "slug": "naradie-nastrelovacie-klince",
+                            "name": "Nastrelovacie klince",
+                            "img": "https://www.svx.sk/media/categories/category_1407.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-nastrelovacie-klince",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 293,
+                    "slug": "naradie-brusne-materialy",
+                    "name": "Brúsne materiály",
+                    "img": "https://www.svx.sk/media/categories/category_1912.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-brusne-materialy",
+                    "subcategories": [
+                        {
+                            "id": 921,
+                            "slug": "naradie-brusne-kotuce",
+                            "name": "Brúsne kotúče",
+                            "img": "https://www.svx.sk/media/categories/category_2004.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-brusne-kotuce",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 922,
+                            "slug": "naradie-brusne-papiere",
+                            "name": "Brúsne papiere",
+                            "img": "https://www.svx.sk/media/categories/category_2005.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-brusne-papiere",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 443,
+                    "slug": "naradie-unasacie-taniere",
+                    "name": "Unášacie taniere",
+                    "img": "https://www.svx.sk/media/categories/category_1914.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-unasacie-taniere",
+                    "subcategories": []
+                },
+                {
+                    "id": 324,
+                    "slug": "naradie-bity-na-skrutky",
+                    "name": "Bity na skrutky",
+                    "img": "https://www.svx.sk/media/categories/category_1656.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-bity-na-skrutky",
+                    "subcategories": [
+                        {
+                            "id": 923,
+                            "slug": "naradie-svxtools-1",
+                            "name": "SVXtools",
+                            "img": "https://www.svx.sk/media/categories/category_2170.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-1",
+                            "subcategories": [
+                                {
+                                    "id": 924,
+                                    "slug": "naradie-svxtools-industrial-ts2",
+                                    "name": "Industrial TS2",
+                                    "img": "https://www.svx.sk/media/categories/d08c130ef042fc6905c7b19ab374200688c14b2e/2.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-industrial-ts2",
+                                    "subcategories": [
+                                        {
+                                            "id": 925,
+                                            "slug": "naradie-svxtools-industrial-ts2-TX",
+                                            "name": "Torx",
+                                            "img": "https://www.svx.sk/media/categories/26a7cdbc7d4e261bde15822439b4af4268613819/kategorie_Kreslic%C3%AD_pl%C3%A1tno_1_kopie_5.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-industrial-ts2-TX",
+                                            "subcategories": []
+                                        },
+                                        {
+                                            "id": 926,
+                                            "slug": "naradie-svxtools-industrial-ts2-pz",
+                                            "name": "Pozidriv",
+                                            "img": "https://www.svx.sk/media/categories/24b024456db118ef020eef23e03c617aab3769d0/kategorie_Kreslic%C3%AD_pl%C3%A1tno_1_kopie_4.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-industrial-ts2-pz",
+                                            "subcategories": []
+                                        },
+                                        {
+                                            "id": 927,
+                                            "slug": "naradie-svxtools-industrial-ts2-ph",
+                                            "name": "Phillips",
+                                            "img": "https://www.svx.sk/media/categories/0ab5df1a65ff06af3db7caa60ad6c78943d5fe01/kategorie_Kreslic%C3%AD_pl%C3%A1tno_1_kopie_3.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-industrial-ts2-ph",
+                                            "subcategories": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 928,
+                                    "slug": "naradie-svxtools-premium-s2",
+                                    "name": "Premium S2",
+                                    "img": "https://www.svx.sk/media/categories/1eb297f0cf10fe09255d3162df2e88eec6e3774d/3.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-premium-s2",
+                                    "subcategories": [
+                                        {
+                                            "id": 929,
+                                            "slug": "naradie-svxtools-premium-s2-tx",
+                                            "name": "TX",
+                                            "img": "https://www.svx.sk/media/categories/26a7cdbc7d4e261bde15822439b4af4268613819/kategorie_Kreslic%C3%AD_pl%C3%A1tno_1_kopie_5.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-premium-s2-tx",
+                                            "subcategories": []
+                                        },
+                                        {
+                                            "id": 930,
+                                            "slug": "naradie-svxtools-premium-s2-pz",
+                                            "name": "PZ",
+                                            "img": "https://www.svx.sk/media/categories/24b024456db118ef020eef23e03c617aab3769d0/kategorie_Kreslic%C3%AD_pl%C3%A1tno_1_kopie_4.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-premium-s2-pz",
+                                            "subcategories": []
+                                        },
+                                        {
+                                            "id": 931,
+                                            "slug": "naradie-svxtools-premium-s2-ph",
+                                            "name": "PH",
+                                            "img": "https://www.svx.sk/media/categories/0ab5df1a65ff06af3db7caa60ad6c78943d5fe01/kategorie_Kreslic%C3%AD_pl%C3%A1tno_1_kopie_3.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-premium-s2-ph",
+                                            "subcategories": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 932,
+                                    "slug": "naradie-svxtools-hobby-crv",
+                                    "name": "Hobby CRV",
+                                    "img": "https://www.svx.sk/media/categories/fe79a540fcd2c8e6647f2705152445e0c3d72b47/1.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-hobby-crv",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 934,
+                                    "slug": "naradie-svxtools-gola-hlavy",
+                                    "name": "Gola hlavy",
+                                    "img": "https://www.svx.sk/media/categories/d76aa454eaa14b73acf2f9a5ac81fa32daff453b/4.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-svxtools-gola-hlavy",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 936,
+                                    "slug": "naradie-sady-1",
+                                    "name": "Sady",
+                                    "img": "https://www.svx.sk/media/categories/category_2176.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-sady-1",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 938,
+                            "slug": "naradie-bosch",
+                            "name": "Bosch",
+                            "img": "https://www.svx.sk/media/categories/category_2171.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-bosch",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 939,
+                            "slug": "naradie-wiha",
+                            "name": "Wiha",
+                            "img": "https://www.svx.sk/media/categories/category_2172.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-wiha",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 285,
+                    "slug": "naradie-vodovahy",
+                    "name": "Vodováhy",
+                    "img": "https://www.svx.sk/media/categories/category_1903.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-vodovahy",
+                    "subcategories": [
+                        {
+                            "id": 941,
+                            "slug": "naradie-s-magnetom",
+                            "name": "S magnetom",
+                            "img": "https://www.svx.sk/media/categories/category_1904.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-s-magnetom",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 943,
+                            "slug": "naradie-bez-magnetu",
+                            "name": "Bez magnetu",
+                            "img": "https://www.svx.sk/media/categories/category_1905.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-bez-magnetu",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 304,
+                    "slug": "naradie-sekace-sds",
+                    "name": "Sekáče SDS",
+                    "img": "https://www.svx.sk/media/categories/category_1927.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-sekace-sds",
+                    "subcategories": []
+                },
+                {
+                    "id": 334,
+                    "slug": "naradie-znackovace-a-ceruzky",
+                    "name": "Značkovače a ceruzky",
+                    "img": "https://www.svx.sk/media/categories/category_1962.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-znackovace-a-ceruzky",
+                    "subcategories": []
+                },
+                {
+                    "id": 176,
+                    "slug": "naradie-filament",
+                    "name": "Filament",
+                    "img": "https://www.svx.sk/media/categories/category_1225.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-filament",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 945,
+            "slug": "naradie-kolieska",
+            "name": "Kolieska",
+            "img": "https://www.svx.sk/media/categories/category_1804.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-kolieska",
+            "subcategories": [
+                {
+                    "id": 433,
+                    "slug": "naradie-pristrojove",
+                    "name": "Prístrojové kolieska",
+                    "img": "https://www.svx.sk/media/categories/category_1805.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-pristrojove",
+                    "subcategories": [
+                        {
+                            "id": 947,
+                            "slug": "naradie-s-termoplastickou-gumovou-obrucou",
+                            "name": "Kolieska s termoplastickou gumovou obručou",
+                            "img": "https://www.svx.sk/media/categories/category_1883.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-s-termoplastickou-gumovou-obrucou",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 948,
+                            "slug": "naradie-na-nabytok",
+                            "name": "Kolieska na nábytok",
+                            "img": "https://www.svx.sk/media/categories/category_1884.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-na-nabytok",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 950,
+                            "slug": "naradie-z-polypropylenu",
+                            "name": "Kolieska z polypropylénu",
+                            "img": "https://www.svx.sk/media/categories/category_1886.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-z-polypropylenu",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 378,
+                    "slug": "naradie-so-standardnou-gumovou-obrucou",
+                    "name": "Kolieska so štandardnou gumovou obručou",
+                    "img": "https://www.svx.sk/media/categories/category_1806.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-so-standardnou-gumovou-obrucou",
+                    "subcategories": [
+                        {
+                            "id": 952,
+                            "slug": "naradie-bez-priruby",
+                            "name": "Kolieska bez príruby",
+                            "img": "https://www.svx.sk/media/categories/category_1854.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-bez-priruby",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 954,
+                            "slug": "naradie-s-prirubou",
+                            "name": "Kolieska s prírubou",
+                            "img": "https://www.svx.sk/media/categories/category_1855.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-s-prirubou",
+                            "subcategories": [
+                                {
+                                    "id": 956,
+                                    "slug": "naradie-pevne",
+                                    "name": "Pevné",
+                                    "img": "https://www.svx.sk/media/categories/category_1857.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-pevne",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 957,
+                                    "slug": "naradie-otocne",
+                                    "name": "Otočné",
+                                    "img": "https://www.svx.sk/media/categories/category_1858.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-otocne",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 959,
+                            "slug": "naradie-s-brzdou",
+                            "name": "Kolieska s brzdou",
+                            "img": "https://www.svx.sk/media/categories/category_1856.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=naradie-s-brzdou",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 371,
+                    "slug": "naradie-samostatne-kolieska",
+                    "name": "Samostatné kolieska",
+                    "img": "https://www.svx.sk/media/categories/category_1813.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-samostatne-kolieska",
+                    "subcategories": []
+                },
+                {
+                    "id": 432,
+                    "slug": "naradie-transportne",
+                    "name": "Transportné kolieska",
+                    "img": "https://www.svx.sk/media/categories/category_1887.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=naradie-transportne",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 370,
+            "slug": "naradie-pracovne-stoly",
+            "name": "Pracovné stoly",
+            "img": "https://www.svx.sk/media/categories/category_1894.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=naradie-pracovne-stoly",
+            "subcategories": []
+        }
+    ]
 }
