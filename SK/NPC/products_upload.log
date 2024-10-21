@@ -473,3 +473,8 @@
 2024-10-18 12:59:31,912 - INFO - Product with ID 51262 exists. It will be updated.
 2024-10-18 12:59:34,461 - INFO - Successfully updated product ID 51262.
 2024-10-18 12:59:35,364 - INFO - Product with ID 51260 exists. It will be updated.
+2024-10-20 19:55:36,472 - INFO - Starting to upload products from woocommerce_products_updated.json to WooCommerce...
+2024-10-20 19:55:37,291 - INFO - Total products read from JSON: 13393
+2024-10-20 19:55:40,097 - INFO - Product with ID 51732 exists. It will be updated.
+2024-10-20 19:55:44,439 - INFO - Successfully updated product ID 51732.
+2024-10-20 19:55:46,398 - INFO - Product with ID 51730 exists. It will be updated.

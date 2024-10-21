@@ -9,14 +9,14 @@
             "id": 233,
             "slug": "domacnost-a-drogeria-drogeria",
             "name": "Drogéria",
-            "img": "https://www.svx.sk/media/categories/category_1261.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-drogeria",
             "subcategories": [
                 {
                     "id": 534,
                     "slug": "domacnost-a-drogeria-drogeria-cistiace-pasty",
                     "name": "Čistiace pasty",
-                    "img": "https://www.svx.sk/media/categories/c6b84a4b712064e08d67e782e75c9ade1e1a6047/pasty.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-drogeria-cistiace-pasty",
                     "subcategories": []
                 },
@@ -24,7 +24,7 @@
                     "id": 535,
                     "slug": "domacnost-a-drogeria-avivaze",
                     "name": "Aviváže",
-                    "img": "https://www.svx.sk/media/categories/category_1318.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-avivaze",
                     "subcategories": []
                 },
@@ -32,7 +32,7 @@
                     "id": 536,
                     "slug": "domacnost-a-drogeria-dezinfekcie",
                     "name": "Dezinfekcie",
-                    "img": "https://www.svx.sk/media/categories/category_1319.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-dezinfekcie",
                     "subcategories": []
                 },
@@ -40,7 +40,7 @@
                     "id": 238,
                     "slug": "domacnost-a-drogeria-xxl",
                     "name": "XXL",
-                    "img": "https://www.svx.sk/media/categories/category_1320.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-xxl",
                     "subcategories": []
                 },
@@ -48,7 +48,7 @@
                     "id": 232,
                     "slug": "domacnost-a-drogeria-univerzalne-cistice",
                     "name": "Univerzálne čističe",
-                    "img": "https://www.svx.sk/media/categories/category_1321.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-univerzalne-cistice",
                     "subcategories": []
                 }
@@ -58,14 +58,14 @@
             "id": 537,
             "slug": "bazenova-chemia-H",
             "name": "Bazénová chémia",
-            "img": "https://www.svx.sk/media/categories/31fecea06dd89eba7781d79765aecc72fe1d4356/ikona_kategorie_Kreslic%C3%AD_pl%C3%A1tno_1.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=bazenova-chemia-H",
             "subcategories": [
                 {
                     "id": 538,
                     "slug": "bazenova-chemia",
                     "name": "Bazénová chémia",
-                    "img": "https://www.svx.sk/media/categories/db330288567c0f3bfa03e9cad11e6b217aeb7f8f/ikona_kategorie_Kreslic%C3%AD_pl%C3%A1tno_1.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=bazenova-chemia",
                     "subcategories": []
                 },
@@ -73,7 +73,7 @@
                     "id": 539,
                     "slug": "jazierkova-chemia",
                     "name": "Jazierková chémia",
-                    "img": "https://www.svx.sk/media/categories/4cd7a075309147cc96f6715d7943966a806fa60e/kategoria.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=jazierkova-chemia",
                     "subcategories": []
                 },
@@ -81,7 +81,7 @@
                     "id": 540,
                     "slug": "Bazenove-prislusenstvo",
                     "name": "Bazénové príslušenstvo",
-                    "img": "https://www.svx.sk/media/categories/357a09f31f273a9655fe15adddf13cea2a716a94/ikona_kategorie_Kreslic%C3%AD_pl%C3%A1tno_1_kopie.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=Bazenove-prislusenstvo",
                     "subcategories": []
                 }
@@ -91,14 +91,14 @@
             "id": 245,
             "slug": "domacnost-a-drogeria-susiaky",
             "name": "Sušiaky na strop",
-            "img": "https://www.svx.sk/media/categories/category_1305.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-susiaky",
             "subcategories": [
                 {
                     "id": 282,
                     "slug": "domacnost-a-drogeria-5-tycove-susiaky",
                     "name": "5 tyčové sušiaky",
-                    "img": "https://www.svx.sk/media/categories/category_1373.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-5-tycove-susiaky",
                     "subcategories": []
                 },
@@ -106,7 +106,7 @@
                     "id": 541,
                     "slug": "domacnost-a-drogeria-6-tycove-susiaky",
                     "name": "6 tyčové sušiaky",
-                    "img": "https://www.svx.sk/media/categories/category_1374.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-6-tycove-susiaky",
                     "subcategories": []
                 },
@@ -114,7 +114,7 @@
                     "id": 542,
                     "slug": "domacnost-a-drogeria-7-tycove-susiaky",
                     "name": "7 tyčové sušiaky",
-                    "img": "https://www.svx.sk/media/categories/category_1375.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-7-tycove-susiaky",
                     "subcategories": []
                 }
@@ -124,7 +124,7 @@
             "id": 258,
             "slug": "domacnost-a-drogeria-ventilatory-a-ohrievace",
             "name": "Ventilátory a ohrievače",
-            "img": "https://www.svx.sk/media/categories/category_1219.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-ventilatory-a-ohrievace",
             "subcategories": []
         },
@@ -132,7 +132,7 @@
             "id": 237,
             "slug": "domacnost-a-drogeria-visiace-zamky",
             "name": "Visiace zámky",
-            "img": "https://www.svx.sk/media/categories/category_1394.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-visiace-zamky",
             "subcategories": []
         },
@@ -140,7 +140,7 @@
             "id": 277,
             "slug": "domacnost-a-drogeria-baterie",
             "name": "Batérie",
-            "img": "https://www.svx.sk/media/categories/category_1907.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-baterie",
             "subcategories": []
         },
@@ -148,7 +148,7 @@
             "id": 243,
             "slug": "domacnost-a-drogeria-prislusenstvo-do-auta",
             "name": "Príslušenstvo do auta",
-            "img": "https://www.svx.sk/media/categories/category_2026.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-prislusenstvo-do-auta",
             "subcategories": []
         },
@@ -156,7 +156,7 @@
             "id": 272,
             "slug": "domacnost-a-drogeria-bezpecnost-dietata",
             "name": "Bezpečnosť dieťaťa",
-            "img": "https://www.svx.sk/media/categories/category_2132.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-bezpecnost-dietata",
             "subcategories": []
         },
@@ -164,7 +164,7 @@
             "id": 257,
             "slug": "domacnost-a-drogeria-lapace-hmyzu",
             "name": "Lapače hmyzu",
-            "img": "https://www.svx.sk/media/categories/category_2161.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-lapace-hmyzu",
             "subcategories": []
         },
@@ -172,14 +172,14 @@
             "id": 262,
             "slug": "domacnost-a-drogeria-zavesne-systemy",
             "name": "Závesné systémy",
-            "img": "https://www.svx.sk/media/categories/category_2155.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-zavesne-systemy",
             "subcategories": [
                 {
                     "id": 268,
                     "slug": "domacnost-a-drogeria-haky-a-haciky",
                     "name": "Háky a háčiky",
-                    "img": "https://www.svx.sk/media/categories/category_2156.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-haky-a-haciky",
                     "subcategories": []
                 },
@@ -187,7 +187,7 @@
                     "id": 225,
                     "slug": "domacnost-a-drogeria-vesiaky-a-stojany",
                     "name": "Vešiaky a stojany",
-                    "img": "https://www.svx.sk/media/categories/category_2157.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "img": "",
                     "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-vesiaky-a-stojany",
                     "subcategories": []
                 }
@@ -197,7 +197,7 @@
             "id": 261,
             "slug": "domacnost-a-drogeria-nohy-stola",
             "name": "Nohy stola",
-            "img": "https://www.svx.sk/media/categories/category_2159.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-nohy-stola",
             "subcategories": []
         },
@@ -205,7 +205,7 @@
             "id": 248,
             "slug": "domacnost-a-drogeria-multifunkcne-nastroje",
             "name": "Multifunkčné nástroje TRUE",
-            "img": "https://www.svx.sk/media/categories/category_2160.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "img": "",
             "link": "https://kdtech.sk/shop/?filter_cat=domacnost-a-drogeria-multifunkcne-nastroje",
             "subcategories": []
         }
