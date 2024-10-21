@@ -1,0 +1,328 @@
+{
+    "id": 89,
+    "slug": "upinacie-pasy-gurtne-a-prislusenstvo",
+    "name": "Upínacie pásy - gurtne a príslušenstvo",
+    "img": "",
+    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo",
+    "subcategories": [
+        {
+            "id": 465,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne",
+            "name": "Upínacie pásy - Gurtne",
+            "img": "https://www.svx.sk/media/categories/category_70.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne",
+            "subcategories": [
+                {
+                    "id": 562,
+                    "slug": "gurtne_dvojdielne",
+                    "name": "Dvojdielne - Upínacie pásy / Gurtne",
+                    "img": "https://www.svx.sk/media/categories/816949203705a76388e79d64516635791264b12e/gurtna_-_upinaci_pas_16158289315_aFbtaFt.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=gurtne_dvojdielne",
+                    "subcategories": [
+                        {
+                            "id": 572,
+                            "slug": "gurtne_dvojdielne_1T",
+                            "name": "Gurtne dvojdielne 1T",
+                            "img": "https://www.svx.sk/media/categories/816949203705a76388e79d64516635791264b12e/gurtna_-_upinaci_pas_16158289315_aFbtaFt.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=gurtne_dvojdielne_1T",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 579,
+                            "slug": "gurtne_dvojdielne_2T",
+                            "name": "Gurtne dvojdielne 2T",
+                            "img": "https://www.svx.sk/media/categories/816949203705a76388e79d64516635791264b12e/gurtna_-_upinaci_pas_16158289315_aFbtaFt.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=gurtne_dvojdielne_2T",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 589,
+                            "slug": "gurtne_dvojdielne_3T",
+                            "name": "Gurtne dvojdielne 3T",
+                            "img": "https://www.svx.sk/media/categories/816949203705a76388e79d64516635791264b12e/gurtna_-_upinaci_pas_16158289315_aFbtaFt.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=gurtne_dvojdielne_3T",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 595,
+                            "slug": "gurtne_dvojdielne_5T",
+                            "name": "Gurtne dvojdielne 5T",
+                            "img": "https://www.svx.sk/media/categories/816949203705a76388e79d64516635791264b12e/gurtna_-_upinaci_pas_16158289315_aFbtaFt.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=gurtne_dvojdielne_5T",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 605,
+                            "slug": "gurtne_dvojdielne_10T",
+                            "name": "Gurtne dvojdielne 10T",
+                            "img": "https://www.svx.sk/media/categories/96a81c6119cebe001e41f57524d3dad133cda2b0/pp.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=gurtne_dvojdielne_10T",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 471,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne-jednodielne",
+                    "name": "Jednodielne - Upínacie pásy / Gurtne",
+                    "img": "https://www.svx.sk/media/categories/category_83.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne-jednodielne",
+                    "subcategories": [
+                        {
+                            "id": 617,
+                            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-jednodielne-1-t",
+                            "name": "Gurtne jednodielne 1 T",
+                            "img": "https://www.svx.sk/media/categories/category_84.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-jednodielne-1-t",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 625,
+                            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-jednodielne-2-t",
+                            "name": "Gurtne jednodielne 2 T",
+                            "img": "https://www.svx.sk/media/categories/category_85.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-jednodielne-2-t",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 629,
+                            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-jednodielne-3-t",
+                            "name": "Gurtne jednodielne 3 T",
+                            "img": "https://www.svx.sk/media/categories/category_86.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-jednodielne-3-t",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 635,
+                            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-jednodielne-5-t",
+                            "name": "Gurtne jednodielne 5 T",
+                            "img": "https://www.svx.sk/media/categories/category_87.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-jednodielne-5-t",
+                            "subcategories": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 478,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne-cierne",
+            "name": "Upínacie pásy - Gurtne čierne",
+            "img": "https://www.svx.sk/media/categories/category_75.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne-cierne",
+            "subcategories": [
+                {
+                    "id": 655,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-2-t-cierne",
+                    "name": "Gurtne 2 T čierne",
+                    "img": "https://www.svx.sk/media/categories/category_77.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-2-t-cierne",
+                    "subcategories": []
+                },
+                {
+                    "id": 664,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-5-t-cierne",
+                    "name": "Gurtne 5 T čierne",
+                    "img": "https://www.svx.sk/media/categories/category_79.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-5-t-cierne",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 467,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne-army",
+            "name": "Upínacie pásy - Gurtne ARMY",
+            "img": "https://www.svx.sk/media/categories/category_2119.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne-army",
+            "subcategories": [
+                {
+                    "id": 676,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-1-t",
+                    "name": "Gurtne 1 T",
+                    "img": "https://www.svx.sk/media/categories/category_2120.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-1-t",
+                    "subcategories": []
+                },
+                {
+                    "id": 683,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-2-t",
+                    "name": "Gurtne 2 T",
+                    "img": "https://www.svx.sk/media/categories/category_2121.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-2-t",
+                    "subcategories": []
+                },
+                {
+                    "id": 687,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-3-t",
+                    "name": "Gurtne 3 T",
+                    "img": "https://www.svx.sk/media/categories/category_2122.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-3-t",
+                    "subcategories": []
+                },
+                {
+                    "id": 693,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-gurtne-5-t",
+                    "name": "Gurtne 5 T",
+                    "img": "https://www.svx.sk/media/categories/category_2123.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-gurtne-5-t",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 470,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne-na-odtahovku",
+            "name": "Upínacie pásy - gurtne na odťahovku",
+            "img": "https://www.svx.sk/media/categories/category_1987.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-upinacie-pasy-gurtne-na-odtahovku",
+            "subcategories": []
+        },
+        {
+            "id": 475,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-samonavijacie-upinacie-pasy",
+            "name": "Samonavíjacie upínacie pásy",
+            "img": "https://www.svx.sk/media/categories/category_80.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-samonavijacie-upinacie-pasy",
+            "subcategories": [
+                {
+                    "id": 702,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-samonavijacie-pasy-25-mm",
+                    "name": "Samonavíjacie pásy 25 mm",
+                    "img": "https://www.svx.sk/media/categories/category_81.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-samonavijacie-pasy-25-mm",
+                    "subcategories": []
+                },
+                {
+                    "id": 705,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-samonavijacie-pasy-50-mm",
+                    "name": "Samonavíjacie pásy 50 mm",
+                    "img": "https://www.svx.sk/media/categories/category_82.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-samonavijacie-pasy-50-mm",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 469,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov",
+            "name": "Komponenty upínacích pásov",
+            "img": "https://www.svx.sk/media/categories/category_2125.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-komponenty-upinacich-pasov",
+            "subcategories": [
+                {
+                    "id": 709,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-popruhy-s-racnou-a-j-hakom",
+                    "name": "Popruhy s račňou a J hákom",
+                    "img": "https://www.svx.sk/media/categories/category_92.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-popruhy-s-racnou-a-j-hakom",
+                    "subcategories": []
+                },
+                {
+                    "id": 474,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-pasy-s-j-hakom",
+                    "name": "Pásy s J hákom",
+                    "img": "https://www.svx.sk/media/categories/category_2082.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-pasy-s-j-hakom",
+                    "subcategories": []
+                },
+                {
+                    "id": 720,
+                    "slug": "upinacie-pasy-gurtne-a-prislusenstvo-j-haky-na-upinacie-pasy-gurtne",
+                    "name": "J háky na upínacie pásy - gurtne",
+                    "img": "https://www.svx.sk/media/categories/category_94.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-j-haky-na-upinacie-pasy-gurtne",
+                    "subcategories": []
+                },
+                {
+                    "id": 725,
+                    "slug": "pasy_na_vyrobu_gurtni",
+                    "name": "Pásy na výrobu gurtní",
+                    "img": "https://www.svx.sk/media/categories/1592cf6624df3d37ff1dc136c1148d8b6374f629/3.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pasy_na_vyrobu_gurtni",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 464,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-rychloupinacie-pasy-cierne",
+            "name": "Rýchloupínacie pásy čierne",
+            "img": "https://www.svx.sk/media/categories/category_88.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-rychloupinacie-pasy-cierne",
+            "subcategories": []
+        },
+        {
+            "id": 466,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-rychloupinacie-pasy-army",
+            "name": "Rýchloupínacie pásy ARMY",
+            "img": "https://www.svx.sk/media/categories/category_2124.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-rychloupinacie-pasy-army",
+            "subcategories": []
+        },
+        {
+            "id": 476,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-rychloupinacie-pasy-zlte",
+            "name": "Rýchloupínacie pásy žlté",
+            "img": "https://www.svx.sk/media/categories/category_89.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-rychloupinacie-pasy-zlte",
+            "subcategories": []
+        },
+        {
+            "id": 473,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-transportne-siete",
+            "name": "Transportné siete",
+            "img": "https://www.svx.sk/media/categories/category_91.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-transportne-siete",
+            "subcategories": []
+        },
+        {
+            "id": 477,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-ukotvenia",
+            "name": "Ukotvenia pre prívesné vozíky",
+            "img": "https://www.svx.sk/media/categories/category_1911.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-ukotvenia",
+            "subcategories": []
+        },
+        {
+            "id": 468,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-ochrany-upinacich-pasov",
+            "name": "Ochrany upínacích pásov",
+            "img": "https://www.svx.sk/media/categories/category_1988.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-ochrany-upinacich-pasov",
+            "subcategories": []
+        },
+        {
+            "id": 463,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-zakladacie-kliny-pod-kolesa",
+            "name": "Zakladacie kliny pod kolesá",
+            "img": "https://www.svx.sk/media/categories/category_1989.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-zakladacie-kliny-pod-kolesa",
+            "subcategories": []
+        },
+        {
+            "id": 472,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-big-bagy",
+            "name": "Big bagy",
+            "img": "https://www.svx.sk/media/categories/a7da143eb37eca71af738a75b09b452111a9bbf6/big_bag_16698036582_8vsZdBB.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-big-bagy",
+            "subcategories": []
+        },
+        {
+            "id": 768,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-kanistre",
+            "name": "Kanistre",
+            "img": "https://www.svx.sk/media/categories/category_2076.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-kanistre",
+            "subcategories": []
+        },
+        {
+            "id": 773,
+            "slug": "upinacie-pasy-gurtne-a-prislusenstvo-ochranne-nalepky",
+            "name": "Ochranné nálepky",
+            "img": "https://www.svx.sk/media/categories/category_2127.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=upinacie-pasy-gurtne-a-prislusenstvo-ochranne-nalepky",
+            "subcategories": []
+        }
+    ]
+}

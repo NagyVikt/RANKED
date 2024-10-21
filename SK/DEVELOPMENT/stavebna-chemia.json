@@ -1,0 +1,320 @@
+{
+    "id": 96,
+    "slug": "stavebna-chemia",
+    "name": "Stavebná chémia",
+    "img": "",
+    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia",
+    "subcategories": [
+        {
+            "id": 495,
+            "slug": "stavebna-chemia-mastersil",
+            "name": "MASTERsil",
+            "img": "https://www.svx.sk/media/categories/category_2164.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-mastersil",
+            "subcategories": [
+                {
+                    "id": 483,
+                    "slug": "stavebna-chemia-priemyselne-cistice",
+                    "name": "Priemyselné čističe",
+                    "img": "https://www.svx.sk/media/categories/category_1637.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-priemyselne-cistice",
+                    "subcategories": []
+                },
+                {
+                    "id": 498,
+                    "slug": "stavebna-chemia-specialne-silikony-a-tmely",
+                    "name": "Špeciálne silikóny a tmely",
+                    "img": "https://www.svx.sk/media/categories/category_1290.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-specialne-silikony-a-tmely",
+                    "subcategories": []
+                },
+                {
+                    "id": 497,
+                    "slug": "stavebna-chemia-silikonove-lepidla",
+                    "name": "Silikónové lepidlá",
+                    "img": "https://www.svx.sk/media/categories/category_1291.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-silikonove-lepidla",
+                    "subcategories": []
+                },
+                {
+                    "id": 496,
+                    "slug": "stavebna-chemia-technicke-spreje-a-maziva",
+                    "name": "Technické spreje a mazivá",
+                    "img": "https://www.svx.sk/media/categories/category_1306.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-technicke-spreje-a-maziva",
+                    "subcategories": []
+                },
+                {
+                    "id": 494,
+                    "slug": "stavebna-chemia-lepidla",
+                    "name": "Lepidlá",
+                    "img": "https://www.svx.sk/media/categories/category_2165.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-lepidla",
+                    "subcategories": []
+                },
+                {
+                    "id": 504,
+                    "slug": "stavebna-chemia-montazne-peny-1",
+                    "name": "Montážne peny",
+                    "img": "https://www.svx.sk/media/categories/category_2166.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-montazne-peny-1",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 499,
+            "slug": "stavebna-chemia-montazne-peny",
+            "name": "Montážne peny",
+            "img": "https://www.svx.sk/media/categories/category_1051.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-montazne-peny",
+            "subcategories": [
+                {
+                    "id": 588,
+                    "slug": "stavebna-chemia-expanzne-pur-peny",
+                    "name": "Expanzné PUR peny",
+                    "img": "https://www.svx.sk/media/categories/category_1243.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-expanzne-pur-peny",
+                    "subcategories": [
+                        {
+                            "id": 594,
+                            "slug": "stavebna-chemia-pistolove",
+                            "name": "Pištoľové expanzné PUR peny",
+                            "img": "https://www.svx.sk/media/categories/category_1253.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-pistolove",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 599,
+                            "slug": "stavebna-chemia-hadickove",
+                            "name": "Hadičkové expanzné PUR peny",
+                            "img": "https://www.svx.sk/media/categories/category_1254.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-hadickove",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 507,
+                    "slug": "stavebna-chemia-nizkoexpanzne-pur-peny",
+                    "name": "Nízkoexpanzné PUR peny",
+                    "img": "https://www.svx.sk/media/categories/category_1244.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-nizkoexpanzne-pur-peny",
+                    "subcategories": [
+                        {
+                            "id": 614,
+                            "slug": "stavebna-chemia-pistolove-1",
+                            "name": "Nízkoexpanzné pištolové PUR peny",
+                            "img": "https://www.svx.sk/media/categories/category_1255.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-pistolove-1",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 620,
+                            "slug": "stavebna-chemia-hadickove-1",
+                            "name": "Nízkoexpanzné hadičkové PUR peny",
+                            "img": "https://www.svx.sk/media/categories/category_1256.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-hadickove-1",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 628,
+                    "slug": "stavebna-chemia-cistice-na-pur-peny",
+                    "name": "Čističe na PUR peny",
+                    "img": "https://www.svx.sk/media/categories/category_1245.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-cistice-na-pur-peny",
+                    "subcategories": []
+                },
+                {
+                    "id": 505,
+                    "slug": "stavebna-chemia-polyuretanove-lepidla",
+                    "name": "Polyuretánové lepidlá",
+                    "img": "https://www.svx.sk/media/categories/category_1246.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-polyuretanove-lepidla",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 481,
+            "slug": "stavebna-chemia-silikony-tmely-spreje-a-lepidla",
+            "name": "Silikóny, tmely, spreje a lepidlá",
+            "img": "https://www.svx.sk/media/categories/category_1247.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-silikony-tmely-spreje-a-lepidla",
+            "subcategories": [
+                {
+                    "id": 502,
+                    "slug": "stavebna-chemia-tmely",
+                    "name": "Tmely",
+                    "img": "https://www.svx.sk/media/categories/category_1248.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-tmely",
+                    "subcategories": []
+                },
+                {
+                    "id": 493,
+                    "slug": "stavebna-chemia-stavebne-silikony",
+                    "name": "Stavebné silikóny",
+                    "img": "https://www.svx.sk/media/categories/category_1249.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-stavebne-silikony",
+                    "subcategories": []
+                },
+                {
+                    "id": 492,
+                    "slug": "stavebna-chemia-univerzalne-silikony",
+                    "name": "Univerzálne silikóny",
+                    "img": "https://www.svx.sk/media/categories/category_1250.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-univerzalne-silikony",
+                    "subcategories": []
+                },
+                {
+                    "id": 491,
+                    "slug": "stavebna-chemia-sanitarne-silikony",
+                    "name": "Sanitárne silikóny",
+                    "img": "https://www.svx.sk/media/categories/category_1251.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-sanitarne-silikony",
+                    "subcategories": []
+                },
+                {
+                    "id": 670,
+                    "slug": "stavebna-chemia-lepidla-1",
+                    "name": "Lepidlá",
+                    "img": "https://www.svx.sk/media/categories/category_1405.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-lepidla-1",
+                    "subcategories": []
+                },
+                {
+                    "id": 490,
+                    "slug": "stavebna-chemia-lepidla-na-zavity",
+                    "name": "Lepidlá na závity",
+                    "img": "https://www.svx.sk/media/categories/category_1952.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-lepidla-na-zavity",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 675,
+            "slug": "stavebna-chemia-chemicke-kotvy-a-prislusenstvo",
+            "name": "Chemické kotvy a príslušenstvo",
+            "img": "https://www.svx.sk/media/categories/category_1252.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-chemicke-kotvy-a-prislusenstvo",
+            "subcategories": [
+                {
+                    "id": 489,
+                    "slug": "stavebna-chemia-hadicky",
+                    "name": "Hadičky",
+                    "img": "https://www.svx.sk/media/categories/category_1257.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-hadicky",
+                    "subcategories": []
+                },
+                {
+                    "id": 488,
+                    "slug": "stavebna-chemia-sitka",
+                    "name": "Sitká",
+                    "img": "https://www.svx.sk/media/categories/category_1258.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-sitka",
+                    "subcategories": []
+                },
+                {
+                    "id": 500,
+                    "slug": "stavebna-chemia-zmiesace-a-kefky",
+                    "name": "Zmiešače a kefky",
+                    "img": "https://www.svx.sk/media/categories/category_1260.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-zmiesace-a-kefky",
+                    "subcategories": []
+                },
+                {
+                    "id": 487,
+                    "slug": "stavebna-chemia-chemicke-kotvy",
+                    "name": "Chemické kotvy",
+                    "img": "https://www.svx.sk/media/categories/category_1303.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-chemicke-kotvy",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 486,
+            "slug": "stavebna-chemia-oleje-a-maziva",
+            "name": "Oleje a mazivá",
+            "img": "https://www.svx.sk/media/categories/category_1924.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-oleje-a-maziva",
+            "subcategories": []
+        },
+        {
+            "id": 479,
+            "slug": "stavebna-chemia-lepiace-pasky-a-folie",
+            "name": "Lepiace pásky a fólie",
+            "img": "https://www.svx.sk/media/categories/category_1307.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-lepiace-pasky-a-folie",
+            "subcategories": [
+                {
+                    "id": 480,
+                    "slug": "stavebna-chemia-lepiace-pasky-maliarske",
+                    "name": "Lepiace pásky maliarske",
+                    "img": "https://www.svx.sk/media/categories/category_1309.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-lepiace-pasky-maliarske",
+                    "subcategories": []
+                },
+                {
+                    "id": 701,
+                    "slug": "stavebna-chemia-baliace-lepiace-pasky",
+                    "name": "Baliace lepiace pásky",
+                    "img": "https://www.svx.sk/media/categories/category_1310.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-baliace-lepiace-pasky",
+                    "subcategories": []
+                },
+                {
+                    "id": 485,
+                    "slug": "stavebna-chemia-specialne-lepiace-pasky",
+                    "name": "Špeciálne lepiace pásky",
+                    "img": "https://www.svx.sk/media/categories/category_1311.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-specialne-lepiace-pasky",
+                    "subcategories": []
+                },
+                {
+                    "id": 506,
+                    "slug": "stavebna-chemia-obojstranne-lepiace-pasky",
+                    "name": "Obojstranné lepiace pásky",
+                    "img": "https://www.svx.sk/media/categories/category_1312.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-obojstranne-lepiace-pasky",
+                    "subcategories": []
+                },
+                {
+                    "id": 501,
+                    "slug": "stavebna-chemia-krycie-folie",
+                    "name": "Krycie fólie",
+                    "img": "https://www.svx.sk/media/categories/category_1313.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-krycie-folie",
+                    "subcategories": []
+                },
+                {
+                    "id": 503,
+                    "slug": "stavebna-chemia-vrecia-na-odpad",
+                    "name": "Vrecia na odpad",
+                    "img": "https://www.svx.sk/media/categories/category_1314.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-vrecia-na-odpad",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 484,
+            "slug": "stavebna-chemia-3m-lepiace-pasky",
+            "name": "3M lepiace pásky",
+            "img": "https://www.svx.sk/media/categories/category_1996.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-3m-lepiace-pasky",
+            "subcategories": []
+        },
+        {
+            "id": 482,
+            "slug": "stavebna-chemia-wolf",
+            "name": "WOLF",
+            "img": "https://www.svx.sk/media/categories/category_2169.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=stavebna-chemia-wolf",
+            "subcategories": []
+        }
+    ]
+}

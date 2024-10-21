@@ -1,0 +1,173 @@
+{
+    "id": 100,
+    "slug": "pletiva",
+    "name": "Pletivá",
+    "img": "",
+    "link": "https://kdtech.sk/shop/?filter_cat=pletiva",
+    "subcategories": [
+        {
+            "id": 449,
+            "slug": "pletiva-tieniace-siete-a-plachty",
+            "name": "Tieniace siete a plachty",
+            "img": "https://www.svx.sk/media/categories/category_1690.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-tieniace-siete-a-plachty",
+            "subcategories": [
+                {
+                    "id": 551,
+                    "slug": "pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete",
+                    "name": "Čierne tieniace siete",
+                    "img": "https://www.svx.sk/media/categories/89e084c9887485229e3939a5c83ede9ec861326f/cierna.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pletiva-tieniace-siete-a-plachty-cierne-tieniace-siete",
+                    "subcategories": []
+                },
+                {
+                    "id": 438,
+                    "slug": "pletiva-zelene-siete",
+                    "name": "Zelené tieniace siete",
+                    "img": "https://www.svx.sk/media/categories/category_1691.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pletiva-zelene-siete",
+                    "subcategories": [
+                        {
+                            "id": 564,
+                            "slug": "pletiva-tienivost-90",
+                            "name": "Tienivosť 90%",
+                            "img": "https://www.svx.sk/media/categories/category_2002.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-tienivost-90",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 567,
+                            "slug": "pletiva-tienivost-95",
+                            "name": "Tienivosť 95%",
+                            "img": "https://www.svx.sk/media/categories/category_2003.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-tienivost-95",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 581,
+                    "slug": "pletiva-antracitove-siete",
+                    "name": "Antracitové tieniace siete",
+                    "img": "https://www.svx.sk/media/categories/53b5f1c8ad935581829a1c998155eeb43f2cb08b/antra.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pletiva-antracitove-siete",
+                    "subcategories": []
+                },
+                {
+                    "id": 583,
+                    "slug": "pletiva-hnede-siete",
+                    "name": "Hnedé tieniace siete",
+                    "img": "https://www.svx.sk/media/categories/category_1693.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pletiva-hnede-siete",
+                    "subcategories": []
+                },
+                {
+                    "id": 590,
+                    "slug": "pletiva-siete-proti-vtakom",
+                    "name": "Siete proti vtákom",
+                    "img": "https://www.svx.sk/media/categories/category_2147.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pletiva-siete-proti-vtakom",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 444,
+            "slug": "pletiva-4-hranne",
+            "name": "4-hranné pletivá",
+            "img": "https://www.svx.sk/media/categories/category_2065.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-4-hranne",
+            "subcategories": []
+        },
+        {
+            "id": 441,
+            "slug": "pletiva-6-hranne",
+            "name": "6-hranné pletivá",
+            "img": "https://www.svx.sk/media/categories/category_2066.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-6-hranne",
+            "subcategories": []
+        },
+        {
+            "id": 437,
+            "slug": "pletiva-zvarane",
+            "name": "Zvárané pletivá",
+            "img": "https://www.svx.sk/media/categories/category_2067.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-zvarane",
+            "subcategories": []
+        },
+        {
+            "id": 448,
+            "slug": "pletiva-okrasne",
+            "name": "Okrasné pletivá",
+            "img": "https://www.svx.sk/media/categories/category_2068.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-okrasne",
+            "subcategories": []
+        },
+        {
+            "id": 435,
+            "slug": "pletiva-plotove-panely",
+            "name": "Plotové panely",
+            "img": "https://www.svx.sk/media/categories/category_2077.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-plotove-panely",
+            "subcategories": []
+        },
+        {
+            "id": 451,
+            "slug": "pletiva-stlpiky",
+            "name": "Stĺpiky",
+            "img": "https://www.svx.sk/media/categories/category_2078.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-stlpiky",
+            "subcategories": []
+        },
+        {
+            "id": 430,
+            "slug": "pletiva-prislusenstvo",
+            "name": "Príslušenstvo",
+            "img": "https://www.svx.sk/media/categories/category_2079.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-prislusenstvo",
+            "subcategories": [
+                {
+                    "id": 641,
+                    "slug": "pletiva-k-4-hrannym-pletivam",
+                    "name": "K 4-hranným pletivám",
+                    "img": "https://www.svx.sk/media/categories/category_2080.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pletiva-k-4-hrannym-pletivam",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 645,
+            "slug": "pletiva-brany",
+            "name": "Brány",
+            "img": "https://www.svx.sk/media/categories/category_2133.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=pletiva-brany",
+            "subcategories": [
+                {
+                    "id": 446,
+                    "slug": "pletiva-standard",
+                    "name": "Standard",
+                    "img": "https://www.svx.sk/media/categories/category_2134.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pletiva-standard",
+                    "subcategories": []
+                },
+                {
+                    "id": 427,
+                    "slug": "pletiva-optim",
+                    "name": "Optim",
+                    "img": "https://www.svx.sk/media/categories/category_2135.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pletiva-optim",
+                    "subcategories": []
+                },
+                {
+                    "id": 426,
+                    "slug": "pletiva-eco",
+                    "name": "Eco",
+                    "img": "https://www.svx.sk/media/categories/category_2136.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=pletiva-eco",
+                    "subcategories": []
+                }
+            ]
+        }
+    ]
+}

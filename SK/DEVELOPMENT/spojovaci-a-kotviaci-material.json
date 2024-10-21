@@ -1,0 +1,838 @@
+{
+    "id": 95,
+    "slug": "spojovaci-a-kotviaci-material",
+    "name": "Spojovací a kotviaci materiál",
+    "img": "",
+    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material",
+    "subcategories": [
+        {
+            "id": 283,
+            "slug": "spojovaci-a-kotviaci-material-spojovaci-material",
+            "name": "Spojovací materiál",
+            "img": "https://www.svx.sk/media/categories/category_1266.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-spojovaci-material",
+            "subcategories": [
+                {
+                    "id": 553,
+                    "slug": "spojovaci-a-kotviaci-material-skrutky-s-metrickym-zavitom",
+                    "name": "Skrutky s metrickým závitom",
+                    "img": "https://www.svx.sk/media/categories/category_1267.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-s-metrickym-zavitom",
+                    "subcategories": [
+                        {
+                            "id": 556,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-933",
+                            "name": "DIN 933 skrutky s celým závitom",
+                            "img": "https://www.svx.sk/media/categories/category_1662.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-933",
+                            "subcategories": [
+                                {
+                                    "id": 561,
+                                    "slug": "spojovaci-a-kotviaci-material-pozinkovane-8-8-1",
+                                    "name": "DIN 933 pozinkované 8.8",
+                                    "img": "https://www.svx.sk/media/categories/category_1859.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-8-8-1",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 565,
+                                    "slug": "spojovaci-a-kotviaci-material-pozinkovane-10-9-1",
+                                    "name": "DIN 933 pozinkované 10.9",
+                                    "img": "https://www.svx.sk/media/categories/category_1860.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-10-9-1",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 569,
+                                    "slug": "spojovaci-a-kotviaci-material-nerezove-a2",
+                                    "name": "DIN 933 nerezové A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1861.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-nerezove-a2",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 575,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-931",
+                            "name": "DIN 931 skrutky s čiastočným závitom",
+                            "img": "https://www.svx.sk/media/categories/category_1663.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-931",
+                            "subcategories": [
+                                {
+                                    "id": 584,
+                                    "slug": "spojovaci-a-kotviaci-material-pozinkovane-8-8-2",
+                                    "name": "DIN 931 pozinkované 8.8",
+                                    "img": "https://www.svx.sk/media/categories/category_1862.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-8-8-2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 592,
+                                    "slug": "spojovaci-a-kotviaci-material-pozinkovane-10-9-2",
+                                    "name": "DIN 931 pozinkované 10.9",
+                                    "img": "https://www.svx.sk/media/categories/category_1863.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-10-9-2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 596,
+                                    "slug": "spojovaci-a-kotviaci-material-nerezove-a2-1",
+                                    "name": "DIN 931 nerezové A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1864.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-nerezove-a2-1",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 600,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-912",
+                            "name": "DIN 912 skrutky s valcovou hlavou s vnútorným šesťhranom",
+                            "img": "https://www.svx.sk/media/categories/category_1664.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-912",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 607,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-603",
+                            "name": "DIN 603 skrutky vratové",
+                            "img": "https://www.svx.sk/media/categories/category_1665.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-603",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 612,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-965",
+                            "name": "DIN 965 skrutky s krížovou drážkou a zápustnou hlavou",
+                            "img": "https://www.svx.sk/media/categories/category_1666.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-965",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 618,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-967",
+                            "name": "DIN 967 skrutky s krížovou drážkou a polguľatou hlavou",
+                            "img": "https://www.svx.sk/media/categories/category_1667.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-967",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 627,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-iso-7380",
+                            "name": "ISO 7380 skrutky s polguľatou hlavou a vnútorným šesťhranom",
+                            "img": "https://www.svx.sk/media/categories/category_1668.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-iso-7380",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 631,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7985",
+                            "name": "DIN 7985 skrutky s polguľatou hlavou",
+                            "img": "https://www.svx.sk/media/categories/category_1679.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7985",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 634,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7991",
+                            "name": "DIN 7991 skrutky so zápustnou hlavou na imbus",
+                            "img": "https://www.svx.sk/media/categories/category_1701.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7991",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 452,
+                    "slug": "spojovaci-a-kotviaci-material-skrutky-do-dreva",
+                    "name": "Skrutky do dreva",
+                    "img": "https://www.svx.sk/media/categories/category_1268.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-do-dreva",
+                    "subcategories": [
+                        {
+                            "id": 644,
+                            "slug": "spojovaci-a-kotviaci-material-tesarske-s-tanierovou-hlavou",
+                            "name": "Tesárske s tanierovou hlavou - TORX pozinkované",
+                            "img": "https://www.svx.sk/media/categories/category_1652.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-tesarske-s-tanierovou-hlavou",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 649,
+                            "slug": "spojovaci-a-kotviaci-material-tesarske-so-zapustenou-hlavou",
+                            "name": "Tesárske so zapustenou hlavou - TORX pozinkované",
+                            "img": "https://www.svx.sk/media/categories/category_1653.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-tesarske-so-zapustenou-hlavou",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 654,
+                            "slug": "spojovaci-a-kotviaci-material-univerzalne-skrutky-cely-zavit-pz",
+                            "name": "Univerzálne s celým závitom - PZ pozinkované",
+                            "img": "https://www.svx.sk/media/categories/category_1654.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-univerzalne-skrutky-cely-zavit-pz",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 660,
+                            "slug": "spojovaci-a-kotviaci-material-univerzalne-skrutky-ciastocny-zavit-pz",
+                            "name": "Univerzálne s čiastočným závitom - PZ pozinkované",
+                            "img": "https://www.svx.sk/media/categories/category_1655.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-univerzalne-skrutky-ciastocny-zavit-pz",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 666,
+                            "slug": "spojovaci-a-kotviaci-material-terasove-skrutky-so-zapustenou-hlavou-a2",
+                            "name": "Terasové so zapustenou hlavou TORX nerezové",
+                            "img": "https://www.svx.sk/media/categories/category_1676.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-terasove-skrutky-so-zapustenou-hlavou-a2",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 671,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-do-dreva-so-sesthrannou-hlavou",
+                            "name": "Skrutky so šesťhrannou hlavou a čiastočným závitom",
+                            "img": "https://www.svx.sk/media/categories/category_1678.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-do-dreva-so-sesthrannou-hlavou",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 678,
+                            "slug": "spojovaci-a-kotviaci-material-konfirmaty-bn-1919",
+                            "name": "Konfirmáty BN 1919",
+                            "img": "https://www.svx.sk/media/categories/category_1818.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-konfirmaty-bn-1919",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 682,
+                            "slug": "spojovaci-a-kotviaci-material-univerzalne-skrutky-pz-nerezove-a2",
+                            "name": "Univerzálne skrutky PZ nerezové A2",
+                            "img": "https://www.svx.sk/media/categories/category_1819.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-univerzalne-skrutky-pz-nerezove-a2",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 249,
+                    "slug": "spojovaci-a-kotviaci-material-skrutky-do-plechu",
+                    "name": "Skrutky do plechu",
+                    "img": "https://www.svx.sk/media/categories/category_1269.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-do-plechu",
+                    "subcategories": [
+                        {
+                            "id": 692,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7504n",
+                            "name": "DIN 7504N skrutka samorezná s polguľatou hlavou",
+                            "img": "https://www.svx.sk/media/categories/category_1669.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7504n",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 696,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7504p",
+                            "name": "DIN 7504P skrutka samorezná so zapustenou hlavou",
+                            "img": "https://www.svx.sk/media/categories/category_1672.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7504p",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 703,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7504k",
+                            "name": "DIN 7504K skrutka samorezná so šesťhrannou hlavou",
+                            "img": "https://www.svx.sk/media/categories/category_1673.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7504k",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 707,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7981c",
+                            "name": "Skrutky DIN 7981C",
+                            "img": "https://www.svx.sk/media/categories/category_1865.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7981c",
+                            "subcategories": [
+                                {
+                                    "id": 710,
+                                    "slug": "spojovaci-a-kotviaci-material-pozinkovane-2",
+                                    "name": "Pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1866.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 715,
+                                    "slug": "spojovaci-a-kotviaci-material-nerezove-a2-2",
+                                    "name": "Nerezové A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1867.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-nerezove-a2-2",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 717,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7982c",
+                            "name": "Skrutky DIN 7982C",
+                            "img": "https://www.svx.sk/media/categories/category_1868.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7982c",
+                            "subcategories": [
+                                {
+                                    "id": 722,
+                                    "slug": "spojovaci-a-kotviaci-material-pozinkovane-3",
+                                    "name": "Pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1869.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-3",
+                                    "subcategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 194,
+                    "slug": "spojovaci-a-kotviaci-material-matice",
+                    "name": "Matice",
+                    "img": "https://www.svx.sk/media/categories/category_1270.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice",
+                    "subcategories": [
+                        {
+                            "id": 730,
+                            "slug": "spojovaci-a-kotviaci-material-pozinkovane",
+                            "name": "Pozinkované matice",
+                            "img": "https://www.svx.sk/media/categories/category_1835.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane",
+                            "subcategories": [
+                                {
+                                    "id": 731,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-985",
+                                    "name": "Matice poistné DIN 985 8. pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1657.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-985",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 736,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-934",
+                                    "name": "Matice DIN 934 8. pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1658.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-934",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 739,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-1587",
+                                    "name": "Matice klobúkové DIN 1587 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1837.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-1587",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 744,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-315",
+                                    "name": "Matice krídlové DIN 315 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1838.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-315",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 748,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-439",
+                                    "name": "Matice nízke DIN 439 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1839.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-439",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 752,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-6334",
+                                    "name": "Matice predĺžené DIN 6334 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1840.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-6334",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 757,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-6923",
+                                    "name": "Matice s ozubeným límcom DIN 6923 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1841.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-6923",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 759,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-934-10",
+                                    "name": "Matice DIN 934 10. pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1842.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-934-10",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 767,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-900a-narazacie",
+                                    "name": "Matice narážacie DIN 900A pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1843.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-900a-narazacie",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 772,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-934-jemne-stupanie",
+                                    "name": "Matice jemné stúpanie DIN 934 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1851.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-934-jemne-stupanie",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 777,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-985-jemne-stupanie",
+                                    "name": "Matice poistné jemné stúpanie DIN 985 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1852.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-985-jemne-stupanie",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 781,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-934-lavy-zavit",
+                                    "name": "Matice ľavý závit DIN 934 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1853.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-934-lavy-zavit",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 785,
+                            "slug": "spojovaci-a-kotviaci-material-nerezove",
+                            "name": "Nerezové matice",
+                            "img": "https://www.svx.sk/media/categories/category_1836.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-nerezove",
+                            "subcategories": [
+                                {
+                                    "id": 788,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-1587-a2",
+                                    "name": "Matice klobúkové nerezové DIN 1587 A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1844.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-1587-a2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 792,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-6334-a2",
+                                    "name": "Matice predĺžené nerezové DIN 6334 A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1845.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-6334-a2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 795,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-934-a2",
+                                    "name": "Matice nerezové DIN 934 A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1846.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-934-a2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 799,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-934-a4",
+                                    "name": "Matice nerezové A4 DIN 934",
+                                    "img": "https://www.svx.sk/media/categories/category_1847.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-934-a4",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 801,
+                                    "slug": "spojovaci-a-kotviaci-material-matice-din-985-a2",
+                                    "name": "Matice poistné nerezové DIN 985 A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1848.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-matice-din-985-a2",
+                                    "subcategories": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 309,
+                    "slug": "spojovaci-a-kotviaci-material-podlozky",
+                    "name": "Podložky",
+                    "img": "https://www.svx.sk/media/categories/category_1271.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky",
+                    "subcategories": [
+                        {
+                            "id": 805,
+                            "slug": "spojovaci-a-kotviaci-material-pozinkovane-1",
+                            "name": "Pozinkované podložky",
+                            "img": "https://www.svx.sk/media/categories/category_1816.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-1",
+                            "subcategories": [
+                                {
+                                    "id": 809,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-125",
+                                    "name": "Podložky ploché DIN 125 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1659.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-125",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 811,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-9021",
+                                    "name": "Podložky pod nity DIN 9021 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1660.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-9021",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 816,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-440",
+                                    "name": "Podložky konštrukčné DIN 440 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1661.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-440",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 819,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-127b",
+                                    "name": "Podložky pružné DIN 127B pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1825.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-127b",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 821,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-7980",
+                                    "name": "Podložky pružné úzke DIN 7980 pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1826.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-7980",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 826,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-6798a",
+                                    "name": "Podložky vejárové DIN 6798A pozinkované",
+                                    "img": "https://www.svx.sk/media/categories/category_1827.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-6798a",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 831,
+                            "slug": "spojovaci-a-kotviaci-material-nerezove-1",
+                            "name": "Nerezové podložky",
+                            "img": "https://www.svx.sk/media/categories/category_1817.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-nerezove-1",
+                            "subcategories": [
+                                {
+                                    "id": 835,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-125-a2",
+                                    "name": "Podložky ploché nerezové DIN 125 A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1829.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-125-a2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 836,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-9021-a2",
+                                    "name": "Podložky pod nity nerezové DIN 9021 A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1830.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-9021-a2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 838,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-440-a2",
+                                    "name": "Podložky konštrukčné nerezové DIN 440 A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1831.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-440-a2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 842,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-127b-a2",
+                                    "name": "Podložky pružné nerezové DIN 127B A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1832.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-127b-a2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 846,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-7980-a2",
+                                    "name": "Podložky pružné úzke nerezové DIN 7980 A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1833.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-7980-a2",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 848,
+                                    "slug": "spojovaci-a-kotviaci-material-podlozky-din-6798-a2",
+                                    "name": "Podložky vejárové nerezové DIN 6798A A2",
+                                    "img": "https://www.svx.sk/media/categories/category_1834.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-podlozky-din-6798-a2",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 852,
+                            "slug": "spojovaci-a-kotviaci-material-s-tesniacou-gumou",
+                            "name": "Podložky s tesniacou gumou EPDM",
+                            "img": "https://www.svx.sk/media/categories/category_1828.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-s-tesniacou-gumou",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 193,
+                    "slug": "spojovaci-a-kotviaci-material-specialny-spojovaci-material",
+                    "name": "Špeciálny spojovací materiál",
+                    "img": "https://www.svx.sk/media/categories/category_1671.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-specialny-spojovaci-material",
+                    "subcategories": [
+                        {
+                            "id": 858,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-kombinovane",
+                            "name": "Skrutky kombinované TORX",
+                            "img": "https://www.svx.sk/media/categories/category_1674.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-kombinovane",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 861,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-okenne",
+                            "name": "Skrutky okenné so zapustenou hlavou a drážkou",
+                            "img": "https://www.svx.sk/media/categories/category_1675.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-okenne",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 306,
+                    "slug": "spojovaci-a-kotviaci-material-zavitove-tyce-din-975",
+                    "name": "Závitové tyče DIN 975",
+                    "img": "https://www.svx.sk/media/categories/category_1815.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-zavitove-tyce-din-975",
+                    "subcategories": [
+                        {
+                            "id": 864,
+                            "slug": "spojovaci-a-kotviaci-material-pozinkovane-4-8",
+                            "name": "Závitové tyče 4.8 pozinkované",
+                            "img": "https://www.svx.sk/media/categories/category_1872.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-4-8",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 866,
+                            "slug": "spojovaci-a-kotviaci-material-pozinkovane-8-8",
+                            "name": "Závitové tyče pozinkované 8.8",
+                            "img": "https://www.svx.sk/media/categories/category_1873.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-8-8",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 867,
+                            "slug": "spojovaci-a-kotviaci-material-pozinkovane-10-9",
+                            "name": "Závitové tyče pozinkované 10.9",
+                            "img": "https://www.svx.sk/media/categories/category_1874.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-10-9",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 871,
+                            "slug": "spojovaci-a-kotviaci-material-nerezove-a4",
+                            "name": "Závitové tyče nerezové A4",
+                            "img": "https://www.svx.sk/media/categories/category_1875.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-nerezove-a4",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 875,
+                            "slug": "spojovaci-a-kotviaci-material-pozinkovane-4-8-2m",
+                            "name": "Závitové tyče pozinkované 4.8 - 2M",
+                            "img": "https://www.svx.sk/media/categories/category_1876.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-pozinkovane-4-8-2m",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 288,
+                    "slug": "spojovaci-a-kotviaci-material-skrutky-do-sadrokartonu",
+                    "name": "Skrutky do sadrokartónu",
+                    "img": "https://www.svx.sk/media/categories/category_1820.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-do-sadrokartonu",
+                    "subcategories": [
+                        {
+                            "id": 879,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7505d",
+                            "name": "Skrutky DIN 7505D sadrokartón-plech",
+                            "img": "https://www.svx.sk/media/categories/category_1821.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7505d",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 881,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7505f",
+                            "name": "Skrutky DIN 7505F sadrokartón-drevo",
+                            "img": "https://www.svx.sk/media/categories/category_1822.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7505f",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 885,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7505i",
+                            "name": "Skrutky DIN 7505I sadrokartón-kov",
+                            "img": "https://www.svx.sk/media/categories/category_1823.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7505i",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 890,
+                            "slug": "spojovaci-a-kotviaci-material-skrutky-din-7505j",
+                            "name": "Skrutky DIN 7505J sadrokartón-drevo",
+                            "img": "https://www.svx.sk/media/categories/category_1824.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-skrutky-din-7505j",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 892,
+                    "slug": "spojovaci-a-kotviaci-material-trhacie-nity",
+                    "name": "Trhacie nity",
+                    "img": "https://www.svx.sk/media/categories/category_1877.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-trhacie-nity",
+                    "subcategories": [
+                        {
+                            "id": 897,
+                            "slug": "spojovaci-a-kotviaci-material-nity-din-7337a-al-st",
+                            "name": "Nity trhacie AL/ST DIN 7337A",
+                            "img": "https://www.svx.sk/media/categories/category_1878.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-nity-din-7337a-al-st",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 901,
+                            "slug": "spojovaci-a-kotviaci-material-nity-din-7337a-a2",
+                            "name": "Nity trhacie A2 DIN 7337A",
+                            "img": "https://www.svx.sk/media/categories/category_1879.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-nity-din-7337a-a2",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 904,
+                            "slug": "spojovaci-a-kotviaci-material-nity-din-7337a-st-st",
+                            "name": "Nity trhacie ST/ST DIN 7337A",
+                            "img": "https://www.svx.sk/media/categories/category_1880.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-nity-din-7337a-st-st",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 184,
+                    "slug": "spojovaci-a-kotviaci-material-klince",
+                    "name": "Klince",
+                    "img": "https://www.svx.sk/media/categories/category_2057.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-klince",
+                    "subcategories": [
+                        {
+                            "id": 908,
+                            "slug": "spojovaci-a-kotviaci-material-stavebne",
+                            "name": "Stavebné",
+                            "img": "https://www.svx.sk/media/categories/category_2058.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-stavebne",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 910,
+                            "slug": "spojovaci-a-kotviaci-material-lepenkove",
+                            "name": "Lepenkové",
+                            "img": "https://www.svx.sk/media/categories/category_2059.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-lepenkove",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 912,
+                            "slug": "spojovaci-a-kotviaci-material-konvexne",
+                            "name": "Konvexné",
+                            "img": "https://www.svx.sk/media/categories/category_2060.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-konvexne",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 915,
+                    "slug": "spojovaci-a-kotviaci-material-lepidla-na-zavity",
+                    "name": "Lepidlá na závity",
+                    "img": "https://www.svx.sk/media/categories/category_1953.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-lepidla-na-zavity",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 181,
+            "slug": "spojovaci-a-kotviaci-material-kotviaci-material",
+            "name": "Kotviaci materiál",
+            "img": "https://www.svx.sk/media/categories/category_1272.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-kotviaci-material",
+            "subcategories": [
+                {
+                    "id": 287,
+                    "slug": "spojovaci-a-kotviaci-material-hmozdinky",
+                    "name": "Hmoždinky",
+                    "img": "https://www.svx.sk/media/categories/category_1274.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-hmozdinky",
+                    "subcategories": []
+                },
+                {
+                    "id": 303,
+                    "slug": "spojovaci-a-kotviaci-material-kotvy-do-betonu",
+                    "name": "Segmentové kotvy do betónu",
+                    "img": "https://www.svx.sk/media/categories/category_1896.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-kotvy-do-betonu",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 918,
+            "slug": "spojovaci-a-kotviaci-material-plastove-suciastky",
+            "name": "Plastové súčiastky",
+            "img": "https://www.svx.sk/media/categories/category_1929.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-plastove-suciastky",
+            "subcategories": [
+                {
+                    "id": 231,
+                    "slug": "spojovaci-a-kotviaci-material-zaslepky",
+                    "name": "Záslepky",
+                    "img": "https://www.svx.sk/media/categories/category_1930.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-zaslepky",
+                    "subcategories": []
+                },
+                {
+                    "id": 919,
+                    "slug": "spojovaci-a-kotviaci-material-krytky",
+                    "name": "Krytky",
+                    "img": "https://www.svx.sk/media/categories/category_1931.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-krytky",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 221,
+            "slug": "spojovaci-a-kotviaci-material-hlinikove-profily",
+            "name": "Hliníkové profily",
+            "img": "https://www.svx.sk/media/categories/category_2025.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=spojovaci-a-kotviaci-material-hlinikove-profily",
+            "subcategories": []
+        }
+    ]
+}

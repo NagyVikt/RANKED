@@ -1,0 +1,557 @@
+{
+    "id": 91,
+    "slug": "patky-uholniky-a-kovania",
+    "name": "Pätky, uholníky a kovania",
+    "img": "",
+    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania",
+    "subcategories": [
+        {
+            "id": 407,
+            "slug": "patky-uholniky-a-kovania-zemne-skrutky",
+            "name": "Zemné skrutky",
+            "img": "https://www.svx.sk/media/categories/category_600.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-zemne-skrutky",
+            "subcategories": [
+                {
+                    "id": 546,
+                    "slug": "patky-uholniky-a-kovania-s-plastovymi-redukciami",
+                    "name": "Zemné skrutky s plastovými redukciami",
+                    "img": "https://www.svx.sk/media/categories/category_604.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-s-plastovymi-redukciami",
+                    "subcategories": []
+                },
+                {
+                    "id": 549,
+                    "slug": "patky-uholniky-a-kovania-nastavitelne",
+                    "name": "Zemné skrutky nastaviteľné",
+                    "img": "https://www.svx.sk/media/categories/category_605.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-nastavitelne",
+                    "subcategories": []
+                },
+                {
+                    "id": 554,
+                    "slug": "patky-uholniky-a-kovania-pevne",
+                    "name": "Zemné skrutky pevné",
+                    "img": "https://www.svx.sk/media/categories/category_606.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-pevne",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 398,
+            "slug": "patky-uholniky-a-kovania-patky",
+            "name": "Pätky",
+            "img": "https://www.svx.sk/media/categories/category_607.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-patky",
+            "subcategories": [
+                {
+                    "id": 391,
+                    "slug": "patky-uholniky-a-kovania-s-prelisom-siroka-hlava",
+                    "name": "Pätky s prelisom široká hlava",
+                    "img": "https://www.svx.sk/media/categories/category_608.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-s-prelisom-siroka-hlava",
+                    "subcategories": []
+                },
+                {
+                    "id": 404,
+                    "slug": "patky-uholniky-a-kovania-bez-prelisu-uzka-hlava",
+                    "name": "Pätky bez prelisu úzka hlava",
+                    "img": "https://www.svx.sk/media/categories/category_609.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-bez-prelisu-uzka-hlava",
+                    "subcategories": []
+                },
+                {
+                    "id": 390,
+                    "slug": "patky-uholniky-a-kovania-bez-roxora-siroka-hlava",
+                    "name": "Pätky bez roxora široká hlava",
+                    "img": "https://www.svx.sk/media/categories/category_610.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-bez-roxora-siroka-hlava",
+                    "subcategories": []
+                },
+                {
+                    "id": 424,
+                    "slug": "patky-uholniky-a-kovania-nastavitelne-1",
+                    "name": "Pätky nastaviteľné",
+                    "img": "https://www.svx.sk/media/categories/category_611.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-nastavitelne-1",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 354,
+            "slug": "patky-uholniky-a-kovania-uholniky",
+            "name": "Uholníky",
+            "img": "https://www.svx.sk/media/categories/category_612.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-uholniky",
+            "subcategories": [
+                {
+                    "id": 351,
+                    "slug": "patky-uholniky-a-kovania-bez-prelisu",
+                    "name": "Uholníky bez prelisu",
+                    "img": "https://www.svx.sk/media/categories/category_613.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-bez-prelisu",
+                    "subcategories": [
+                        {
+                            "id": 598,
+                            "slug": "patky-uholniky-a-kovania-uholniky-kl",
+                            "name": "Uholníky bez prelisu KL",
+                            "img": "https://www.svx.sk/media/categories/category_1729.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-uholniky-kl",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 603,
+                            "slug": "patky-uholniky-a-kovania-uholniky-km",
+                            "name": "Uholníky bez prelisu KM",
+                            "img": "https://www.svx.sk/media/categories/category_1730.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-uholniky-km",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 609,
+                            "slug": "patky-uholniky-a-kovania-uholniky-kk",
+                            "name": "Uholníky bez prelisu KK",
+                            "img": "https://www.svx.sk/media/categories/category_1731.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-uholniky-kk",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 611,
+                            "slug": "patky-uholniky-a-kovania-uholniky-kw",
+                            "name": "Uholníky bez prelisu KW",
+                            "img": "https://www.svx.sk/media/categories/category_1732.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-uholniky-kw",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 619,
+                            "slug": "patky-uholniky-a-kovania-uholniky-klr",
+                            "name": "Uholníky KLR 135°",
+                            "img": "https://www.svx.sk/media/categories/category_1742.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-uholniky-klr",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 623,
+                            "slug": "patky-uholniky-a-kovania-uholniky-kb",
+                            "name": "Uholníky KB",
+                            "img": "https://www.svx.sk/media/categories/category_1777.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-uholniky-kb",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 632,
+                            "slug": "patky-uholniky-a-kovania-uholniky-ks",
+                            "name": "Uholníky KS",
+                            "img": "https://www.svx.sk/media/categories/category_1782.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-uholniky-ks",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 639,
+                            "slug": "patky-uholniky-a-kovania-zosilnene",
+                            "name": "Zosilnené uholníky",
+                            "img": "https://www.svx.sk/media/categories/category_1798.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-zosilnene",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 360,
+                    "slug": "patky-uholniky-a-kovania-s-prelisom",
+                    "name": "Uholníky s prelisom",
+                    "img": "https://www.svx.sk/media/categories/category_614.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-s-prelisom",
+                    "subcategories": []
+                },
+                {
+                    "id": 355,
+                    "slug": "patky-uholniky-a-kovania-spojovacie",
+                    "name": "Uholníky spojovacie",
+                    "img": "https://www.svx.sk/media/categories/category_615.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spojovacie",
+                    "subcategories": [
+                        {
+                            "id": 653,
+                            "slug": "patky-uholniky-a-kovania-krokvove-lk",
+                            "name": "Krokvové uholníky LK",
+                            "img": "https://www.svx.sk/media/categories/category_1738.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-krokvove-lk",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 657,
+                            "slug": "patky-uholniky-a-kovania-ploche-pp",
+                            "name": "Ploché uholníky PP",
+                            "img": "https://www.svx.sk/media/categories/category_1739.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-ploche-pp",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 364,
+                    "slug": "patky-uholniky-a-kovania-nastavitelne-2",
+                    "name": "Nastaviteľné",
+                    "img": "https://www.svx.sk/media/categories/category_1702.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-nastavitelne-2",
+                    "subcategories": []
+                },
+                {
+                    "id": 386,
+                    "slug": "patky-uholniky-a-kovania-do-betonu",
+                    "name": "Uholníky do betónu",
+                    "img": "https://www.svx.sk/media/categories/category_1725.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-do-betonu",
+                    "subcategories": []
+                },
+                {
+                    "id": 352,
+                    "slug": "patky-uholniky-a-kovania-nabytkove-up",
+                    "name": "Nábytkové uholníky ÚP",
+                    "img": "https://www.svx.sk/media/categories/category_1795.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-nabytkove-up",
+                    "subcategories": [
+                        {
+                            "id": 689,
+                            "slug": "patky-uholniky-a-kovania-hranate-up1",
+                            "name": "Hranaté uholníky ÚP1",
+                            "img": "https://www.svx.sk/media/categories/category_1796.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-hranate-up1",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 694,
+                            "slug": "patky-uholniky-a-kovania-zaoblene-up2",
+                            "name": "Zaoblené uholníky ÚP2",
+                            "img": "https://www.svx.sk/media/categories/category_1797.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-zaoblene-up2",
+                            "subcategories": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 697,
+            "slug": "patky-uholniky-a-kovania-tramove-papuce",
+            "name": "Trámové papuče",
+            "img": "https://www.svx.sk/media/categories/category_1703.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-tramove-papuce",
+            "subcategories": [
+                {
+                    "id": 372,
+                    "slug": "patky-uholniky-a-kovania-wb",
+                    "name": "Trámové papuče WB",
+                    "img": "https://www.svx.sk/media/categories/category_1736.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-wb",
+                    "subcategories": []
+                },
+                {
+                    "id": 384,
+                    "slug": "patky-uholniky-a-kovania-wbz",
+                    "name": "Trámové papuče WBZ",
+                    "img": "https://www.svx.sk/media/categories/category_1737.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-wbz",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 353,
+            "slug": "patky-uholniky-a-kovania-spojky",
+            "name": "Spojky",
+            "img": "https://www.svx.sk/media/categories/category_1704.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spojky",
+            "subcategories": [
+                {
+                    "id": 706,
+                    "slug": "patky-uholniky-a-kovania-kramla",
+                    "name": "Kramľa",
+                    "img": "https://www.svx.sk/media/categories/category_1733.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-kramla",
+                    "subcategories": []
+                },
+                {
+                    "id": 714,
+                    "slug": "patky-uholniky-a-kovania-spojky-lw",
+                    "name": "Spojky úzke LW",
+                    "img": "https://www.svx.sk/media/categories/category_1734.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spojky-lw",
+                    "subcategories": []
+                },
+                {
+                    "id": 350,
+                    "slug": "patky-uholniky-a-kovania-spojky-ps",
+                    "name": "Spojky PS",
+                    "img": "https://www.svx.sk/media/categories/category_1735.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spojky-ps",
+                    "subcategories": [
+                        {
+                            "id": 721,
+                            "slug": "patky-uholniky-a-kovania-spojovacie-ps1",
+                            "name": "Spojovacie plechy PS1",
+                            "img": "https://www.svx.sk/media/categories/category_1791.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spojovacie-ps1",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 727,
+                            "slug": "patky-uholniky-a-kovania-spojovacie-ps6",
+                            "name": "Spojovacie plechy PS6",
+                            "img": "https://www.svx.sk/media/categories/category_1793.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spojovacie-ps6",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 734,
+                            "slug": "patky-uholniky-a-kovania-spojovacie-ps5",
+                            "name": "Spojovacie plechy PS5",
+                            "img": "https://www.svx.sk/media/categories/category_1794.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spojovacie-ps5",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 741,
+                    "slug": "patky-uholniky-a-kovania-spojky-kt",
+                    "name": "Spojky KT typ T",
+                    "img": "https://www.svx.sk/media/categories/category_1740.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spojky-kt",
+                    "subcategories": []
+                },
+                {
+                    "id": 747,
+                    "slug": "patky-uholniky-a-kovania-spojky-ploche",
+                    "name": "Spojky ploché",
+                    "img": "https://www.svx.sk/media/categories/category_1781.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spojky-ploche",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 419,
+            "slug": "patky-uholniky-a-kovania-podpery-dveri",
+            "name": "Podpery dverí",
+            "img": "https://www.svx.sk/media/categories/category_1705.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-podpery-dveri",
+            "subcategories": []
+        },
+        {
+            "id": 392,
+            "slug": "patky-uholniky-a-kovania-zavory",
+            "name": "Závory",
+            "img": "https://www.svx.sk/media/categories/category_1706.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-zavory",
+            "subcategories": []
+        },
+        {
+            "id": 356,
+            "slug": "patky-uholniky-a-kovania-zastrce",
+            "name": "Zástrče",
+            "img": "https://www.svx.sk/media/categories/category_1707.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-zastrce",
+            "subcategories": [
+                {
+                    "id": 762,
+                    "slug": "patky-uholniky-a-kovania-zamykacie",
+                    "name": "Zamykacie zástrče WZP",
+                    "img": "https://www.svx.sk/media/categories/category_1711.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-zamykacie",
+                    "subcategories": []
+                },
+                {
+                    "id": 765,
+                    "slug": "patky-uholniky-a-kovania-jednoduche",
+                    "name": "Jednoduché zástrče W",
+                    "img": "https://www.svx.sk/media/categories/category_1712.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-jednoduche",
+                    "subcategories": []
+                },
+                {
+                    "id": 770,
+                    "slug": "patky-uholniky-a-kovania-s-gulovym-jazdcom",
+                    "name": "Zástrče s guľovým jazdcom",
+                    "img": "https://www.svx.sk/media/categories/category_1713.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-s-gulovym-jazdcom",
+                    "subcategories": []
+                },
+                {
+                    "id": 358,
+                    "slug": "patky-uholniky-a-kovania-zasuvacie",
+                    "name": "Zasúvacie zástrče WRG",
+                    "img": "https://www.svx.sk/media/categories/category_1714.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-zasuvacie",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 343,
+            "slug": "patky-uholniky-a-kovania-zavesy",
+            "name": "Závesy",
+            "img": "https://www.svx.sk/media/categories/category_1708.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-zavesy",
+            "subcategories": [
+                {
+                    "id": 373,
+                    "slug": "patky-uholniky-a-kovania-rovnoramenne",
+                    "name": "Rovnoramenné závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1715.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-rovnoramenne",
+                    "subcategories": []
+                },
+                {
+                    "id": 396,
+                    "slug": "patky-uholniky-a-kovania-francuzske",
+                    "name": "Francúzske závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1716.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-francuzske",
+                    "subcategories": []
+                },
+                {
+                    "id": 361,
+                    "slug": "patky-uholniky-a-kovania-pasove",
+                    "name": "Pásové závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1717.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-pasove",
+                    "subcategories": []
+                },
+                {
+                    "id": 379,
+                    "slug": "patky-uholniky-a-kovania-branove",
+                    "name": "Bránové závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1718.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-branove",
+                    "subcategories": []
+                },
+                {
+                    "id": 369,
+                    "slug": "patky-uholniky-a-kovania-ozdobne",
+                    "name": "Ozdobné závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1719.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-ozdobne",
+                    "subcategories": []
+                },
+                {
+                    "id": 344,
+                    "slug": "patky-uholniky-a-kovania-specialne-zavesy",
+                    "name": "Špeciálne závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1720.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-specialne-zavesy",
+                    "subcategories": []
+                },
+                {
+                    "id": 363,
+                    "slug": "patky-uholniky-a-kovania-zamykacie-1",
+                    "name": "Zamykacie závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1721.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-zamykacie-1",
+                    "subcategories": []
+                },
+                {
+                    "id": 374,
+                    "slug": "patky-uholniky-a-kovania-navarovacie",
+                    "name": "Navarovacie závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1722.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-navarovacie",
+                    "subcategories": []
+                },
+                {
+                    "id": 421,
+                    "slug": "patky-uholniky-a-kovania-klbove",
+                    "name": "Kĺbové závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1723.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-klbove",
+                    "subcategories": []
+                },
+                {
+                    "id": 381,
+                    "slug": "patky-uholniky-a-kovania-stavebne",
+                    "name": "Stavebné závesy",
+                    "img": "https://www.svx.sk/media/categories/category_1726.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-stavebne",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 376,
+            "slug": "patky-uholniky-a-kovania-rohovniky",
+            "name": "Rohovníky",
+            "img": "https://www.svx.sk/media/categories/category_1709.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-rohovniky",
+            "subcategories": []
+        },
+        {
+            "id": 347,
+            "slug": "patky-uholniky-a-kovania-konzoly",
+            "name": "Konzoly",
+            "img": "https://www.svx.sk/media/categories/category_1710.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-konzoly",
+            "subcategories": [
+                {
+                    "id": 822,
+                    "slug": "patky-uholniky-a-kovania-cierne",
+                    "name": "Čierne konzoly",
+                    "img": "https://www.svx.sk/media/categories/category_1775.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-cierne",
+                    "subcategories": []
+                },
+                {
+                    "id": 827,
+                    "slug": "patky-uholniky-a-kovania-biele",
+                    "name": "Biele konzoly",
+                    "img": "https://www.svx.sk/media/categories/category_1776.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-biele",
+                    "subcategories": []
+                },
+                {
+                    "id": 342,
+                    "slug": "patky-uholniky-a-kovania-spevnene",
+                    "name": "Spevnené konzoly",
+                    "img": "https://www.svx.sk/media/categories/category_1803.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-spevnene",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 832,
+            "slug": "patky-uholniky-a-kovania-montazne-pasky",
+            "name": "Montážne pásky",
+            "img": "https://www.svx.sk/media/categories/category_1724.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-montazne-pasky",
+            "subcategories": []
+        },
+        {
+            "id": 833,
+            "slug": "patky-uholniky-a-kovania-stycnikove-dosky",
+            "name": "Styčníkové dosky",
+            "img": "https://www.svx.sk/media/categories/category_1785.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-stycnikove-dosky",
+            "subcategories": []
+        },
+        {
+            "id": 429,
+            "slug": "patky-uholniky-a-kovania-ozubene-podlozky",
+            "name": "Ozubené podložky",
+            "img": "https://www.svx.sk/media/categories/category_1799.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-ozubene-podlozky",
+            "subcategories": []
+        },
+        {
+            "id": 395,
+            "slug": "patky-uholniky-a-kovania-uchyty",
+            "name": "Úchyty",
+            "img": "https://www.svx.sk/media/categories/category_2048.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=patky-uholniky-a-kovania-uchyty",
+            "subcategories": []
+        }
+    ]
+}

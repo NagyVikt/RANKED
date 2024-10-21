@@ -1,0 +1,765 @@
+{
+    "id": 92,
+    "slug": "ochranne-pracovne-prostriedky-delta-plus",
+    "name": "Ochranné pracovné prostriedky Delta plus",
+    "img": "",
+    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus",
+    "subcategories": [
+        {
+            "id": 442,
+            "slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy",
+            "name": "Ochrana hlavy",
+            "img": "https://www.svx.sk/media/categories/category_910.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochrana-hlavy",
+            "subcategories": [
+                {
+                    "id": 296,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-zraku",
+                    "name": "Ochrana zraku",
+                    "img": "https://www.svx.sk/media/categories/category_911.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochrana-zraku",
+                    "subcategories": [
+                        {
+                            "id": 548,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-ochranne-okuliare",
+                            "name": "Ochranné okuliare",
+                            "img": "https://www.svx.sk/media/categories/category_915.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochranne-okuliare",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 558,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-ochranne-zvaracske-kukly",
+                            "name": "Ochranné zváračské kukly",
+                            "img": "https://www.svx.sk/media/categories/category_917.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochranne-zvaracske-kukly",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 560,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-ochranne-stity",
+                            "name": "Ochranné štíty",
+                            "img": "https://www.svx.sk/media/categories/category_918.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochranne-stity",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 300,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-lebky",
+                    "name": "Ochrana lebky",
+                    "img": "https://www.svx.sk/media/categories/category_912.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochrana-lebky",
+                    "subcategories": [
+                        {
+                            "id": 571,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-bezpecnostne-prilby",
+                            "name": "Bezpečnostné prilby",
+                            "img": "https://www.svx.sk/media/categories/category_919.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-bezpecnostne-prilby",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 577,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-narazuodolne-siltovky",
+                            "name": "Nárazuodolné šiltovky",
+                            "img": "https://www.svx.sk/media/categories/category_920.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-narazuodolne-siltovky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 582,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-siltovky",
+                            "name": "Šiltovky",
+                            "img": "https://www.svx.sk/media/categories/category_1507.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-siltovky",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 301,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-sluchu",
+                    "name": "Ochrana sluchu",
+                    "img": "https://www.svx.sk/media/categories/category_913.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochrana-sluchu",
+                    "subcategories": [
+                        {
+                            "id": 591,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-chranice-sluchu",
+                            "name": "Chrániče sluchu",
+                            "img": "https://www.svx.sk/media/categories/category_922.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-chranice-sluchu",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 337,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-dychacich-ciest",
+                    "name": "Ochrana dýchacích ciest",
+                    "img": "https://www.svx.sk/media/categories/category_914.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochrana-dychacich-ciest",
+                    "subcategories": [
+                        {
+                            "id": 601,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-jednorazove-respiratory",
+                            "name": "Jednorazové respirátory",
+                            "img": "https://www.svx.sk/media/categories/category_925.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-jednorazove-respiratory",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 608,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-respiratory-na-viacnasobne-pouzitie",
+                            "name": "Respirátory na viacnásobné použitie",
+                            "img": "https://www.svx.sk/media/categories/category_926.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-respiratory-na-viacnasobne-pouzitie",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 613,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-filtre-k-respiratorom",
+                            "name": "Filtre k respirátorom",
+                            "img": "https://www.svx.sk/media/categories/category_927.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-filtre-k-respiratorom",
+                            "subcategories": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 425,
+            "slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-ruk",
+            "name": "Ochrana rúk",
+            "img": "https://www.svx.sk/media/categories/category_928.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochrana-ruk",
+            "subcategories": [
+                {
+                    "id": 302,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-rukavice-proti-prerezaniu",
+                    "name": "Rukavice proti prerezaniu",
+                    "img": "https://www.svx.sk/media/categories/category_929.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-rukavice-proti-prerezaniu",
+                    "subcategories": [
+                        {
+                            "id": 626,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-dlhotrvajuce-rezacie-prace",
+                            "name": "Dlhotrvajúce rezacie práce",
+                            "img": "https://www.svx.sk/media/categories/category_933.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-dlhotrvajuce-rezacie-prace",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 340,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-rukavice-s-tepelnou-ochranou",
+                    "name": "Rukavice s tepelnou ochranou",
+                    "img": "https://www.svx.sk/media/categories/category_935.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-rukavice-s-tepelnou-ochranou",
+                    "subcategories": [
+                        {
+                            "id": 636,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-na-zvaranie",
+                            "name": "Na zváranie",
+                            "img": "https://www.svx.sk/media/categories/category_938.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-na-zvaranie",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 642,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-tepelne-prace-za-studena",
+                            "name": "Tepelné práce za studena",
+                            "img": "https://www.svx.sk/media/categories/category_942.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-tepelne-prace-za-studena",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 422,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-rukavice-na-chemikalie",
+                    "name": "Rukavice na chemikálie",
+                    "img": "https://www.svx.sk/media/categories/category_944.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-rukavice-na-chemikalie",
+                    "subcategories": [
+                        {
+                            "id": 647,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-potrebna-predlzena-chemicka-odolnost",
+                            "name": "Potrebná predĺžená chemická odolnosť",
+                            "img": "https://www.svx.sk/media/categories/category_945.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-potrebna-predlzena-chemicka-odolnost",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 299,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-rukavice-na-precizne-prace",
+                    "name": "Rukavice na precízne práce",
+                    "img": "https://www.svx.sk/media/categories/category_949.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-rukavice-na-precizne-prace",
+                    "subcategories": [
+                        {
+                            "id": 659,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-praca-v-suchom-prostredi",
+                            "name": "Práca v suchom prostredí",
+                            "img": "https://www.svx.sk/media/categories/category_950.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-praca-v-suchom-prostredi",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 667,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-praca-v-mokrom-prostredi",
+                            "name": "Práca v mokrom prostredí",
+                            "img": "https://www.svx.sk/media/categories/category_951.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-praca-v-mokrom-prostredi",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 672,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-praca-v-mastnom-a-olejnatom-prostredi",
+                            "name": "Práca v mastnom a olejnatom prostredí",
+                            "img": "https://www.svx.sk/media/categories/category_952.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-praca-v-mastnom-a-olejnatom-prostredi",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 673,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-specificke-prace",
+                            "name": "Špecifické práce",
+                            "img": "https://www.svx.sk/media/categories/category_953.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-specificke-prace",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 298,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-rukavice-na-viacucelove-prace",
+                    "name": "Rukavice na viacúčelové práce",
+                    "img": "https://www.svx.sk/media/categories/category_954.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-rukavice-na-viacucelove-prace",
+                    "subcategories": [
+                        {
+                            "id": 681,
+                            "slug": "jednorazove-rukavice",
+                            "name": "Jednorázové rukavice",
+                            "img": "https://www.svx.sk/media/categories/1d0fc54ef0c162c0f5b27f31a0841058adcd8dba/rukavica.png.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=jednorazove-rukavice",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 686,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-praca-v-suchom-prostredi-1",
+                            "name": "Práca v suchom prostredí",
+                            "img": "https://www.svx.sk/media/categories/category_955.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-praca-v-suchom-prostredi-1",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 691,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-pracujte-v-mastnom-a-olejnatom-prostredi",
+                            "name": "Pracujte v mastnom a olejnatom prostredí",
+                            "img": "https://www.svx.sk/media/categories/category_957.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-pracujte-v-mastnom-a-olejnatom-prostredi",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 423,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-rukavice-na-tazku-pracu",
+                    "name": "Rukavice na ťažkú prácu",
+                    "img": "https://www.svx.sk/media/categories/category_959.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-rukavice-na-tazku-pracu",
+                    "subcategories": [
+                        {
+                            "id": 698,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-praca-v-suchom-prostredi-2",
+                            "name": "Práca v suchom prostredí",
+                            "img": "https://www.svx.sk/media/categories/category_960.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-praca-v-suchom-prostredi-2",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 699,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-prace-v-mastnom-a-olejnatom-prostredi",
+                            "name": "Práce v mastnom a olejnatom prostredí",
+                            "img": "https://www.svx.sk/media/categories/category_962.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-prace-v-mastnom-a-olejnatom-prostredi",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 348,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-zimne-rukavice",
+                    "name": "Zimné rukavice",
+                    "img": "https://www.svx.sk/media/categories/category_1418.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-zimne-rukavice",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 320,
+            "slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-tela",
+            "name": "Ochrana tela",
+            "img": "https://www.svx.sk/media/categories/category_966.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochrana-tela",
+            "subcategories": [
+                {
+                    "id": 366,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie",
+                    "name": "Pracovné oblečenie",
+                    "img": "https://www.svx.sk/media/categories/category_967.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-pracovne-oblecenie",
+                    "subcategories": [
+                        {
+                            "id": 708,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-ciapky-opasky-kolenacky",
+                            "name": "Čiapky - Opasky - Kolenačky",
+                            "img": "https://www.svx.sk/media/categories/category_968.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ciapky-opasky-kolenacky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 712,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-nohavice",
+                            "name": "Pracovné nohavice",
+                            "img": "https://www.svx.sk/media/categories/category_1295.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-pracovne-nohavice",
+                            "subcategories": [
+                                {
+                                    "id": 718,
+                                    "slug": "ochranne-pracovne-prostriedky-delta-plus-bermudy",
+                                    "name": "Bermudy",
+                                    "img": "https://www.svx.sk/media/categories/category_1296.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-bermudy",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 728,
+                                    "slug": "ochranne-pracovne-prostriedky-delta-plus-do-pasa",
+                                    "name": "Do pása",
+                                    "img": "https://www.svx.sk/media/categories/category_1297.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-do-pasa",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 732,
+                                    "slug": "ochranne-pracovne-prostriedky-delta-plus-na-traky",
+                                    "name": "Na traky",
+                                    "img": "https://www.svx.sk/media/categories/category_1298.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-na-traky",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 737,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-bluzy-a-vesty",
+                            "name": "Blúzy a vesty",
+                            "img": "https://www.svx.sk/media/categories/category_1300.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-bluzy-a-vesty",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 743,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-bundy",
+                            "name": "Bundy",
+                            "img": "https://www.svx.sk/media/categories/category_1301.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-bundy",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 749,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-technicke-oblecenie",
+                    "name": "Technické oblečenie",
+                    "img": "https://www.svx.sk/media/categories/category_979.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-technicke-oblecenie",
+                    "subcategories": [
+                        {
+                            "id": 753,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-reflexne-pracovne-oblecenie",
+                            "name": "​Reflexné pracovné oblečenie",
+                            "img": "https://www.svx.sk/media/categories/category_980.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-reflexne-pracovne-oblecenie",
+                            "subcategories": [
+                                {
+                                    "id": 756,
+                                    "slug": "ochranne-pracovne-prostriedky-delta-plus-tricka",
+                                    "name": "Tričká",
+                                    "img": "https://www.svx.sk/media/categories/category_1629.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-tricka",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 763,
+                                    "slug": "ochranne-pracovne-prostriedky-delta-plus-vesty-1",
+                                    "name": "Vesty",
+                                    "img": "https://www.svx.sk/media/categories/category_1630.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-vesty-1",
+                                    "subcategories": []
+                                },
+                                {
+                                    "id": 766,
+                                    "slug": "ochranne-pracovne-prostriedky-delta-plus-bundy-1",
+                                    "name": "Bundy",
+                                    "img": "https://www.svx.sk/media/categories/category_1631.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-bundy-1",
+                                    "subcategories": [
+                                        {
+                                            "id": 775,
+                                            "slug": "ochranne-pracovne-prostriedky-delta-plus-zimne",
+                                            "name": "Zimné",
+                                            "img": "https://www.svx.sk/media/categories/category_1633.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-zimne",
+                                            "subcategories": []
+                                        },
+                                        {
+                                            "id": 779,
+                                            "slug": "ochranne-pracovne-prostriedky-delta-plus-softshellove",
+                                            "name": "Softshellové",
+                                            "img": "https://www.svx.sk/media/categories/category_1634.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-softshellove",
+                                            "subcategories": []
+                                        },
+                                        {
+                                            "id": 784,
+                                            "slug": "ochranne-pracovne-prostriedky-delta-plus-celorocne",
+                                            "name": "Celoročné",
+                                            "img": "https://www.svx.sk/media/categories/category_1647.jpeg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-celorocne",
+                                            "subcategories": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 789,
+                                    "slug": "ochranne-pracovne-prostriedky-delta-plus-nohavice",
+                                    "name": "Nohavice",
+                                    "img": "https://www.svx.sk/media/categories/category_1632.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-nohavice",
+                                    "subcategories": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 794,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-ochranne-zastery",
+                            "name": "Ochranné zástery",
+                            "img": "https://www.svx.sk/media/categories/category_988.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochranne-zastery",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 393,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-termopradlo",
+                    "name": "Termoprádlo",
+                    "img": "https://www.svx.sk/media/categories/category_982.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-termopradlo",
+                    "subcategories": []
+                },
+                {
+                    "id": 297,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-volnocasove-oblecenie",
+                    "name": "Voľnočasové oblečenie",
+                    "img": "https://www.svx.sk/media/categories/category_990.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-volnocasove-oblecenie",
+                    "subcategories": [
+                        {
+                            "id": 803,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-zimne-bundy",
+                            "name": "Zimné bundy",
+                            "img": "https://www.svx.sk/media/categories/category_991.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-zimne-bundy",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 806,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-vesty",
+                            "name": "Vesty",
+                            "img": "https://www.svx.sk/media/categories/category_993.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-vesty",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 812,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-polar-mikiny-softshell-svetre",
+                            "name": "Polar mikiny - Softshell - Svetre",
+                            "img": "https://www.svx.sk/media/categories/category_994.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-polar-mikiny-softshell-svetre",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 387,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-ciapky-kukly-siltovky-rukavice",
+                    "name": "Čiapky - Kukly - Šiltovky - Rukavice",
+                    "img": "https://www.svx.sk/media/categories/category_995.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ciapky-kukly-siltovky-rukavice",
+                    "subcategories": []
+                },
+                {
+                    "id": 318,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-dazd",
+                    "name": "Dážď",
+                    "img": "https://www.svx.sk/media/categories/category_997.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-dazd",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 820,
+            "slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-noh",
+            "name": "Ochrana nôh",
+            "img": "https://www.svx.sk/media/categories/category_1002.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochrana-noh",
+            "subcategories": [
+                {
+                    "id": 314,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-volnocasova-obuv",
+                    "name": "Voľnočasová obuv",
+                    "img": "https://www.svx.sk/media/categories/category_1003.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-volnocasova-obuv",
+                    "subcategories": [
+                        {
+                            "id": 829,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-vysoka",
+                            "name": "Vysoká",
+                            "img": "https://www.svx.sk/media/categories/category_1005.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-vysoka",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 834,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-nizka",
+                            "name": "Nízka",
+                            "img": "https://www.svx.sk/media/categories/category_1006.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-nizka",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 310,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-pracovna-obuv-outdoor",
+                    "name": "Pracovná obuv - Outdoor",
+                    "img": "https://www.svx.sk/media/categories/category_1007.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-pracovna-obuv-outdoor",
+                    "subcategories": [
+                        {
+                            "id": 839,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-vodeodolna",
+                            "name": "Vodeodolná",
+                            "img": "https://www.svx.sk/media/categories/category_1008.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-vodeodolna",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 843,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-pracovna-obuv",
+                            "name": "Pracovná obuv",
+                            "img": "https://www.svx.sk/media/categories/category_1010.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-pracovna-obuv",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 844,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-zimna",
+                            "name": "Zimná",
+                            "img": "https://www.svx.sk/media/categories/category_1011.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-zimna",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 434,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-cizmy-gumaky",
+                    "name": "Pracovné čižmy - Gumáky",
+                    "img": "https://www.svx.sk/media/categories/category_1012.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-pracovne-cizmy-gumaky",
+                    "subcategories": [
+                        {
+                            "id": 850,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-zimne-pracovne-cizmy-gumaky",
+                            "name": "Zimné pracovné čižmy - gumáky",
+                            "img": "https://www.svx.sk/media/categories/category_1013.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-zimne-pracovne-cizmy-gumaky",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 854,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-pracovne-cizmy-gumaky-1",
+                            "name": "Pracovné čižmy - gumáky",
+                            "img": "https://www.svx.sk/media/categories/category_1014.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-pracovne-cizmy-gumaky-1",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 855,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-potravinarsky-priemysel",
+                            "name": "Potravinársky priemysel",
+                            "img": "https://www.svx.sk/media/categories/category_1016.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-potravinarsky-priemysel",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 368,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-pracovna-obuv-indoor",
+                    "name": "Pracovná obuv - Indoor",
+                    "img": "https://www.svx.sk/media/categories/category_1018.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-pracovna-obuv-indoor",
+                    "subcategories": [
+                        {
+                            "id": 862,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-lahky-priemysel",
+                            "name": "Ľahký priemysel",
+                            "img": "https://www.svx.sk/media/categories/category_1020.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-lahky-priemysel",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 863,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-tazky-priemysel",
+                            "name": "Ťažký priemysel",
+                            "img": "https://www.svx.sk/media/categories/category_1021.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-tazky-priemysel",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 865,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-potravinarsky-priemysel-1",
+                            "name": "Potravinársky priemysel",
+                            "img": "https://www.svx.sk/media/categories/category_1022.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-potravinarsky-priemysel-1",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 357,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-vlozky-snurky-ponozky",
+                    "name": "Vložky - Šnúrky - Ponožky",
+                    "img": "https://www.svx.sk/media/categories/category_1302.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-vlozky-snurky-ponozky",
+                    "subcategories": []
+                }
+            ]
+        },
+        {
+            "id": 428,
+            "slug": "ochranne-pracovne-prostriedky-delta-plus-ochrana-pri-praci-vo-vyskach",
+            "name": "Ochrana pri práci vo výškach",
+            "img": "https://www.svx.sk/media/categories/category_1027.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-ochrana-pri-praci-vo-vyskach",
+            "subcategories": [
+                {
+                    "id": 380,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-pridrziavanie-tela",
+                    "name": "Pridržiavanie tela",
+                    "img": "https://www.svx.sk/media/categories/category_1028.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-pridrziavanie-tela",
+                    "subcategories": [
+                        {
+                            "id": 876,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-telove-postroje",
+                            "name": "Telové postroje",
+                            "img": "https://www.svx.sk/media/categories/category_1029.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-telove-postroje",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 338,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-zariadenia-na-zachytenie-padu",
+                    "name": "Zariadenia na zachytenie pádu",
+                    "img": "https://www.svx.sk/media/categories/category_1031.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-zariadenia-na-zachytenie-padu",
+                    "subcategories": [
+                        {
+                            "id": 884,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-tlmice-padu",
+                            "name": "​Tlmiče pádu​",
+                            "img": "https://www.svx.sk/media/categories/category_1032.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-tlmice-padu",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 888,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-zostavy",
+                            "name": "Zostavy",
+                            "img": "https://www.svx.sk/media/categories/category_1036.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-zostavy",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 889,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-doplnky-a-ulozne-tasky",
+                            "name": "Doplnky a úložné tašky",
+                            "img": "https://www.svx.sk/media/categories/category_1037.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-doplnky-a-ulozne-tasky",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 383,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-kotviace-zariadenia-systemy-na-udrziavanie-pracovnej-polohy",
+                    "name": "Kotviace zariadenia - Systémy na udržiavanie pracovnej polohy",
+                    "img": "https://www.svx.sk/media/categories/category_1038.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-kotviace-zariadenia-systemy-na-udrziavanie-pracovnej-polohy",
+                    "subcategories": [
+                        {
+                            "id": 894,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-kotviace-zariadenia-systemy-na-udrziavanie-pracovnej-polohy-1",
+                            "name": "Kotviace zariadenia - Systémy na udržiavanie pracovnej polohy",
+                            "img": "https://www.svx.sk/media/categories/category_1040.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-kotviace-zariadenia-systemy-na-udrziavanie-pracovnej-polohy-1",
+                            "subcategories": []
+                        },
+                        {
+                            "id": 898,
+                            "slug": "ochranne-pracovne-prostriedky-delta-plus-lana",
+                            "name": "Laná",
+                            "img": "https://www.svx.sk/media/categories/category_1041.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                            "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-lana",
+                            "subcategories": []
+                        }
+                    ]
+                },
+                {
+                    "id": 339,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-spojovacie-elementy",
+                    "name": "Spojovacie elementy",
+                    "img": "https://www.svx.sk/media/categories/category_1044.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-spojovacie-elementy",
+                    "subcategories": []
+                },
+                {
+                    "id": 375,
+                    "slug": "ochranne-pracovne-prostriedky-delta-plus-zlanovanie",
+                    "name": "Zlaňovanie",
+                    "img": "https://www.svx.sk/media/categories/category_1045.jpg.100x100_q85ss0_crop_replace_alpha-%23fff.jpg.webp",
+                    "link": "https://kdtech.sk/shop/?filter_cat=ochranne-pracovne-prostriedky-delta-plus-zlanovanie",
+                    "subcategories": []
+                }
+            ]
+        }
+    ]
+}
