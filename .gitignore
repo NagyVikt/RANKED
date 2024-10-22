@@ -7,3 +7,4 @@ venv/
 RENDSZER/config.py
 myenv/
 SK/NPC/products_upload.log
+SK/NPC/woocommerce_products.json
